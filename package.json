@@ -1,0 +1,41 @@
+{
+  "name": "public-entity-recognition",
+  "version": "1.0.0",
+  "description": "Search a string for mentions of a publicly traded entity and bring back ticker symbol and trade name.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/andrewnaeve/public-entity-recognition.git)"
+  },
+  "keywords": [
+    "Named",
+    "Entity",
+    "Recognition",
+    "Natural",
+    "Language",
+    "Processing",
+    "NER",
+    "NLP"
+  ],
+  "author": "Andrew Naeve <andrewnaeve@gmail.com>",
+  "license": "MIT"
+}
