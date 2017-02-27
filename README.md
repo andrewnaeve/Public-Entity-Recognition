@@ -12,7 +12,7 @@ npm install public-entity-recognition
 
 ## Usage
 ```javascript
-const entity = require('per');
+const entity = require('public-entity-recognition');
 let scan = entity.per('Toyota Motor said will build a new plant in Baja, Mexico, to build Corolla cars for U.S. NO WAY! Build plant in U.S. or pay big border tax.');
 returns 'TM'
 ```

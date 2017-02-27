@@ -1,7 +1,7 @@
 const per = require("./functions").per;
 
 const mainExport = {
-	per: per()
+	per: per
 };
 
 module.exports = mainExport;
