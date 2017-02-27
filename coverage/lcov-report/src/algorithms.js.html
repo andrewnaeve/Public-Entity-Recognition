@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Code coverage report for PublicEntity/algorithms.js</title>
+    <title>Code coverage report for src/algorithms.js</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="../prettify.css" />
     <link rel="stylesheet" href="../base.css" />
@@ -16,13 +16,13 @@
 <div class='wrapper'>
   <div class='pad1'>
     <h1>
-      <a href="../index.html">All files</a> / <a href="index.html">PublicEntity</a> algorithms.js
+      <a href="../index.html">All files</a> / <a href="index.html">src</a> algorithms.js
     </h1>
     <div class='clearfix'>
       <div class='fl pad1y space-right2'>
         <span class="strong">100% </span>
         <span class="quiet">Statements</span>
-        <span class='fraction'>25/25</span>
+        <span class='fraction'>24/24</span>
       </div>
       <div class='fl pad1y space-right2'>
         <span class="strong">100% </span>
@@ -37,7 +37,7 @@
       <div class='fl pad1y space-right2'>
         <span class="strong">100% </span>
         <span class="quiet">Lines</span>
-        <span class='fraction'>25/25</span>
+        <span class='fraction'>24/24</span>
       </div>
     </div>
   </div>
@@ -87,24 +87,23 @@
 42
 43
 44
-45
-46</td><td class="line-coverage quiet"><span class="cline-any cline-yes">1x</span>
+45</td><td class="line-coverage quiet"><span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">10x</span>
-<span class="cline-any cline-yes">10x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">9x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">10x</span>
-<span class="cline-any cline-yes">66930x</span>
-<span class="cline-any cline-yes">66930x</span>
-<span class="cline-any cline-yes">1204740x</span>
-<span class="cline-any cline-yes">1204740x</span>
-<span class="cline-any cline-yes">209x</span>
-<span class="cline-any cline-yes">209x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">60237x</span>
+<span class="cline-any cline-yes">60237x</span>
+<span class="cline-any cline-yes">1198047x</span>
+<span class="cline-any cline-yes">1198047x</span>
+<span class="cline-any cline-yes">208x</span>
+<span class="cline-any cline-yes">208x</span>
 <span class="cline-any cline-yes">210x</span>
 <span class="cline-any cline-yes">210x</span>
 <span class="cline-any cline-yes">3x</span>
@@ -113,11 +112,11 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">209x</span>
-<span class="cline-any cline-yes">209x</span>
+<span class="cline-any cline-yes">208x</span>
+<span class="cline-any cline-yes">208x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">209x</span>
-<span class="cline-any cline-yes">10x</span>
+<span class="cline-any cline-yes">208x</span>
+<span class="cline-any cline-yes">9x</span>
 <span class="cline-any cline-yes">199x</span>
 <span class="cline-any cline-yes">23x</span>
 <span class="cline-any cline-yes">1x</span>
@@ -126,55 +125,53 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">10x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">9x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">const stockList = require('./ticker_lists/stockList').stockList;
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">const stockList = require("./ticker_lists/stockList").stockList;
 const minRelevance = .3;
 // set relevance to return matching phrases that are a certain percentage of  company description
 // possible overal character length more relevant than word chunks
 module.exports.longestPhrase = function(string) {
   
 // this block finds  longest resultsutive phrase from a phrase that is contained by a company description 
-  let results = [{Longest: '', Symbol: '', Description: '', Relevance: 0}];
-  let phrase = string.split(' ');
+	let results = [{Longest: "", Symbol: "", Description: "", Relevance: 0}];
+	let phrase = string.split(" ");
 &nbsp;
- for(var k = 0; k &lt; stockList.length; k++) {
-    let companyString = stockList[k].Description;
-    for (var i=0; i &lt; phrase.length; i++) {
-      let pat1 = new RegExp('\\b('+phrase[i]+')\\b');
-      if (pat1.test(companyString) &amp;&amp; phrase[i][0] === phrase[i][0].toUpperCase()) {
-        var t = phrase[i];
-        for (var j=i+1; j &lt; phrase.length-1; j++) {
-          let pat2 = new RegExp('\\b('+phrase[i] + ' ' + phrase[j]+')\\b');
-          if (pat2.test(companyString)) {
-            t += ' ' + phrase[j];
-          } else {
-            break;
-          };
-        };
+	for(var k = 0; k &lt; stockList.length; k++) {
+		let companyString = stockList[k].Description;
+		for (var i=0; i &lt; phrase.length; i++) {
+			let pat1 = new RegExp("\\b("+phrase[i]+")\\b");
+			if (pat1.test(companyString) &amp;&amp; phrase[i][0] === phrase[i][0].toUpperCase()) {
+				var t = phrase[i];
+				for (var j=i+1; j &lt; phrase.length-1; j++) {
+					let pat2 = new RegExp("\\b("+phrase[i] + " " + phrase[j]+")\\b");
+					if (pat2.test(companyString)) {
+						t += " " + phrase[j];
+					} else {
+						break;
+					}
+				}
 &nbsp;
-        let relevance = (t.split(' ').length / stockList[k].Description.split(' ').length)
-        let matchObject = { Longest: t, Symbol: stockList[k].Symbol, Description: stockList[k].Description, Relevance: relevance };
+				let relevance = (t.split(" ").length / stockList[k].Description.split(" ").length);
+				let matchObject = { Longest: t, Symbol: stockList[k].Symbol, Description: stockList[k].Description, Relevance: relevance };
 &nbsp;
-        if(results[0].Longest.length &lt; t.length &amp;&amp; (matchObject.Longest.length / companyString.length) &gt; minRelevance) {
-          results[0] = matchObject;
-        } else if (results[0].Longest.length === t.length) {
-          if ((results[0].Longest.split(' ').length / results[0].Description.split(' ').length) &lt; (matchObject.Longest.split(' ').length / matchObject.Description.split(' ').length)) {
-            results[0] = matchObject;
-          };
-        };
-      };
-    };  
-  };
-  return results;
+				if(results[0].Longest.length &lt; t.length &amp;&amp; (matchObject.Longest.length / companyString.length) &gt; minRelevance) {
+					results[0] = matchObject;
+				} else if (results[0].Longest.length === t.length) {
+					if ((results[0].Longest.split(" ").length / results[0].Description.split(" ").length) &lt; (matchObject.Longest.split(" ").length / matchObject.Description.split(" ").length)) {
+						results[0] = matchObject;
+					}
+				}
+			}
+		}  
+	}
+	return results;
 };
 &nbsp;
-console.log(exports.longestPhrase('Boeing'));
 &nbsp;
 &nbsp;
 &nbsp;
@@ -184,7 +181,7 @@ console.log(exports.longestPhrase('Boeing'));
 </div><!-- /wrapper -->
 <div class='footer quiet pad2 space-top1 center small'>
   Code coverage
-  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Sun Feb 26 2017 15:56:27 GMT-0800 (PST)
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Sun Feb 26 2017 17:48:00 GMT-0800 (PST)
 </div>
 </div>
 <script src="../prettify.js"></script>

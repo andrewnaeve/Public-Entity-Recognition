@@ -7,8 +7,7 @@ const findSymbol = require('./algorithms').findSymbol;
 exports.isTraded = function(string) {
 
   let Symbol = longestPhrase(string.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g,"").replace(/\s{2,}/g," "));
-  
-    return Symbol[0].Symbol;
+  return Symbol[0].Symbol;
 
 
 };

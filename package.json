@@ -11,28 +11,58 @@
     "fs": "^0.0.1-security"
   },
   "devDependencies": {
+    "david": "^10.1.1",
     "eslint": "^3.16.1",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.0",
+    "ghooks": "^2.0.0",
     "mocha": "^3.2.0",
-    "nyc": "^10.1.2"
+    "npm-run-all": "^4.0.2",
+    "nyc": "^10.1.2",
+    "rimraf": "^2.6.1"
   },
   "nyc": {
     "check-coverage": true,
+    "instrument": true,
     "branches": 100,
     "functions": 100,
     "lines": 100,
     "statements": 100,
+    "all": false,
     "reporter": [
       "text",
       "lcov"
+    ],
+    "include": [
+      "src"
+    ],
+    "exclude": [
+      "**/test/**",
+      "packages/**/*"
+    ],
+    "require": [
+      "babel-register"
     ]
   },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm run validate"
+    }
+  },
   "scripts": {
-    "test": " nyc mocha",
-    "lint": "eslint"
+    "prebuild": "rimraf dist",
+    "build": "babel --copy-files --out-dir dist --ignore *.test.js src",
+    "test": "nyc mocha",
+    "watch:test": "mocha --watch",
+    "lint": "eslint src",
+    "validate": "npm-run-all --parallel test lint"
   },
   "repository": {
     "type": "git",

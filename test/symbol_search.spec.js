@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const isTraded = require('../functions').isTraded;
+const isTraded = require('../src/functions').isTraded;
 
 // Search function tests
 

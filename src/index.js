@@ -1,12 +1,8 @@
-
-
-const longestPhrase = require('../algorithms').stocks;
-const stockList = require('../ticker_lists/stockList').stockList;
+const longestPhrase = require("../algorithms").stocks;
+const stockList = require("./ticker_lists/stockList").stockList;
+const isTraded = require("./functions").isTraded;
 
 module.exports = {
-  all: stockList;
-  stocks: stocks(string);
+	all: stockList,
+	stocks: isTraded(string)
 };
-
-
-console.log(stocks('I like Apple'))
