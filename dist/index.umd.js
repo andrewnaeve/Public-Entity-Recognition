@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["starWarsNames"] = factory();
+		exports["public-entity-recognition"] = factory();
 	else
-		root["starWarsNames"] = factory();
+		root["public-entity-recognition"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -56,19 +56,77 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	"use strict";
 	
-	var stockList = __webpack_require__(1).stockList;
-	var per = __webpack_require__(2).per;
+	var per = __webpack_require__(1).per;
 	
 	var mainExport = {
-		all: stockList,
-		per: per(string),
-		longestPhrase: longestPhrase(string)
+		per: per()
 	};
 	
 	module.exports = mainExport;
 
 /***/ },
 /* 1 */
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+	
+	var longestPhrase = __webpack_require__(2).longestPhrase;
+	
+	exports.per = function (string) {
+	
+		var _Symbol = longestPhrase(string.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g, "").replace(/\s{2,}/g, " "));
+		return _Symbol[0].Symbol;
+	};
+
+/***/ },
+/* 2 */
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+	
+	var stockList = __webpack_require__(3).stockList;
+	var minRelevance = .3;
+	// set relevance to return matching phrases that are a certain percentage of  company description
+	// possible overal character length more relevant than word chunks
+	module.exports.longestPhrase = function (string) {
+	
+		// this block finds  longest resultsutive phrase from a phrase that is contained by a company description 
+		var results = [{ Longest: "", Symbol: "", Description: "", Relevance: 0 }];
+		var phrase = string.split(" ");
+	
+		for (var k = 0; k < stockList.length; k++) {
+			var companyString = stockList[k].Description;
+			for (var i = 0; i < phrase.length; i++) {
+				var pat1 = new RegExp("\\b(" + phrase[i] + ")\\b");
+				if (pat1.test(companyString) && phrase[i][0] === phrase[i][0].toUpperCase()) {
+					var t = phrase[i];
+					for (var j = i + 1; j < phrase.length - 1; j++) {
+						var pat2 = new RegExp("\\b(" + phrase[i] + " " + phrase[j] + ")\\b");
+						if (pat2.test(companyString)) {
+							t += " " + phrase[j];
+						} else {
+							break;
+						}
+					}
+	
+					var relevance = t.split(" ").length / stockList[k].Description.split(" ").length;
+					var matchObject = { Longest: t, Symbol: stockList[k].Symbol, Description: stockList[k].Description, Relevance: relevance };
+	
+					if (results[0].Longest.length < t.length && matchObject.Longest.length / companyString.length > minRelevance) {
+						results[0] = matchObject;
+					} else if (results[0].Longest.length === t.length) {
+						if (results[0].Longest.split(" ").length / results[0].Description.split(" ").length < matchObject.Longest.split(" ").length / matchObject.Description.split(" ").length) {
+							results[0] = matchObject;
+						}
+					}
+				}
+			}
+		}
+		return results;
+	};
+
+/***/ },
+/* 3 */
 /***/ function(module, exports) {
 
 	"use strict";
@@ -20153,67 +20211,6 @@ return /******/ (function(modules) { // webpackBootstrap
 		"Symbol": "ZYNE",
 		"Description": "Zynerba Pharma CS"
 	}];
-
-/***/ },
-/* 2 */
-/***/ function(module, exports, __webpack_require__) {
-
-	"use strict";
-	
-	var longestPhrase = __webpack_require__(3).longestPhrase;
-	
-	exports.per = function (string) {
-	
-		var _Symbol = longestPhrase(string.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g, "").replace(/\s{2,}/g, " "));
-		return _Symbol[0].Symbol;
-	};
-
-/***/ },
-/* 3 */
-/***/ function(module, exports, __webpack_require__) {
-
-	"use strict";
-	
-	var stockList = __webpack_require__(1).stockList;
-	var minRelevance = .3;
-	// set relevance to return matching phrases that are a certain percentage of  company description
-	// possible overal character length more relevant than word chunks
-	module.exports.longestPhrase = function (string) {
-	
-		// this block finds  longest resultsutive phrase from a phrase that is contained by a company description 
-		var results = [{ Longest: "", Symbol: "", Description: "", Relevance: 0 }];
-		var phrase = string.split(" ");
-	
-		for (var k = 0; k < stockList.length; k++) {
-			var companyString = stockList[k].Description;
-			for (var i = 0; i < phrase.length; i++) {
-				var pat1 = new RegExp("\\b(" + phrase[i] + ")\\b");
-				if (pat1.test(companyString) && phrase[i][0] === phrase[i][0].toUpperCase()) {
-					var t = phrase[i];
-					for (var j = i + 1; j < phrase.length - 1; j++) {
-						var pat2 = new RegExp("\\b(" + phrase[i] + " " + phrase[j] + ")\\b");
-						if (pat2.test(companyString)) {
-							t += " " + phrase[j];
-						} else {
-							break;
-						}
-					}
-	
-					var relevance = t.split(" ").length / stockList[k].Description.split(" ").length;
-					var matchObject = { Longest: t, Symbol: stockList[k].Symbol, Description: stockList[k].Description, Relevance: relevance };
-	
-					if (results[0].Longest.length < t.length && matchObject.Longest.length / companyString.length > minRelevance) {
-						results[0] = matchObject;
-					} else if (results[0].Longest.length === t.length) {
-						if (results[0].Longest.split(" ").length / results[0].Description.split(" ").length < matchObject.Longest.split(" ").length / matchObject.Description.split(" ").length) {
-							results[0] = matchObject;
-						}
-					}
-				}
-			}
-		}
-		return results;
-	};
 
 /***/ }
 /******/ ])
