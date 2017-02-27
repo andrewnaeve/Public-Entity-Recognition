@@ -5,11 +5,11 @@ const minRelevance = .3;
 module.exports.longestPhrase = function(string) {
   
 // this block finds  longest resultsutive phrase from a phrase that is contained by a company description 
-	let results = [{Longest: "", Symbol: "", Description: "", Relevance: 0}];
+	let results = [{match: "", symbol: "", description: "", relevance: 0}];
 	let phrase = string.split(" ");
 
 	for(var k = 0; k < stockList.length; k++) {
-		let companyString = stockList[k].Description;
+		let companyString = stockList[k].description;
 		for (var i=0; i < phrase.length; i++) {
 			let pat1 = new RegExp("\\b("+phrase[i]+")\\b");
 			if (pat1.test(companyString) && phrase[i][0] === phrase[i][0].toUpperCase()) {
@@ -23,13 +23,13 @@ module.exports.longestPhrase = function(string) {
 					}
 				}
 
-				let relevance = (t.split(" ").length / stockList[k].Description.split(" ").length);
-				let matchObject = { Longest: t, Symbol: stockList[k].Symbol, Description: stockList[k].Description, Relevance: relevance };
+				let relevance = (t.split(" ").length / stockList[k].description.split(" ").length);
+				let matchObject = { match: t, symbol: stockList[k].symbol, description: stockList[k].description, relevance: relevance };
 
-				if(results[0].Longest.length < t.length && (matchObject.Longest.length / companyString.length) > minRelevance) {
+				if(results[0].match.length < t.length && (matchObject.match.length / companyString.length) > minRelevance) {
 					results[0] = matchObject;
-				} else if (results[0].Longest.length === t.length) {
-					if ((results[0].Longest.split(" ").length / results[0].Description.split(" ").length) < (matchObject.Longest.split(" ").length / matchObject.Description.split(" ").length)) {
+				} else if (results[0].match.length === t.length) {
+					if ((results[0].match.split(" ").length / results[0].description.split(" ").length) < (matchObject.match.split(" ").length / matchObject.description.split(" ").length)) {
 						results[0] = matchObject;
 					}
 				}

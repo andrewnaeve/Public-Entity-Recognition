@@ -1,26774 +1,26774 @@
 module.exports.stockList = [
 	{
-		"Symbol": "A",
-		"Description": "Agilent Technologies, Inc."
+		"symbol": "A",
+		"description": "Agilent Technologies, Inc."
 	},
 	{
-		"Symbol": "AA",
-		"Description": "Alcoa Corporation"
+		"symbol": "AA",
+		"description": "Alcoa Corporation"
 	},
 	{
-		"Symbol": "AAAP",
-		"Description": "Advanced Accele. Ads"
+		"symbol": "AAAP",
+		"description": "Advanced Accele. Ads"
 	},
 	{
-		"Symbol": "AAC",
-		"Description": "AAC Holdings, Inc."
+		"symbol": "AAC",
+		"description": "AAC Holdings, Inc."
 	},
 	{
-		"Symbol": "AAL",
-		"Description": "American Airlines Gp"
+		"symbol": "AAL",
+		"description": "American Airlines Gp"
 	},
 	{
-		"Symbol": "AAMC",
-		"Description": "Altisource Asset Management Corp"
+		"symbol": "AAMC",
+		"description": "Altisource Asset Management Corp"
 	},
 	{
-		"Symbol": "AAME",
-		"Description": "Atlantic Amer Cp"
+		"symbol": "AAME",
+		"description": "Atlantic Amer Cp"
 	},
 	{
-		"Symbol": "AAN",
-		"Description": "Aarons,  Inc."
+		"symbol": "AAN",
+		"description": "Aarons,  Inc."
 	},
 	{
-		"Symbol": "AAOI",
-		"Description": "Applied Optoelect Cmn"
+		"symbol": "AAOI",
+		"description": "Applied Optoelect Cmn"
 	},
 	{
-		"Symbol": "AAON",
-		"Description": "Aaon Inc"
+		"symbol": "AAON",
+		"description": "Aaon Inc"
 	},
 	{
-		"Symbol": "AAP",
-		"Description": "Advance Auto Parts Inc"
+		"symbol": "AAP",
+		"description": "Advance Auto Parts Inc"
 	},
 	{
-		"Symbol": "AAPC",
-		"Description": "Atlantic Alliance Or"
+		"symbol": "AAPC",
+		"description": "Atlantic Alliance Or"
 	},
 	{
-		"Symbol": "AAPL",
-		"Description": "Apple Inc"
+		"symbol": "AAPL",
+		"description": "Apple Inc"
 	},
 	{
-		"Symbol": "AAT",
-		"Description": "American Assets Trust, Inc."
+		"symbol": "AAT",
+		"description": "American Assets Trust, Inc."
 	},
 	{
-		"Symbol": "AAU",
-		"Description": "Almaden Minerals, Ltd."
+		"symbol": "AAU",
+		"description": "Almaden Minerals, Ltd."
 	},
 	{
-		"Symbol": "AAV",
-		"Description": "Advantage Oil & Gas Ltd"
+		"symbol": "AAV",
+		"description": "Advantage Oil & Gas Ltd"
 	},
 	{
-		"Symbol": "AAWW",
-		"Description": "Atlas Air Ww"
+		"symbol": "AAWW",
+		"description": "Atlas Air Ww"
 	},
 	{
-		"Symbol": "AAXJ",
-		"Description": "Ishares MSCI Aca X-Japan"
+		"symbol": "AAXJ",
+		"description": "Ishares MSCI Aca X-Japan"
 	},
 	{
-		"Symbol": "AB",
-		"Description": "AllianceBernstein Holding L.P."
+		"symbol": "AB",
+		"description": "AllianceBernstein Holding L.P."
 	},
 	{
-		"Symbol": "ABAC",
-		"Description": "Aoxin Tianli Grp"
+		"symbol": "ABAC",
+		"description": "Aoxin Tianli Grp"
 	},
 	{
-		"Symbol": "ABAX",
-		"Description": "Abaxis Inc"
+		"symbol": "ABAX",
+		"description": "Abaxis Inc"
 	},
 	{
-		"Symbol": "ABB",
-		"Description": "ABB Ltd"
+		"symbol": "ABB",
+		"description": "ABB Ltd"
 	},
 	{
-		"Symbol": "ABBV",
-		"Description": "AbbVie Inc."
+		"symbol": "ABBV",
+		"description": "AbbVie Inc."
 	},
 	{
-		"Symbol": "ABC",
-		"Description": "AmerisourceBergen Corporation Holding Co"
+		"symbol": "ABC",
+		"description": "AmerisourceBergen Corporation Holding Co"
 	},
 	{
-		"Symbol": "ABCB",
-		"Description": "Ameris Bancorp"
+		"symbol": "ABCB",
+		"description": "Ameris Bancorp"
 	},
 	{
-		"Symbol": "ABCD",
-		"Description": "Cambium Learning Grp"
+		"symbol": "ABCD",
+		"description": "Cambium Learning Grp"
 	},
 	{
-		"Symbol": "ABCO",
-		"Description": "Advisory Board Co"
+		"symbol": "ABCO",
+		"description": "Advisory Board Co"
 	},
 	{
-		"Symbol": "ABDC",
-		"Description": "Alcentra Capital Com"
+		"symbol": "ABDC",
+		"description": "Alcentra Capital Com"
 	},
 	{
-		"Symbol": "ABE",
-		"Description": "Aberdeen Emerging Markets Smaller Company Opportunities Fund I"
+		"symbol": "ABE",
+		"description": "Aberdeen Emerging Markets Smaller Company Opportunities Fund I"
 	},
 	{
-		"Symbol": "ABEO",
-		"Description": "Abeona Therapeutics"
+		"symbol": "ABEO",
+		"description": "Abeona Therapeutics"
 	},
 	{
-		"Symbol": "ABEOW",
-		"Description": "Abeona Thera Wts"
+		"symbol": "ABEOW",
+		"description": "Abeona Thera Wts"
 	},
 	{
-		"Symbol": "ABEV",
-		"Description": "Ambev S.A."
+		"symbol": "ABEV",
+		"description": "Ambev S.A."
 	},
 	{
-		"Symbol": "ABG",
-		"Description": "Asbury Automotive Group Inc"
+		"symbol": "ABG",
+		"description": "Asbury Automotive Group Inc"
 	},
 	{
-		"Symbol": "ABIL",
-		"Description": "Ability Inc"
+		"symbol": "ABIL",
+		"description": "Ability Inc"
 	},
 	{
-		"Symbol": "ABIO",
-		"Description": "Arca Biopharma Inc"
+		"symbol": "ABIO",
+		"description": "Arca Biopharma Inc"
 	},
 	{
-		"Symbol": "ABM",
-		"Description": "ABM Industries Incorporated"
+		"symbol": "ABM",
+		"description": "ABM Industries Incorporated"
 	},
 	{
-		"Symbol": "ABMD",
-		"Description": "Abiomed Inc"
+		"symbol": "ABMD",
+		"description": "Abiomed Inc"
 	},
 	{
-		"Symbol": "ABR",
-		"Description": "Arbor Realty Trust"
+		"symbol": "ABR",
+		"description": "Arbor Realty Trust"
 	},
 	{
-		"Symbol": "ABR^A",
-		"Description": "Arbor Realty Trust"
+		"symbol": "ABR^A",
+		"description": "Arbor Realty Trust"
 	},
 	{
-		"Symbol": "ABR^B",
-		"Description": "Arbor Realty Trust"
+		"symbol": "ABR^B",
+		"description": "Arbor Realty Trust"
 	},
 	{
-		"Symbol": "ABR^C",
-		"Description": "Arbor Realty Trust"
+		"symbol": "ABR^C",
+		"description": "Arbor Realty Trust"
 	},
 	{
-		"Symbol": "ABRN",
-		"Description": "Arbor Realty Trust"
+		"symbol": "ABRN",
+		"description": "Arbor Realty Trust"
 	},
 	{
-		"Symbol": "ABT",
-		"Description": "Abbott Laboratories"
+		"symbol": "ABT",
+		"description": "Abbott Laboratories"
 	},
 	{
-		"Symbol": "ABTL",
-		"Description": "Autobytel Inc"
+		"symbol": "ABTL",
+		"description": "Autobytel Inc"
 	},
 	{
-		"Symbol": "ABTX",
-		"Description": "Allegiance Banc CS"
+		"symbol": "ABTX",
+		"description": "Allegiance Banc CS"
 	},
 	{
-		"Symbol": "ABUS",
-		"Description": "Arbutus Biopharma Cp"
+		"symbol": "ABUS",
+		"description": "Arbutus Biopharma Cp"
 	},
 	{
-		"Symbol": "ABX",
-		"Description": "Barrick Gold Corporation"
+		"symbol": "ABX",
+		"description": "Barrick Gold Corporation"
 	},
 	{
-		"Symbol": "ABY",
-		"Description": "Atlantica Yield Plc"
+		"symbol": "ABY",
+		"description": "Atlantica Yield Plc"
 	},
 	{
-		"Symbol": "AC",
-		"Description": "Associated Capital Group, Inc."
+		"symbol": "AC",
+		"description": "Associated Capital Group, Inc."
 	},
 	{
-		"Symbol": "ACAD",
-		"Description": "Acadia Pharmaceutica"
+		"symbol": "ACAD",
+		"description": "Acadia Pharmaceutica"
 	},
 	{
-		"Symbol": "ACAT",
-		"Description": "Arctic Cat Inc"
+		"symbol": "ACAT",
+		"description": "Arctic Cat Inc"
 	},
 	{
-		"Symbol": "ACBI",
-		"Description": "Atlantic Capital Cmn"
+		"symbol": "ACBI",
+		"description": "Atlantic Capital Cmn"
 	},
 	{
-		"Symbol": "ACC",
-		"Description": "American Campus Communities Inc"
+		"symbol": "ACC",
+		"description": "American Campus Communities Inc"
 	},
 	{
-		"Symbol": "ACCO",
-		"Description": "Acco Brands Corporation"
+		"symbol": "ACCO",
+		"description": "Acco Brands Corporation"
 	},
 	{
-		"Symbol": "ACET",
-		"Description": "Aceto Cp"
+		"symbol": "ACET",
+		"description": "Aceto Cp"
 	},
 	{
-		"Symbol": "ACFC",
-		"Description": "Atlantic Coast Finl"
+		"symbol": "ACFC",
+		"description": "Atlantic Coast Finl"
 	},
 	{
-		"Symbol": "ACGL",
-		"Description": "Arch Capital Grp Ltd"
+		"symbol": "ACGL",
+		"description": "Arch Capital Grp Ltd"
 	},
 	{
-		"Symbol": "ACGLP",
-		"Description": "Arch Capital Group Ltd"
+		"symbol": "ACGLP",
+		"description": "Arch Capital Group Ltd"
 	},
 	{
-		"Symbol": "ACH",
-		"Description": "Aluminum Corporation of China Limited"
+		"symbol": "ACH",
+		"description": "Aluminum Corporation of China Limited"
 	},
 	{
-		"Symbol": "ACHC",
-		"Description": "Acadia Healthcr Co"
+		"symbol": "ACHC",
+		"description": "Acadia Healthcr Co"
 	},
 	{
-		"Symbol": "ACHN",
-		"Description": "Achillion Pharmaceut"
+		"symbol": "ACHN",
+		"description": "Achillion Pharmaceut"
 	},
 	{
-		"Symbol": "ACIA",
-		"Description": "Acacia Communica Cmn"
+		"symbol": "ACIA",
+		"description": "Acacia Communica Cmn"
 	},
 	{
-		"Symbol": "ACIU",
-		"Description": "AC Immune Sa"
+		"symbol": "ACIU",
+		"description": "AC Immune Sa"
 	},
 	{
-		"Symbol": "ACIW",
-		"Description": "Aci Worldwide Inc"
+		"symbol": "ACIW",
+		"description": "Aci Worldwide Inc"
 	},
 	{
-		"Symbol": "ACLS",
-		"Description": "Axcelis Tech Inc"
+		"symbol": "ACLS",
+		"description": "Axcelis Tech Inc"
 	},
 	{
-		"Symbol": "ACM",
-		"Description": "AECOM"
+		"symbol": "ACM",
+		"description": "AECOM"
 	},
 	{
-		"Symbol": "ACN",
-		"Description": "Accenture plc"
+		"symbol": "ACN",
+		"description": "Accenture plc"
 	},
 	{
-		"Symbol": "ACNB",
-		"Description": "Acnb Corp"
+		"symbol": "ACNB",
+		"description": "Acnb Corp"
 	},
 	{
-		"Symbol": "ACOR",
-		"Description": "Acorda Therapeutics"
+		"symbol": "ACOR",
+		"description": "Acorda Therapeutics"
 	},
 	{
-		"Symbol": "ACP",
-		"Description": "Avenue Income Credit Strategies Fund"
+		"symbol": "ACP",
+		"description": "Avenue Income Credit Strategies Fund"
 	},
 	{
-		"Symbol": "ACRE",
-		"Description": "Ares Commercial Real Estate Corporation"
+		"symbol": "ACRE",
+		"description": "Ares Commercial Real Estate Corporation"
 	},
 	{
-		"Symbol": "ACRS",
-		"Description": "Aclaris Therapts Cmn"
+		"symbol": "ACRS",
+		"description": "Aclaris Therapts Cmn"
 	},
 	{
-		"Symbol": "ACRX",
-		"Description": "Acelrx Pharmaceutica"
+		"symbol": "ACRX",
+		"description": "Acelrx Pharmaceutica"
 	},
 	{
-		"Symbol": "ACSF",
-		"Description": "American Capital Sen"
+		"symbol": "ACSF",
+		"description": "American Capital Sen"
 	},
 	{
-		"Symbol": "ACST",
-		"Description": "Acasti Pharma Cmn A"
+		"symbol": "ACST",
+		"description": "Acasti Pharma Cmn A"
 	},
 	{
-		"Symbol": "ACTA",
-		"Description": "Actua Corp Cmn"
+		"symbol": "ACTA",
+		"description": "Actua Corp Cmn"
 	},
 	{
-		"Symbol": "ACTG",
-		"Description": "Acacia Res-Acacia"
+		"symbol": "ACTG",
+		"description": "Acacia Res-Acacia"
 	},
 	{
-		"Symbol": "ACTX",
-		"Description": "Glbl X Guru Actv ETF"
+		"symbol": "ACTX",
+		"description": "Glbl X Guru Actv ETF"
 	},
 	{
-		"Symbol": "ACU",
-		"Description": "Acme United Corporation."
+		"symbol": "ACU",
+		"description": "Acme United Corporation."
 	},
 	{
-		"Symbol": "ACUR",
-		"Description": "Acura Pharma Cmn"
+		"symbol": "ACUR",
+		"description": "Acura Pharma Cmn"
 	},
 	{
-		"Symbol": "ACV",
-		"Description": "AllianzGI Diversified Income & Convertible Fund"
+		"symbol": "ACV",
+		"description": "AllianzGI Diversified Income & Convertible Fund"
 	},
 	{
-		"Symbol": "ACWI",
-		"Description": "Ishares MSCI ACWI"
+		"symbol": "ACWI",
+		"description": "Ishares MSCI ACWI"
 	},
 	{
-		"Symbol": "ACWX",
-		"Description": "Ishares MSCI ACWI"
+		"symbol": "ACWX",
+		"description": "Ishares MSCI ACWI"
 	},
 	{
-		"Symbol": "ACXM",
-		"Description": "Acxiom Cp"
+		"symbol": "ACXM",
+		"description": "Acxiom Cp"
 	},
 	{
-		"Symbol": "ACY",
-		"Description": "AeroCentury Corp."
+		"symbol": "ACY",
+		"description": "AeroCentury Corp."
 	},
 	{
-		"Symbol": "ADAP",
-		"Description": "Adaptimmune Ther Ads"
+		"symbol": "ADAP",
+		"description": "Adaptimmune Ther Ads"
 	},
 	{
-		"Symbol": "ADBE",
-		"Description": "Adobe Systems Inc"
+		"symbol": "ADBE",
+		"description": "Adobe Systems Inc"
 	},
 	{
-		"Symbol": "ADC",
-		"Description": "Agree Realty Corporation"
+		"symbol": "ADC",
+		"description": "Agree Realty Corporation"
 	},
 	{
-		"Symbol": "ADES",
-		"Description": "Advanced Emissions Solutions Inc"
+		"symbol": "ADES",
+		"description": "Advanced Emissions Solutions Inc"
 	},
 	{
-		"Symbol": "ADGE",
-		"Description": "American DG Energy Inc."
+		"symbol": "ADGE",
+		"description": "American DG Energy Inc."
 	},
 	{
-		"Symbol": "ADHD",
-		"Description": "Alcobra Ltd. Ord"
+		"symbol": "ADHD",
+		"description": "Alcobra Ltd. Ord"
 	},
 	{
-		"Symbol": "ADI",
-		"Description": "Analog Devices Cmn"
+		"symbol": "ADI",
+		"description": "Analog Devices Cmn"
 	},
 	{
-		"Symbol": "ADK",
-		"Description": "Adcare Health Systems Inc"
+		"symbol": "ADK",
+		"description": "Adcare Health Systems Inc"
 	},
 	{
-		"Symbol": "ADK^A",
-		"Description": "Adcare Health Systems Inc"
+		"symbol": "ADK^A",
+		"description": "Adcare Health Systems Inc"
 	},
 	{
-		"Symbol": "ADM",
-		"Description": "Archer-Daniels-Midland Company"
+		"symbol": "ADM",
+		"description": "Archer-Daniels-Midland Company"
 	},
 	{
-		"Symbol": "ADMA",
-		"Description": "Adma Biologics Cmn"
+		"symbol": "ADMA",
+		"description": "Adma Biologics Cmn"
 	},
 	{
-		"Symbol": "ADMP",
-		"Description": "Adamis Pharmaceuticl"
+		"symbol": "ADMP",
+		"description": "Adamis Pharmaceuticl"
 	},
 	{
-		"Symbol": "ADMS",
-		"Description": "Adamas Pharma Cmn"
+		"symbol": "ADMS",
+		"description": "Adamas Pharma Cmn"
 	},
 	{
-		"Symbol": "ADNT",
-		"Description": "Adient plc"
+		"symbol": "ADNT",
+		"description": "Adient plc"
 	},
 	{
-		"Symbol": "ADP",
-		"Description": "Automatic Data Procs"
+		"symbol": "ADP",
+		"description": "Automatic Data Procs"
 	},
 	{
-		"Symbol": "ADPT",
-		"Description": "Adeptus Health Inc."
+		"symbol": "ADPT",
+		"description": "Adeptus Health Inc."
 	},
 	{
-		"Symbol": "ADRA",
-		"Description": "Bldrs Asia 50 Fd"
+		"symbol": "ADRA",
+		"description": "Bldrs Asia 50 Fd"
 	},
 	{
-		"Symbol": "ADRD",
-		"Description": "Bldrs Dev Mkts 100"
+		"symbol": "ADRD",
+		"description": "Bldrs Dev Mkts 100"
 	},
 	{
-		"Symbol": "ADRE",
-		"Description": "Bldrs EM Mkts 50"
+		"symbol": "ADRE",
+		"description": "Bldrs EM Mkts 50"
 	},
 	{
-		"Symbol": "ADRO",
-		"Description": "Aduro Biotech Cmn"
+		"symbol": "ADRO",
+		"description": "Aduro Biotech Cmn"
 	},
 	{
-		"Symbol": "ADRU",
-		"Description": "Bldrs EUR 100 Fd"
+		"symbol": "ADRU",
+		"description": "Bldrs EUR 100 Fd"
 	},
 	{
-		"Symbol": "ADS",
-		"Description": "Alliance Data Systems Corporation"
+		"symbol": "ADS",
+		"description": "Alliance Data Systems Corporation"
 	},
 	{
-		"Symbol": "ADSK",
-		"Description": "Autodesk Inc"
+		"symbol": "ADSK",
+		"description": "Autodesk Inc"
 	},
 	{
-		"Symbol": "ADSW",
-		"Description": "Advanced Disposal Services, Inc."
+		"symbol": "ADSW",
+		"description": "Advanced Disposal Services, Inc."
 	},
 	{
-		"Symbol": "ADTN",
-		"Description": "Adtran Inc"
+		"symbol": "ADTN",
+		"description": "Adtran Inc"
 	},
 	{
-		"Symbol": "ADUS",
-		"Description": "Addus Homecare Corpo"
+		"symbol": "ADUS",
+		"description": "Addus Homecare Corpo"
 	},
 	{
-		"Symbol": "ADVM",
-		"Description": "Adverum Biotechnlgs"
+		"symbol": "ADVM",
+		"description": "Adverum Biotechnlgs"
 	},
 	{
-		"Symbol": "ADX",
-		"Description": "Adams Diversified Equity Fund, Inc."
+		"symbol": "ADX",
+		"description": "Adams Diversified Equity Fund, Inc."
 	},
 	{
-		"Symbol": "ADXS",
-		"Description": "Advaxis Inc Cmn Stk"
+		"symbol": "ADXS",
+		"description": "Advaxis Inc Cmn Stk"
 	},
 	{
-		"Symbol": "ADXSW",
-		"Description": "Advaxis Inc Wts"
+		"symbol": "ADXSW",
+		"description": "Advaxis Inc Wts"
 	},
 	{
-		"Symbol": "AE",
-		"Description": "Adams Resources & Energy, Inc."
+		"symbol": "AE",
+		"description": "Adams Resources & Energy, Inc."
 	},
 	{
-		"Symbol": "AEB",
-		"Description": "Aegon NV"
+		"symbol": "AEB",
+		"description": "Aegon NV"
 	},
 	{
-		"Symbol": "AED",
-		"Description": "Aegon NV"
+		"symbol": "AED",
+		"description": "Aegon NV"
 	},
 	{
-		"Symbol": "AEE",
-		"Description": "Ameren Corporation"
+		"symbol": "AEE",
+		"description": "Ameren Corporation"
 	},
 	{
-		"Symbol": "AEG",
-		"Description": "Aegon NV"
+		"symbol": "AEG",
+		"description": "Aegon NV"
 	},
 	{
-		"Symbol": "AEGN",
-		"Description": "Aegion Corp Cmn Stk"
+		"symbol": "AEGN",
+		"description": "Aegion Corp Cmn Stk"
 	},
 	{
-		"Symbol": "AEH",
-		"Description": "Aegon NV"
+		"symbol": "AEH",
+		"description": "Aegon NV"
 	},
 	{
-		"Symbol": "AEHR",
-		"Description": "Aehr Test Systems"
+		"symbol": "AEHR",
+		"description": "Aehr Test Systems"
 	},
 	{
-		"Symbol": "AEIS",
-		"Description": "Advanced Energy"
+		"symbol": "AEIS",
+		"description": "Advanced Energy"
 	},
 	{
-		"Symbol": "AEK",
-		"Description": "Aegon NV"
+		"symbol": "AEK",
+		"description": "Aegon NV"
 	},
 	{
-		"Symbol": "AEL",
-		"Description": "American Equity Investment Life Holding Company"
+		"symbol": "AEL",
+		"description": "American Equity Investment Life Holding Company"
 	},
 	{
-		"Symbol": "AEM",
-		"Description": "Agnico Eagle Mines Limited"
+		"symbol": "AEM",
+		"description": "Agnico Eagle Mines Limited"
 	},
 	{
-		"Symbol": "AEMD",
-		"Description": "Aethlon Medical Cmn"
+		"symbol": "AEMD",
+		"description": "Aethlon Medical Cmn"
 	},
 	{
-		"Symbol": "AEO",
-		"Description": "American Eagle Outfitters, Inc."
+		"symbol": "AEO",
+		"description": "American Eagle Outfitters, Inc."
 	},
 	{
-		"Symbol": "AEP",
-		"Description": "American Electric Power Company, Inc."
+		"symbol": "AEP",
+		"description": "American Electric Power Company, Inc."
 	},
 	{
-		"Symbol": "AEPI",
-		"Description": "AEP Inds Inc"
+		"symbol": "AEPI",
+		"description": "AEP Inds Inc"
 	},
 	{
-		"Symbol": "AER",
-		"Description": "Aercap Holdings N.V."
+		"symbol": "AER",
+		"description": "Aercap Holdings N.V."
 	},
 	{
-		"Symbol": "AERI",
-		"Description": "Aerie Pharmaceutical"
+		"symbol": "AERI",
+		"description": "Aerie Pharmaceutical"
 	},
 	{
-		"Symbol": "AES",
-		"Description": " AES Corporation"
+		"symbol": "AES",
+		"description": " AES Corporation"
 	},
 	{
-		"Symbol": "AES^C",
-		"Description": " AES Corporation"
+		"symbol": "AES^C",
+		"description": " AES Corporation"
 	},
 	{
-		"Symbol": "AET",
-		"Description": "Aetna Inc."
+		"symbol": "AET",
+		"description": "Aetna Inc."
 	},
 	{
-		"Symbol": "AETI",
-		"Description": "American Electric Te"
+		"symbol": "AETI",
+		"description": "American Electric Te"
 	},
 	{
-		"Symbol": "AEUA",
-		"Description": "Anadarko Petroleum Corporation"
+		"symbol": "AEUA",
+		"description": "Anadarko Petroleum Corporation"
 	},
 	{
-		"Symbol": "AEY",
-		"Description": "Addvantage Techs Grp"
+		"symbol": "AEY",
+		"description": "Addvantage Techs Grp"
 	},
 	{
-		"Symbol": "AEZS",
-		"Description": "Aeterna Zentaris"
+		"symbol": "AEZS",
+		"description": "Aeterna Zentaris"
 	},
 	{
-		"Symbol": "AF",
-		"Description": "Astoria Financial Corporation"
+		"symbol": "AF",
+		"description": "Astoria Financial Corporation"
 	},
 	{
-		"Symbol": "AF^C",
-		"Description": "Astoria Financial Corporation"
+		"symbol": "AF^C",
+		"description": "Astoria Financial Corporation"
 	},
 	{
-		"Symbol": "AFA",
-		"Description": "American Financial Group, Inc."
+		"symbol": "AFA",
+		"description": "American Financial Group, Inc."
 	},
 	{
-		"Symbol": "AFAM",
-		"Description": "Almost Family Inc"
+		"symbol": "AFAM",
+		"description": "Almost Family Inc"
 	},
 	{
-		"Symbol": "AFB",
-		"Description": "Alliance National Municipal Income Fund Inc"
+		"symbol": "AFB",
+		"description": "Alliance National Municipal Income Fund Inc"
 	},
 	{
-		"Symbol": "AFC",
-		"Description": "Ares Capital Corporation"
+		"symbol": "AFC",
+		"description": "Ares Capital Corporation"
 	},
 	{
-		"Symbol": "AFG",
-		"Description": "American Financial Group, Inc."
+		"symbol": "AFG",
+		"description": "American Financial Group, Inc."
 	},
 	{
-		"Symbol": "AFGE",
-		"Description": "American Financial Group, Inc."
+		"symbol": "AFGE",
+		"description": "American Financial Group, Inc."
 	},
 	{
-		"Symbol": "AFGH",
-		"Description": "American Financial Group, Inc."
+		"symbol": "AFGH",
+		"description": "American Financial Group, Inc."
 	},
 	{
-		"Symbol": "AFH",
-		"Description": "Atlas Fincl Hld Ord"
+		"symbol": "AFH",
+		"description": "Atlas Fincl Hld Ord"
 	},
 	{
-		"Symbol": "AFI",
-		"Description": "Armstrong Flooring, Inc."
+		"symbol": "AFI",
+		"description": "Armstrong Flooring, Inc."
 	},
 	{
-		"Symbol": "AFL",
-		"Description": "Aflac Incorporated"
+		"symbol": "AFL",
+		"description": "Aflac Incorporated"
 	},
 	{
-		"Symbol": "AFMD",
-		"Description": "Affimed N.V."
+		"symbol": "AFMD",
+		"description": "Affimed N.V."
 	},
 	{
-		"Symbol": "AFSD",
-		"Description": "Aflac Incorporated"
+		"symbol": "AFSD",
+		"description": "Aflac Incorporated"
 	},
 	{
-		"Symbol": "AFSI",
-		"Description": "Amtrust Financial"
+		"symbol": "AFSI",
+		"description": "Amtrust Financial"
 	},
 	{
-		"Symbol": "AFSI^A",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^A",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSI^B",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^B",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSI^C",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^C",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSI^D",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^D",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSI^E",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^E",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSI^F",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSI^F",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFSS",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFSS",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFST",
-		"Description": "AmTrust Financial Services, Inc."
+		"symbol": "AFST",
+		"description": "AmTrust Financial Services, Inc."
 	},
 	{
-		"Symbol": "AFT",
-		"Description": "Apollo Senior Floating Rate Fund Inc."
+		"symbol": "AFT",
+		"description": "Apollo Senior Floating Rate Fund Inc."
 	},
 	{
-		"Symbol": "AFW",
-		"Description": "American Financial Group, Inc."
+		"symbol": "AFW",
+		"description": "American Financial Group, Inc."
 	},
 	{
-		"Symbol": "AG",
-		"Description": "First Majestic Silver Corp."
+		"symbol": "AG",
+		"description": "First Majestic Silver Corp."
 	},
 	{
-		"Symbol": "AGC",
-		"Description": "Advent Claymore Convertible Securities and Income Fund II"
+		"symbol": "AGC",
+		"description": "Advent Claymore Convertible Securities and Income Fund II"
 	},
 	{
-		"Symbol": "AGCO",
-		"Description": "AGCO Corporation"
+		"symbol": "AGCO",
+		"description": "AGCO Corporation"
 	},
 	{
-		"Symbol": "AGD",
-		"Description": "Alpine Global Dynamic Dividend Fund"
+		"symbol": "AGD",
+		"description": "Alpine Global Dynamic Dividend Fund"
 	},
 	{
-		"Symbol": "AGEN",
-		"Description": "Agenus Inc"
+		"symbol": "AGEN",
+		"description": "Agenus Inc"
 	},
 	{
-		"Symbol": "AGFS",
-		"Description": "Agrofresh Solutions"
+		"symbol": "AGFS",
+		"description": "Agrofresh Solutions"
 	},
 	{
-		"Symbol": "AGFSW",
-		"Description": "Agrofresh Sol Wrrnts"
+		"symbol": "AGFSW",
+		"description": "Agrofresh Sol Wrrnts"
 	},
 	{
-		"Symbol": "AGI",
-		"Description": "Alamos Gold Inc."
+		"symbol": "AGI",
+		"description": "Alamos Gold Inc."
 	},
 	{
-		"Symbol": "AGII",
-		"Description": "Argo Group Intl Hlds"
+		"symbol": "AGII",
+		"description": "Argo Group Intl Hlds"
 	},
 	{
-		"Symbol": "AGIIL",
-		"Description": "Argo Grp Itl Snr NTS"
+		"symbol": "AGIIL",
+		"description": "Argo Grp Itl Snr NTS"
 	},
 	{
-		"Symbol": "AGIO",
-		"Description": "Agios Pharmaceutical"
+		"symbol": "AGIO",
+		"description": "Agios Pharmaceutical"
 	},
 	{
-		"Symbol": "AGLE",
-		"Description": "Aeglea Biothera Cmn"
+		"symbol": "AGLE",
+		"description": "Aeglea Biothera Cmn"
 	},
 	{
-		"Symbol": "AGM",
-		"Description": "Federal Agricultural Mortgage Corporation"
+		"symbol": "AGM",
+		"description": "Federal Agricultural Mortgage Corporation"
 	},
 	{
-		"Symbol": "AGM.A",
-		"Description": "Federal Agricultural Mortgage Corporation"
+		"symbol": "AGM.A",
+		"description": "Federal Agricultural Mortgage Corporation"
 	},
 	{
-		"Symbol": "AGM^A",
-		"Description": "Federal Agricultural Mortgage Corporation"
+		"symbol": "AGM^A",
+		"description": "Federal Agricultural Mortgage Corporation"
 	},
 	{
-		"Symbol": "AGM^B",
-		"Description": "Federal Agricultural Mortgage Corporation"
+		"symbol": "AGM^B",
+		"description": "Federal Agricultural Mortgage Corporation"
 	},
 	{
-		"Symbol": "AGM^C",
-		"Description": "Federal Agricultural Mortgage Corporation"
+		"symbol": "AGM^C",
+		"description": "Federal Agricultural Mortgage Corporation"
 	},
 	{
-		"Symbol": "AGN",
-		"Description": "Allergan plc."
+		"symbol": "AGN",
+		"description": "Allergan plc."
 	},
 	{
-		"Symbol": "AGN^A",
-		"Description": "Allergan plc."
+		"symbol": "AGN^A",
+		"description": "Allergan plc."
 	},
 	{
-		"Symbol": "AGNC",
-		"Description": "American Capital Age"
+		"symbol": "AGNC",
+		"description": "American Capital Age"
 	},
 	{
-		"Symbol": "AGNCB",
-		"Description": "American Cap Agy Cor"
+		"symbol": "AGNCB",
+		"description": "American Cap Agy Cor"
 	},
 	{
-		"Symbol": "AGNCP",
-		"Description": "American Capital Pfd"
+		"symbol": "AGNCP",
+		"description": "American Capital Pfd"
 	},
 	{
-		"Symbol": "AGND",
-		"Description": "Wt Brclys Usagg Ndur"
+		"symbol": "AGND",
+		"description": "Wt Brclys Usagg Ndur"
 	},
 	{
-		"Symbol": "AGO",
-		"Description": "Assured Guaranty Ltd."
+		"symbol": "AGO",
+		"description": "Assured Guaranty Ltd."
 	},
 	{
-		"Symbol": "AGO^B",
-		"Description": "Assured Guaranty Ltd."
+		"symbol": "AGO^B",
+		"description": "Assured Guaranty Ltd."
 	},
 	{
-		"Symbol": "AGO^E",
-		"Description": "Assured Guaranty Ltd."
+		"symbol": "AGO^E",
+		"description": "Assured Guaranty Ltd."
 	},
 	{
-		"Symbol": "AGO^F",
-		"Description": "Assured Guaranty Ltd."
+		"symbol": "AGO^F",
+		"description": "Assured Guaranty Ltd."
 	},
 	{
-		"Symbol": "AGR",
-		"Description": "Avangrid, Inc."
+		"symbol": "AGR",
+		"description": "Avangrid, Inc."
 	},
 	{
-		"Symbol": "AGRO",
-		"Description": "Adecoagro S.A."
+		"symbol": "AGRO",
+		"description": "Adecoagro S.A."
 	},
 	{
-		"Symbol": "AGRX",
-		"Description": "Agile Therap Cmn Stk"
+		"symbol": "AGRX",
+		"description": "Agile Therap Cmn Stk"
 	},
 	{
-		"Symbol": "AGTC",
-		"Description": "Applied Genetic Tech"
+		"symbol": "AGTC",
+		"description": "Applied Genetic Tech"
 	},
 	{
-		"Symbol": "AGU",
-		"Description": "Agrium Inc."
+		"symbol": "AGU",
+		"description": "Agrium Inc."
 	},
 	{
-		"Symbol": "AGX",
-		"Description": "Argan, Inc."
+		"symbol": "AGX",
+		"description": "Argan, Inc."
 	},
 	{
-		"Symbol": "AGYS",
-		"Description": "Agilysys Inc"
+		"symbol": "AGYS",
+		"description": "Agilysys Inc"
 	},
 	{
-		"Symbol": "AGZD",
-		"Description": "Wt Barc Usagg Zro Dr"
+		"symbol": "AGZD",
+		"description": "Wt Barc Usagg Zro Dr"
 	},
 	{
-		"Symbol": "AHC",
-		"Description": "A.H. Belo Corporation"
+		"symbol": "AHC",
+		"description": "A.H. Belo Corporation"
 	},
 	{
-		"Symbol": "AHGP",
-		"Description": "Alliance Holdings Gp"
+		"symbol": "AHGP",
+		"description": "Alliance Holdings Gp"
 	},
 	{
-		"Symbol": "AHH",
-		"Description": "Armada Hoffler Properties, Inc."
+		"symbol": "AHH",
+		"description": "Armada Hoffler Properties, Inc."
 	},
 	{
-		"Symbol": "AHL",
-		"Description": "Aspen Insurance Holdings Limited"
+		"symbol": "AHL",
+		"description": "Aspen Insurance Holdings Limited"
 	},
 	{
-		"Symbol": "AHL^B",
-		"Description": "Aspen Insurance Holdings Limited"
+		"symbol": "AHL^B",
+		"description": "Aspen Insurance Holdings Limited"
 	},
 	{
-		"Symbol": "AHL^C",
-		"Description": "Aspen Insurance Holdings Limited"
+		"symbol": "AHL^C",
+		"description": "Aspen Insurance Holdings Limited"
 	},
 	{
-		"Symbol": "AHL^D",
-		"Description": "Aspen Insurance Holdings Limited"
+		"symbol": "AHL^D",
+		"description": "Aspen Insurance Holdings Limited"
 	},
 	{
-		"Symbol": "AHP",
-		"Description": "Ashford Hospitality Prime, Inc."
+		"symbol": "AHP",
+		"description": "Ashford Hospitality Prime, Inc."
 	},
 	{
-		"Symbol": "AHP^B",
-		"Description": "Ashford Hospitality Prime, Inc."
+		"symbol": "AHP^B",
+		"description": "Ashford Hospitality Prime, Inc."
 	},
 	{
-		"Symbol": "AHPA",
-		"Description": "Avista Healthcare Public Acquisition Corp. Class"
+		"symbol": "AHPA",
+		"description": "Avista Healthcare Public Acquisition Corp. Class"
 	},
 	{
-		"Symbol": "AHPAU",
-		"Description": "Avista Healthcare Public Acquisition Corp"
+		"symbol": "AHPAU",
+		"description": "Avista Healthcare Public Acquisition Corp"
 	},
 	{
-		"Symbol": "AHPAW",
-		"Description": "Avista Healthcare Public Acquisition Corp. Warra"
+		"symbol": "AHPAW",
+		"description": "Avista Healthcare Public Acquisition Corp. Warra"
 	},
 	{
-		"Symbol": "AHPI",
-		"Description": "Allied Healthcare"
+		"symbol": "AHPI",
+		"description": "Allied Healthcare"
 	},
 	{
-		"Symbol": "AHT",
-		"Description": "Ashford Hospitality Trust Inc"
+		"symbol": "AHT",
+		"description": "Ashford Hospitality Trust Inc"
 	},
 	{
-		"Symbol": "AHT^A",
-		"Description": "Ashford Hospitality Trust Inc"
+		"symbol": "AHT^A",
+		"description": "Ashford Hospitality Trust Inc"
 	},
 	{
-		"Symbol": "AHT^D",
-		"Description": "Ashford Hospitality Trust Inc"
+		"symbol": "AHT^D",
+		"description": "Ashford Hospitality Trust Inc"
 	},
 	{
-		"Symbol": "AHT^F",
-		"Description": "Ashford Hospitality Trust Inc"
+		"symbol": "AHT^F",
+		"description": "Ashford Hospitality Trust Inc"
 	},
 	{
-		"Symbol": "AHT^G",
-		"Description": "Ashford Hospitality Trust Inc"
+		"symbol": "AHT^G",
+		"description": "Ashford Hospitality Trust Inc"
 	},
 	{
-		"Symbol": "AI",
-		"Description": "Arlington Asset Investment Corp"
+		"symbol": "AI",
+		"description": "Arlington Asset Investment Corp"
 	},
 	{
-		"Symbol": "AIA",
-		"Description": "Ishares Asia 50 ETF"
+		"symbol": "AIA",
+		"description": "Ishares Asia 50 ETF"
 	},
 	{
-		"Symbol": "AIB",
-		"Description": "Apollo Investment Corporation"
+		"symbol": "AIB",
+		"description": "Apollo Investment Corporation"
 	},
 	{
-		"Symbol": "AIC",
-		"Description": "Arlington Asset Investment Corp"
+		"symbol": "AIC",
+		"description": "Arlington Asset Investment Corp"
 	},
 	{
-		"Symbol": "AIF",
-		"Description": "Apollo Tactical Income Fund Inc."
+		"symbol": "AIF",
+		"description": "Apollo Tactical Income Fund Inc."
 	},
 	{
-		"Symbol": "AIG",
-		"Description": "American International Group, Inc."
+		"symbol": "AIG",
+		"description": "American International Group, Inc."
 	},
 	{
-		"Symbol": "AIG.WS",
-		"Description": "American International Group, Inc."
+		"symbol": "AIG.WS",
+		"description": "American International Group, Inc."
 	},
 	{
-		"Symbol": "AIII",
-		"Description": "ACRE Realty Investors, Inc."
+		"symbol": "AIII",
+		"description": "ACRE Realty Investors, Inc."
 	},
 	{
-		"Symbol": "AIMC",
-		"Description": "Altra Indtl Mtn Cmn"
+		"symbol": "AIMC",
+		"description": "Altra Indtl Mtn Cmn"
 	},
 	{
-		"Symbol": "AIMT",
-		"Description": "Aimmune Therap Cmn"
+		"symbol": "AIMT",
+		"description": "Aimmune Therap Cmn"
 	},
 	{
-		"Symbol": "AIN",
-		"Description": "Albany International Corporation"
+		"symbol": "AIN",
+		"description": "Albany International Corporation"
 	},
 	{
-		"Symbol": "AINC",
-		"Description": "Ashford Inc."
+		"symbol": "AINC",
+		"description": "Ashford Inc."
 	},
 	{
-		"Symbol": "AINV",
-		"Description": "Apollo Investment Co"
+		"symbol": "AINV",
+		"description": "Apollo Investment Co"
 	},
 	{
-		"Symbol": "AIQ",
-		"Description": "Alliance Hlthcare Cmn"
+		"symbol": "AIQ",
+		"description": "Alliance Hlthcare Cmn"
 	},
 	{
-		"Symbol": "AIR",
-		"Description": "AAR Corp."
+		"symbol": "AIR",
+		"description": "AAR Corp."
 	},
 	{
-		"Symbol": "AIRG",
-		"Description": "Airgain Inc"
+		"symbol": "AIRG",
+		"description": "Airgain Inc"
 	},
 	{
-		"Symbol": "AIRI",
-		"Description": "Air Industries Group"
+		"symbol": "AIRI",
+		"description": "Air Industries Group"
 	},
 	{
-		"Symbol": "AIRM",
-		"Description": "Air Methods Cp"
+		"symbol": "AIRM",
+		"description": "Air Methods Cp"
 	},
 	{
-		"Symbol": "AIRR",
-		"Description": "First Trust Rba Am I"
+		"symbol": "AIRR",
+		"description": "First Trust Rba Am I"
 	},
 	{
-		"Symbol": "AIRT",
-		"Description": "Air T Inc"
+		"symbol": "AIRT",
+		"description": "Air T Inc"
 	},
 	{
-		"Symbol": "AIT",
-		"Description": "Applied Industrial Technologies, Inc."
+		"symbol": "AIT",
+		"description": "Applied Industrial Technologies, Inc."
 	},
 	{
-		"Symbol": "AIV",
-		"Description": "Apartment Investment and Management Company"
+		"symbol": "AIV",
+		"description": "Apartment Investment and Management Company"
 	},
 	{
-		"Symbol": "AIV^A",
-		"Description": "Apartment Investment and Management Company"
+		"symbol": "AIV^A",
+		"description": "Apartment Investment and Management Company"
 	},
 	{
-		"Symbol": "AIW",
-		"Description": "Arlington Asset Investment Corp"
+		"symbol": "AIW",
+		"description": "Arlington Asset Investment Corp"
 	},
 	{
-		"Symbol": "AIY",
-		"Description": "Apollo Investment Corporation"
+		"symbol": "AIY",
+		"description": "Apollo Investment Corporation"
 	},
 	{
-		"Symbol": "AIZ",
-		"Description": "Assurant, Inc."
+		"symbol": "AIZ",
+		"description": "Assurant, Inc."
 	},
 	{
-		"Symbol": "AJG",
-		"Description": "Arthur J. Gallagher & Co."
+		"symbol": "AJG",
+		"description": "Arthur J. Gallagher & Co."
 	},
 	{
-		"Symbol": "AJRD",
-		"Description": "Aerojet Rocketdyne Holdings, Inc."
+		"symbol": "AJRD",
+		"description": "Aerojet Rocketdyne Holdings, Inc."
 	},
 	{
-		"Symbol": "AJX",
-		"Description": "Great Ajax Corp."
+		"symbol": "AJX",
+		"description": "Great Ajax Corp."
 	},
 	{
-		"Symbol": "AKAM",
-		"Description": "Akamai Technologies"
+		"symbol": "AKAM",
+		"description": "Akamai Technologies"
 	},
 	{
-		"Symbol": "AKAO",
-		"Description": "Achaogen Inc Cmn"
+		"symbol": "AKAO",
+		"description": "Achaogen Inc Cmn"
 	},
 	{
-		"Symbol": "AKBA",
-		"Description": "Akebia Therapeutics"
+		"symbol": "AKBA",
+		"description": "Akebia Therapeutics"
 	},
 	{
-		"Symbol": "AKER",
-		"Description": "Akers Biosciences Cmn"
+		"symbol": "AKER",
+		"description": "Akers Biosciences Cmn"
 	},
 	{
-		"Symbol": "AKG",
-		"Description": "Asanko Gold Inc."
+		"symbol": "AKG",
+		"description": "Asanko Gold Inc."
 	},
 	{
-		"Symbol": "AKO.A",
-		"Description": "Embotelladora Andina S.A."
+		"symbol": "AKO.A",
+		"description": "Embotelladora Andina S.A."
 	},
 	{
-		"Symbol": "AKO.B",
-		"Description": "Embotelladora Andina S.A."
+		"symbol": "AKO.B",
+		"description": "Embotelladora Andina S.A."
 	},
 	{
-		"Symbol": "AKP",
-		"Description": "Alliance California Municipal Income Fund Inc"
+		"symbol": "AKP",
+		"description": "Alliance California Municipal Income Fund Inc"
 	},
 	{
-		"Symbol": "AKR",
-		"Description": "Acadia Realty Trust"
+		"symbol": "AKR",
+		"description": "Acadia Realty Trust"
 	},
 	{
-		"Symbol": "AKRX",
-		"Description": "Akorn Inc"
+		"symbol": "AKRX",
+		"description": "Akorn Inc"
 	},
 	{
-		"Symbol": "AKS",
-		"Description": "AK Steel Holding Corporation"
+		"symbol": "AKS",
+		"description": "AK Steel Holding Corporation"
 	},
 	{
-		"Symbol": "AKTX",
-		"Description": "Akari Therapeutics"
+		"symbol": "AKTX",
+		"description": "Akari Therapeutics"
 	},
 	{
-		"Symbol": "AL",
-		"Description": "Air Lease Corporation"
+		"symbol": "AL",
+		"description": "Air Lease Corporation"
 	},
 	{
-		"Symbol": "ALB",
-		"Description": "Albemarle Corporation"
+		"symbol": "ALB",
+		"description": "Albemarle Corporation"
 	},
 	{
-		"Symbol": "ALBO",
-		"Description": "Albireo Pharma Inc"
+		"symbol": "ALBO",
+		"description": "Albireo Pharma Inc"
 	},
 	{
-		"Symbol": "ALCO",
-		"Description": "Alico Inc"
+		"symbol": "ALCO",
+		"description": "Alico Inc"
 	},
 	{
-		"Symbol": "ALDR",
-		"Description": "Alder Biopharma Cmn"
+		"symbol": "ALDR",
+		"description": "Alder Biopharma Cmn"
 	},
 	{
-		"Symbol": "ALDW",
-		"Description": "Alon USA Partners, LP"
+		"symbol": "ALDW",
+		"description": "Alon USA Partners, LP"
 	},
 	{
-		"Symbol": "ALDX",
-		"Description": "Aldeyra Therapeu Cmn"
+		"symbol": "ALDX",
+		"description": "Aldeyra Therapeu Cmn"
 	},
 	{
-		"Symbol": "ALE",
-		"Description": "Allete, Inc."
+		"symbol": "ALE",
+		"description": "Allete, Inc."
 	},
 	{
-		"Symbol": "ALEX",
-		"Description": "Alexander & Baldwin Holdings, Inc."
+		"symbol": "ALEX",
+		"description": "Alexander & Baldwin Holdings, Inc."
 	},
 	{
-		"Symbol": "ALG",
-		"Description": "Alamo Group, Inc."
+		"symbol": "ALG",
+		"description": "Alamo Group, Inc."
 	},
 	{
-		"Symbol": "ALGN",
-		"Description": "Align Technology I"
+		"symbol": "ALGN",
+		"description": "Align Technology I"
 	},
 	{
-		"Symbol": "ALGT",
-		"Description": "Allegiant Travel Com"
+		"symbol": "ALGT",
+		"description": "Allegiant Travel Com"
 	},
 	{
-		"Symbol": "ALIM",
-		"Description": "Alimera Sciences Inc"
+		"symbol": "ALIM",
+		"description": "Alimera Sciences Inc"
 	},
 	{
-		"Symbol": "ALJ",
-		"Description": "Alon USA Energy, Inc."
+		"symbol": "ALJ",
+		"description": "Alon USA Energy, Inc."
 	},
 	{
-		"Symbol": "ALJJ",
-		"Description": "Alj Regional Hold Cmn"
+		"symbol": "ALJJ",
+		"description": "Alj Regional Hold Cmn"
 	},
 	{
-		"Symbol": "ALK",
-		"Description": "Alaska Air Group, Inc."
+		"symbol": "ALK",
+		"description": "Alaska Air Group, Inc."
 	},
 	{
-		"Symbol": "ALKS",
-		"Description": "Alkermes Plc"
+		"symbol": "ALKS",
+		"description": "Alkermes Plc"
 	},
 	{
-		"Symbol": "ALL",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^A",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^A",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^B",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^B",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^C",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^C",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^D",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^D",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^E",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^E",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALL^F",
-		"Description": "Allstate Corporation "
+		"symbol": "ALL^F",
+		"description": "Allstate Corporation "
 	},
 	{
-		"Symbol": "ALLE",
-		"Description": "Allegion plc"
+		"symbol": "ALLE",
+		"description": "Allegion plc"
 	},
 	{
-		"Symbol": "ALLT",
-		"Description": "Allot Communications"
+		"symbol": "ALLT",
+		"description": "Allot Communications"
 	},
 	{
-		"Symbol": "ALLY",
-		"Description": "Ally Financial Inc."
+		"symbol": "ALLY",
+		"description": "Ally Financial Inc."
 	},
 	{
-		"Symbol": "ALLY^A",
-		"Description": "Ally Financial Inc."
+		"symbol": "ALLY^A",
+		"description": "Ally Financial Inc."
 	},
 	{
-		"Symbol": "ALN",
-		"Description": "American Lorain Corporation"
+		"symbol": "ALN",
+		"description": "American Lorain Corporation"
 	},
 	{
-		"Symbol": "ALNY",
-		"Description": "Alnylam Pharmaceut"
+		"symbol": "ALNY",
+		"description": "Alnylam Pharmaceut"
 	},
 	{
-		"Symbol": "ALOG",
-		"Description": "Analogic Cp"
+		"symbol": "ALOG",
+		"description": "Analogic Cp"
 	},
 	{
-		"Symbol": "ALOT",
-		"Description": "Astronova Inc"
+		"symbol": "ALOT",
+		"description": "Astronova Inc"
 	},
 	{
-		"Symbol": "ALP^O",
-		"Description": "Alabama Power Company"
+		"symbol": "ALP^O",
+		"description": "Alabama Power Company"
 	},
 	{
-		"Symbol": "ALQA",
-		"Description": "Alliqua Biomedical"
+		"symbol": "ALQA",
+		"description": "Alliqua Biomedical"
 	},
 	{
-		"Symbol": "ALR",
-		"Description": "Alere Inc."
+		"symbol": "ALR",
+		"description": "Alere Inc."
 	},
 	{
-		"Symbol": "ALR^B",
-		"Description": "Alere Inc."
+		"symbol": "ALR^B",
+		"description": "Alere Inc."
 	},
 	{
-		"Symbol": "ALRM",
-		"Description": "Alarm.Com Cmn"
+		"symbol": "ALRM",
+		"description": "Alarm.Com Cmn"
 	},
 	{
-		"Symbol": "ALSK",
-		"Description": "Alaska Commun Sys"
+		"symbol": "ALSK",
+		"description": "Alaska Commun Sys"
 	},
 	{
-		"Symbol": "ALSN",
-		"Description": "Allison Transmission Holdings, Inc."
+		"symbol": "ALSN",
+		"description": "Allison Transmission Holdings, Inc."
 	},
 	{
-		"Symbol": "ALTY",
-		"Description": "Global X Sprdv ETF"
+		"symbol": "ALTY",
+		"description": "Global X Sprdv ETF"
 	},
 	{
-		"Symbol": "ALV",
-		"Description": "Autoliv, Inc."
+		"symbol": "ALV",
+		"description": "Autoliv, Inc."
 	},
 	{
-		"Symbol": "ALX",
-		"Description": "Alexanders, Inc."
+		"symbol": "ALX",
+		"description": "Alexanders, Inc."
 	},
 	{
-		"Symbol": "ALXN",
-		"Description": "Alexion Pharm Inc"
+		"symbol": "ALXN",
+		"description": "Alexion Pharm Inc"
 	},
 	{
-		"Symbol": "AM",
-		"Description": "Antero Midstream Partners LP"
+		"symbol": "AM",
+		"description": "Antero Midstream Partners LP"
 	},
 	{
-		"Symbol": "AMAG",
-		"Description": "Amag Pharmaceuticals"
+		"symbol": "AMAG",
+		"description": "Amag Pharmaceuticals"
 	},
 	{
-		"Symbol": "AMAT",
-		"Description": "Applied Materials"
+		"symbol": "AMAT",
+		"description": "Applied Materials"
 	},
 	{
-		"Symbol": "AMBA",
-		"Description": "Ambarella Inc"
+		"symbol": "AMBA",
+		"description": "Ambarella Inc"
 	},
 	{
-		"Symbol": "AMBC",
-		"Description": "Ambac Financial Grp"
+		"symbol": "AMBC",
+		"description": "Ambac Financial Grp"
 	},
 	{
-		"Symbol": "AMBCW",
-		"Description": "Ambac Financial Grp"
+		"symbol": "AMBCW",
+		"description": "Ambac Financial Grp"
 	},
 	{
-		"Symbol": "AMBR",
-		"Description": "Amber Road, Inc."
+		"symbol": "AMBR",
+		"description": "Amber Road, Inc."
 	},
 	{
-		"Symbol": "AMC",
-		"Description": "AMC Entertainment Holdings, Inc."
+		"symbol": "AMC",
+		"description": "AMC Entertainment Holdings, Inc."
 	},
 	{
-		"Symbol": "AMCC",
-		"Description": "Applied Micro Crcts"
+		"symbol": "AMCC",
+		"description": "Applied Micro Crcts"
 	},
 	{
-		"Symbol": "AMCN",
-		"Description": "Airmedia Group Inc"
+		"symbol": "AMCN",
+		"description": "Airmedia Group Inc"
 	},
 	{
-		"Symbol": "AMCX",
-		"Description": "Amc Networks Cl A"
+		"symbol": "AMCX",
+		"description": "Amc Networks Cl A"
 	},
 	{
-		"Symbol": "AMD",
-		"Description": "Adv Micro Devices"
+		"symbol": "AMD",
+		"description": "Adv Micro Devices"
 	},
 	{
-		"Symbol": "AMDA",
-		"Description": "Amedica Corporation"
+		"symbol": "AMDA",
+		"description": "Amedica Corporation"
 	},
 	{
-		"Symbol": "AME",
-		"Description": "AMTEK, Inc."
+		"symbol": "AME",
+		"description": "AMTEK, Inc."
 	},
 	{
-		"Symbol": "AMED",
-		"Description": "Amedisys Inc"
+		"symbol": "AMED",
+		"description": "Amedisys Inc"
 	},
 	{
-		"Symbol": "AMFW",
-		"Description": "Amec Plc Ord"
+		"symbol": "AMFW",
+		"description": "Amec Plc Ord"
 	},
 	{
-		"Symbol": "AMG",
-		"Description": "Affiliated Managers Group, Inc."
+		"symbol": "AMG",
+		"description": "Affiliated Managers Group, Inc."
 	},
 	{
-		"Symbol": "AMGN",
-		"Description": "Amgen"
+		"symbol": "AMGN",
+		"description": "Amgen"
 	},
 	{
-		"Symbol": "AMH",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMH^A",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH^A",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMH^B",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH^B",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMH^C",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH^C",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMH^D",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH^D",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMH^E",
-		"Description": "American Homes 4 Rent"
+		"symbol": "AMH^E",
+		"description": "American Homes 4 Rent"
 	},
 	{
-		"Symbol": "AMID",
-		"Description": "American Midstream Partners, LP"
+		"symbol": "AMID",
+		"description": "American Midstream Partners, LP"
 	},
 	{
-		"Symbol": "AMKR",
-		"Description": "Amkor Technology"
+		"symbol": "AMKR",
+		"description": "Amkor Technology"
 	},
 	{
-		"Symbol": "AMMA",
-		"Description": "Alliance Mma Inc"
+		"symbol": "AMMA",
+		"description": "Alliance Mma Inc"
 	},
 	{
-		"Symbol": "AMN",
-		"Description": "AMN Healthcare Services Inc"
+		"symbol": "AMN",
+		"description": "AMN Healthcare Services Inc"
 	},
 	{
-		"Symbol": "AMNB",
-		"Description": "American Natl Bksh"
+		"symbol": "AMNB",
+		"description": "American Natl Bksh"
 	},
 	{
-		"Symbol": "AMOT",
-		"Description": "Allied Motion Tech"
+		"symbol": "AMOT",
+		"description": "Allied Motion Tech"
 	},
 	{
-		"Symbol": "AMOV",
-		"Description": "America Movil, S.A.B. de C.V."
+		"symbol": "AMOV",
+		"description": "America Movil, S.A.B. de C.V."
 	},
 	{
-		"Symbol": "AMP",
-		"Description": "AMERIPRISE FINANCIAL SERVICES, INC."
+		"symbol": "AMP",
+		"description": "AMERIPRISE FINANCIAL SERVICES, INC."
 	},
 	{
-		"Symbol": "AMPE",
-		"Description": "Ampio Pharmaceuticals, Inc."
+		"symbol": "AMPE",
+		"description": "Ampio Pharmaceuticals, Inc."
 	},
 	{
-		"Symbol": "AMPH",
-		"Description": "Amphastar Pharma Cmn"
+		"symbol": "AMPH",
+		"description": "Amphastar Pharma Cmn"
 	},
 	{
-		"Symbol": "AMRB",
-		"Description": "American River Bkshs"
+		"symbol": "AMRB",
+		"description": "American River Bkshs"
 	},
 	{
-		"Symbol": "AMRC",
-		"Description": "Ameresco, Inc."
+		"symbol": "AMRC",
+		"description": "Ameresco, Inc."
 	},
 	{
-		"Symbol": "AMRI",
-		"Description": "Albany Molecular Res"
+		"symbol": "AMRI",
+		"description": "Albany Molecular Res"
 	},
 	{
-		"Symbol": "AMRK",
-		"Description": "A-Mark Precious Meta"
+		"symbol": "AMRK",
+		"description": "A-Mark Precious Meta"
 	},
 	{
-		"Symbol": "AMRN",
-		"Description": "Amarin Corp Ads"
+		"symbol": "AMRN",
+		"description": "Amarin Corp Ads"
 	},
 	{
-		"Symbol": "AMRS",
-		"Description": "Amyris Inc"
+		"symbol": "AMRS",
+		"description": "Amyris Inc"
 	},
 	{
-		"Symbol": "AMS",
-		"Description": "American Shared Hospital Services"
+		"symbol": "AMS",
+		"description": "American Shared Hospital Services"
 	},
 	{
-		"Symbol": "AMSC",
-		"Description": "Amer Superconductor"
+		"symbol": "AMSC",
+		"description": "Amer Superconductor"
 	},
 	{
-		"Symbol": "AMSF",
-		"Description": "Amerisafe Inc"
+		"symbol": "AMSF",
+		"description": "Amerisafe Inc"
 	},
 	{
-		"Symbol": "AMSWA",
-		"Description": "Amer Software Inc"
+		"symbol": "AMSWA",
+		"description": "Amer Software Inc"
 	},
 	{
-		"Symbol": "AMT",
-		"Description": "American Tower Corporation REIT"
+		"symbol": "AMT",
+		"description": "American Tower Corporation REIT"
 	},
 	{
-		"Symbol": "AMT^A",
-		"Description": "American Tower Corporation REIT"
+		"symbol": "AMT^A",
+		"description": "American Tower Corporation REIT"
 	},
 	{
-		"Symbol": "AMT^B",
-		"Description": "American Tower Corporation REIT"
+		"symbol": "AMT^B",
+		"description": "American Tower Corporation REIT"
 	},
 	{
-		"Symbol": "AMTD",
-		"Description": "TD Ameritrade HD Cmn"
+		"symbol": "AMTD",
+		"description": "TD Ameritrade HD Cmn"
 	},
 	{
-		"Symbol": "AMTX",
-		"Description": "Aemetis Inc Cmn Stk"
+		"symbol": "AMTX",
+		"description": "Aemetis Inc Cmn Stk"
 	},
 	{
-		"Symbol": "AMWD",
-		"Description": "Amer Woodmark Cp"
+		"symbol": "AMWD",
+		"description": "Amer Woodmark Cp"
 	},
 	{
-		"Symbol": "AMX",
-		"Description": "America Movil, S.A.B. de C.V."
+		"symbol": "AMX",
+		"description": "America Movil, S.A.B. de C.V."
 	},
 	{
-		"Symbol": "AMZN",
-		"Description": "Amazon.Com Inc"
+		"symbol": "AMZN",
+		"description": "Amazon.Com Inc"
 	},
 	{
-		"Symbol": "AN",
-		"Description": "AutoNation, Inc."
+		"symbol": "AN",
+		"description": "AutoNation, Inc."
 	},
 	{
-		"Symbol": "ANAB",
-		"Description": "Anaptysbio Inc."
+		"symbol": "ANAB",
+		"description": "Anaptysbio Inc."
 	},
 	{
-		"Symbol": "ANAT",
-		"Description": "Amer Natl Insurance"
+		"symbol": "ANAT",
+		"description": "Amer Natl Insurance"
 	},
 	{
-		"Symbol": "ANCB",
-		"Description": "Anchor Bancorp"
+		"symbol": "ANCB",
+		"description": "Anchor Bancorp"
 	},
 	{
-		"Symbol": "ANCX",
-		"Description": "Access National Corp"
+		"symbol": "ANCX",
+		"description": "Access National Corp"
 	},
 	{
-		"Symbol": "ANDA",
-		"Description": "Andina Acq Cp Ord Sh"
+		"symbol": "ANDA",
+		"description": "Andina Acq Cp Ord Sh"
 	},
 	{
-		"Symbol": "ANDAR",
-		"Description": "Andina Acq Cp Rt"
+		"symbol": "ANDAR",
+		"description": "Andina Acq Cp Rt"
 	},
 	{
-		"Symbol": "ANDAU",
-		"Description": "Andina Acq Cp Unit"
+		"symbol": "ANDAU",
+		"description": "Andina Acq Cp Unit"
 	},
 	{
-		"Symbol": "ANDAW",
-		"Description": "Andina Acq Cp Wt"
+		"symbol": "ANDAW",
+		"description": "Andina Acq Cp Wt"
 	},
 	{
-		"Symbol": "ANDE",
-		"Description": "Andersons Inc"
+		"symbol": "ANDE",
+		"description": "Andersons Inc"
 	},
 	{
-		"Symbol": "ANET",
-		"Description": "Arista Networks, Inc."
+		"symbol": "ANET",
+		"description": "Arista Networks, Inc."
 	},
 	{
-		"Symbol": "ANF",
-		"Description": "Abercrombie & Fitch Company"
+		"symbol": "ANF",
+		"description": "Abercrombie & Fitch Company"
 	},
 	{
-		"Symbol": "ANFI",
-		"Description": "Amira Nature Foods Ltd"
+		"symbol": "ANFI",
+		"description": "Amira Nature Foods Ltd"
 	},
 	{
-		"Symbol": "ANGI",
-		"Description": "Angie's List Inc"
+		"symbol": "ANGI",
+		"description": "Angie's List Inc"
 	},
 	{
-		"Symbol": "ANGO",
-		"Description": "Angiodynamics Inc"
+		"symbol": "ANGO",
+		"description": "Angiodynamics Inc"
 	},
 	{
-		"Symbol": "ANH",
-		"Description": "Anworth Mortgage Asset  Corporation"
+		"symbol": "ANH",
+		"description": "Anworth Mortgage Asset  Corporation"
 	},
 	{
-		"Symbol": "ANH^A",
-		"Description": "Anworth Mortgage Asset  Corporation"
+		"symbol": "ANH^A",
+		"description": "Anworth Mortgage Asset  Corporation"
 	},
 	{
-		"Symbol": "ANH^B",
-		"Description": "Anworth Mortgage Asset  Corporation"
+		"symbol": "ANH^B",
+		"description": "Anworth Mortgage Asset  Corporation"
 	},
 	{
-		"Symbol": "ANH^C",
-		"Description": "Anworth Mortgage Asset  Corporation"
+		"symbol": "ANH^C",
+		"description": "Anworth Mortgage Asset  Corporation"
 	},
 	{
-		"Symbol": "ANIK",
-		"Description": "Anika Therapeutics"
+		"symbol": "ANIK",
+		"description": "Anika Therapeutics"
 	},
 	{
-		"Symbol": "ANIP",
-		"Description": "ANI  Pharma Inc"
+		"symbol": "ANIP",
+		"description": "ANI  Pharma Inc"
 	},
 	{
-		"Symbol": "ANSS",
-		"Description": "Ansys Inc"
+		"symbol": "ANSS",
+		"description": "Ansys Inc"
 	},
 	{
-		"Symbol": "ANTH",
-		"Description": "Anthera Pharmaceutic"
+		"symbol": "ANTH",
+		"description": "Anthera Pharmaceutic"
 	},
 	{
-		"Symbol": "ANTM",
-		"Description": "Anthem, Inc."
+		"symbol": "ANTM",
+		"description": "Anthem, Inc."
 	},
 	{
-		"Symbol": "ANTX",
-		"Description": "Anthem, Inc."
+		"symbol": "ANTX",
+		"description": "Anthem, Inc."
 	},
 	{
-		"Symbol": "ANW",
-		"Description": "Aegean Marine Petroleum Network Inc."
+		"symbol": "ANW",
+		"description": "Aegean Marine Petroleum Network Inc."
 	},
 	{
-		"Symbol": "ANY",
-		"Description": "Sphere 3D Corp."
+		"symbol": "ANY",
+		"description": "Sphere 3D Corp."
 	},
 	{
-		"Symbol": "AOBC",
-		"Description": "American Outdoor Brands Corp."
+		"symbol": "AOBC",
+		"description": "American Outdoor Brands Corp."
 	},
 	{
-		"Symbol": "AOD",
-		"Description": "Alpine Total Dynamic Dividend Fund"
+		"symbol": "AOD",
+		"description": "Alpine Total Dynamic Dividend Fund"
 	},
 	{
-		"Symbol": "AOI",
-		"Description": "Alliance One International, Inc."
+		"symbol": "AOI",
+		"description": "Alliance One International, Inc."
 	},
 	{
-		"Symbol": "AON",
-		"Description": "Aon plc"
+		"symbol": "AON",
+		"description": "Aon plc"
 	},
 	{
-		"Symbol": "AOS",
-		"Description": "Smith A.O. Corporation"
+		"symbol": "AOS",
+		"description": "Smith A.O. Corporation"
 	},
 	{
-		"Symbol": "AOSL",
-		"Description": "Alpha and Omega Semi"
+		"symbol": "AOSL",
+		"description": "Alpha and Omega Semi"
 	},
 	{
-		"Symbol": "AP",
-		"Description": "Ampco-Pittsburgh Corporation"
+		"symbol": "AP",
+		"description": "Ampco-Pittsburgh Corporation"
 	},
 	{
-		"Symbol": "APA",
-		"Description": "Apache Corporation"
+		"symbol": "APA",
+		"description": "Apache Corporation"
 	},
 	{
-		"Symbol": "APAM",
-		"Description": "Artisan Partners Asset Management Inc."
+		"symbol": "APAM",
+		"description": "Artisan Partners Asset Management Inc."
 	},
 	{
-		"Symbol": "APB",
-		"Description": "Asia Pacific Fund, Inc. "
+		"symbol": "APB",
+		"description": "Asia Pacific Fund, Inc. "
 	},
 	{
-		"Symbol": "APC",
-		"Description": "Anadarko Petroleum Corporation"
+		"symbol": "APC",
+		"description": "Anadarko Petroleum Corporation"
 	},
 	{
-		"Symbol": "APD",
-		"Description": "Air Products and Chemicals, Inc."
+		"symbol": "APD",
+		"description": "Air Products and Chemicals, Inc."
 	},
 	{
-		"Symbol": "APDN",
-		"Description": "Applied Dna Scns Cmn"
+		"symbol": "APDN",
+		"description": "Applied Dna Scns Cmn"
 	},
 	{
-		"Symbol": "APDNW",
-		"Description": "Applied Dna Sci Wrnt"
+		"symbol": "APDNW",
+		"description": "Applied Dna Sci Wrnt"
 	},
 	{
-		"Symbol": "APEI",
-		"Description": "American Pub. Edu."
+		"symbol": "APEI",
+		"description": "American Pub. Edu."
 	},
 	{
-		"Symbol": "APEN",
-		"Description": "Apollo Endosurgery Inc"
+		"symbol": "APEN",
+		"description": "Apollo Endosurgery Inc"
 	},
 	{
-		"Symbol": "APF",
-		"Description": "Morgan Stanley Asia-Pacific Fund, Inc."
+		"symbol": "APF",
+		"description": "Morgan Stanley Asia-Pacific Fund, Inc."
 	},
 	{
-		"Symbol": "APFH",
-		"Description": "AdvancePierre Foods Holdings, Inc."
+		"symbol": "APFH",
+		"description": "AdvancePierre Foods Holdings, Inc."
 	},
 	{
-		"Symbol": "APH",
-		"Description": "Amphenol Corporation"
+		"symbol": "APH",
+		"description": "Amphenol Corporation"
 	},
 	{
-		"Symbol": "APHB",
-		"Description": "AmpliPhi Biosciences Corporation"
+		"symbol": "APHB",
+		"description": "AmpliPhi Biosciences Corporation"
 	},
 	{
-		"Symbol": "APLE",
-		"Description": "Apple Hospitality REIT, Inc."
+		"symbol": "APLE",
+		"description": "Apple Hospitality REIT, Inc."
 	},
 	{
-		"Symbol": "APLP",
-		"Description": "Archrock Partners LP"
+		"symbol": "APLP",
+		"description": "Archrock Partners LP"
 	},
 	{
-		"Symbol": "APO",
-		"Description": "Apollo Global Management, LLC"
+		"symbol": "APO",
+		"description": "Apollo Global Management, LLC"
 	},
 	{
-		"Symbol": "APOG",
-		"Description": "Apogee Entrpr Inc"
+		"symbol": "APOG",
+		"description": "Apogee Entrpr Inc"
 	},
 	{
-		"Symbol": "APOL",
-		"Description": "Apollo Ed Grp A"
+		"symbol": "APOL",
+		"description": "Apollo Ed Grp A"
 	},
 	{
-		"Symbol": "APOP",
-		"Description": "Cellect Biotechnology Ltd"
+		"symbol": "APOP",
+		"description": "Cellect Biotechnology Ltd"
 	},
 	{
-		"Symbol": "APOPW",
-		"Description": "Cellect Biotechnology Ltd"
+		"symbol": "APOPW",
+		"description": "Cellect Biotechnology Ltd"
 	},
 	{
-		"Symbol": "APPF",
-		"Description": "Appfolio Cl A Cmn"
+		"symbol": "APPF",
+		"description": "Appfolio Cl A Cmn"
 	},
 	{
-		"Symbol": "APPS",
-		"Description": "Digital Turbine Cmn"
+		"symbol": "APPS",
+		"description": "Digital Turbine Cmn"
 	},
 	{
-		"Symbol": "APRI",
-		"Description": "Apricus Biosc Inc"
+		"symbol": "APRI",
+		"description": "Apricus Biosc Inc"
 	},
 	{
-		"Symbol": "APT",
-		"Description": "Alpha Pro Tech, Ltd."
+		"symbol": "APT",
+		"description": "Alpha Pro Tech, Ltd."
 	},
 	{
-		"Symbol": "APTI",
-		"Description": "Apptio Inc"
+		"symbol": "APTI",
+		"description": "Apptio Inc"
 	},
 	{
-		"Symbol": "APTO",
-		"Description": "Aptose Bioscns Cmn"
+		"symbol": "APTO",
+		"description": "Aptose Bioscns Cmn"
 	},
 	{
-		"Symbol": "APTS",
-		"Description": "Preferred Apartment Communities, Inc."
+		"symbol": "APTS",
+		"description": "Preferred Apartment Communities, Inc."
 	},
 	{
-		"Symbol": "APU",
-		"Description": "AmeriGas Partners, L.P."
+		"symbol": "APU",
+		"description": "AmeriGas Partners, L.P."
 	},
 	{
-		"Symbol": "APVO",
-		"Description": "Aptevo Therapeutics Inc"
+		"symbol": "APVO",
+		"description": "Aptevo Therapeutics Inc"
 	},
 	{
-		"Symbol": "APWC",
-		"Description": "Asia Pac Wire &Cable"
+		"symbol": "APWC",
+		"description": "Asia Pac Wire &Cable"
 	},
 	{
-		"Symbol": "AQB",
-		"Description": "Aquabounty Technologies Inc."
+		"symbol": "AQB",
+		"description": "Aquabounty Technologies Inc."
 	},
 	{
-		"Symbol": "AQBTV",
-		"Description": "Aquabounty Technologies Inc."
+		"symbol": "AQBTV",
+		"description": "Aquabounty Technologies Inc."
 	},
 	{
-		"Symbol": "AQMS",
-		"Description": "Aqua Metals Inc Cmn"
+		"symbol": "AQMS",
+		"description": "Aqua Metals Inc Cmn"
 	},
 	{
-		"Symbol": "AQN",
-		"Description": "Algonquin Power & Utilities Corp."
+		"symbol": "AQN",
+		"description": "Algonquin Power & Utilities Corp."
 	},
 	{
-		"Symbol": "AQXP",
-		"Description": "Aquinox Pharmaceutic"
+		"symbol": "AQXP",
+		"description": "Aquinox Pharmaceutic"
 	},
 	{
-		"Symbol": "AR",
-		"Description": "Antero Resources Corporation"
+		"symbol": "AR",
+		"description": "Antero Resources Corporation"
 	},
 	{
-		"Symbol": "ARA",
-		"Description": "American Renal Associates Holdings, Inc"
+		"symbol": "ARA",
+		"description": "American Renal Associates Holdings, Inc"
 	},
 	{
-		"Symbol": "ARAY",
-		"Description": "Accuray Incorporated"
+		"symbol": "ARAY",
+		"description": "Accuray Incorporated"
 	},
 	{
-		"Symbol": "ARC",
-		"Description": "ARC Document Solutions, Inc."
+		"symbol": "ARC",
+		"description": "ARC Document Solutions, Inc."
 	},
 	{
-		"Symbol": "ARCB",
-		"Description": "Arcbest Corp"
+		"symbol": "ARCB",
+		"description": "Arcbest Corp"
 	},
 	{
-		"Symbol": "ARCC",
-		"Description": "Ares Capital Corp"
+		"symbol": "ARCC",
+		"description": "Ares Capital Corp"
 	},
 	{
-		"Symbol": "ARCH",
-		"Description": "Arch Coal, Inc."
+		"symbol": "ARCH",
+		"description": "Arch Coal, Inc."
 	},
 	{
-		"Symbol": "ARCI",
-		"Description": "Applnc Rcycl Ct Amer"
+		"symbol": "ARCI",
+		"description": "Applnc Rcycl Ct Amer"
 	},
 	{
-		"Symbol": "ARCO",
-		"Description": "Arcos Dorados Holdings Inc."
+		"symbol": "ARCO",
+		"description": "Arcos Dorados Holdings Inc."
 	},
 	{
-		"Symbol": "ARCW",
-		"Description": "Arc Group Worldwide"
+		"symbol": "ARCW",
+		"description": "Arc Group Worldwide"
 	},
 	{
-		"Symbol": "ARCX",
-		"Description": "Arc Logistic Partners LP"
+		"symbol": "ARCX",
+		"description": "Arc Logistic Partners LP"
 	},
 	{
-		"Symbol": "ARDC",
-		"Description": "Ares Dynamic Credit Allocation Fund, Inc."
+		"symbol": "ARDC",
+		"description": "Ares Dynamic Credit Allocation Fund, Inc."
 	},
 	{
-		"Symbol": "ARDM",
-		"Description": "Aradigm Corp Cmn"
+		"symbol": "ARDM",
+		"description": "Aradigm Corp Cmn"
 	},
 	{
-		"Symbol": "ARDX",
-		"Description": "Ardelyx Inc Cmn"
+		"symbol": "ARDX",
+		"description": "Ardelyx Inc Cmn"
 	},
 	{
-		"Symbol": "ARE",
-		"Description": "Alexandria Real Estate Equities, Inc."
+		"symbol": "ARE",
+		"description": "Alexandria Real Estate Equities, Inc."
 	},
 	{
-		"Symbol": "ARE^D",
-		"Description": "Alexandria Real Estate Equities, Inc."
+		"symbol": "ARE^D",
+		"description": "Alexandria Real Estate Equities, Inc."
 	},
 	{
-		"Symbol": "ARE^E",
-		"Description": "Alexandria Real Estate Equities, Inc."
+		"symbol": "ARE^E",
+		"description": "Alexandria Real Estate Equities, Inc."
 	},
 	{
-		"Symbol": "ARES",
-		"Description": "Ares Management L.P."
+		"symbol": "ARES",
+		"description": "Ares Management L.P."
 	},
 	{
-		"Symbol": "ARES^A",
-		"Description": "Ares Management L.P."
+		"symbol": "ARES^A",
+		"description": "Ares Management L.P."
 	},
 	{
-		"Symbol": "AREX",
-		"Description": "Approach Res. Inc"
+		"symbol": "AREX",
+		"description": "Approach Res. Inc"
 	},
 	{
-		"Symbol": "ARGS",
-		"Description": "Argos Therapeutics"
+		"symbol": "ARGS",
+		"description": "Argos Therapeutics"
 	},
 	{
-		"Symbol": "ARH^C",
-		"Description": "Arch Capital Group Ltd."
+		"symbol": "ARH^C",
+		"description": "Arch Capital Group Ltd."
 	},
 	{
-		"Symbol": "ARI",
-		"Description": "Apollo Commercial Real Estate Finance"
+		"symbol": "ARI",
+		"description": "Apollo Commercial Real Estate Finance"
 	},
 	{
-		"Symbol": "ARI^A",
-		"Description": "Apollo Commercial Real Estate Finance"
+		"symbol": "ARI^A",
+		"description": "Apollo Commercial Real Estate Finance"
 	},
 	{
-		"Symbol": "ARI^C",
-		"Description": "Apollo Commercial Real Estate Finance"
+		"symbol": "ARI^C",
+		"description": "Apollo Commercial Real Estate Finance"
 	},
 	{
-		"Symbol": "ARIA",
-		"Description": "Ariad Pharm Inc"
+		"symbol": "ARIA",
+		"description": "Ariad Pharm Inc"
 	},
 	{
-		"Symbol": "ARII",
-		"Description": "American Railcar Ind"
+		"symbol": "ARII",
+		"description": "American Railcar Ind"
 	},
 	{
-		"Symbol": "ARIS",
-		"Description": "Ari Network Svcs"
+		"symbol": "ARIS",
+		"description": "Ari Network Svcs"
 	},
 	{
-		"Symbol": "ARKR",
-		"Description": "Ark Restaurants Cp"
+		"symbol": "ARKR",
+		"description": "Ark Restaurants Cp"
 	},
 	{
-		"Symbol": "ARL",
-		"Description": "American Realty Investors, Inc."
+		"symbol": "ARL",
+		"description": "American Realty Investors, Inc."
 	},
 	{
-		"Symbol": "ARLP",
-		"Description": "Alliance Resource Pt"
+		"symbol": "ARLP",
+		"description": "Alliance Resource Pt"
 	},
 	{
-		"Symbol": "ARLZ",
-		"Description": "Aralez Pharm Inc"
+		"symbol": "ARLZ",
+		"description": "Aralez Pharm Inc"
 	},
 	{
-		"Symbol": "ARMK",
-		"Description": "Aramark"
+		"symbol": "ARMK",
+		"description": "Aramark"
 	},
 	{
-		"Symbol": "ARNA",
-		"Description": "Arena Pharmaceutical"
+		"symbol": "ARNA",
+		"description": "Arena Pharmaceutical"
 	},
 	{
-		"Symbol": "ARNC",
-		"Description": "Arconic Inc."
+		"symbol": "ARNC",
+		"description": "Arconic Inc."
 	},
 	{
-		"Symbol": "ARNC^",
-		"Description": "Arconic Inc."
+		"symbol": "ARNC^",
+		"description": "Arconic Inc."
 	},
 	{
-		"Symbol": "ARNC^B",
-		"Description": "Arconic Inc."
+		"symbol": "ARNC^B",
+		"description": "Arconic Inc."
 	},
 	{
-		"Symbol": "AROC",
-		"Description": "Archrock, Inc."
+		"symbol": "AROC",
+		"description": "Archrock, Inc."
 	},
 	{
-		"Symbol": "AROW",
-		"Description": "Arrow Financial Corp"
+		"symbol": "AROW",
+		"description": "Arrow Financial Corp"
 	},
 	{
-		"Symbol": "ARQL",
-		"Description": "Arqule Inc"
+		"symbol": "ARQL",
+		"description": "Arqule Inc"
 	},
 	{
-		"Symbol": "ARR",
-		"Description": "ARMOUR Residential REIT, Inc."
+		"symbol": "ARR",
+		"description": "ARMOUR Residential REIT, Inc."
 	},
 	{
-		"Symbol": "ARR^A",
-		"Description": "ARMOUR Residential REIT, Inc."
+		"symbol": "ARR^A",
+		"description": "ARMOUR Residential REIT, Inc."
 	},
 	{
-		"Symbol": "ARR^B",
-		"Description": "ARMOUR Residential REIT, Inc."
+		"symbol": "ARR^B",
+		"description": "ARMOUR Residential REIT, Inc."
 	},
 	{
-		"Symbol": "ARRS",
-		"Description": "Arris Group Inc"
+		"symbol": "ARRS",
+		"description": "Arris Group Inc"
 	},
 	{
-		"Symbol": "ARRY",
-		"Description": "Array Biopharma Inc"
+		"symbol": "ARRY",
+		"description": "Array Biopharma Inc"
 	},
 	{
-		"Symbol": "ARTNA",
-		"Description": "Artesian Res Cp A"
+		"symbol": "ARTNA",
+		"description": "Artesian Res Cp A"
 	},
 	{
-		"Symbol": "ARTW",
-		"Description": "Art S Way MFG Co I"
+		"symbol": "ARTW",
+		"description": "Art S Way MFG Co I"
 	},
 	{
-		"Symbol": "ARTX",
-		"Description": "Arotech Corp"
+		"symbol": "ARTX",
+		"description": "Arotech Corp"
 	},
 	{
-		"Symbol": "ARU",
-		"Description": "Ares Capital Corporation"
+		"symbol": "ARU",
+		"description": "Ares Capital Corporation"
 	},
 	{
-		"Symbol": "ARW",
-		"Description": "Arrow Electronics, Inc."
+		"symbol": "ARW",
+		"description": "Arrow Electronics, Inc."
 	},
 	{
-		"Symbol": "ARWR",
-		"Description": "Arrowhead Pharma"
+		"symbol": "ARWR",
+		"description": "Arrowhead Pharma"
 	},
 	{
-		"Symbol": "ASA",
-		"Description": "ASA Gold and Precious Metals Limited"
+		"symbol": "ASA",
+		"description": "ASA Gold and Precious Metals Limited"
 	},
 	{
-		"Symbol": "ASB",
-		"Description": "Associated Banc-Corp"
+		"symbol": "ASB",
+		"description": "Associated Banc-Corp"
 	},
 	{
-		"Symbol": "ASB.WS",
-		"Description": "Associated Banc-Corp"
+		"symbol": "ASB.WS",
+		"description": "Associated Banc-Corp"
 	},
 	{
-		"Symbol": "ASB^C",
-		"Description": "Associated Banc-Corp"
+		"symbol": "ASB^C",
+		"description": "Associated Banc-Corp"
 	},
 	{
-		"Symbol": "ASB^D",
-		"Description": "Associated Banc-Corp"
+		"symbol": "ASB^D",
+		"description": "Associated Banc-Corp"
 	},
 	{
-		"Symbol": "ASBB",
-		"Description": "Asb Bancorp Inc"
+		"symbol": "ASBB",
+		"description": "Asb Bancorp Inc"
 	},
 	{
-		"Symbol": "ASC",
-		"Description": "Ardmore Shipping Corporation"
+		"symbol": "ASC",
+		"description": "Ardmore Shipping Corporation"
 	},
 	{
-		"Symbol": "ASCMA",
-		"Description": "Ascent Capital Group"
+		"symbol": "ASCMA",
+		"description": "Ascent Capital Group"
 	},
 	{
-		"Symbol": "ASET",
-		"Description": "Flxsh Rl As Al Ix Fd"
+		"symbol": "ASET",
+		"description": "Flxsh Rl As Al Ix Fd"
 	},
 	{
-		"Symbol": "ASFI",
-		"Description": "Asta Funding Inc"
+		"symbol": "ASFI",
+		"description": "Asta Funding Inc"
 	},
 	{
-		"Symbol": "ASG",
-		"Description": "Liberty All-Star Growth Fund, Inc."
+		"symbol": "ASG",
+		"description": "Liberty All-Star Growth Fund, Inc."
 	},
 	{
-		"Symbol": "ASGN",
-		"Description": "On Assignment, Inc."
+		"symbol": "ASGN",
+		"description": "On Assignment, Inc."
 	},
 	{
-		"Symbol": "ASH",
-		"Description": "Ashland Global Holdings Inc."
+		"symbol": "ASH",
+		"description": "Ashland Global Holdings Inc."
 	},
 	{
-		"Symbol": "ASIX",
-		"Description": "AdvanSix Inc."
+		"symbol": "ASIX",
+		"description": "AdvanSix Inc."
 	},
 	{
-		"Symbol": "ASM",
-		"Description": "Avino Silver"
+		"symbol": "ASM",
+		"description": "Avino Silver"
 	},
 	{
-		"Symbol": "ASMB",
-		"Description": "Assembly Biosciences"
+		"symbol": "ASMB",
+		"description": "Assembly Biosciences"
 	},
 	{
-		"Symbol": "ASML",
-		"Description": "Asml Hldg NY Reg"
+		"symbol": "ASML",
+		"description": "Asml Hldg NY Reg"
 	},
 	{
-		"Symbol": "ASNA",
-		"Description": "Ascena Retail Grp Cmn"
+		"symbol": "ASNA",
+		"description": "Ascena Retail Grp Cmn"
 	},
 	{
-		"Symbol": "ASND",
-		"Description": "Ascendis Pharma Ads"
+		"symbol": "ASND",
+		"description": "Ascendis Pharma Ads"
 	},
 	{
-		"Symbol": "ASPN",
-		"Description": "Aspen Aerogels, Inc."
+		"symbol": "ASPN",
+		"description": "Aspen Aerogels, Inc."
 	},
 	{
-		"Symbol": "ASPS",
-		"Description": "Altisource Portfolio"
+		"symbol": "ASPS",
+		"description": "Altisource Portfolio"
 	},
 	{
-		"Symbol": "ASR",
-		"Description": "Grupo Aeroportuario del Sureste, S.A. de C.V."
+		"symbol": "ASR",
+		"description": "Grupo Aeroportuario del Sureste, S.A. de C.V."
 	},
 	{
-		"Symbol": "ASRV",
-		"Description": "Ameriserv Financial"
+		"symbol": "ASRV",
+		"description": "Ameriserv Financial"
 	},
 	{
-		"Symbol": "ASRVP",
-		"Description": "Ameriserv Fin Cap"
+		"symbol": "ASRVP",
+		"description": "Ameriserv Fin Cap"
 	},
 	{
-		"Symbol": "AST",
-		"Description": "Asterias Biotherapeutics, Inc."
+		"symbol": "AST",
+		"description": "Asterias Biotherapeutics, Inc."
 	},
 	{
-		"Symbol": "AST.WS",
-		"Description": "Asterias Biotherapeutics, Inc."
+		"symbol": "AST.WS",
+		"description": "Asterias Biotherapeutics, Inc."
 	},
 	{
-		"Symbol": "ASTC",
-		"Description": "Astrotech Corp"
+		"symbol": "ASTC",
+		"description": "Astrotech Corp"
 	},
 	{
-		"Symbol": "ASTE",
-		"Description": "Astec Inds Inc"
+		"symbol": "ASTE",
+		"description": "Astec Inds Inc"
 	},
 	{
-		"Symbol": "ASUR",
-		"Description": "Asure Software"
+		"symbol": "ASUR",
+		"description": "Asure Software"
 	},
 	{
-		"Symbol": "ASX",
-		"Description": "Advanced Semiconductor Engineering, Inc."
+		"symbol": "ASX",
+		"description": "Advanced Semiconductor Engineering, Inc."
 	},
 	{
-		"Symbol": "ASYS",
-		"Description": "Amtech Systems Inc"
+		"symbol": "ASYS",
+		"description": "Amtech Systems Inc"
 	},
 	{
-		"Symbol": "AT",
-		"Description": "Atlantic Power Corporation"
+		"symbol": "AT",
+		"description": "Atlantic Power Corporation"
 	},
 	{
-		"Symbol": "ATAI",
-		"Description": "Ata Inc ADR"
+		"symbol": "ATAI",
+		"description": "Ata Inc ADR"
 	},
 	{
-		"Symbol": "ATAX",
-		"Description": "Amer First Mf Inv"
+		"symbol": "ATAX",
+		"description": "Amer First Mf Inv"
 	},
 	{
-		"Symbol": "ATEC",
-		"Description": "Alphatec Holdings"
+		"symbol": "ATEC",
+		"description": "Alphatec Holdings"
 	},
 	{
-		"Symbol": "ATEN",
-		"Description": "A10 Networks, Inc."
+		"symbol": "ATEN",
+		"description": "A10 Networks, Inc."
 	},
 	{
-		"Symbol": "ATEST",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "ATEST",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "ATEST.A",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "ATEST.A",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "ATEST.B",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "ATEST.B",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "ATEST.C",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "ATEST.C",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "ATH",
-		"Description": "Athene Holding Ltd."
+		"symbol": "ATH",
+		"description": "Athene Holding Ltd."
 	},
 	{
-		"Symbol": "ATHM",
-		"Description": "Autohome Inc."
+		"symbol": "ATHM",
+		"description": "Autohome Inc."
 	},
 	{
-		"Symbol": "ATHN",
-		"Description": "Athenahealth Inc"
+		"symbol": "ATHN",
+		"description": "Athenahealth Inc"
 	},
 	{
-		"Symbol": "ATHX",
-		"Description": "Athersys Inc"
+		"symbol": "ATHX",
+		"description": "Athersys Inc"
 	},
 	{
-		"Symbol": "ATI",
-		"Description": "Allegheny Technologies Incorporated"
+		"symbol": "ATI",
+		"description": "Allegheny Technologies Incorporated"
 	},
 	{
-		"Symbol": "ATKR",
-		"Description": "Atkore International Group Inc."
+		"symbol": "ATKR",
+		"description": "Atkore International Group Inc."
 	},
 	{
-		"Symbol": "ATLC",
-		"Description": "Atlanticus Hldg Cp"
+		"symbol": "ATLC",
+		"description": "Atlanticus Hldg Cp"
 	},
 	{
-		"Symbol": "ATLO",
-		"Description": "Ames Natl Corp"
+		"symbol": "ATLO",
+		"description": "Ames Natl Corp"
 	},
 	{
-		"Symbol": "ATNI",
-		"Description": "Atn International"
+		"symbol": "ATNI",
+		"description": "Atn International"
 	},
 	{
-		"Symbol": "ATNM",
-		"Description": "Actinium Pharmaceuticals, Inc."
+		"symbol": "ATNM",
+		"description": "Actinium Pharmaceuticals, Inc."
 	},
 	{
-		"Symbol": "ATO",
-		"Description": "Atmos Energy Corporation"
+		"symbol": "ATO",
+		"description": "Atmos Energy Corporation"
 	},
 	{
-		"Symbol": "ATOM",
-		"Description": "Atomera Inc"
+		"symbol": "ATOM",
+		"description": "Atomera Inc"
 	},
 	{
-		"Symbol": "ATOS",
-		"Description": "Atossa Genetics Inc"
+		"symbol": "ATOS",
+		"description": "Atossa Genetics Inc"
 	},
 	{
-		"Symbol": "ATR",
-		"Description": "AptarGroup, Inc."
+		"symbol": "ATR",
+		"description": "AptarGroup, Inc."
 	},
 	{
-		"Symbol": "ATRA",
-		"Description": "Atara Biotherap Cmn"
+		"symbol": "ATRA",
+		"description": "Atara Biotherap Cmn"
 	},
 	{
-		"Symbol": "ATRC",
-		"Description": "Atricure Inc"
+		"symbol": "ATRC",
+		"description": "Atricure Inc"
 	},
 	{
-		"Symbol": "ATRI",
-		"Description": "Atrion Corp"
+		"symbol": "ATRI",
+		"description": "Atrion Corp"
 	},
 	{
-		"Symbol": "ATRO",
-		"Description": "Astronics Cp"
+		"symbol": "ATRO",
+		"description": "Astronics Cp"
 	},
 	{
-		"Symbol": "ATRS",
-		"Description": "Antares Pharma Cmn"
+		"symbol": "ATRS",
+		"description": "Antares Pharma Cmn"
 	},
 	{
-		"Symbol": "ATSG",
-		"Description": "Air Transport"
+		"symbol": "ATSG",
+		"description": "Air Transport"
 	},
 	{
-		"Symbol": "ATTO",
-		"Description": "Atento S.A."
+		"symbol": "ATTO",
+		"description": "Atento S.A."
 	},
 	{
-		"Symbol": "ATTU",
-		"Description": "Attunity Ltd"
+		"symbol": "ATTU",
+		"description": "Attunity Ltd"
 	},
 	{
-		"Symbol": "ATU",
-		"Description": "Actuant Corporation"
+		"symbol": "ATU",
+		"description": "Actuant Corporation"
 	},
 	{
-		"Symbol": "ATV",
-		"Description": "Acorn International, Inc."
+		"symbol": "ATV",
+		"description": "Acorn International, Inc."
 	},
 	{
-		"Symbol": "ATVI",
-		"Description": "Activision Blizzard"
+		"symbol": "ATVI",
+		"description": "Activision Blizzard"
 	},
 	{
-		"Symbol": "ATW",
-		"Description": "Atwood Oceanics, Inc."
+		"symbol": "ATW",
+		"description": "Atwood Oceanics, Inc."
 	},
 	{
-		"Symbol": "AU",
-		"Description": "AngloGold Ashanti Limited"
+		"symbol": "AU",
+		"description": "AngloGold Ashanti Limited"
 	},
 	{
-		"Symbol": "AUBN",
-		"Description": "Auburn Natl Bncp I"
+		"symbol": "AUBN",
+		"description": "Auburn Natl Bncp I"
 	},
 	{
-		"Symbol": "AUDC",
-		"Description": "Audiocodes Ltd"
+		"symbol": "AUDC",
+		"description": "Audiocodes Ltd"
 	},
 	{
-		"Symbol": "AUMN",
-		"Description": "Golden Minerals Company"
+		"symbol": "AUMN",
+		"description": "Golden Minerals Company"
 	},
 	{
-		"Symbol": "AUO",
-		"Description": "AU Optronics Corp"
+		"symbol": "AUO",
+		"description": "AU Optronics Corp"
 	},
 	{
-		"Symbol": "AUPH",
-		"Description": "Aurinia Pharm Ord"
+		"symbol": "AUPH",
+		"description": "Aurinia Pharm Ord"
 	},
 	{
-		"Symbol": "AUXO",
-		"Description": "Auxilio, Inc."
+		"symbol": "AUXO",
+		"description": "Auxilio, Inc."
 	},
 	{
-		"Symbol": "AUY",
-		"Description": "Yamana Gold Inc."
+		"symbol": "AUY",
+		"description": "Yamana Gold Inc."
 	},
 	{
-		"Symbol": "AVA",
-		"Description": "Avista Corporation"
+		"symbol": "AVA",
+		"description": "Avista Corporation"
 	},
 	{
-		"Symbol": "AVAL",
-		"Description": "Grupo Aval Acciones y Valores S.A."
+		"symbol": "AVAL",
+		"description": "Grupo Aval Acciones y Valores S.A."
 	},
 	{
-		"Symbol": "AVAV",
-		"Description": "Aerovironment Inc"
+		"symbol": "AVAV",
+		"description": "Aerovironment Inc"
 	},
 	{
-		"Symbol": "AVB",
-		"Description": "AvalonBay Communities, Inc."
+		"symbol": "AVB",
+		"description": "AvalonBay Communities, Inc."
 	},
 	{
-		"Symbol": "AVD",
-		"Description": "American Vanguard Corporation"
+		"symbol": "AVD",
+		"description": "American Vanguard Corporation"
 	},
 	{
-		"Symbol": "AVDL",
-		"Description": "Avadel Pharmaceuticals Plc"
+		"symbol": "AVDL",
+		"description": "Avadel Pharmaceuticals Plc"
 	},
 	{
-		"Symbol": "AVEO",
-		"Description": "Aveo Pharmaceuticals"
+		"symbol": "AVEO",
+		"description": "Aveo Pharmaceuticals"
 	},
 	{
-		"Symbol": "AVGO",
-		"Description": "Broadcom Ltd"
+		"symbol": "AVGO",
+		"description": "Broadcom Ltd"
 	},
 	{
-		"Symbol": "AVGR",
-		"Description": "Avinger Inc Cmn"
+		"symbol": "AVGR",
+		"description": "Avinger Inc Cmn"
 	},
 	{
-		"Symbol": "AVH",
-		"Description": "Avianca Holdings S.A."
+		"symbol": "AVH",
+		"description": "Avianca Holdings S.A."
 	},
 	{
-		"Symbol": "AVHI",
-		"Description": "A V Homes Inc"
+		"symbol": "AVHI",
+		"description": "A V Homes Inc"
 	},
 	{
-		"Symbol": "AVID",
-		"Description": "Avid Tech Inc"
+		"symbol": "AVID",
+		"description": "Avid Tech Inc"
 	},
 	{
-		"Symbol": "AVIR",
-		"Description": "Aviragen Therapeutic"
+		"symbol": "AVIR",
+		"description": "Aviragen Therapeutic"
 	},
 	{
-		"Symbol": "AVK",
-		"Description": "Advent Claymore Convertible Securities and Income Fund"
+		"symbol": "AVK",
+		"description": "Advent Claymore Convertible Securities and Income Fund"
 	},
 	{
-		"Symbol": "AVNW",
-		"Description": "Aviat Networks Inc"
+		"symbol": "AVNW",
+		"description": "Aviat Networks Inc"
 	},
 	{
-		"Symbol": "AVP",
-		"Description": "Avon Products, Inc."
+		"symbol": "AVP",
+		"description": "Avon Products, Inc."
 	},
 	{
-		"Symbol": "AVT",
-		"Description": "Avnet, Inc."
+		"symbol": "AVT",
+		"description": "Avnet, Inc."
 	},
 	{
-		"Symbol": "AVX",
-		"Description": "AVX Corporation"
+		"symbol": "AVX",
+		"description": "AVX Corporation"
 	},
 	{
-		"Symbol": "AVXL",
-		"Description": "Anavex Lf SC Cmn"
+		"symbol": "AVXL",
+		"description": "Anavex Lf SC Cmn"
 	},
 	{
-		"Symbol": "AVXS",
-		"Description": "Avexis Inc Cmn Stk"
+		"symbol": "AVXS",
+		"description": "Avexis Inc Cmn Stk"
 	},
 	{
-		"Symbol": "AVY",
-		"Description": "Avery Dennison Corporation"
+		"symbol": "AVY",
+		"description": "Avery Dennison Corporation"
 	},
 	{
-		"Symbol": "AWF",
-		"Description": "Alliance World Dollar Government Fund II"
+		"symbol": "AWF",
+		"description": "Alliance World Dollar Government Fund II"
 	},
 	{
-		"Symbol": "AWH",
-		"Description": "Allied World Assurance Company Holdings, AG"
+		"symbol": "AWH",
+		"description": "Allied World Assurance Company Holdings, AG"
 	},
 	{
-		"Symbol": "AWI",
-		"Description": "Armstrong World Industries Inc"
+		"symbol": "AWI",
+		"description": "Armstrong World Industries Inc"
 	},
 	{
-		"Symbol": "AWK",
-		"Description": "American Water Works"
+		"symbol": "AWK",
+		"description": "American Water Works"
 	},
 	{
-		"Symbol": "AWP",
-		"Description": "Alpine Global Premier Properties Fund"
+		"symbol": "AWP",
+		"description": "Alpine Global Premier Properties Fund"
 	},
 	{
-		"Symbol": "AWR",
-		"Description": "American States Water Company"
+		"symbol": "AWR",
+		"description": "American States Water Company"
 	},
 	{
-		"Symbol": "AWRE",
-		"Description": "Aware Inc"
+		"symbol": "AWRE",
+		"description": "Aware Inc"
 	},
 	{
-		"Symbol": "AWX",
-		"Description": "Avalon Holdings Corporation"
+		"symbol": "AWX",
+		"description": "Avalon Holdings Corporation"
 	},
 	{
-		"Symbol": "AXAR",
-		"Description": "Axar Acquisition Corp."
+		"symbol": "AXAR",
+		"description": "Axar Acquisition Corp."
 	},
 	{
-		"Symbol": "AXARU",
-		"Description": "Axar Acquisition Corp."
+		"symbol": "AXARU",
+		"description": "Axar Acquisition Corp."
 	},
 	{
-		"Symbol": "AXARW",
-		"Description": "Axar Acquisition Corp."
+		"symbol": "AXARW",
+		"description": "Axar Acquisition Corp."
 	},
 	{
-		"Symbol": "AXAS",
-		"Description": "Abraxas Petro Corp"
+		"symbol": "AXAS",
+		"description": "Abraxas Petro Corp"
 	},
 	{
-		"Symbol": "AXDX",
-		"Description": "Accelerate Diagnosti"
+		"symbol": "AXDX",
+		"description": "Accelerate Diagnosti"
 	},
 	{
-		"Symbol": "AXE",
-		"Description": "Anixter International Inc."
+		"symbol": "AXE",
+		"description": "Anixter International Inc."
 	},
 	{
-		"Symbol": "AXGN",
-		"Description": "Axogen Inc Cmn"
+		"symbol": "AXGN",
+		"description": "Axogen Inc Cmn"
 	},
 	{
-		"Symbol": "AXL",
-		"Description": "American Axle & Manufacturing Holdings, Inc."
+		"symbol": "AXL",
+		"description": "American Axle & Manufacturing Holdings, Inc."
 	},
 	{
-		"Symbol": "AXN",
-		"Description": "Aoxing Pharmaceutical Company, Inc."
+		"symbol": "AXN",
+		"description": "Aoxing Pharmaceutical Company, Inc."
 	},
 	{
-		"Symbol": "AXON",
-		"Description": "Axovant Sciences Ltd."
+		"symbol": "AXON",
+		"description": "Axovant Sciences Ltd."
 	},
 	{
-		"Symbol": "AXP",
-		"Description": "American Express Company"
+		"symbol": "AXP",
+		"description": "American Express Company"
 	},
 	{
-		"Symbol": "AXR",
-		"Description": "AMREP Corporation"
+		"symbol": "AXR",
+		"description": "AMREP Corporation"
 	},
 	{
-		"Symbol": "AXS",
-		"Description": "Axis Capital Holdings Limited"
+		"symbol": "AXS",
+		"description": "Axis Capital Holdings Limited"
 	},
 	{
-		"Symbol": "AXS^C",
-		"Description": "Axis Capital Holdings Limited"
+		"symbol": "AXS^C",
+		"description": "Axis Capital Holdings Limited"
 	},
 	{
-		"Symbol": "AXS^D",
-		"Description": "Axis Capital Holdings Limited"
+		"symbol": "AXS^D",
+		"description": "Axis Capital Holdings Limited"
 	},
 	{
-		"Symbol": "AXS^E",
-		"Description": "Axis Capital Holdings Limited"
+		"symbol": "AXS^E",
+		"description": "Axis Capital Holdings Limited"
 	},
 	{
-		"Symbol": "AXSM",
-		"Description": "Axsome Thera Cmn Stk"
+		"symbol": "AXSM",
+		"description": "Axsome Thera Cmn Stk"
 	},
 	{
-		"Symbol": "AXTA",
-		"Description": "Axalta Coating Systems Ltd."
+		"symbol": "AXTA",
+		"description": "Axalta Coating Systems Ltd."
 	},
 	{
-		"Symbol": "AXTI",
-		"Description": "Axt Inc"
+		"symbol": "AXTI",
+		"description": "Axt Inc"
 	},
 	{
-		"Symbol": "AXU",
-		"Description": "Alexco Resource Corp"
+		"symbol": "AXU",
+		"description": "Alexco Resource Corp"
 	},
 	{
-		"Symbol": "AYA",
-		"Description": "Amaya Inc Cmn Stk"
+		"symbol": "AYA",
+		"description": "Amaya Inc Cmn Stk"
 	},
 	{
-		"Symbol": "AYI",
-		"Description": "Acuity Brands Inc"
+		"symbol": "AYI",
+		"description": "Acuity Brands Inc"
 	},
 	{
-		"Symbol": "AYR",
-		"Description": "Aircastle Limited"
+		"symbol": "AYR",
+		"description": "Aircastle Limited"
 	},
 	{
-		"Symbol": "AZN",
-		"Description": "Astrazeneca PLC"
+		"symbol": "AZN",
+		"description": "Astrazeneca PLC"
 	},
 	{
-		"Symbol": "AZO",
-		"Description": "AutoZone, Inc."
+		"symbol": "AZO",
+		"description": "AutoZone, Inc."
 	},
 	{
-		"Symbol": "AZPN",
-		"Description": "Aspen Technology Cmn"
+		"symbol": "AZPN",
+		"description": "Aspen Technology Cmn"
 	},
 	{
-		"Symbol": "AZRE",
-		"Description": "Azure Power Global Limited"
+		"symbol": "AZRE",
+		"description": "Azure Power Global Limited"
 	},
 	{
-		"Symbol": "AZRX",
-		"Description": "Azurrx Biopharma Inc"
+		"symbol": "AZRX",
+		"description": "Azurrx Biopharma Inc"
 	},
 	{
-		"Symbol": "AZZ",
-		"Description": "AZZ Inc."
+		"symbol": "AZZ",
+		"description": "AZZ Inc."
 	},
 	{
-		"Symbol": "B",
-		"Description": "Barnes Group, Inc."
+		"symbol": "B",
+		"description": "Barnes Group, Inc."
 	},
 	{
-		"Symbol": "BA",
-		"Description": "Boeing Company" 
+		"symbol": "BA",
+		"description": "Boeing Company" 
 	},
 	{
-		"Symbol": "BAA",
-		"Description": "BANRO CORPORATION"
+		"symbol": "BAA",
+		"description": "BANRO CORPORATION"
 	},
 	{
-		"Symbol": "BABA",
-		"Description": "Alibaba Group Holding Limited"
+		"symbol": "BABA",
+		"description": "Alibaba Group Holding Limited"
 	},
 	{
-		"Symbol": "BABY",
-		"Description": "Natus Medical Inc"
+		"symbol": "BABY",
+		"description": "Natus Medical Inc"
 	},
 	{
-		"Symbol": "BAC",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC.WS.A",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC.WS.A",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC.WS.B",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC.WS.B",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^A",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^A",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^C",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^C",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^D",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^D",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^E",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^E",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^I",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^I",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^L",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^L",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^W",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^W",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAC^Y",
-		"Description": "Bank of America Corporation"
+		"symbol": "BAC^Y",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BAF",
-		"Description": "BlackRock Income Investment Quality Trust"
+		"symbol": "BAF",
+		"description": "BlackRock Income Investment Quality Trust"
 	},
 	{
-		"Symbol": "BAH",
-		"Description": "Booz Allen Hamilton Holding Corporation"
+		"symbol": "BAH",
+		"description": "Booz Allen Hamilton Holding Corporation"
 	},
 	{
-		"Symbol": "BAK",
-		"Description": "Braskem S.A."
+		"symbol": "BAK",
+		"description": "Braskem S.A."
 	},
 	{
-		"Symbol": "BAM",
-		"Description": "Brookfield Asset Management Inc"
+		"symbol": "BAM",
+		"description": "Brookfield Asset Management Inc"
 	},
 	{
-		"Symbol": "BANC",
-		"Description": "Banc of California, Inc."
+		"symbol": "BANC",
+		"description": "Banc of California, Inc."
 	},
 	{
-		"Symbol": "BANC^C",
-		"Description": "Banc of California, Inc."
+		"symbol": "BANC^C",
+		"description": "Banc of California, Inc."
 	},
 	{
-		"Symbol": "BANC^D",
-		"Description": "Banc of California, Inc."
+		"symbol": "BANC^D",
+		"description": "Banc of California, Inc."
 	},
 	{
-		"Symbol": "BANC^E",
-		"Description": "Banc of California, Inc."
+		"symbol": "BANC^E",
+		"description": "Banc of California, Inc."
 	},
 	{
-		"Symbol": "BANF",
-		"Description": "Bancfirst Corp"
+		"symbol": "BANF",
+		"description": "Bancfirst Corp"
 	},
 	{
-		"Symbol": "BANFP",
-		"Description": "Bfc Capital Trust II"
+		"symbol": "BANFP",
+		"description": "Bfc Capital Trust II"
 	},
 	{
-		"Symbol": "BANR",
-		"Description": "Banner Corporation"
+		"symbol": "BANR",
+		"description": "Banner Corporation"
 	},
 	{
-		"Symbol": "BANX",
-		"Description": "Stonecastle Fncl Cp"
+		"symbol": "BANX",
+		"description": "Stonecastle Fncl Cp"
 	},
 	{
-		"Symbol": "BAP",
-		"Description": "Credicorp Ltd."
+		"symbol": "BAP",
+		"description": "Credicorp Ltd."
 	},
 	{
-		"Symbol": "BAS",
-		"Description": "Basic Energy Services, Inc."
+		"symbol": "BAS",
+		"description": "Basic Energy Services, Inc."
 	},
 	{
-		"Symbol": "BASI",
-		"Description": "Bioanalytical Syst"
+		"symbol": "BASI",
+		"description": "Bioanalytical Syst"
 	},
 	{
-		"Symbol": "BATRA",
-		"Description": "Liberty Braves CS A"
+		"symbol": "BATRA",
+		"description": "Liberty Braves CS A"
 	},
 	{
-		"Symbol": "BATRK",
-		"Description": "Liberty Braves CS C"
+		"symbol": "BATRK",
+		"description": "Liberty Braves CS C"
 	},
 	{
-		"Symbol": "BAX",
-		"Description": "Baxter International Inc."
+		"symbol": "BAX",
+		"description": "Baxter International Inc."
 	},
 	{
-		"Symbol": "BBBY",
-		"Description": "Bed Bath & Beyond"
+		"symbol": "BBBY",
+		"description": "Bed Bath & Beyond"
 	},
 	{
-		"Symbol": "BBC",
-		"Description": "Bioshrs Biotec Cl TR"
+		"symbol": "BBC",
+		"description": "Bioshrs Biotec Cl TR"
 	},
 	{
-		"Symbol": "BBD",
-		"Description": "Banco Bradesco Sa"
+		"symbol": "BBD",
+		"description": "Banco Bradesco Sa"
 	},
 	{
-		"Symbol": "BBDO",
-		"Description": "Banco Bradesco Sa"
+		"symbol": "BBDO",
+		"description": "Banco Bradesco Sa"
 	},
 	{
-		"Symbol": "BBF",
-		"Description": "BlackRock Municipal Income Investment Trust"
+		"symbol": "BBF",
+		"description": "BlackRock Municipal Income Investment Trust"
 	},
 	{
-		"Symbol": "BBG",
-		"Description": "Bill Barrett Corporation"
+		"symbol": "BBG",
+		"description": "Bill Barrett Corporation"
 	},
 	{
-		"Symbol": "BBGI",
-		"Description": "Beasley Brdcst Gr"
+		"symbol": "BBGI",
+		"description": "Beasley Brdcst Gr"
 	},
 	{
-		"Symbol": "BBH",
-		"Description": "Vaneck Vectors Biote"
+		"symbol": "BBH",
+		"description": "Vaneck Vectors Biote"
 	},
 	{
-		"Symbol": "BBK",
-		"Description": "Blackrock Municipal Bond Trust"
+		"symbol": "BBK",
+		"description": "Blackrock Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BBL",
-		"Description": "BHP Billiton plc"
+		"symbol": "BBL",
+		"description": "BHP Billiton plc"
 	},
 	{
-		"Symbol": "BBN",
-		"Description": "BalckRock Taxable Municipal Bond Trust"
+		"symbol": "BBN",
+		"description": "BalckRock Taxable Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BBOX",
-		"Description": "Black Box Cp"
+		"symbol": "BBOX",
+		"description": "Black Box Cp"
 	},
 	{
-		"Symbol": "BBP",
-		"Description": "Bioshrs Biotech Prod"
+		"symbol": "BBP",
+		"description": "Bioshrs Biotech Prod"
 	},
 	{
-		"Symbol": "BBRG",
-		"Description": "Bravo Brio Restauran"
+		"symbol": "BBRG",
+		"description": "Bravo Brio Restauran"
 	},
 	{
-		"Symbol": "BBRY",
-		"Description": "Blackberry Limited"
+		"symbol": "BBRY",
+		"description": "Blackberry Limited"
 	},
 	{
-		"Symbol": "BBSI",
-		"Description": "Barrett Business S"
+		"symbol": "BBSI",
+		"description": "Barrett Business S"
 	},
 	{
-		"Symbol": "BBT",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBT^D",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT^D",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBT^E",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT^E",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBT^F",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT^F",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBT^G",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT^G",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBT^H",
-		"Description": "BB&T Corporation"
+		"symbol": "BBT^H",
+		"description": "BB&T Corporation"
 	},
 	{
-		"Symbol": "BBU",
-		"Description": "Brookfield Business Partners L.P."
+		"symbol": "BBU",
+		"description": "Brookfield Business Partners L.P."
 	},
 	{
-		"Symbol": "BBVA",
-		"Description": "Banco Bilbao Viscaya Argentaria S.A."
+		"symbol": "BBVA",
+		"description": "Banco Bilbao Viscaya Argentaria S.A."
 	},
 	{
-		"Symbol": "BBW",
-		"Description": "Build-A-Bear Workshop, Inc."
+		"symbol": "BBW",
+		"description": "Build-A-Bear Workshop, Inc."
 	},
 	{
-		"Symbol": "BBY",
-		"Description": "Best Buy Co., Inc."
+		"symbol": "BBY",
+		"description": "Best Buy Co., Inc."
 	},
 	{
-		"Symbol": "BC",
-		"Description": "Brunswick Corporation"
+		"symbol": "BC",
+		"description": "Brunswick Corporation"
 	},
 	{
-		"Symbol": "BCBP",
-		"Description": "Bcb Bancorp Inc"
+		"symbol": "BCBP",
+		"description": "Bcb Bancorp Inc"
 	},
 	{
-		"Symbol": "BCC",
-		"Description": "Boise Cascade, L.L.C."
+		"symbol": "BCC",
+		"description": "Boise Cascade, L.L.C."
 	},
 	{
-		"Symbol": "BCE",
-		"Description": "BCE, Inc."
+		"symbol": "BCE",
+		"description": "BCE, Inc."
 	},
 	{
-		"Symbol": "BCEI",
-		"Description": "Bonanza Creek Energy, Inc."
+		"symbol": "BCEI",
+		"description": "Bonanza Creek Energy, Inc."
 	},
 	{
-		"Symbol": "BCH",
-		"Description": "Banco De Chile"
+		"symbol": "BCH",
+		"description": "Banco De Chile"
 	},
 	{
-		"Symbol": "BCLI",
-		"Description": "Brainstorm Cell Cmn"
+		"symbol": "BCLI",
+		"description": "Brainstorm Cell Cmn"
 	},
 	{
-		"Symbol": "BCO",
-		"Description": "Brinks Company "
+		"symbol": "BCO",
+		"description": "Brinks Company "
 	},
 	{
-		"Symbol": "BCOM",
-		"Description": "B Communications Ltd"
+		"symbol": "BCOM",
+		"description": "B Communications Ltd"
 	},
 	{
-		"Symbol": "BCOR",
-		"Description": "Blucora Inc Cmn"
+		"symbol": "BCOR",
+		"description": "Blucora Inc Cmn"
 	},
 	{
-		"Symbol": "BCOV",
-		"Description": "Brightcove Inc"
+		"symbol": "BCOV",
+		"description": "Brightcove Inc"
 	},
 	{
-		"Symbol": "BCPC",
-		"Description": "Balchem Cp"
+		"symbol": "BCPC",
+		"description": "Balchem Cp"
 	},
 	{
-		"Symbol": "BCR",
-		"Description": "C.R. Bard, Inc."
+		"symbol": "BCR",
+		"description": "C.R. Bard, Inc."
 	},
 	{
-		"Symbol": "BCRH",
-		"Description": "Blue Capital Reinsurance Holdings Ltd."
+		"symbol": "BCRH",
+		"description": "Blue Capital Reinsurance Holdings Ltd."
 	},
 	{
-		"Symbol": "BCRX",
-		"Description": "Biocryst Pharma Inc"
+		"symbol": "BCRX",
+		"description": "Biocryst Pharma Inc"
 	},
 	{
-		"Symbol": "BCS",
-		"Description": "Barclays PLC"
+		"symbol": "BCS",
+		"description": "Barclays PLC"
 	},
 	{
-		"Symbol": "BCS^D",
-		"Description": "Barclays PLC"
+		"symbol": "BCS^D",
+		"description": "Barclays PLC"
 	},
 	{
-		"Symbol": "BCTF",
-		"Description": "Bancorp 34 Inc"
+		"symbol": "BCTF",
+		"description": "Bancorp 34 Inc"
 	},
 	{
-		"Symbol": "BCV",
-		"Description": "Bancroft Fund Limited"
+		"symbol": "BCV",
+		"description": "Bancroft Fund Limited"
 	},
 	{
-		"Symbol": "BCV^A",
-		"Description": "Bancroft Fund Limited"
+		"symbol": "BCV^A",
+		"description": "Bancroft Fund Limited"
 	},
 	{
-		"Symbol": "BCX",
-		"Description": "BlackRock Resources"
+		"symbol": "BCX",
+		"description": "BlackRock Resources"
 	},
 	{
-		"Symbol": "BDC",
-		"Description": "Belden Inc"
+		"symbol": "BDC",
+		"description": "Belden Inc"
 	},
 	{
-		"Symbol": "BDC^B",
-		"Description": "Belden Inc"
+		"symbol": "BDC^B",
+		"description": "Belden Inc"
 	},
 	{
-		"Symbol": "BDE",
-		"Description": "Black Diamond Inc"
+		"symbol": "BDE",
+		"description": "Black Diamond Inc"
 	},
 	{
-		"Symbol": "BDGE",
-		"Description": "Bridge Bancorp Inc"
+		"symbol": "BDGE",
+		"description": "Bridge Bancorp Inc"
 	},
 	{
-		"Symbol": "BDJ",
-		"Description": "Blackrock Enhanced Equity Dividend Trust"
+		"symbol": "BDJ",
+		"description": "Blackrock Enhanced Equity Dividend Trust"
 	},
 	{
-		"Symbol": "BDL",
-		"Description": "Flanigans Enterprises, Inc."
+		"symbol": "BDL",
+		"description": "Flanigans Enterprises, Inc."
 	},
 	{
-		"Symbol": "BDN",
-		"Description": "Brandywine Realty Trust"
+		"symbol": "BDN",
+		"description": "Brandywine Realty Trust"
 	},
 	{
-		"Symbol": "BDN^E",
-		"Description": "Brandywine Realty Tr"
+		"symbol": "BDN^E",
+		"description": "Brandywine Realty Tr"
 	},
 	{
-		"Symbol": "BDR",
-		"Description": "Blonder Tongue Laboratories, Inc."
+		"symbol": "BDR",
+		"description": "Blonder Tongue Laboratories, Inc."
 	},
 	{
-		"Symbol": "BDSI",
-		"Description": "Biodelivery Sci Intl"
+		"symbol": "BDSI",
+		"description": "Biodelivery Sci Intl"
 	},
 	{
-		"Symbol": "BDX",
-		"Description": "Becton, Dickinson and Company"
+		"symbol": "BDX",
+		"description": "Becton, Dickinson and Company"
 	},
 	{
-		"Symbol": "BEAT",
-		"Description": "Biotelemetry Inc"
+		"symbol": "BEAT",
+		"description": "Biotelemetry Inc"
 	},
 	{
-		"Symbol": "BEAV",
-		"Description": "BE Aerospace Inc"
+		"symbol": "BEAV",
+		"description": "BE Aerospace Inc"
 	},
 	{
-		"Symbol": "BEBE",
-		"Description": "Bebe Stores Inc"
+		"symbol": "BEBE",
+		"description": "Bebe Stores Inc"
 	},
 	{
-		"Symbol": "BECN",
-		"Description": "Beacon Roofing Suppl"
+		"symbol": "BECN",
+		"description": "Beacon Roofing Suppl"
 	},
 	{
-		"Symbol": "BEL",
-		"Description": "Belmond Ltd."
+		"symbol": "BEL",
+		"description": "Belmond Ltd."
 	},
 	{
-		"Symbol": "BELFA",
-		"Description": "Bel Fuse Cl A"
+		"symbol": "BELFA",
+		"description": "Bel Fuse Cl A"
 	},
 	{
-		"Symbol": "BELFB",
-		"Description": "Bel Fuse Inc Cl B"
+		"symbol": "BELFB",
+		"description": "Bel Fuse Inc Cl B"
 	},
 	{
-		"Symbol": "BEN",
-		"Description": "Franklin Resources, Inc."
+		"symbol": "BEN",
+		"description": "Franklin Resources, Inc."
 	},
 	{
-		"Symbol": "BEP",
-		"Description": "Brookfield Renewable Partners L.P."
+		"symbol": "BEP",
+		"description": "Brookfield Renewable Partners L.P."
 	},
 	{
-		"Symbol": "BERY",
-		"Description": "BPC Acquisition Corp"
+		"symbol": "BERY",
+		"description": "BPC Acquisition Corp"
 	},
 	{
-		"Symbol": "BETR",
-		"Description": "Amplify Snack Brands, inc."
+		"symbol": "BETR",
+		"description": "Amplify Snack Brands, inc."
 	},
 	{
-		"Symbol": "BF.A",
-		"Description": "Brown Forman Corporation"
+		"symbol": "BF.A",
+		"description": "Brown Forman Corporation"
 	},
 	{
-		"Symbol": "BF.B",
-		"Description": "Brown Forman Corporation"
+		"symbol": "BF.B",
+		"description": "Brown Forman Corporation"
 	},
 	{
-		"Symbol": "BFAM",
-		"Description": "Bright Horizons Family Solutions Inc."
+		"symbol": "BFAM",
+		"description": "Bright Horizons Family Solutions Inc."
 	},
 	{
-		"Symbol": "BFIN",
-		"Description": "Bankfinancial Corpor"
+		"symbol": "BFIN",
+		"description": "Bankfinancial Corpor"
 	},
 	{
-		"Symbol": "BFIT",
-		"Description": "Glbl X Hlth Well ETF"
+		"symbol": "BFIT",
+		"description": "Glbl X Hlth Well ETF"
 	},
 	{
-		"Symbol": "BFK",
-		"Description": "BlackRock Municipal Income Trust"
+		"symbol": "BFK",
+		"description": "BlackRock Municipal Income Trust"
 	},
 	{
-		"Symbol": "BFO",
-		"Description": "Blackrock Florida Municipal 2020 Term Trust"
+		"symbol": "BFO",
+		"description": "Blackrock Florida Municipal 2020 Term Trust"
 	},
 	{
-		"Symbol": "BFR",
-		"Description": "BBVA Banco Frances S.A."
+		"symbol": "BFR",
+		"description": "BBVA Banco Frances S.A."
 	},
 	{
-		"Symbol": "BFS",
-		"Description": "Saul Centers, Inc."
+		"symbol": "BFS",
+		"description": "Saul Centers, Inc."
 	},
 	{
-		"Symbol": "BFS^C",
-		"Description": "Saul Centers, Inc."
+		"symbol": "BFS^C",
+		"description": "Saul Centers, Inc."
 	},
 	{
-		"Symbol": "BFY",
-		"Description": "BlackRock New York Municipal Income Trust II"
+		"symbol": "BFY",
+		"description": "BlackRock New York Municipal Income Trust II"
 	},
 	{
-		"Symbol": "BFZ",
-		"Description": "BlackRock California Municipal Income Trust"
+		"symbol": "BFZ",
+		"description": "BlackRock California Municipal Income Trust"
 	},
 	{
-		"Symbol": "BG",
-		"Description": "Bunge Limited"
+		"symbol": "BG",
+		"description": "Bunge Limited"
 	},
 	{
-		"Symbol": "BGB",
-		"Description": "Blackstone / GSO Strategic Credit Fund"
+		"symbol": "BGB",
+		"description": "Blackstone / GSO Strategic Credit Fund"
 	},
 	{
-		"Symbol": "BGC",
-		"Description": "General Cable Corporation"
+		"symbol": "BGC",
+		"description": "General Cable Corporation"
 	},
 	{
-		"Symbol": "BGCA",
-		"Description": "BGC Partners, Inc."
+		"symbol": "BGCA",
+		"description": "BGC Partners, Inc."
 	},
 	{
-		"Symbol": "BGCP",
-		"Description": "Bgc Partners Cl A"
+		"symbol": "BGCP",
+		"description": "Bgc Partners Cl A"
 	},
 	{
-		"Symbol": "BGE^B",
-		"Description": "Baltimore Gas & Electric Company"
+		"symbol": "BGE^B",
+		"description": "Baltimore Gas & Electric Company"
 	},
 	{
-		"Symbol": "BGFV",
-		"Description": "Big 5 Sporting"
+		"symbol": "BGFV",
+		"description": "Big 5 Sporting"
 	},
 	{
-		"Symbol": "BGG",
-		"Description": "Briggs & Stratton Corporation"
+		"symbol": "BGG",
+		"description": "Briggs & Stratton Corporation"
 	},
 	{
-		"Symbol": "BGH",
-		"Description": "Babson Global Short Duration High Yield Fund"
+		"symbol": "BGH",
+		"description": "Babson Global Short Duration High Yield Fund"
 	},
 	{
-		"Symbol": "BGI",
-		"Description": "Birks Group Inc."
+		"symbol": "BGI",
+		"description": "Birks Group Inc."
 	},
 	{
-		"Symbol": "BGNE",
-		"Description": "Beigene Ltd. Ads"
+		"symbol": "BGNE",
+		"description": "Beigene Ltd. Ads"
 	},
 	{
-		"Symbol": "BGR",
-		"Description": "BlackRock Energy and Resources Trust"
+		"symbol": "BGR",
+		"description": "BlackRock Energy and Resources Trust"
 	},
 	{
-		"Symbol": "BGS",
-		"Description": "B&G Foods, Inc."
+		"symbol": "BGS",
+		"description": "B&G Foods, Inc."
 	},
 	{
-		"Symbol": "BGSF",
-		"Description": "BG Staffing Inc"
+		"symbol": "BGSF",
+		"description": "BG Staffing Inc"
 	},
 	{
-		"Symbol": "BGT",
-		"Description": "Blackrock Global"
+		"symbol": "BGT",
+		"description": "Blackrock Global"
 	},
 	{
-		"Symbol": "BGX",
-		"Description": "Blackstone GSO Long Short Credit Income Fund"
+		"symbol": "BGX",
+		"description": "Blackstone GSO Long Short Credit Income Fund"
 	},
 	{
-		"Symbol": "BGY",
-		"Description": "BLACKROCK INTERNATIONAL, LTD."
+		"symbol": "BGY",
+		"description": "BLACKROCK INTERNATIONAL, LTD."
 	},
 	{
-		"Symbol": "BH",
-		"Description": "Biglari Holdings Inc."
+		"symbol": "BH",
+		"description": "Biglari Holdings Inc."
 	},
 	{
-		"Symbol": "BHAC",
-		"Description": "Barington/Hilco Acq"
+		"symbol": "BHAC",
+		"description": "Barington/Hilco Acq"
 	},
 	{
-		"Symbol": "BHACR",
-		"Description": "Barington/Hilco Rgts"
+		"symbol": "BHACR",
+		"description": "Barington/Hilco Rgts"
 	},
 	{
-		"Symbol": "BHACU",
-		"Description": "Barington/Hilco Uts"
+		"symbol": "BHACU",
+		"description": "Barington/Hilco Uts"
 	},
 	{
-		"Symbol": "BHACW",
-		"Description": "Barington/Hilco Wts"
+		"symbol": "BHACW",
+		"description": "Barington/Hilco Wts"
 	},
 	{
-		"Symbol": "BHB",
-		"Description": "Bar Harbor Bankshares, Inc."
+		"symbol": "BHB",
+		"description": "Bar Harbor Bankshares, Inc."
 	},
 	{
-		"Symbol": "BHBK",
-		"Description": "Blue Hills Bancorp"
+		"symbol": "BHBK",
+		"description": "Blue Hills Bancorp"
 	},
 	{
-		"Symbol": "BHE",
-		"Description": "Benchmark Electronics, Inc."
+		"symbol": "BHE",
+		"description": "Benchmark Electronics, Inc."
 	},
 	{
-		"Symbol": "BHI",
-		"Description": "Baker Hughes Incorporated"
+		"symbol": "BHI",
+		"description": "Baker Hughes Incorporated"
 	},
 	{
-		"Symbol": "BHK",
-		"Description": "Blackrock Core Bond Trust"
+		"symbol": "BHK",
+		"description": "Blackrock Core Bond Trust"
 	},
 	{
-		"Symbol": "BHL",
-		"Description": "Blackrock Defined Opportunity Credit Trust"
+		"symbol": "BHL",
+		"description": "Blackrock Defined Opportunity Credit Trust"
 	},
 	{
-		"Symbol": "BHLB",
-		"Description": "Berkshire Hills Bancorp, Inc."
+		"symbol": "BHLB",
+		"description": "Berkshire Hills Bancorp, Inc."
 	},
 	{
-		"Symbol": "BHP",
-		"Description": "BHP Billiton Limited"
+		"symbol": "BHP",
+		"description": "BHP Billiton Limited"
 	},
 	{
-		"Symbol": "BHV",
-		"Description": "BlackRock Virginia Municipal Bond Trust"
+		"symbol": "BHV",
+		"description": "BlackRock Virginia Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BIB",
-		"Description": "Proshares Ultra Nasdaq Biotech"
+		"symbol": "BIB",
+		"description": "Proshares Ultra Nasdaq Biotech"
 	},
 	{
-		"Symbol": "BICK",
-		"Description": "First Trust BICK Ind"
+		"symbol": "BICK",
+		"description": "First Trust BICK Ind"
 	},
 	{
-		"Symbol": "BID",
-		"Description": "Sothebys"
+		"symbol": "BID",
+		"description": "Sothebys"
 	},
 	{
-		"Symbol": "BIDU",
-		"Description": "Baidu Inc"
+		"symbol": "BIDU",
+		"description": "Baidu Inc"
 	},
 	{
-		"Symbol": "BIF",
-		"Description": "USLIFE Income Fund, Inc."
+		"symbol": "BIF",
+		"description": "USLIFE Income Fund, Inc."
 	},
 	{
-		"Symbol": "BIG",
-		"Description": "Big Lots, Inc."
+		"symbol": "BIG",
+		"description": "Big Lots, Inc."
 	},
 	{
-		"Symbol": "BIIB",
-		"Description": "Biogen Inc Cmn"
+		"symbol": "BIIB",
+		"description": "Biogen Inc Cmn"
 	},
 	{
-		"Symbol": "BIIBV",
-		"Description": "Biogen Inc."
+		"symbol": "BIIBV",
+		"description": "Biogen Inc."
 	},
 	{
-		"Symbol": "BIO",
-		"Description": "Bio-Rad Laboratories, Inc."
+		"symbol": "BIO",
+		"description": "Bio-Rad Laboratories, Inc."
 	},
 	{
-		"Symbol": "BIO.B",
-		"Description": "Bio-Rad Laboratories, Inc."
+		"symbol": "BIO.B",
+		"description": "Bio-Rad Laboratories, Inc."
 	},
 	{
-		"Symbol": "BIOA",
-		"Description": "BioAmber Inc."
+		"symbol": "BIOA",
+		"description": "BioAmber Inc."
 	},
 	{
-		"Symbol": "BIOA.WS",
-		"Description": "BioAmber Inc."
+		"symbol": "BIOA.WS",
+		"description": "BioAmber Inc."
 	},
 	{
-		"Symbol": "BIOC",
-		"Description": "Biocept Inc"
+		"symbol": "BIOC",
+		"description": "Biocept Inc"
 	},
 	{
-		"Symbol": "BIOL",
-		"Description": "Biolase Inc Cmn"
+		"symbol": "BIOL",
+		"description": "Biolase Inc Cmn"
 	},
 	{
-		"Symbol": "BIOP",
-		"Description": "Bioptix Inc."
+		"symbol": "BIOP",
+		"description": "Bioptix Inc."
 	},
 	{
-		"Symbol": "BIOS",
-		"Description": "Bioscrip Inc"
+		"symbol": "BIOS",
+		"description": "Bioscrip Inc"
 	},
 	{
-		"Symbol": "BIP",
-		"Description": "Brookfield Infrastructure Partners LP"
+		"symbol": "BIP",
+		"description": "Brookfield Infrastructure Partners LP"
 	},
 	{
-		"Symbol": "BIS",
-		"Description": "Proshrs Ulsht Nq Bio"
+		"symbol": "BIS",
+		"description": "Proshrs Ulsht Nq Bio"
 	},
 	{
-		"Symbol": "BIT",
-		"Description": "BlackRock Multi-Sector Income Trust"
+		"symbol": "BIT",
+		"description": "BlackRock Multi-Sector Income Trust"
 	},
 	{
-		"Symbol": "BITA",
-		"Description": "Bitauto Holdings Limited"
+		"symbol": "BITA",
+		"description": "Bitauto Holdings Limited"
 	},
 	{
-		"Symbol": "BIVV",
-		"Description": "Bioverativ Inc"
+		"symbol": "BIVV",
+		"description": "Bioverativ Inc"
 	},
 	{
-		"Symbol": "BIVVV",
-		"Description": "Bioverativ Inc"
+		"symbol": "BIVVV",
+		"description": "Bioverativ Inc"
 	},
 	{
-		"Symbol": "BJRI",
-		"Description": "Bj's Restaurants Inc"
+		"symbol": "BJRI",
+		"description": "Bj's Restaurants Inc"
 	},
 	{
-		"Symbol": "BJZ",
-		"Description": "Blackrock California Municipal 2018 Term Trust"
+		"symbol": "BJZ",
+		"description": "Blackrock California Municipal 2018 Term Trust"
 	},
 	{
-		"Symbol": "BK",
-		"Description": "Bank Of New York Mellon Corporation "
+		"symbol": "BK",
+		"description": "Bank Of New York Mellon Corporation "
 	},
 	{
-		"Symbol": "BK^C",
-		"Description": "Bank Of New York Mellon Corporation "
+		"symbol": "BK^C",
+		"description": "Bank Of New York Mellon Corporation "
 	},
 	{
-		"Symbol": "BKCC",
-		"Description": "Blackrock Cptl Invt"
+		"symbol": "BKCC",
+		"description": "Blackrock Cptl Invt"
 	},
 	{
-		"Symbol": "BKD",
-		"Description": "Brookdale Senior Living Inc."
+		"symbol": "BKD",
+		"description": "Brookdale Senior Living Inc."
 	},
 	{
-		"Symbol": "BKE",
-		"Description": "Buckle, Inc. "
+		"symbol": "BKE",
+		"description": "Buckle, Inc. "
 	},
 	{
-		"Symbol": "BKEP",
-		"Description": "Blueknight Energy LP"
+		"symbol": "BKEP",
+		"description": "Blueknight Energy LP"
 	},
 	{
-		"Symbol": "BKEPP",
-		"Description": "Blueknight Srs A Uts"
+		"symbol": "BKEPP",
+		"description": "Blueknight Srs A Uts"
 	},
 	{
-		"Symbol": "BKFS",
-		"Description": "Black Knight Financial Services, Inc."
+		"symbol": "BKFS",
+		"description": "Black Knight Financial Services, Inc."
 	},
 	{
-		"Symbol": "BKH",
-		"Description": "Black Hills Corporation"
+		"symbol": "BKH",
+		"description": "Black Hills Corporation"
 	},
 	{
-		"Symbol": "BKHU",
-		"Description": "Black Hills Corporation"
+		"symbol": "BKHU",
+		"description": "Black Hills Corporation"
 	},
 	{
-		"Symbol": "BKJ",
-		"Description": "Bancorp of New Jersey, Inc"
+		"symbol": "BKJ",
+		"description": "Bancorp of New Jersey, Inc"
 	},
 	{
-		"Symbol": "BKK",
-		"Description": "Blackrock Municipal 2020 Term Trust"
+		"symbol": "BKK",
+		"description": "Blackrock Municipal 2020 Term Trust"
 	},
 	{
-		"Symbol": "BKMU",
-		"Description": "Bank Mutual Corp"
+		"symbol": "BKMU",
+		"description": "Bank Mutual Corp"
 	},
 	{
-		"Symbol": "BKN",
-		"Description": "BlackRock Investment Quality Municipal Trust Inc. "
+		"symbol": "BKN",
+		"description": "BlackRock Investment Quality Municipal Trust Inc. "
 	},
 	{
-		"Symbol": "BKS",
-		"Description": "Barnes & Noble, Inc."
+		"symbol": "BKS",
+		"description": "Barnes & Noble, Inc."
 	},
 	{
-		"Symbol": "BKSC",
-		"Description": "Bank of So Car Cp"
+		"symbol": "BKSC",
+		"description": "Bank of So Car Cp"
 	},
 	{
-		"Symbol": "BKT",
-		"Description": "BlackRock Income Trust Inc. "
+		"symbol": "BKT",
+		"description": "BlackRock Income Trust Inc. "
 	},
 	{
-		"Symbol": "BKU",
-		"Description": "BankUnited, Inc."
+		"symbol": "BKU",
+		"description": "BankUnited, Inc."
 	},
 	{
-		"Symbol": "BL",
-		"Description": "Blackline Inc"
+		"symbol": "BL",
+		"description": "Blackline Inc"
 	},
 	{
-		"Symbol": "BLBD",
-		"Description": "Blue Bird Corp"
+		"symbol": "BLBD",
+		"description": "Blue Bird Corp"
 	},
 	{
-		"Symbol": "BLCM",
-		"Description": "Bellicum Pharma Comm"
+		"symbol": "BLCM",
+		"description": "Bellicum Pharma Comm"
 	},
 	{
-		"Symbol": "BLD",
-		"Description": "TopBuild Corp."
+		"symbol": "BLD",
+		"description": "TopBuild Corp."
 	},
 	{
-		"Symbol": "BLDP",
-		"Description": "Ballard Power Sys"
+		"symbol": "BLDP",
+		"description": "Ballard Power Sys"
 	},
 	{
-		"Symbol": "BLDR",
-		"Description": "Builders Firstsource"
+		"symbol": "BLDR",
+		"description": "Builders Firstsource"
 	},
 	{
-		"Symbol": "BLE",
-		"Description": "BlackRock Municipal Income Trust II"
+		"symbol": "BLE",
+		"description": "BlackRock Municipal Income Trust II"
 	},
 	{
-		"Symbol": "BLFS",
-		"Description": "Biolife Solutions Cmn"
+		"symbol": "BLFS",
+		"description": "Biolife Solutions Cmn"
 	},
 	{
-		"Symbol": "BLH",
-		"Description": "Blackrock New York Municipal 2018 Term Trust"
+		"symbol": "BLH",
+		"description": "Blackrock New York Municipal 2018 Term Trust"
 	},
 	{
-		"Symbol": "BLIN",
-		"Description": "Bridgeline Digital"
+		"symbol": "BLIN",
+		"description": "Bridgeline Digital"
 	},
 	{
-		"Symbol": "BLJ",
-		"Description": "Blackrock New Jersey Municipal Bond Trust"
+		"symbol": "BLJ",
+		"description": "Blackrock New Jersey Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BLK",
-		"Description": "BlackRock, Inc."
+		"symbol": "BLK",
+		"description": "BlackRock, Inc."
 	},
 	{
-		"Symbol": "BLKB",
-		"Description": "Blackbaud Inc"
+		"symbol": "BLKB",
+		"description": "Blackbaud Inc"
 	},
 	{
-		"Symbol": "BLL",
-		"Description": "Ball Corporation"
+		"symbol": "BLL",
+		"description": "Ball Corporation"
 	},
 	{
-		"Symbol": "BLMN",
-		"Description": "Bloomin' Brands Inc"
+		"symbol": "BLMN",
+		"description": "Bloomin' Brands Inc"
 	},
 	{
-		"Symbol": "BLMT",
-		"Description": "Bsb Bancorp Inc"
+		"symbol": "BLMT",
+		"description": "Bsb Bancorp Inc"
 	},
 	{
-		"Symbol": "BLPH",
-		"Description": "Bellerophon Ther Com"
+		"symbol": "BLPH",
+		"description": "Bellerophon Ther Com"
 	},
 	{
-		"Symbol": "BLRX",
-		"Description": "Biolinerx Ltd"
+		"symbol": "BLRX",
+		"description": "Biolinerx Ltd"
 	},
 	{
-		"Symbol": "BLUE",
-		"Description": "Bluebird Bio Cmn"
+		"symbol": "BLUE",
+		"description": "Bluebird Bio Cmn"
 	},
 	{
-		"Symbol": "BLVD",
-		"Description": "Boulevard AC Cm ST A"
+		"symbol": "BLVD",
+		"description": "Boulevard AC Cm ST A"
 	},
 	{
-		"Symbol": "BLVDU",
-		"Description": "Boulevard Acqu Unit"
+		"symbol": "BLVDU",
+		"description": "Boulevard Acqu Unit"
 	},
 	{
-		"Symbol": "BLVDW",
-		"Description": "Boulevard Acquisi Wt"
+		"symbol": "BLVDW",
+		"description": "Boulevard Acquisi Wt"
 	},
 	{
-		"Symbol": "BLW",
-		"Description": "Citigroup Inc."
+		"symbol": "BLW",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "BLX",
-		"Description": "Banco Latinoamericano de Comercio Exterior, S.A."
+		"symbol": "BLX",
+		"description": "Banco Latinoamericano de Comercio Exterior, S.A."
 	},
 	{
-		"Symbol": "BMA",
-		"Description": "Macro Bank Inc."
+		"symbol": "BMA",
+		"description": "Macro Bank Inc."
 	},
 	{
-		"Symbol": "BMCH",
-		"Description": "Bmc Stock Holdings"
+		"symbol": "BMCH",
+		"description": "Bmc Stock Holdings"
 	},
 	{
-		"Symbol": "BME",
-		"Description": "Blackrock Health Sciences Trust"
+		"symbol": "BME",
+		"description": "Blackrock Health Sciences Trust"
 	},
 	{
-		"Symbol": "BMI",
-		"Description": "Badger Meter, Inc."
+		"symbol": "BMI",
+		"description": "Badger Meter, Inc."
 	},
 	{
-		"Symbol": "BML^G",
-		"Description": "Bank of America Corporation"
+		"symbol": "BML^G",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BML^H",
-		"Description": "Bank of America Corporation"
+		"symbol": "BML^H",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BML^I",
-		"Description": "Bank of America Corporation"
+		"symbol": "BML^I",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BML^J",
-		"Description": "Bank of America Corporation"
+		"symbol": "BML^J",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BML^L",
-		"Description": "Bank of America Corporation"
+		"symbol": "BML^L",
+		"description": "Bank of America Corporation"
 	},
 	{
-		"Symbol": "BMLA",
-		"Description": "Recon Bullmark Latam"
+		"symbol": "BMLA",
+		"description": "Recon Bullmark Latam"
 	},
 	{
-		"Symbol": "BMLP",
-		"Description": "Bank of Montreal BMO Elkhorn DWA MLP Select Inde"
+		"symbol": "BMLP",
+		"description": "Bank of Montreal BMO Elkhorn DWA MLP Select Inde"
 	},
 	{
-		"Symbol": "BMO",
-		"Description": "Bank Of Montreal"
+		"symbol": "BMO",
+		"description": "Bank Of Montreal"
 	},
 	{
-		"Symbol": "BMRA",
-		"Description": "Biomerica Inc"
+		"symbol": "BMRA",
+		"description": "Biomerica Inc"
 	},
 	{
-		"Symbol": "BMRC",
-		"Description": "Bank of Marin Bancrp"
+		"symbol": "BMRC",
+		"description": "Bank of Marin Bancrp"
 	},
 	{
-		"Symbol": "BMRN",
-		"Description": "Biomarin Pharmaceut"
+		"symbol": "BMRN",
+		"description": "Biomarin Pharmaceut"
 	},
 	{
-		"Symbol": "BMS",
-		"Description": "Bemis Company, Inc."
+		"symbol": "BMS",
+		"description": "Bemis Company, Inc."
 	},
 	{
-		"Symbol": "BMTC",
-		"Description": "Bryn Mawr Bank Corp"
+		"symbol": "BMTC",
+		"description": "Bryn Mawr Bank Corp"
 	},
 	{
-		"Symbol": "BMY",
-		"Description": "Bristol-Myers Squibb Company"
+		"symbol": "BMY",
+		"description": "Bristol-Myers Squibb Company"
 	},
 	{
-		"Symbol": "BNCL",
-		"Description": "Beneficial Bancorp"
+		"symbol": "BNCL",
+		"description": "Beneficial Bancorp"
 	},
 	{
-		"Symbol": "BNCN",
-		"Description": "BNC Bancorp Inc"
+		"symbol": "BNCN",
+		"description": "BNC Bancorp Inc"
 	},
 	{
-		"Symbol": "BNDX",
-		"Description": "Vanguard Tl Intl Bnd"
+		"symbol": "BNDX",
+		"description": "Vanguard Tl Intl Bnd"
 	},
 	{
-		"Symbol": "BNED",
-		"Description": "Barnes & Noble Education, Inc"
+		"symbol": "BNED",
+		"description": "Barnes & Noble Education, Inc"
 	},
 	{
-		"Symbol": "BNFT",
-		"Description": "Benefitfocus Cmn"
+		"symbol": "BNFT",
+		"description": "Benefitfocus Cmn"
 	},
 	{
-		"Symbol": "BNJ",
-		"Description": "BlackRock New Jersey Municipal Income Trust"
+		"symbol": "BNJ",
+		"description": "BlackRock New Jersey Municipal Income Trust"
 	},
 	{
-		"Symbol": "BNS",
-		"Description": "Bank of Nova Scotia "
+		"symbol": "BNS",
+		"description": "Bank of Nova Scotia "
 	},
 	{
-		"Symbol": "BNSO",
-		"Description": "Bonso Elec Intl In"
+		"symbol": "BNSO",
+		"description": "Bonso Elec Intl In"
 	},
 	{
-		"Symbol": "BNTC",
-		"Description": "Benitec Biopharm Ads"
+		"symbol": "BNTC",
+		"description": "Benitec Biopharm Ads"
 	},
 	{
-		"Symbol": "BNTCW",
-		"Description": "Benitec Biopharm Wrt"
+		"symbol": "BNTCW",
+		"description": "Benitec Biopharm Wrt"
 	},
 	{
-		"Symbol": "BNY",
-		"Description": "BlackRock New York Investment Quality Municipal Trust Inc. Th"
+		"symbol": "BNY",
+		"description": "BlackRock New York Investment Quality Municipal Trust Inc. Th"
 	},
 	{
-		"Symbol": "BOBE",
-		"Description": "Bob Evans Farms"
+		"symbol": "BOBE",
+		"description": "Bob Evans Farms"
 	},
 	{
-		"Symbol": "BOCH",
-		"Description": "Bank of Commerce Hld"
+		"symbol": "BOCH",
+		"description": "Bank of Commerce Hld"
 	},
 	{
-		"Symbol": "BOE",
-		"Description": "Blackrock Global"
+		"symbol": "BOE",
+		"description": "Blackrock Global"
 	},
 	{
-		"Symbol": "BOFI",
-		"Description": "Bofi Holding Inc"
+		"symbol": "BOFI",
+		"description": "Bofi Holding Inc"
 	},
 	{
-		"Symbol": "BOFIL",
-		"Description": "Bofi Hld Sub Not"
+		"symbol": "BOFIL",
+		"description": "Bofi Hld Sub Not"
 	},
 	{
-		"Symbol": "BOH",
-		"Description": "Bank of Hawaii Corporation"
+		"symbol": "BOH",
+		"description": "Bank of Hawaii Corporation"
 	},
 	{
-		"Symbol": "BOJA",
-		"Description": "Bojangles Inc CS"
+		"symbol": "BOJA",
+		"description": "Bojangles Inc CS"
 	},
 	{
-		"Symbol": "BOKF",
-		"Description": "Bok Financial Corp"
+		"symbol": "BOKF",
+		"description": "Bok Financial Corp"
 	},
 	{
-		"Symbol": "BOKFL",
-		"Description": "Bok Financial Corporation"
+		"symbol": "BOKFL",
+		"description": "Bok Financial Corporation"
 	},
 	{
-		"Symbol": "BOLD",
-		"Description": "Audentes Therapeutics Inc Cmn"
+		"symbol": "BOLD",
+		"description": "Audentes Therapeutics Inc Cmn"
 	},
 	{
-		"Symbol": "BONT",
-		"Description": "Bon Ton Stores "
+		"symbol": "BONT",
+		"description": "Bon Ton Stores "
 	},
 	{
-		"Symbol": "BOOM",
-		"Description": "Dynamic Materials"
+		"symbol": "BOOM",
+		"description": "Dynamic Materials"
 	},
 	{
-		"Symbol": "BOOT",
-		"Description": "Boot Barn Holdings, Inc."
+		"symbol": "BOOT",
+		"description": "Boot Barn Holdings, Inc."
 	},
 	{
-		"Symbol": "BORN",
-		"Description": "China New Borun Corporation"
+		"symbol": "BORN",
+		"description": "China New Borun Corporation"
 	},
 	{
-		"Symbol": "BOSC",
-		"Description": "Bos Better Online"
+		"symbol": "BOSC",
+		"description": "Bos Better Online"
 	},
 	{
-		"Symbol": "BOTJ",
-		"Description": "Bank of  Jame Fnl"
+		"symbol": "BOTJ",
+		"description": "Bank of  Jame Fnl"
 	},
 	{
-		"Symbol": "BOTZ",
-		"Description": "Global X Robotics & Artificial Intel Thmtc ETF"
+		"symbol": "BOTZ",
+		"description": "Global X Robotics & Artificial Intel Thmtc ETF"
 	},
 	{
-		"Symbol": "BOX",
-		"Description": "Box, Inc."
+		"symbol": "BOX",
+		"description": "Box, Inc."
 	},
 	{
-		"Symbol": "BOXC",
-		"Description": "Brookfield Canada Office Properties"
+		"symbol": "BOXC",
+		"description": "Brookfield Canada Office Properties"
 	},
 	{
-		"Symbol": "BP",
-		"Description": "BP p.l.c."
+		"symbol": "BP",
+		"description": "BP p.l.c."
 	},
 	{
-		"Symbol": "BPFH",
-		"Description": "Boston Pvt Finl Hldg"
+		"symbol": "BPFH",
+		"description": "Boston Pvt Finl Hldg"
 	},
 	{
-		"Symbol": "BPFHP",
-		"Description": "Boston Private Dep S"
+		"symbol": "BPFHP",
+		"description": "Boston Private Dep S"
 	},
 	{
-		"Symbol": "BPFHW",
-		"Description": "Boston Private Wts"
+		"symbol": "BPFHW",
+		"description": "Boston Private Wts"
 	},
 	{
-		"Symbol": "BPI",
-		"Description": "Bridgepoint Education, Inc."
+		"symbol": "BPI",
+		"description": "Bridgepoint Education, Inc."
 	},
 	{
-		"Symbol": "BPK",
-		"Description": "Blackrock Municipal 2018 Term Trust"
+		"symbol": "BPK",
+		"description": "Blackrock Municipal 2018 Term Trust"
 	},
 	{
-		"Symbol": "BPL",
-		"Description": "Buckeye Partners L.P."
+		"symbol": "BPL",
+		"description": "Buckeye Partners L.P."
 	},
 	{
-		"Symbol": "BPMC",
-		"Description": "Blueprint Medi Cm ST"
+		"symbol": "BPMC",
+		"description": "Blueprint Medi Cm ST"
 	},
 	{
-		"Symbol": "BPMX",
-		"Description": "BioPharmX Corporation"
+		"symbol": "BPMX",
+		"description": "BioPharmX Corporation"
 	},
 	{
-		"Symbol": "BPOP",
-		"Description": "Popular Inc"
+		"symbol": "BPOP",
+		"description": "Popular Inc"
 	},
 	{
-		"Symbol": "BPOPM",
-		"Description": "Popular Inc Trust II"
+		"symbol": "BPOPM",
+		"description": "Popular Inc Trust II"
 	},
 	{
-		"Symbol": "BPOPN",
-		"Description": "Popular Inc Trust I"
+		"symbol": "BPOPN",
+		"description": "Popular Inc Trust I"
 	},
 	{
-		"Symbol": "BPT",
-		"Description": "BP Prudhoe Bay Royalty Trust"
+		"symbol": "BPT",
+		"description": "BP Prudhoe Bay Royalty Trust"
 	},
 	{
-		"Symbol": "BPTH",
-		"Description": "Bio-Path Holdings"
+		"symbol": "BPTH",
+		"description": "Bio-Path Holdings"
 	},
 	{
-		"Symbol": "BPY",
-		"Description": "Brookfield Property Partners L.P."
+		"symbol": "BPY",
+		"description": "Brookfield Property Partners L.P."
 	},
 	{
-		"Symbol": "BQH",
-		"Description": "Blackrock New York Municipal Bond Trust"
+		"symbol": "BQH",
+		"description": "Blackrock New York Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BR",
-		"Description": "Broadridge Financial Solutions, Inc."
+		"symbol": "BR",
+		"description": "Broadridge Financial Solutions, Inc."
 	},
 	{
-		"Symbol": "BRC",
-		"Description": "Brady Corporation"
+		"symbol": "BRC",
+		"description": "Brady Corporation"
 	},
 	{
-		"Symbol": "BRCD",
-		"Description": "Brocade Comm Sys"
+		"symbol": "BRCD",
+		"description": "Brocade Comm Sys"
 	},
 	{
-		"Symbol": "BREW",
-		"Description": "Craft Brew Alliance"
+		"symbol": "BREW",
+		"description": "Craft Brew Alliance"
 	},
 	{
-		"Symbol": "BRFS",
-		"Description": "BRF S.A."
+		"symbol": "BRFS",
+		"description": "BRF S.A."
 	},
 	{
-		"Symbol": "BRG",
-		"Description": "Bluerock Residential Growth REIT, Inc."
+		"symbol": "BRG",
+		"description": "Bluerock Residential Growth REIT, Inc."
 	},
 	{
-		"Symbol": "BRG^A",
-		"Description": "Bluerock Residential Growth REIT, Inc."
+		"symbol": "BRG^A",
+		"description": "Bluerock Residential Growth REIT, Inc."
 	},
 	{
-		"Symbol": "BRG^C",
-		"Description": "Bluerock Residential Growth REIT, Inc."
+		"symbol": "BRG^C",
+		"description": "Bluerock Residential Growth REIT, Inc."
 	},
 	{
-		"Symbol": "BRG^D",
-		"Description": "Bluerock Residential Growth REIT, Inc."
+		"symbol": "BRG^D",
+		"description": "Bluerock Residential Growth REIT, Inc."
 	},
 	{
-		"Symbol": "BRID",
-		"Description": "Bridgford Foods Cp"
+		"symbol": "BRID",
+		"description": "Bridgford Foods Cp"
 	},
 	{
-		"Symbol": "BRK.A",
-		"Description": "Berkshire Hathaway Inc."
+		"symbol": "BRK.A",
+		"description": "Berkshire Hathaway Inc."
 	},
 	{
-		"Symbol": "BRK.B",
-		"Description": "Berkshire Hathaway Inc."
+		"symbol": "BRK.B",
+		"description": "Berkshire Hathaway Inc."
 	},
 	{
-		"Symbol": "BRKL",
-		"Description": "Brookline Bancorp"
+		"symbol": "BRKL",
+		"description": "Brookline Bancorp"
 	},
 	{
-		"Symbol": "BRKR",
-		"Description": "Bruker Corporation"
+		"symbol": "BRKR",
+		"description": "Bruker Corporation"
 	},
 	{
-		"Symbol": "BRKS",
-		"Description": "Brooks Automation"
+		"symbol": "BRKS",
+		"description": "Brooks Automation"
 	},
 	{
-		"Symbol": "BRN",
-		"Description": "Barnwell Industries, Inc."
+		"symbol": "BRN",
+		"description": "Barnwell Industries, Inc."
 	},
 	{
-		"Symbol": "BRO",
-		"Description": "Brown & Brown, Inc."
+		"symbol": "BRO",
+		"description": "Brown & Brown, Inc."
 	},
 	{
-		"Symbol": "BRS",
-		"Description": "Bristow Group Inc"
+		"symbol": "BRS",
+		"description": "Bristow Group Inc"
 	},
 	{
-		"Symbol": "BRSS",
-		"Description": "Global Brass and Copper Holdings, Inc."
+		"symbol": "BRSS",
+		"description": "Global Brass and Copper Holdings, Inc."
 	},
 	{
-		"Symbol": "BRT",
-		"Description": "BRT Realty Trust"
+		"symbol": "BRT",
+		"description": "BRT Realty Trust"
 	},
 	{
-		"Symbol": "BRX",
-		"Description": "Brixmor Property Group Inc."
+		"symbol": "BRX",
+		"description": "Brixmor Property Group Inc."
 	},
 	{
-		"Symbol": "BSAC",
-		"Description": "Banco Santander Chile"
+		"symbol": "BSAC",
+		"description": "Banco Santander Chile"
 	},
 	{
-		"Symbol": "BSBR",
-		"Description": "Banco Santander Brasil SA"
+		"symbol": "BSBR",
+		"description": "Banco Santander Brasil SA"
 	},
 	{
-		"Symbol": "BSD",
-		"Description": "BlackRock Strategic Municipal Trust Inc. "
+		"symbol": "BSD",
+		"description": "BlackRock Strategic Municipal Trust Inc. "
 	},
 	{
-		"Symbol": "BSE",
-		"Description": "Blackrock New York Municipal Income Quality Trust"
+		"symbol": "BSE",
+		"description": "Blackrock New York Municipal Income Quality Trust"
 	},
 	{
-		"Symbol": "BSET",
-		"Description": "Bassett Furniture"
+		"symbol": "BSET",
+		"description": "Bassett Furniture"
 	},
 	{
-		"Symbol": "BSF",
-		"Description": "Bear State Fin Inc"
+		"symbol": "BSF",
+		"description": "Bear State Fin Inc"
 	},
 	{
-		"Symbol": "BSFT",
-		"Description": "Broadsoft Inc"
+		"symbol": "BSFT",
+		"description": "Broadsoft Inc"
 	},
 	{
-		"Symbol": "BSL",
-		"Description": "Blackstone GSO Senior Floating Rate Term Fund"
+		"symbol": "BSL",
+		"description": "Blackstone GSO Senior Floating Rate Term Fund"
 	},
 	{
-		"Symbol": "BSM",
-		"Description": "Black Stone Minerals, L.P."
+		"symbol": "BSM",
+		"description": "Black Stone Minerals, L.P."
 	},
 	{
-		"Symbol": "BSMX",
-		"Description": "Grupo Financiero Santander Mexico S.A. B. de C.V."
+		"symbol": "BSMX",
+		"description": "Grupo Financiero Santander Mexico S.A. B. de C.V."
 	},
 	{
-		"Symbol": "BSPM",
-		"Description": "Biostar Pharmaceutic"
+		"symbol": "BSPM",
+		"description": "Biostar Pharmaceutic"
 	},
 	{
-		"Symbol": "BSQR",
-		"Description": "Bsquare Corp"
+		"symbol": "BSQR",
+		"description": "Bsquare Corp"
 	},
 	{
-		"Symbol": "BSRR",
-		"Description": "Sierra Bancorp"
+		"symbol": "BSRR",
+		"description": "Sierra Bancorp"
 	},
 	{
-		"Symbol": "BST",
-		"Description": "BlackRock Science and Technology Trust"
+		"symbol": "BST",
+		"description": "BlackRock Science and Technology Trust"
 	},
 	{
-		"Symbol": "BSTC",
-		"Description": "Biospecifics Tech Cp"
+		"symbol": "BSTC",
+		"description": "Biospecifics Tech Cp"
 	},
 	{
-		"Symbol": "BSTG",
-		"Description": "Biostage Cmn Stk"
+		"symbol": "BSTG",
+		"description": "Biostage Cmn Stk"
 	},
 	{
-		"Symbol": "BSX",
-		"Description": "Boston Scientific Corporation"
+		"symbol": "BSX",
+		"description": "Boston Scientific Corporation"
 	},
 	{
-		"Symbol": "BT",
-		"Description": "BT Group plc"
+		"symbol": "BT",
+		"description": "BT Group plc"
 	},
 	{
-		"Symbol": "BTA",
-		"Description": "BlackRock Long-Term Municipal Advantage Trust"
+		"symbol": "BTA",
+		"description": "BlackRock Long-Term Municipal Advantage Trust"
 	},
 	{
-		"Symbol": "BTE",
-		"Description": "Baytex Energy Corp"
+		"symbol": "BTE",
+		"description": "Baytex Energy Corp"
 	},
 	{
-		"Symbol": "BTEC",
-		"Description": "Banctec Inc"
+		"symbol": "BTEC",
+		"description": "Banctec Inc"
 	},
 	{
-		"Symbol": "BTG",
-		"Description": "B2Gold Corp"
+		"symbol": "BTG",
+		"description": "B2Gold Corp"
 	},
 	{
-		"Symbol": "BTI",
-		"Description": "British American Tobacco p.l.c."
+		"symbol": "BTI",
+		"description": "British American Tobacco p.l.c."
 	},
 	{
-		"Symbol": "BTN",
-		"Description": "Ballantyne Strong, Inc"
+		"symbol": "BTN",
+		"description": "Ballantyne Strong, Inc"
 	},
 	{
-		"Symbol": "BTO",
-		"Description": "John Hancock Financial Opportunities Fund"
+		"symbol": "BTO",
+		"description": "John Hancock Financial Opportunities Fund"
 	},
 	{
-		"Symbol": "BTT",
-		"Description": "BlackRock Municipal Target Term Trust Inc. "
+		"symbol": "BTT",
+		"description": "BlackRock Municipal Target Term Trust Inc. "
 	},
 	{
-		"Symbol": "BTX",
-		"Description": "BioTime, Inc."
+		"symbol": "BTX",
+		"description": "BioTime, Inc."
 	},
 	{
-		"Symbol": "BTX.WS",
-		"Description": "BioTime, Inc."
+		"symbol": "BTX.WS",
+		"description": "BioTime, Inc."
 	},
 	{
-		"Symbol": "BTZ",
-		"Description": "BlackRock Credit Allocation Income Trust"
+		"symbol": "BTZ",
+		"description": "BlackRock Credit Allocation Income Trust"
 	},
 	{
-		"Symbol": "BUD",
-		"Description": "Anheuser-Busch Inbev SA"
+		"symbol": "BUD",
+		"description": "Anheuser-Busch Inbev SA"
 	},
 	{
-		"Symbol": "BUFF",
-		"Description": "Blue Buffalo Pet Cmn"
+		"symbol": "BUFF",
+		"description": "Blue Buffalo Pet Cmn"
 	},
 	{
-		"Symbol": "BUI",
-		"Description": "BlackRock Utility and Infrastructure Trust"
+		"symbol": "BUI",
+		"description": "BlackRock Utility and Infrastructure Trust"
 	},
 	{
-		"Symbol": "BUR",
-		"Description": "Burcon Nutrascience"
+		"symbol": "BUR",
+		"description": "Burcon Nutrascience"
 	},
 	{
-		"Symbol": "BURL",
-		"Description": "Burlington Stores, Inc."
+		"symbol": "BURL",
+		"description": "Burlington Stores, Inc."
 	},
 	{
-		"Symbol": "BUSE",
-		"Description": "First Busey Corp"
+		"symbol": "BUSE",
+		"description": "First Busey Corp"
 	},
 	{
-		"Symbol": "BV",
-		"Description": "Bazaarvoice Inc"
+		"symbol": "BV",
+		"description": "Bazaarvoice Inc"
 	},
 	{
-		"Symbol": "BVN",
-		"Description": "Buenaventura Mining Company Inc."
+		"symbol": "BVN",
+		"description": "Buenaventura Mining Company Inc."
 	},
 	{
-		"Symbol": "BVSN",
-		"Description": "Broadvision Inc"
+		"symbol": "BVSN",
+		"description": "Broadvision Inc"
 	},
 	{
-		"Symbol": "BVX",
-		"Description": "Bovie Medical Corporation"
+		"symbol": "BVX",
+		"description": "Bovie Medical Corporation"
 	},
 	{
-		"Symbol": "BVXV",
-		"Description": "Biondvax Pharma Ads"
+		"symbol": "BVXV",
+		"description": "Biondvax Pharma Ads"
 	},
 	{
-		"Symbol": "BVXVW",
-		"Description": "Biondvax Pharma Wt"
+		"symbol": "BVXVW",
+		"description": "Biondvax Pharma Wt"
 	},
 	{
-		"Symbol": "BW",
-		"Description": "Babcock"
+		"symbol": "BW",
+		"description": "Babcock"
 	},
 	{
-		"Symbol": "BWA",
-		"Description": "BorgWarner Inc."
+		"symbol": "BWA",
+		"description": "BorgWarner Inc."
 	},
 	{
-		"Symbol": "BWEN",
-		"Description": "Broadwind Energy Inc"
+		"symbol": "BWEN",
+		"description": "Broadwind Energy Inc"
 	},
 	{
-		"Symbol": "BWFG",
-		"Description": "Bankwell Financial"
+		"symbol": "BWFG",
+		"description": "Bankwell Financial"
 	},
 	{
-		"Symbol": "BWG",
-		"Description": "Legg Mason BW Global Income Opportunities Fund Inc."
+		"symbol": "BWG",
+		"description": "Legg Mason BW Global Income Opportunities Fund Inc."
 	},
 	{
-		"Symbol": "BWINA",
-		"Description": "Baldwin Lyons Cl A"
+		"symbol": "BWINA",
+		"description": "Baldwin Lyons Cl A"
 	},
 	{
-		"Symbol": "BWINB",
-		"Description": "Baldwin Lyons Cl B"
+		"symbol": "BWINB",
+		"description": "Baldwin Lyons Cl B"
 	},
 	{
-		"Symbol": "BWL.A",
-		"Description": "Bowl America, Inc."
+		"symbol": "BWL.A",
+		"description": "Bowl America, Inc."
 	},
 	{
-		"Symbol": "BWLD",
-		"Description": "Buffalo Wild Wings"
+		"symbol": "BWLD",
+		"description": "Buffalo Wild Wings"
 	},
 	{
-		"Symbol": "BWP",
-		"Description": "Boardwalk Pipeline Partners L.P."
+		"symbol": "BWP",
+		"description": "Boardwalk Pipeline Partners L.P."
 	},
 	{
-		"Symbol": "BWXT",
-		"Description": "BWX Technologies, Inc."
+		"symbol": "BWXT",
+		"description": "BWX Technologies, Inc."
 	},
 	{
-		"Symbol": "BX",
-		"Description": " Blackstone Group L.P."
+		"symbol": "BX",
+		"description": " Blackstone Group L.P."
 	},
 	{
-		"Symbol": "BXC",
-		"Description": "BlueLinx Holdings Inc."
+		"symbol": "BXC",
+		"description": "BlueLinx Holdings Inc."
 	},
 	{
-		"Symbol": "BXE",
-		"Description": "Bellatrix Exploration Ltd"
+		"symbol": "BXE",
+		"description": "Bellatrix Exploration Ltd"
 	},
 	{
-		"Symbol": "BXMT",
-		"Description": "Capital Trust, Inc."
+		"symbol": "BXMT",
+		"description": "Capital Trust, Inc."
 	},
 	{
-		"Symbol": "BXMX",
-		"Description": "Nuveen S&P 500 Buy-Write Income Fund"
+		"symbol": "BXMX",
+		"description": "Nuveen S&P 500 Buy-Write Income Fund"
 	},
 	{
-		"Symbol": "BXP",
-		"Description": "Boston Properties, Inc."
+		"symbol": "BXP",
+		"description": "Boston Properties, Inc."
 	},
 	{
-		"Symbol": "BXP^B",
-		"Description": "Boston Properties, Inc."
+		"symbol": "BXP^B",
+		"description": "Boston Properties, Inc."
 	},
 	{
-		"Symbol": "BXS",
-		"Description": "BancorpSouth, Inc."
+		"symbol": "BXS",
+		"description": "BancorpSouth, Inc."
 	},
 	{
-		"Symbol": "BYBK",
-		"Description": "Bay Bancorp Inc"
+		"symbol": "BYBK",
+		"description": "Bay Bancorp Inc"
 	},
 	{
-		"Symbol": "BYD",
-		"Description": "Boyd Gaming Corporation"
+		"symbol": "BYD",
+		"description": "Boyd Gaming Corporation"
 	},
 	{
-		"Symbol": "BYFC",
-		"Description": "Broadway Fin Cp"
+		"symbol": "BYFC",
+		"description": "Broadway Fin Cp"
 	},
 	{
-		"Symbol": "BYM",
-		"Description": "Blackrock Municipal Income Quality Trust"
+		"symbol": "BYM",
+		"description": "Blackrock Municipal Income Quality Trust"
 	},
 	{
-		"Symbol": "BZH",
-		"Description": "Beazer Homes USA, Inc."
+		"symbol": "BZH",
+		"description": "Beazer Homes USA, Inc."
 	},
 	{
-		"Symbol": "BZM",
-		"Description": "BlackRock Maryland Municipal Bond Trust"
+		"symbol": "BZM",
+		"description": "BlackRock Maryland Municipal Bond Trust"
 	},
 	{
-		"Symbol": "BZUN",
-		"Description": "Baozun Inc Ads"
+		"symbol": "BZUN",
+		"description": "Baozun Inc Ads"
 	},
 	{
-		"Symbol": "C",
-		"Description": "Citigroup Inc."
+		"symbol": "C",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C.WS.A",
-		"Description": "Citigroup Inc."
+		"symbol": "C.WS.A",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^C",
-		"Description": "Citigroup Inc."
+		"symbol": "C^C",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^J",
-		"Description": "Citigroup Inc."
+		"symbol": "C^J",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^K",
-		"Description": "Citigroup Inc."
+		"symbol": "C^K",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^L",
-		"Description": "Citigroup Inc."
+		"symbol": "C^L",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^N",
-		"Description": "Citigroup Inc."
+		"symbol": "C^N",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^P",
-		"Description": "Citigroup Inc."
+		"symbol": "C^P",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "C^S",
-		"Description": "Citigroup Inc."
+		"symbol": "C^S",
+		"description": "Citigroup Inc."
 	},
 	{
-		"Symbol": "CA",
-		"Description": "CA Inc"
+		"symbol": "CA",
+		"description": "CA Inc"
 	},
 	{
-		"Symbol": "CAA",
-		"Description": "CalAtlantic Group, Inc."
+		"symbol": "CAA",
+		"description": "CalAtlantic Group, Inc."
 	},
 	{
-		"Symbol": "CAAS",
-		"Description": "China Automotive Sys"
+		"symbol": "CAAS",
+		"description": "China Automotive Sys"
 	},
 	{
-		"Symbol": "CAB",
-		"Description": "Cabelas Inc"
+		"symbol": "CAB",
+		"description": "Cabelas Inc"
 	},
 	{
-		"Symbol": "CABO",
-		"Description": "Cable One, Inc."
+		"symbol": "CABO",
+		"description": "Cable One, Inc."
 	},
 	{
-		"Symbol": "CAC",
-		"Description": "Camden Natl Cp"
+		"symbol": "CAC",
+		"description": "Camden Natl Cp"
 	},
 	{
-		"Symbol": "CACB",
-		"Description": "Cascade Bancorp"
+		"symbol": "CACB",
+		"description": "Cascade Bancorp"
 	},
 	{
-		"Symbol": "CACC",
-		"Description": "Credit Acceptance"
+		"symbol": "CACC",
+		"description": "Credit Acceptance"
 	},
 	{
-		"Symbol": "CACI",
-		"Description": "CACI International, Inc."
+		"symbol": "CACI",
+		"description": "CACI International, Inc."
 	},
 	{
-		"Symbol": "CACQ",
-		"Description": "Caesars Acquisition"
+		"symbol": "CACQ",
+		"description": "Caesars Acquisition"
 	},
 	{
-		"Symbol": "CADC",
-		"Description": "China Advanced Const"
+		"symbol": "CADC",
+		"description": "China Advanced Const"
 	},
 	{
-		"Symbol": "CAE",
-		"Description": "CAE Inc"
+		"symbol": "CAE",
+		"description": "CAE Inc"
 	},
 	{
-		"Symbol": "CAF",
-		"Description": "Morgan Stanley China A Share Fund Inc."
+		"symbol": "CAF",
+		"description": "Morgan Stanley China A Share Fund Inc."
 	},
 	{
-		"Symbol": "CAFD",
-		"Description": "8Point3 Energy Cl A"
+		"symbol": "CAFD",
+		"description": "8Point3 Energy Cl A"
 	},
 	{
-		"Symbol": "CAG",
-		"Description": "ConAgra Brands, Inc."
+		"symbol": "CAG",
+		"description": "ConAgra Brands, Inc."
 	},
 	{
-		"Symbol": "CAH",
-		"Description": "Cardinal Health, Inc."
+		"symbol": "CAH",
+		"description": "Cardinal Health, Inc."
 	},
 	{
-		"Symbol": "CAI",
-		"Description": "CAI International, Inc."
+		"symbol": "CAI",
+		"description": "CAI International, Inc."
 	},
 	{
-		"Symbol": "CAJ",
-		"Description": "Canon, Inc."
+		"symbol": "CAJ",
+		"description": "Canon, Inc."
 	},
 	{
-		"Symbol": "CAKE",
-		"Description": "Cheesecake Fact"
+		"symbol": "CAKE",
+		"description": "Cheesecake Fact"
 	},
 	{
-		"Symbol": "CAL",
-		"Description": "Caleres, Inc."
+		"symbol": "CAL",
+		"description": "Caleres, Inc."
 	},
 	{
-		"Symbol": "CALA",
-		"Description": "Calithera Biosci Com"
+		"symbol": "CALA",
+		"description": "Calithera Biosci Com"
 	},
 	{
-		"Symbol": "CALD",
-		"Description": "Callidus Software"
+		"symbol": "CALD",
+		"description": "Callidus Software"
 	},
 	{
-		"Symbol": "CALI",
-		"Description": "China Auto Logistics"
+		"symbol": "CALI",
+		"description": "China Auto Logistics"
 	},
 	{
-		"Symbol": "CALL",
-		"Description": "Magicjack Vocaltec L"
+		"symbol": "CALL",
+		"description": "Magicjack Vocaltec L"
 	},
 	{
-		"Symbol": "CALM",
-		"Description": "Cal-Maine Foods In"
+		"symbol": "CALM",
+		"description": "Cal-Maine Foods In"
 	},
 	{
-		"Symbol": "CALX",
-		"Description": "Calix, Inc"
+		"symbol": "CALX",
+		"description": "Calix, Inc"
 	},
 	{
-		"Symbol": "CAMP",
-		"Description": "Calamp Corp"
+		"symbol": "CAMP",
+		"description": "Calamp Corp"
 	},
 	{
-		"Symbol": "CAMT",
-		"Description": "Camtek Ltd"
+		"symbol": "CAMT",
+		"description": "Camtek Ltd"
 	},
 	{
-		"Symbol": "CANF",
-		"Description": "Can-Fite Biopharma Ltd"
+		"symbol": "CANF",
+		"description": "Can-Fite Biopharma Ltd"
 	},
 	{
-		"Symbol": "CAPL",
-		"Description": "CrossAmerica Partners LP"
+		"symbol": "CAPL",
+		"description": "CrossAmerica Partners LP"
 	},
 	{
-		"Symbol": "CAPN",
-		"Description": "Capnia Inc Cmn Stk"
+		"symbol": "CAPN",
+		"description": "Capnia Inc Cmn Stk"
 	},
 	{
-		"Symbol": "CAPNW",
-		"Description": "Capnia Inc A Wrnt"
+		"symbol": "CAPNW",
+		"description": "Capnia Inc A Wrnt"
 	},
 	{
-		"Symbol": "CAPR",
-		"Description": "Capricor Therap Cmn"
+		"symbol": "CAPR",
+		"description": "Capricor Therap Cmn"
 	},
 	{
-		"Symbol": "CAPX",
-		"Description": "Elkhorn S&P 500 Cap"
+		"symbol": "CAPX",
+		"description": "Elkhorn S&P 500 Cap"
 	},
 	{
-		"Symbol": "CAR",
-		"Description": "Avis Budget Group I"
+		"symbol": "CAR",
+		"description": "Avis Budget Group I"
 	},
 	{
-		"Symbol": "CARA",
-		"Description": "Cara Therapeutics"
+		"symbol": "CARA",
+		"description": "Cara Therapeutics"
 	},
 	{
-		"Symbol": "CARB",
-		"Description": "Carbonite Inc"
+		"symbol": "CARB",
+		"description": "Carbonite Inc"
 	},
 	{
-		"Symbol": "CARO",
-		"Description": "Carolina Finacl Cmn"
+		"symbol": "CARO",
+		"description": "Carolina Finacl Cmn"
 	},
 	{
-		"Symbol": "CART",
-		"Description": "Carolina Trust Bank"
+		"symbol": "CART",
+		"description": "Carolina Trust Bank"
 	},
 	{
-		"Symbol": "CARV",
-		"Description": "Carver Bancorp"
+		"symbol": "CARV",
+		"description": "Carver Bancorp"
 	},
 	{
-		"Symbol": "CARZ",
-		"Description": "First Trust Nq Gbl Auto"
+		"symbol": "CARZ",
+		"description": "First Trust Nq Gbl Auto"
 	},
 	{
-		"Symbol": "CASC",
-		"Description": "Cascadian Therapeutics Inc"
+		"symbol": "CASC",
+		"description": "Cascadian Therapeutics Inc"
 	},
 	{
-		"Symbol": "CASH",
-		"Description": "Meta Financial Grp"
+		"symbol": "CASH",
+		"description": "Meta Financial Grp"
 	},
 	{
-		"Symbol": "CASI",
-		"Description": "Casi Phrmactcls Inc"
+		"symbol": "CASI",
+		"description": "Casi Phrmactcls Inc"
 	},
 	{
-		"Symbol": "CASM",
-		"Description": "Cas Medical Sys Inc"
+		"symbol": "CASM",
+		"description": "Cas Medical Sys Inc"
 	},
 	{
-		"Symbol": "CASS",
-		"Description": "Cass Information Sys"
+		"symbol": "CASS",
+		"description": "Cass Information Sys"
 	},
 	{
-		"Symbol": "CASY",
-		"Description": "Casey's General Stor"
+		"symbol": "CASY",
+		"description": "Casey's General Stor"
 	},
 	{
-		"Symbol": "CAT",
-		"Description": "Caterpillar, Inc."
+		"symbol": "CAT",
+		"description": "Caterpillar, Inc."
 	},
 	{
-		"Symbol": "CATB",
-		"Description": "Catabasis Pharma Cmn"
+		"symbol": "CATB",
+		"description": "Catabasis Pharma Cmn"
 	},
 	{
-		"Symbol": "CATH",
-		"Description": "Glbl X SP 500 Cth V"
+		"symbol": "CATH",
+		"description": "Glbl X SP 500 Cth V"
 	},
 	{
-		"Symbol": "CATM",
-		"Description": "Cardtronics Inc"
+		"symbol": "CATM",
+		"description": "Cardtronics Inc"
 	},
 	{
-		"Symbol": "CATO",
-		"Description": "Cato Corporation "
+		"symbol": "CATO",
+		"description": "Cato Corporation "
 	},
 	{
-		"Symbol": "CATY",
-		"Description": "Cathay Genl Bncp"
+		"symbol": "CATY",
+		"description": "Cathay Genl Bncp"
 	},
 	{
-		"Symbol": "CATYW",
-		"Description": "Cathay General Banc"
+		"symbol": "CATYW",
+		"description": "Cathay General Banc"
 	},
 	{
-		"Symbol": "CAVM",
-		"Description": "Cavium Inc"
+		"symbol": "CAVM",
+		"description": "Cavium Inc"
 	},
 	{
-		"Symbol": "CAW",
-		"Description": "CCA Industries, Inc."
+		"symbol": "CAW",
+		"description": "CCA Industries, Inc."
 	},
 	{
-		"Symbol": "CB",
-		"Description": "D/B/A Chubb Limited New"
+		"symbol": "CB",
+		"description": "D/B/A Chubb Limited New"
 	},
 	{
-		"Symbol": "CBA",
-		"Description": "ClearBridge American Energy MLP Fund Inc."
+		"symbol": "CBA",
+		"description": "ClearBridge American Energy MLP Fund Inc."
 	},
 	{
-		"Symbol": "CBAK",
-		"Description": "China Bak Battery"
+		"symbol": "CBAK",
+		"description": "China Bak Battery"
 	},
 	{
-		"Symbol": "CBAN",
-		"Description": "Colony Bankcorp Inc"
+		"symbol": "CBAN",
+		"description": "Colony Bankcorp Inc"
 	},
 	{
-		"Symbol": "CBAY",
-		"Description": "Cymabay Therapeutics"
+		"symbol": "CBAY",
+		"description": "Cymabay Therapeutics"
 	},
 	{
-		"Symbol": "CBB",
-		"Description": "Cincinnati Bell Inc"
+		"symbol": "CBB",
+		"description": "Cincinnati Bell Inc"
 	},
 	{
-		"Symbol": "CBB^B",
-		"Description": "Cincinnati Bell Inc"
+		"symbol": "CBB^B",
+		"description": "Cincinnati Bell Inc"
 	},
 	{
-		"Symbol": "CBD",
-		"Description": "Companhia Brasileira de Distribuicao"
+		"symbol": "CBD",
+		"description": "Companhia Brasileira de Distribuicao"
 	},
 	{
-		"Symbol": "CBF",
-		"Description": "Capital Bnk Fin Cl A"
+		"symbol": "CBF",
+		"description": "Capital Bnk Fin Cl A"
 	},
 	{
-		"Symbol": "CBFV",
-		"Description": "Cb Financial Svc Cmn"
+		"symbol": "CBFV",
+		"description": "Cb Financial Svc Cmn"
 	},
 	{
-		"Symbol": "CBG",
-		"Description": "CBRE Group, Inc."
+		"symbol": "CBG",
+		"description": "CBRE Group, Inc."
 	},
 	{
-		"Symbol": "CBI",
-		"Description": "Chicago Bridge & Iron Company N.V."
+		"symbol": "CBI",
+		"description": "Chicago Bridge & Iron Company N.V."
 	},
 	{
-		"Symbol": "CBIO",
-		"Description": "Catalyst Bio Cmn"
+		"symbol": "CBIO",
+		"description": "Catalyst Bio Cmn"
 	},
 	{
-		"Symbol": "CBK",
-		"Description": "Christopher & Banks Corporation"
+		"symbol": "CBK",
+		"description": "Christopher & Banks Corporation"
 	},
 	{
-		"Symbol": "CBL",
-		"Description": "CBL & Associates Properties, Inc."
+		"symbol": "CBL",
+		"description": "CBL & Associates Properties, Inc."
 	},
 	{
-		"Symbol": "CBL^D",
-		"Description": "CBL & Associates Properties, Inc."
+		"symbol": "CBL^D",
+		"description": "CBL & Associates Properties, Inc."
 	},
 	{
-		"Symbol": "CBL^E",
-		"Description": "CBL & Associates Properties, Inc."
+		"symbol": "CBL^E",
+		"description": "CBL & Associates Properties, Inc."
 	},
 	{
-		"Symbol": "CBLI",
-		"Description": "Cleveland Biolabs"
+		"symbol": "CBLI",
+		"description": "Cleveland Biolabs"
 	},
 	{
-		"Symbol": "CBM",
-		"Description": "Cambrex Corporation"
+		"symbol": "CBM",
+		"description": "Cambrex Corporation"
 	},
 	{
-		"Symbol": "CBMG",
-		"Description": "Cellular Biomedicine"
+		"symbol": "CBMG",
+		"description": "Cellular Biomedicine"
 	},
 	{
-		"Symbol": "CBMX",
-		"Description": "Combimatrix Corp"
+		"symbol": "CBMX",
+		"description": "Combimatrix Corp"
 	},
 	{
-		"Symbol": "CBMXW",
-		"Description": "Combimatrix Corp Wt"
+		"symbol": "CBMXW",
+		"description": "Combimatrix Corp Wt"
 	},
 	{
-		"Symbol": "CBO",
-		"Description": "CBO Listing Market - NYSE - Networks A/E"
+		"symbol": "CBO",
+		"description": "CBO Listing Market - NYSE - Networks A/E"
 	},
 	{
-		"Symbol": "CBOE",
-		"Description": "CBOE Holdings Inc"
+		"symbol": "CBOE",
+		"description": "CBOE Holdings Inc"
 	},
 	{
-		"Symbol": "CBPO",
-		"Description": "China Biologic Produ"
+		"symbol": "CBPO",
+		"description": "China Biologic Produ"
 	},
 	{
-		"Symbol": "CBPX",
-		"Description": "Continental Building Products, Inc."
+		"symbol": "CBPX",
+		"description": "Continental Building Products, Inc."
 	},
 	{
-		"Symbol": "CBR",
-		"Description": "Ciber, Inc."
+		"symbol": "CBR",
+		"description": "Ciber, Inc."
 	},
 	{
-		"Symbol": "CBRL",
-		"Description": "Cracker Barrel"
+		"symbol": "CBRL",
+		"description": "Cracker Barrel"
 	},
 	{
-		"Symbol": "CBS",
-		"Description": "CBS Corporation"
+		"symbol": "CBS",
+		"description": "CBS Corporation"
 	},
 	{
-		"Symbol": "CBS.A",
-		"Description": "CBS Corporation"
+		"symbol": "CBS.A",
+		"description": "CBS Corporation"
 	},
 	{
-		"Symbol": "CBSH",
-		"Description": "Commerce Bancshares"
+		"symbol": "CBSH",
+		"description": "Commerce Bancshares"
 	},
 	{
-		"Symbol": "CBSHP",
-		"Description": "Commerce BNC B Dep"
+		"symbol": "CBSHP",
+		"description": "Commerce BNC B Dep"
 	},
 	{
-		"Symbol": "CBT",
-		"Description": "Cabot Corporation"
+		"symbol": "CBT",
+		"description": "Cabot Corporation"
 	},
 	{
-		"Symbol": "CBU",
-		"Description": "Community Bank System, Inc."
+		"symbol": "CBU",
+		"description": "Community Bank System, Inc."
 	},
 	{
-		"Symbol": "CBX",
-		"Description": "CBX Listing Market NYSE Networks AE"
+		"symbol": "CBX",
+		"description": "CBX Listing Market NYSE Networks AE"
 	},
 	{
-		"Symbol": "CBZ",
-		"Description": "CBIZ, Inc."
+		"symbol": "CBZ",
+		"description": "CBIZ, Inc."
 	},
 	{
-		"Symbol": "CC",
-		"Description": "Chemours Company "
+		"symbol": "CC",
+		"description": "Chemours Company "
 	},
 	{
-		"Symbol": "CCA",
-		"Description": "MFS California Insured Municipal Trust"
+		"symbol": "CCA",
+		"description": "MFS California Insured Municipal Trust"
 	},
 	{
-		"Symbol": "CCBG",
-		"Description": "Capital City Bank Gr"
+		"symbol": "CCBG",
+		"description": "Capital City Bank Gr"
 	},
 	{
-		"Symbol": "CCC",
-		"Description": "Calgon Carbon Corporation"
+		"symbol": "CCC",
+		"description": "Calgon Carbon Corporation"
 	},
 	{
-		"Symbol": "CCCL",
-		"Description": "China Ceramics Co"
+		"symbol": "CCCL",
+		"description": "China Ceramics Co"
 	},
 	{
-		"Symbol": "CCCR",
-		"Description": "China Commercial Cre"
+		"symbol": "CCCR",
+		"description": "China Commercial Cre"
 	},
 	{
-		"Symbol": "CCD",
-		"Description": "Calams Dy Cnv In Cmn"
+		"symbol": "CCD",
+		"description": "Calams Dy Cnv In Cmn"
 	},
 	{
-		"Symbol": "CCE",
-		"Description": "Coca-Cola European Partners plc"
+		"symbol": "CCE",
+		"description": "Coca-Cola European Partners plc"
 	},
 	{
-		"Symbol": "CCF",
-		"Description": "Chase Corporation"
+		"symbol": "CCF",
+		"description": "Chase Corporation"
 	},
 	{
-		"Symbol": "CCI",
-		"Description": "Crown Castle International Corporation"
+		"symbol": "CCI",
+		"description": "Crown Castle International Corporation"
 	},
 	{
-		"Symbol": "CCIH",
-		"Description": "Chinacache Hldgs ADR"
+		"symbol": "CCIH",
+		"description": "Chinacache Hldgs ADR"
 	},
 	{
-		"Symbol": "CCJ",
-		"Description": "Cameco Corporation"
+		"symbol": "CCJ",
+		"description": "Cameco Corporation"
 	},
 	{
-		"Symbol": "CCK",
-		"Description": "Crown Holdings, Inc."
+		"symbol": "CCK",
+		"description": "Crown Holdings, Inc."
 	},
 	{
-		"Symbol": "CCL",
-		"Description": "Carnival Corporation"
+		"symbol": "CCL",
+		"description": "Carnival Corporation"
 	},
 	{
-		"Symbol": "CCLP",
-		"Description": "Csi Compressco Cmn"
+		"symbol": "CCLP",
+		"description": "Csi Compressco Cmn"
 	},
 	{
-		"Symbol": "CCM",
-		"Description": "Concord Medical Services Holdings Limited"
+		"symbol": "CCM",
+		"description": "Concord Medical Services Holdings Limited"
 	},
 	{
-		"Symbol": "CCMP",
-		"Description": "Cabot Microelectron"
+		"symbol": "CCMP",
+		"description": "Cabot Microelectron"
 	},
 	{
-		"Symbol": "CCN",
-		"Description": "Cardconnect Corp."
+		"symbol": "CCN",
+		"description": "Cardconnect Corp."
 	},
 	{
-		"Symbol": "CCNE",
-		"Description": "Cnb Financial Corp"
+		"symbol": "CCNE",
+		"description": "Cnb Financial Corp"
 	},
 	{
-		"Symbol": "CCO",
-		"Description": "Clear Channel Outdoor Holdings, Inc."
+		"symbol": "CCO",
+		"description": "Clear Channel Outdoor Holdings, Inc."
 	},
 	{
-		"Symbol": "CCOI",
-		"Description": "Cogent Comm Hldgs"
+		"symbol": "CCOI",
+		"description": "Cogent Comm Hldgs"
 	},
 	{
-		"Symbol": "CCP",
-		"Description": "Care Capital Properties, Inc."
+		"symbol": "CCP",
+		"description": "Care Capital Properties, Inc."
 	},
 	{
-		"Symbol": "CCRC",
-		"Description": "China Customer Ord"
+		"symbol": "CCRC",
+		"description": "China Customer Ord"
 	},
 	{
-		"Symbol": "CCRN",
-		"Description": "Cross Ctry Hlthcr"
+		"symbol": "CCRN",
+		"description": "Cross Ctry Hlthcr"
 	},
 	{
-		"Symbol": "CCS",
-		"Description": "Century Communities, Inc."
+		"symbol": "CCS",
+		"description": "Century Communities, Inc."
 	},
 	{
-		"Symbol": "CCU",
-		"Description": "Compania Cervecerias Unidas, S.A."
+		"symbol": "CCU",
+		"description": "Compania Cervecerias Unidas, S.A."
 	},
 	{
-		"Symbol": "CCUR",
-		"Description": "Concurrent Computer"
+		"symbol": "CCUR",
+		"description": "Concurrent Computer"
 	},
 	{
-		"Symbol": "CCV",
-		"Description": "Comcast Corporation"
+		"symbol": "CCV",
+		"description": "Comcast Corporation"
 	},
 	{
-		"Symbol": "CCXI",
-		"Description": "Chemocentryx Inc"
+		"symbol": "CCXI",
+		"description": "Chemocentryx Inc"
 	},
 	{
-		"Symbol": "CCZ",
-		"Description": "Comcast Corporation"
+		"symbol": "CCZ",
+		"description": "Comcast Corporation"
 	},
 	{
-		"Symbol": "CDC",
-		"Description": "Victory Cemp US Eq I"
+		"symbol": "CDC",
+		"description": "Victory Cemp US Eq I"
 	},
 	{
-		"Symbol": "CDE",
-		"Description": "Coeur Mining, Inc."
+		"symbol": "CDE",
+		"description": "Coeur Mining, Inc."
 	},
 	{
-		"Symbol": "CDEV",
-		"Description": "Centennial Resource Development Inc"
+		"symbol": "CDEV",
+		"description": "Centennial Resource Development Inc"
 	},
 	{
-		"Symbol": "CDEVW",
-		"Description": "Centennial Resource Development Inc"
+		"symbol": "CDEVW",
+		"description": "Centennial Resource Development Inc"
 	},
 	{
-		"Symbol": "CDI",
-		"Description": "CDI Corporation"
+		"symbol": "CDI",
+		"description": "CDI Corporation"
 	},
 	{
-		"Symbol": "CDK",
-		"Description": "Cdk Global Inc"
+		"symbol": "CDK",
+		"description": "Cdk Global Inc"
 	},
 	{
-		"Symbol": "CDL",
-		"Description": "Victory Cemp US Larg"
+		"symbol": "CDL",
+		"description": "Victory Cemp US Larg"
 	},
 	{
-		"Symbol": "CDNA",
-		"Description": "Caredx Inc Cmn"
+		"symbol": "CDNA",
+		"description": "Caredx Inc Cmn"
 	},
 	{
-		"Symbol": "CDNS",
-		"Description": "Cadence Design Sys"
+		"symbol": "CDNS",
+		"description": "Cadence Design Sys"
 	},
 	{
-		"Symbol": "CDOR",
-		"Description": "Condor Hospitality T"
+		"symbol": "CDOR",
+		"description": "Condor Hospitality T"
 	},
 	{
-		"Symbol": "CDR",
-		"Description": "Cedar Realty Trust, Inc."
+		"symbol": "CDR",
+		"description": "Cedar Realty Trust, Inc."
 	},
 	{
-		"Symbol": "CDR^B",
-		"Description": "Cedar Realty Trust, Inc."
+		"symbol": "CDR^B",
+		"description": "Cedar Realty Trust, Inc."
 	},
 	{
-		"Symbol": "CDTI",
-		"Description": "Clean Diesel Technol"
+		"symbol": "CDTI",
+		"description": "Clean Diesel Technol"
 	},
 	{
-		"Symbol": "CDTX",
-		"Description": "Cidara Thera Cmn"
+		"symbol": "CDTX",
+		"description": "Cidara Thera Cmn"
 	},
 	{
-		"Symbol": "CDW",
-		"Description": "CDW Corporation"
+		"symbol": "CDW",
+		"description": "CDW Corporation"
 	},
 	{
-		"Symbol": "CDXC",
-		"Description": "Chromadex Corp CS"
+		"symbol": "CDXC",
+		"description": "Chromadex Corp CS"
 	},
 	{
-		"Symbol": "CDXS",
-		"Description": "Codexis Inc"
+		"symbol": "CDXS",
+		"description": "Codexis Inc"
 	},
 	{
-		"Symbol": "CDZI",
-		"Description": "Cadiz Inc"
+		"symbol": "CDZI",
+		"description": "Cadiz Inc"
 	},
 	{
-		"Symbol": "CE",
-		"Description": "Celanese Corporation"
+		"symbol": "CE",
+		"description": "Celanese Corporation"
 	},
 	{
-		"Symbol": "CEA",
-		"Description": "China Eastern Airlines Corporation Ltd."
+		"symbol": "CEA",
+		"description": "China Eastern Airlines Corporation Ltd."
 	},
 	{
-		"Symbol": "CEB",
-		"Description": "CEB Inc."
+		"symbol": "CEB",
+		"description": "CEB Inc."
 	},
 	{
-		"Symbol": "CECE",
-		"Description": "C E C O Envir"
+		"symbol": "CECE",
+		"description": "C E C O Envir"
 	},
 	{
-		"Symbol": "CECO",
-		"Description": "Career Education"
+		"symbol": "CECO",
+		"description": "Career Education"
 	},
 	{
-		"Symbol": "CEE",
-		"Description": "Central Europe, Russia and Turkey Fund, Inc. "
+		"symbol": "CEE",
+		"description": "Central Europe, Russia and Turkey Fund, Inc. "
 	},
 	{
-		"Symbol": "CEF",
-		"Description": "Central Fund of Canada Limited"
+		"symbol": "CEF",
+		"description": "Central Fund of Canada Limited"
 	},
 	{
-		"Symbol": "CEI",
-		"Description": "Camber Energy, Inc."
+		"symbol": "CEI",
+		"description": "Camber Energy, Inc."
 	},
 	{
-		"Symbol": "CEL",
-		"Description": "Cellcom Israel, Ltd."
+		"symbol": "CEL",
+		"description": "Cellcom Israel, Ltd."
 	},
 	{
-		"Symbol": "CELG",
-		"Description": "Celgene Corp"
+		"symbol": "CELG",
+		"description": "Celgene Corp"
 	},
 	{
-		"Symbol": "CELGZ",
-		"Description": "Celgene Cp Cvr"
+		"symbol": "CELGZ",
+		"description": "Celgene Cp Cvr"
 	},
 	{
-		"Symbol": "CELP",
-		"Description": "Cypress Energy Partners, L.P."
+		"symbol": "CELP",
+		"description": "Cypress Energy Partners, L.P."
 	},
 	{
-		"Symbol": "CEM",
-		"Description": "ClearBridge Energy MLP Fund Inc."
+		"symbol": "CEM",
+		"description": "ClearBridge Energy MLP Fund Inc."
 	},
 	{
-		"Symbol": "CEMI",
-		"Description": "Chembio Diagnostics"
+		"symbol": "CEMI",
+		"description": "Chembio Diagnostics"
 	},
 	{
-		"Symbol": "CEMP",
-		"Description": "Cempra Inc"
+		"symbol": "CEMP",
+		"description": "Cempra Inc"
 	},
 	{
-		"Symbol": "CEN",
-		"Description": "Center Coast MLP & Infrastructure Fund"
+		"symbol": "CEN",
+		"description": "Center Coast MLP & Infrastructure Fund"
 	},
 	{
-		"Symbol": "CENT",
-		"Description": "Central Garden"
+		"symbol": "CENT",
+		"description": "Central Garden"
 	},
 	{
-		"Symbol": "CENTA",
-		"Description": "Central Garden & Pet"
+		"symbol": "CENTA",
+		"description": "Central Garden & Pet"
 	},
 	{
-		"Symbol": "CENX",
-		"Description": "Century Aluminum C"
+		"symbol": "CENX",
+		"description": "Century Aluminum C"
 	},
 	{
-		"Symbol": "CEO",
-		"Description": "CNOOC Limited"
+		"symbol": "CEO",
+		"description": "CNOOC Limited"
 	},
 	{
-		"Symbol": "CEQP",
-		"Description": "Crestwood Equity Partners LP"
+		"symbol": "CEQP",
+		"description": "Crestwood Equity Partners LP"
 	},
 	{
-		"Symbol": "CERC",
-		"Description": "Cerecor Inc Cmn Stk"
+		"symbol": "CERC",
+		"description": "Cerecor Inc Cmn Stk"
 	},
 	{
-		"Symbol": "CERCW",
-		"Description": "Cerecor Inc Cl A Wt"
+		"symbol": "CERCW",
+		"description": "Cerecor Inc Cl A Wt"
 	},
 	{
-		"Symbol": "CERCZ",
-		"Description": "Cerecor Inc Cl B Wt"
+		"symbol": "CERCZ",
+		"description": "Cerecor Inc Cl B Wt"
 	},
 	{
-		"Symbol": "CERN",
-		"Description": "Cerner Corp"
+		"symbol": "CERN",
+		"description": "Cerner Corp"
 	},
 	{
-		"Symbol": "CERS",
-		"Description": "Cerus Corp"
+		"symbol": "CERS",
+		"description": "Cerus Corp"
 	},
 	{
-		"Symbol": "CERU",
-		"Description": "Cerulean Pharma Cmn"
+		"symbol": "CERU",
+		"description": "Cerulean Pharma Cmn"
 	},
 	{
-		"Symbol": "CET",
-		"Description": "Central Securities Corporation"
+		"symbol": "CET",
+		"description": "Central Securities Corporation"
 	},
 	{
-		"Symbol": "CETC",
-		"Description": "Hongli Clean Energy Technologies Corp."
+		"symbol": "CETC",
+		"description": "Hongli Clean Energy Technologies Corp."
 	},
 	{
-		"Symbol": "CETV",
-		"Description": "Central EUR Med A"
+		"symbol": "CETV",
+		"description": "Central EUR Med A"
 	},
 	{
-		"Symbol": "CETX",
-		"Description": "Cemtrex Inc Cmn Stk"
+		"symbol": "CETX",
+		"description": "Cemtrex Inc Cmn Stk"
 	},
 	{
-		"Symbol": "CEV",
-		"Description": "Eaton Vance California Municipal Income Trust"
+		"symbol": "CEV",
+		"description": "Eaton Vance California Municipal Income Trust"
 	},
 	{
-		"Symbol": "CEVA",
-		"Description": "Ceva Inc"
+		"symbol": "CEVA",
+		"description": "Ceva Inc"
 	},
 	{
-		"Symbol": "CEZ",
-		"Description": "Vctry Cemp EM Vlt Wt"
+		"symbol": "CEZ",
+		"description": "Vctry Cemp EM Vlt Wt"
 	},
 	{
-		"Symbol": "CF",
-		"Description": "CF Industries Holdings, Inc."
+		"symbol": "CF",
+		"description": "CF Industries Holdings, Inc."
 	},
 	{
-		"Symbol": "CFA",
-		"Description": "Victory Cemp US 500"
+		"symbol": "CFA",
+		"description": "Victory Cemp US 500"
 	},
 	{
-		"Symbol": "CFBK",
-		"Description": "Central Fed Cp"
+		"symbol": "CFBK",
+		"description": "Central Fed Cp"
 	},
 	{
-		"Symbol": "CFC^B",
-		"Description": "Countrywide Financial Corporation"
+		"symbol": "CFC^B",
+		"description": "Countrywide Financial Corporation"
 	},
 	{
-		"Symbol": "CFCB",
-		"Description": "Centrue Financial Cmn"
+		"symbol": "CFCB",
+		"description": "Centrue Financial Cmn"
 	},
 	{
-		"Symbol": "CFCO",
-		"Description": "Cf Corp"
+		"symbol": "CFCO",
+		"description": "Cf Corp"
 	},
 	{
-		"Symbol": "CFCOU",
-		"Description": "Cf Corporation Units"
+		"symbol": "CFCOU",
+		"description": "Cf Corporation Units"
 	},
 	{
-		"Symbol": "CFCOW",
-		"Description": "Cf Corporation"
+		"symbol": "CFCOW",
+		"description": "Cf Corporation"
 	},
 	{
-		"Symbol": "CFFI",
-		"Description": "C&F Financial Corp"
+		"symbol": "CFFI",
+		"description": "C&F Financial Corp"
 	},
 	{
-		"Symbol": "CFFN",
-		"Description": "Capitol Fed Finl Inc"
+		"symbol": "CFFN",
+		"description": "Capitol Fed Finl Inc"
 	},
 	{
-		"Symbol": "CFG",
-		"Description": "Citizens Financial Group, Inc."
+		"symbol": "CFG",
+		"description": "Citizens Financial Group, Inc."
 	},
 	{
-		"Symbol": "CFI",
-		"Description": "Culp, Inc."
+		"symbol": "CFI",
+		"description": "Culp, Inc."
 	},
 	{
-		"Symbol": "CFMS",
-		"Description": "Conformis Inc CS"
+		"symbol": "CFMS",
+		"description": "Conformis Inc CS"
 	},
 	{
-		"Symbol": "CFNB",
-		"Description": "Calif First National"
+		"symbol": "CFNB",
+		"description": "Calif First National"
 	},
 	{
-		"Symbol": "CFNL",
-		"Description": "Cardinal Fin Cp"
+		"symbol": "CFNL",
+		"description": "Cardinal Fin Cp"
 	},
 	{
-		"Symbol": "CFO",
-		"Description": "Victory Cemp Us500E"
+		"symbol": "CFO",
+		"description": "Victory Cemp Us500E"
 	},
 	{
-		"Symbol": "CFR",
-		"Description": "Cullen/Frost Bankers, Inc."
+		"symbol": "CFR",
+		"description": "Cullen/Frost Bankers, Inc."
 	},
 	{
-		"Symbol": "CFR^A",
-		"Description": "Cullen/Frost Bankers, Inc."
+		"symbol": "CFR^A",
+		"description": "Cullen/Frost Bankers, Inc."
 	},
 	{
-		"Symbol": "CFRX",
-		"Description": "Contrafect Cmn"
+		"symbol": "CFRX",
+		"description": "Contrafect Cmn"
 	},
 	{
-		"Symbol": "CFRXW",
-		"Description": "Contrafect A Wrt"
+		"symbol": "CFRXW",
+		"description": "Contrafect A Wrt"
 	},
 	{
-		"Symbol": "CFX",
-		"Description": "Colfax Corporation"
+		"symbol": "CFX",
+		"description": "Colfax Corporation"
 	},
 	{
-		"Symbol": "CG",
-		"Description": " Carlyle Group"
+		"symbol": "CG",
+		"description": " Carlyle Group"
 	},
 	{
-		"Symbol": "CGA",
-		"Description": "China Green Agriculture, Inc."
+		"symbol": "CGA",
+		"description": "China Green Agriculture, Inc."
 	},
 	{
-		"Symbol": "CGEN",
-		"Description": "Compugen Ltd"
+		"symbol": "CGEN",
+		"description": "Compugen Ltd"
 	},
 	{
-		"Symbol": "CGG",
-		"Description": "CGG"
+		"symbol": "CGG",
+		"description": "CGG"
 	},
 	{
-		"Symbol": "CGI",
-		"Description": "Celadon Group, Inc."
+		"symbol": "CGI",
+		"description": "Celadon Group, Inc."
 	},
 	{
-		"Symbol": "CGIX",
-		"Description": "Cancer Genetics Inc"
+		"symbol": "CGIX",
+		"description": "Cancer Genetics Inc"
 	},
 	{
-		"Symbol": "CGNT",
-		"Description": "Cogentix Medical In"
+		"symbol": "CGNT",
+		"description": "Cogentix Medical In"
 	},
 	{
-		"Symbol": "CGNX",
-		"Description": "Cognex Cp"
+		"symbol": "CGNX",
+		"description": "Cognex Cp"
 	},
 	{
-		"Symbol": "CGO",
-		"Description": "Calamos Glb Ttl Rtn"
+		"symbol": "CGO",
+		"description": "Calamos Glb Ttl Rtn"
 	},
 	{
-		"Symbol": "CH",
-		"Description": "Aberdeen Chile Fund, Inc."
+		"symbol": "CH",
+		"description": "Aberdeen Chile Fund, Inc."
 	},
 	{
-		"Symbol": "CHA",
-		"Description": "China Telecom Corp Ltd"
+		"symbol": "CHA",
+		"description": "China Telecom Corp Ltd"
 	},
 	{
-		"Symbol": "CHCI",
-		"Description": "Comstock Hldgs Cos"
+		"symbol": "CHCI",
+		"description": "Comstock Hldgs Cos"
 	},
 	{
-		"Symbol": "CHCO",
-		"Description": "City Holding Co"
+		"symbol": "CHCO",
+		"description": "City Holding Co"
 	},
 	{
-		"Symbol": "CHCT",
-		"Description": "Community Healthcare Trust Incorporated"
+		"symbol": "CHCT",
+		"description": "Community Healthcare Trust Incorporated"
 	},
 	{
-		"Symbol": "CHD",
-		"Description": "Church & Dwight Company, Inc."
+		"symbol": "CHD",
+		"description": "Church & Dwight Company, Inc."
 	},
 	{
-		"Symbol": "CHDN",
-		"Description": "Churchill Downs In"
+		"symbol": "CHDN",
+		"description": "Churchill Downs In"
 	},
 	{
-		"Symbol": "CHE",
-		"Description": "Chemed Corp."
+		"symbol": "CHE",
+		"description": "Chemed Corp."
 	},
 	{
-		"Symbol": "CHEF",
-		"Description": " Chefs Warehouse"
+		"symbol": "CHEF",
+		"description": " Chefs Warehouse"
 	},
 	{
-		"Symbol": "CHEK",
-		"Description": "Check-Cap Ltd. Ord"
+		"symbol": "CHEK",
+		"description": "Check-Cap Ltd. Ord"
 	},
 	{
-		"Symbol": "CHEKW",
-		"Description": "Check-Cap Ltd A Wt"
+		"symbol": "CHEKW",
+		"description": "Check-Cap Ltd A Wt"
 	},
 	{
-		"Symbol": "CHFC",
-		"Description": "Chemical Financial"
+		"symbol": "CHFC",
+		"description": "Chemical Financial"
 	},
 	{
-		"Symbol": "CHFN",
-		"Description": "Charter Finl Corp"
+		"symbol": "CHFN",
+		"description": "Charter Finl Corp"
 	},
 	{
-		"Symbol": "CHGG",
-		"Description": "Chegg, Inc."
+		"symbol": "CHGG",
+		"description": "Chegg, Inc."
 	},
 	{
-		"Symbol": "CHH",
-		"Description": "Choice Hotels International, Inc."
+		"symbol": "CHH",
+		"description": "Choice Hotels International, Inc."
 	},
 	{
-		"Symbol": "CHI",
-		"Description": "Calamos Cv Opp & Inc"
+		"symbol": "CHI",
+		"description": "Calamos Cv Opp & Inc"
 	},
 	{
-		"Symbol": "CHK",
-		"Description": "Chesapeake Energy Corporation"
+		"symbol": "CHK",
+		"description": "Chesapeake Energy Corporation"
 	},
 	{
-		"Symbol": "CHK^D",
-		"Description": "Chesapeake Energy Corporation"
+		"symbol": "CHK^D",
+		"description": "Chesapeake Energy Corporation"
 	},
 	{
-		"Symbol": "CHKE",
-		"Description": "Cherokee Inc"
+		"symbol": "CHKE",
+		"description": "Cherokee Inc"
 	},
 	{
-		"Symbol": "CHKP",
-		"Description": "Check Point Software"
+		"symbol": "CHKP",
+		"description": "Check Point Software"
 	},
 	{
-		"Symbol": "CHKR",
-		"Description": "Chesapeake Granite Wash Trust"
+		"symbol": "CHKR",
+		"description": "Chesapeake Granite Wash Trust"
 	},
 	{
-		"Symbol": "CHL",
-		"Description": "China Mobile Hong Kong Ltd."
+		"symbol": "CHL",
+		"description": "China Mobile Hong Kong Ltd."
 	},
 	{
-		"Symbol": "CHMA",
-		"Description": "Chiasma Inc Cmn"
+		"symbol": "CHMA",
+		"description": "Chiasma Inc Cmn"
 	},
 	{
-		"Symbol": "CHMG",
-		"Description": "Chemung Financial Cp"
+		"symbol": "CHMG",
+		"description": "Chemung Financial Cp"
 	},
 	{
-		"Symbol": "CHMI",
-		"Description": "Cherry Hill Mortgage Investment Corporation"
+		"symbol": "CHMI",
+		"description": "Cherry Hill Mortgage Investment Corporation"
 	},
 	{
-		"Symbol": "CHMT",
-		"Description": "Chemtura Corp."
+		"symbol": "CHMT",
+		"description": "Chemtura Corp."
 	},
 	{
-		"Symbol": "CHN",
-		"Description": "China Fund, Inc. "
+		"symbol": "CHN",
+		"description": "China Fund, Inc. "
 	},
 	{
-		"Symbol": "CHNR",
-		"Description": "China Natural Res"
+		"symbol": "CHNR",
+		"description": "China Natural Res"
 	},
 	{
-		"Symbol": "CHRS",
-		"Description": "Coherus Bio Cmn Stk"
+		"symbol": "CHRS",
+		"description": "Coherus Bio Cmn Stk"
 	},
 	{
-		"Symbol": "CHRW",
-		"Description": "C.H. Robinson Ww"
+		"symbol": "CHRW",
+		"description": "C.H. Robinson Ww"
 	},
 	{
-		"Symbol": "CHS",
-		"Description": "Chicos FAS, Inc."
+		"symbol": "CHS",
+		"description": "Chicos FAS, Inc."
 	},
 	{
-		"Symbol": "CHSCL",
-		"Description": "CHS B Cum Pfd Srs 4"
+		"symbol": "CHSCL",
+		"description": "CHS B Cum Pfd Srs 4"
 	},
 	{
-		"Symbol": "CHSCM",
-		"Description": "CHS Pfd Clb Ser3"
+		"symbol": "CHSCM",
+		"description": "CHS Pfd Clb Ser3"
 	},
 	{
-		"Symbol": "CHSCN",
-		"Description": "CHS Inc Pfd B Srs 2"
+		"symbol": "CHSCN",
+		"description": "CHS Inc Pfd B Srs 2"
 	},
 	{
-		"Symbol": "CHSCO",
-		"Description": "CHS Inc Cl B Pfd"
+		"symbol": "CHSCO",
+		"description": "CHS Inc Cl B Pfd"
 	},
 	{
-		"Symbol": "CHSCP",
-		"Description": "CHS Inc Cum Pfd"
+		"symbol": "CHSCP",
+		"description": "CHS Inc Cum Pfd"
 	},
 	{
-		"Symbol": "CHSP",
-		"Description": "Chesapeake Lodging Trust"
+		"symbol": "CHSP",
+		"description": "Chesapeake Lodging Trust"
 	},
 	{
-		"Symbol": "CHSP^A",
-		"Description": "Chesapeake Lodging Trust"
+		"symbol": "CHSP^A",
+		"description": "Chesapeake Lodging Trust"
 	},
 	{
-		"Symbol": "CHT",
-		"Description": "Chunghwa Telecom Co., Ltd."
+		"symbol": "CHT",
+		"description": "Chunghwa Telecom Co., Ltd."
 	},
 	{
-		"Symbol": "CHTR",
-		"Description": "Charter Communicatio"
+		"symbol": "CHTR",
+		"description": "Charter Communicatio"
 	},
 	{
-		"Symbol": "CHU",
-		"Description": "China Unicom Hong Kong Ltd"
+		"symbol": "CHU",
+		"description": "China Unicom Hong Kong Ltd"
 	},
 	{
-		"Symbol": "CHUBA",
-		"Description": "Commercehub Inc"
+		"symbol": "CHUBA",
+		"description": "Commercehub Inc"
 	},
 	{
-		"Symbol": "CHUBK",
-		"Description": "Commercehub Inc"
+		"symbol": "CHUBK",
+		"description": "Commercehub Inc"
 	},
 	{
-		"Symbol": "CHUY",
-		"Description": "Chuy's Holdings Inc"
+		"symbol": "CHUY",
+		"description": "Chuy's Holdings Inc"
 	},
 	{
-		"Symbol": "CHW",
-		"Description": "Calamos Gbl Dyn Inc"
+		"symbol": "CHW",
+		"description": "Calamos Gbl Dyn Inc"
 	},
 	{
-		"Symbol": "CHY",
-		"Description": "Calamos Cv & High In"
+		"symbol": "CHY",
+		"description": "Calamos Cv & High In"
 	},
 	{
-		"Symbol": "CI",
-		"Description": "Cigna Corporation"
+		"symbol": "CI",
+		"description": "Cigna Corporation"
 	},
 	{
-		"Symbol": "CIA",
-		"Description": "Citizens, Inc."
+		"symbol": "CIA",
+		"description": "Citizens, Inc."
 	},
 	{
-		"Symbol": "CIB",
-		"Description": "BanColombia S.A."
+		"symbol": "CIB",
+		"description": "BanColombia S.A."
 	},
 	{
-		"Symbol": "CIBR",
-		"Description": "First TR Ndq Cybr ETF"
+		"symbol": "CIBR",
+		"description": "First TR Ndq Cybr ETF"
 	},
 	{
-		"Symbol": "CID",
-		"Description": "Victory Cemp Interna"
+		"symbol": "CID",
+		"description": "Victory Cemp Interna"
 	},
 	{
-		"Symbol": "CIDM",
-		"Description": "Cinedigm Corp"
+		"symbol": "CIDM",
+		"description": "Cinedigm Corp"
 	},
 	{
-		"Symbol": "CIE",
-		"Description": "Cobalt International Energy, Inc."
+		"symbol": "CIE",
+		"description": "Cobalt International Energy, Inc."
 	},
 	{
-		"Symbol": "CIEN",
-		"Description": "Ciena Corporation"
+		"symbol": "CIEN",
+		"description": "Ciena Corporation"
 	},
 	{
-		"Symbol": "CIF",
-		"Description": "Colonial Intermediate High Income Fund"
+		"symbol": "CIF",
+		"description": "Colonial Intermediate High Income Fund"
 	},
 	{
-		"Symbol": "CIG",
-		"Description": "Comp En De Mn Cemig ADS"
+		"symbol": "CIG",
+		"description": "Comp En De Mn Cemig ADS"
 	},
 	{
-		"Symbol": "CIG.C",
-		"Description": "Comp En De Mn Cemig ADS"
+		"symbol": "CIG.C",
+		"description": "Comp En De Mn Cemig ADS"
 	},
 	{
-		"Symbol": "CIGI",
-		"Description": "Colliers Intl Grp In"
+		"symbol": "CIGI",
+		"description": "Colliers Intl Grp In"
 	},
 	{
-		"Symbol": "CII",
-		"Description": "Blackrock Capital and Income Strategies Fund Inc"
+		"symbol": "CII",
+		"description": "Blackrock Capital and Income Strategies Fund Inc"
 	},
 	{
-		"Symbol": "CIK",
-		"Description": "Credit Suisse Asset Management Income Fund, Inc."
+		"symbol": "CIK",
+		"description": "Credit Suisse Asset Management Income Fund, Inc."
 	},
 	{
-		"Symbol": "CIL",
-		"Description": "Victory Cemp Intl Vo"
+		"symbol": "CIL",
+		"description": "Victory Cemp Intl Vo"
 	},
 	{
-		"Symbol": "CIM",
-		"Description": "Chimera Investment Corporation"
+		"symbol": "CIM",
+		"description": "Chimera Investment Corporation"
 	},
 	{
-		"Symbol": "CIM^A",
-		"Description": "Chimera Investment Corporation"
+		"symbol": "CIM^A",
+		"description": "Chimera Investment Corporation"
 	},
 	{
-		"Symbol": "CINF",
-		"Description": "Cincinnati Financial"
+		"symbol": "CINF",
+		"description": "Cincinnati Financial"
 	},
 	{
-		"Symbol": "CINR",
-		"Description": "Ciner Resources LP"
+		"symbol": "CINR",
+		"description": "Ciner Resources LP"
 	},
 	{
-		"Symbol": "CIO",
-		"Description": "City Office REIT, Inc."
+		"symbol": "CIO",
+		"description": "City Office REIT, Inc."
 	},
 	{
-		"Symbol": "CIO^A",
-		"Description": "City Office REIT, Inc."
+		"symbol": "CIO^A",
+		"description": "City Office REIT, Inc."
 	},
 	{
-		"Symbol": "CIR",
-		"Description": "CIRCOR International, Inc."
+		"symbol": "CIR",
+		"description": "CIRCOR International, Inc."
 	},
 	{
-		"Symbol": "CIT",
-		"Description": "CIT Group Inc DEL"
+		"symbol": "CIT",
+		"description": "CIT Group Inc DEL"
 	},
 	{
-		"Symbol": "CIVB",
-		"Description": "Civista Bncshrs Cmn"
+		"symbol": "CIVB",
+		"description": "Civista Bncshrs Cmn"
 	},
 	{
-		"Symbol": "CIVBP",
-		"Description": "Civista Bancshrs Dep"
+		"symbol": "CIVBP",
+		"description": "Civista Bancshrs Dep"
 	},
 	{
-		"Symbol": "CIVI",
-		"Description": "Civitas Solutions, Inc."
+		"symbol": "CIVI",
+		"description": "Civitas Solutions, Inc."
 	},
 	{
-		"Symbol": "CIX",
-		"Description": "CompX International Inc."
+		"symbol": "CIX",
+		"description": "CompX International Inc."
 	},
 	{
-		"Symbol": "CIZ",
-		"Description": "Victory Cemp Dev Enh"
+		"symbol": "CIZ",
+		"description": "Victory Cemp Dev Enh"
 	},
 	{
-		"Symbol": "CIZN",
-		"Description": "Citizens Hldg Co"
+		"symbol": "CIZN",
+		"description": "Citizens Hldg Co"
 	},
 	{
-		"Symbol": "CJJD",
-		"Description": "China Jojo Drugstore"
+		"symbol": "CJJD",
+		"description": "China Jojo Drugstore"
 	},
 	{
-		"Symbol": "CKH",
-		"Description": "SEACOR Holdings, Inc."
+		"symbol": "CKH",
+		"description": "SEACOR Holdings, Inc."
 	},
 	{
-		"Symbol": "CKX",
-		"Description": "CKX Lands, Inc."
+		"symbol": "CKX",
+		"description": "CKX Lands, Inc."
 	},
 	{
-		"Symbol": "CL",
-		"Description": "Colgate-Palmolive Company"
+		"symbol": "CL",
+		"description": "Colgate-Palmolive Company"
 	},
 	{
-		"Symbol": "CLA",
-		"Description": "Capitala Finance Corp."
+		"symbol": "CLA",
+		"description": "Capitala Finance Corp."
 	},
 	{
-		"Symbol": "CLAC",
-		"Description": "Capitol Acq Corp III"
+		"symbol": "CLAC",
+		"description": "Capitol Acq Corp III"
 	},
 	{
-		"Symbol": "CLACU",
-		"Description": "Capitol Acq III Ut"
+		"symbol": "CLACU",
+		"description": "Capitol Acq III Ut"
 	},
 	{
-		"Symbol": "CLACW",
-		"Description": "Capitol Acq Cp 3 Wts"
+		"symbol": "CLACW",
+		"description": "Capitol Acq Cp 3 Wts"
 	},
 	{
-		"Symbol": "CLB",
-		"Description": "Core Laboratories N.V."
+		"symbol": "CLB",
+		"description": "Core Laboratories N.V."
 	},
 	{
-		"Symbol": "CLBH",
-		"Description": "Carolina Bank Hldgs"
+		"symbol": "CLBH",
+		"description": "Carolina Bank Hldgs"
 	},
 	{
-		"Symbol": "CLBS",
-		"Description": "Caladrius Bio Cmn"
+		"symbol": "CLBS",
+		"description": "Caladrius Bio Cmn"
 	},
 	{
-		"Symbol": "CLC",
-		"Description": "CLARCOR Inc."
+		"symbol": "CLC",
+		"description": "CLARCOR Inc."
 	},
 	{
-		"Symbol": "CLCD",
-		"Description": "Colucid Pharma Cmn"
+		"symbol": "CLCD",
+		"description": "Colucid Pharma Cmn"
 	},
 	{
-		"Symbol": "CLCT",
-		"Description": "Collectors Universe"
+		"symbol": "CLCT",
+		"description": "Collectors Universe"
 	},
 	{
-		"Symbol": "CLD",
-		"Description": "Cloud Peak Energy Inc"
+		"symbol": "CLD",
+		"description": "Cloud Peak Energy Inc"
 	},
 	{
-		"Symbol": "CLDC",
-		"Description": "China Lending Corp"
+		"symbol": "CLDC",
+		"description": "China Lending Corp"
 	},
 	{
-		"Symbol": "CLDT",
-		"Description": "Chatham Lodging Trust REIT"
+		"symbol": "CLDT",
+		"description": "Chatham Lodging Trust REIT"
 	},
 	{
-		"Symbol": "CLDX",
-		"Description": "Celldex Therapeutics"
+		"symbol": "CLDX",
+		"description": "Celldex Therapeutics"
 	},
 	{
-		"Symbol": "CLF",
-		"Description": "Cliffs Natural Resources Inc."
+		"symbol": "CLF",
+		"description": "Cliffs Natural Resources Inc."
 	},
 	{
-		"Symbol": "CLFD",
-		"Description": "Clearfield Inc"
+		"symbol": "CLFD",
+		"description": "Clearfield Inc"
 	},
 	{
-		"Symbol": "CLGX",
-		"Description": "CoreLogic, Inc."
+		"symbol": "CLGX",
+		"description": "CoreLogic, Inc."
 	},
 	{
-		"Symbol": "CLH",
-		"Description": "Clean Harbors, Inc."
+		"symbol": "CLH",
+		"description": "Clean Harbors, Inc."
 	},
 	{
-		"Symbol": "CLI",
-		"Description": "Mack-Cali Realty Corporation"
+		"symbol": "CLI",
+		"description": "Mack-Cali Realty Corporation"
 	},
 	{
-		"Symbol": "CLIR",
-		"Description": "Clearsign Combustion"
+		"symbol": "CLIR",
+		"description": "Clearsign Combustion"
 	},
 	{
-		"Symbol": "CLIRW",
-		"Description": "Clearsign Combustion Corporation Warrant"
+		"symbol": "CLIRW",
+		"description": "Clearsign Combustion Corporation Warrant"
 	},
 	{
-		"Symbol": "CLLS",
-		"Description": "Cellectis S.A. Ads"
+		"symbol": "CLLS",
+		"description": "Cellectis S.A. Ads"
 	},
 	{
-		"Symbol": "CLM",
-		"Description": "Cornerstone Strategic Value Fund, Inc."
+		"symbol": "CLM",
+		"description": "Cornerstone Strategic Value Fund, Inc."
 	},
 	{
-		"Symbol": "CLMS",
-		"Description": "Calamos Asset Manage"
+		"symbol": "CLMS",
+		"description": "Calamos Asset Manage"
 	},
 	{
-		"Symbol": "CLMT",
-		"Description": "Calumet Specialty Pr"
+		"symbol": "CLMT",
+		"description": "Calumet Specialty Pr"
 	},
 	{
-		"Symbol": "CLNE",
-		"Description": "Clean Energy Fuels"
+		"symbol": "CLNE",
+		"description": "Clean Energy Fuels"
 	},
 	{
-		"Symbol": "CLNS",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^A",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^A",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^B",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^B",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^C",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^C",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^D",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^D",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^E",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^E",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^F",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^F",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^G",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^G",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNS^H",
-		"Description": "Colony NorthStar, Inc."
+		"symbol": "CLNS^H",
+		"description": "Colony NorthStar, Inc."
 	},
 	{
-		"Symbol": "CLNT",
-		"Description": "Cleantech Solutions"
+		"symbol": "CLNT",
+		"description": "Cleantech Solutions"
 	},
 	{
-		"Symbol": "CLR",
-		"Description": "Continental Resources, Inc."
+		"symbol": "CLR",
+		"description": "Continental Resources, Inc."
 	},
 	{
-		"Symbol": "CLRB",
-		"Description": "Cellectar Biosc Cmn"
+		"symbol": "CLRB",
+		"description": "Cellectar Biosc Cmn"
 	},
 	{
-		"Symbol": "CLRBW",
-		"Description": "Cellectar Biosc Wt"
+		"symbol": "CLRBW",
+		"description": "Cellectar Biosc Wt"
 	},
 	{
-		"Symbol": "CLRBZ",
-		"Description": "Cellectar Bio Sra Wt"
+		"symbol": "CLRBZ",
+		"description": "Cellectar Bio Sra Wt"
 	},
 	{
-		"Symbol": "CLRO",
-		"Description": "Clearone Inc"
+		"symbol": "CLRO",
+		"description": "Clearone Inc"
 	},
 	{
-		"Symbol": "CLS",
-		"Description": "Celestica, Inc."
+		"symbol": "CLS",
+		"description": "Celestica, Inc."
 	},
 	{
-		"Symbol": "CLSD",
-		"Description": "Clearside Biomedi Cmn"
+		"symbol": "CLSD",
+		"description": "Clearside Biomedi Cmn"
 	},
 	{
-		"Symbol": "CLSN",
-		"Description": "Celsion Corp"
+		"symbol": "CLSN",
+		"description": "Celsion Corp"
 	},
 	{
-		"Symbol": "CLUB",
-		"Description": "Town Sports Internat"
+		"symbol": "CLUB",
+		"description": "Town Sports Internat"
 	},
 	{
-		"Symbol": "CLVS",
-		"Description": "Clovis Oncology Inc"
+		"symbol": "CLVS",
+		"description": "Clovis Oncology Inc"
 	},
 	{
-		"Symbol": "CLW",
-		"Description": "Clearwater Paper Corporation"
+		"symbol": "CLW",
+		"description": "Clearwater Paper Corporation"
 	},
 	{
-		"Symbol": "CLWT",
-		"Description": "Euro Tech Hldg"
+		"symbol": "CLWT",
+		"description": "Euro Tech Hldg"
 	},
 	{
-		"Symbol": "CLX",
-		"Description": "Clorox Company "
+		"symbol": "CLX",
+		"description": "Clorox Company "
 	},
 	{
-		"Symbol": "CM",
-		"Description": "Canadian Imperial Bank of Commerce"
+		"symbol": "CM",
+		"description": "Canadian Imperial Bank of Commerce"
 	},
 	{
-		"Symbol": "CMA",
-		"Description": "Comerica Incorporated"
+		"symbol": "CMA",
+		"description": "Comerica Incorporated"
 	},
 	{
-		"Symbol": "CMA.WS",
-		"Description": "Comerica Incorporated"
+		"symbol": "CMA.WS",
+		"description": "Comerica Incorporated"
 	},
 	{
-		"Symbol": "CMC",
-		"Description": "Commercial Metals Company"
+		"symbol": "CMC",
+		"description": "Commercial Metals Company"
 	},
 	{
-		"Symbol": "CMCM",
-		"Description": "Cheetah Mobile Inc."
+		"symbol": "CMCM",
+		"description": "Cheetah Mobile Inc."
 	},
 	{
-		"Symbol": "CMCO",
-		"Description": "Columbus Mckinnon"
+		"symbol": "CMCO",
+		"description": "Columbus Mckinnon"
 	},
 	{
-		"Symbol": "CMCSA",
-		"Description": "Comcast Corp A"
+		"symbol": "CMCSA",
+		"description": "Comcast Corp A"
 	},
 	{
-		"Symbol": "CMCT",
-		"Description": "Cim Commercial TR Cp"
+		"symbol": "CMCT",
+		"description": "Cim Commercial TR Cp"
 	},
 	{
-		"Symbol": "CMD",
-		"Description": "Cantel Medical Corp."
+		"symbol": "CMD",
+		"description": "Cantel Medical Corp."
 	},
 	{
-		"Symbol": "CME",
-		"Description": "CME Group Inc"
+		"symbol": "CME",
+		"description": "CME Group Inc"
 	},
 	{
-		"Symbol": "CMFN",
-		"Description": "Cm Finance Cmn"
+		"symbol": "CMFN",
+		"description": "Cm Finance Cmn"
 	},
 	{
-		"Symbol": "CMG",
-		"Description": "Chipotle Mexican Grill, Inc."
+		"symbol": "CMG",
+		"description": "Chipotle Mexican Grill, Inc."
 	},
 	{
-		"Symbol": "CMI",
-		"Description": "Cummins Inc."
+		"symbol": "CMI",
+		"description": "Cummins Inc."
 	},
 	{
-		"Symbol": "CMLS",
-		"Description": "Cumulus Media Inc"
+		"symbol": "CMLS",
+		"description": "Cumulus Media Inc"
 	},
 	{
-		"Symbol": "CMO",
-		"Description": "Capstead Mortgage Corporation"
+		"symbol": "CMO",
+		"description": "Capstead Mortgage Corporation"
 	},
 	{
-		"Symbol": "CMO^E",
-		"Description": "Capstead Mortgage Corporation"
+		"symbol": "CMO^E",
+		"description": "Capstead Mortgage Corporation"
 	},
 	{
-		"Symbol": "CMP",
-		"Description": "Compass Minerals International, Inc."
+		"symbol": "CMP",
+		"description": "Compass Minerals International, Inc."
 	},
 	{
-		"Symbol": "CMPR",
-		"Description": "Cimpress N.V. Ord"
+		"symbol": "CMPR",
+		"description": "Cimpress N.V. Ord"
 	},
 	{
-		"Symbol": "CMRE",
-		"Description": "Costamare Inc."
+		"symbol": "CMRE",
+		"description": "Costamare Inc."
 	},
 	{
-		"Symbol": "CMRE^B",
-		"Description": "Costamare Inc."
+		"symbol": "CMRE^B",
+		"description": "Costamare Inc."
 	},
 	{
-		"Symbol": "CMRE^C",
-		"Description": "Costamare Inc."
+		"symbol": "CMRE^C",
+		"description": "Costamare Inc."
 	},
 	{
-		"Symbol": "CMRE^D",
-		"Description": "Costamare Inc."
+		"symbol": "CMRE^D",
+		"description": "Costamare Inc."
 	},
 	{
-		"Symbol": "CMRX",
-		"Description": "Chimerix Inc"
+		"symbol": "CMRX",
+		"description": "Chimerix Inc"
 	},
 	{
-		"Symbol": "CMS",
-		"Description": "CMS Energy Corporation"
+		"symbol": "CMS",
+		"description": "CMS Energy Corporation"
 	},
 	{
-		"Symbol": "CMS^B",
-		"Description": "CMS Energy Corporation"
+		"symbol": "CMS^B",
+		"description": "CMS Energy Corporation"
 	},
 	{
-		"Symbol": "CMT",
-		"Description": "Core Molding Technologies Inc"
+		"symbol": "CMT",
+		"description": "Core Molding Technologies Inc"
 	},
 	{
-		"Symbol": "CMTL",
-		"Description": "Comtech Telecom Co"
+		"symbol": "CMTL",
+		"description": "Comtech Telecom Co"
 	},
 	{
-		"Symbol": "CMU",
-		"Description": "Colonial Municipal Income Trust"
+		"symbol": "CMU",
+		"description": "Colonial Municipal Income Trust"
 	},
 	{
-		"Symbol": "CNA",
-		"Description": "CNA Financial Corporation"
+		"symbol": "CNA",
+		"description": "CNA Financial Corporation"
 	},
 	{
-		"Symbol": "CNAT",
-		"Description": "Conatus Pharmaceutic"
+		"symbol": "CNAT",
+		"description": "Conatus Pharmaceutic"
 	},
 	{
-		"Symbol": "CNBKA",
-		"Description": "Century Bancorp Inc"
+		"symbol": "CNBKA",
+		"description": "Century Bancorp Inc"
 	},
 	{
-		"Symbol": "CNC",
-		"Description": "Centene Corporation"
+		"symbol": "CNC",
+		"description": "Centene Corporation"
 	},
 	{
-		"Symbol": "CNCE",
-		"Description": "Concert Pharmaceutic"
+		"symbol": "CNCE",
+		"description": "Concert Pharmaceutic"
 	},
 	{
-		"Symbol": "CNCO",
-		"Description": "Cencosud S.A."
+		"symbol": "CNCO",
+		"description": "Cencosud S.A."
 	},
 	{
-		"Symbol": "CNCR",
-		"Description": "Loncar Cancer Immuno"
+		"symbol": "CNCR",
+		"description": "Loncar Cancer Immuno"
 	},
 	{
-		"Symbol": "CNDT",
-		"Description": "Conduent Incorporated"
+		"symbol": "CNDT",
+		"description": "Conduent Incorporated"
 	},
 	{
-		"Symbol": "CNET",
-		"Description": "Chinanet Online Hldg"
+		"symbol": "CNET",
+		"description": "Chinanet Online Hldg"
 	},
 	{
-		"Symbol": "CNFR",
-		"Description": "Conifer Holdings Cmn"
+		"symbol": "CNFR",
+		"description": "Conifer Holdings Cmn"
 	},
 	{
-		"Symbol": "CNHI",
-		"Description": "CNH Industrial N.V."
+		"symbol": "CNHI",
+		"description": "CNH Industrial N.V."
 	},
 	{
-		"Symbol": "CNI",
-		"Description": "Canadian National Railway Company"
+		"symbol": "CNI",
+		"description": "Canadian National Railway Company"
 	},
 	{
-		"Symbol": "CNIT",
-		"Description": "China Info Tech"
+		"symbol": "CNIT",
+		"description": "China Info Tech"
 	},
 	{
-		"Symbol": "CNK",
-		"Description": "Cinemark Holdings Inc"
+		"symbol": "CNK",
+		"description": "Cinemark Holdings Inc"
 	},
 	{
-		"Symbol": "CNMD",
-		"Description": "C O N M E D Cp"
+		"symbol": "CNMD",
+		"description": "C O N M E D Cp"
 	},
 	{
-		"Symbol": "CNNX",
-		"Description": "Cone Midstream Partners LP"
+		"symbol": "CNNX",
+		"description": "Cone Midstream Partners LP"
 	},
 	{
-		"Symbol": "CNO",
-		"Description": "CNO Financial Group, Inc."
+		"symbol": "CNO",
+		"description": "CNO Financial Group, Inc."
 	},
 	{
-		"Symbol": "CNOB",
-		"Description": "Connectone Bancorp"
+		"symbol": "CNOB",
+		"description": "Connectone Bancorp"
 	},
 	{
-		"Symbol": "CNP",
-		"Description": "CenterPoint Energy, Inc."
+		"symbol": "CNP",
+		"description": "CenterPoint Energy, Inc."
 	},
 	{
-		"Symbol": "CNQ",
-		"Description": "Canadian Natural Resources Limited"
+		"symbol": "CNQ",
+		"description": "Canadian Natural Resources Limited"
 	},
 	{
-		"Symbol": "CNS",
-		"Description": "Cohen & Steers Inc"
+		"symbol": "CNS",
+		"description": "Cohen & Steers Inc"
 	},
 	{
-		"Symbol": "CNSL",
-		"Description": "Consolidated Communi"
+		"symbol": "CNSL",
+		"description": "Consolidated Communi"
 	},
 	{
-		"Symbol": "CNTF",
-		"Description": "China Techfaith Wire"
+		"symbol": "CNTF",
+		"description": "China Techfaith Wire"
 	},
 	{
-		"Symbol": "CNTY",
-		"Description": "Century Casinos In"
+		"symbol": "CNTY",
+		"description": "Century Casinos In"
 	},
 	{
-		"Symbol": "CNV",
-		"Description": "Cnova N.V. Ord"
+		"symbol": "CNV",
+		"description": "Cnova N.V. Ord"
 	},
 	{
-		"Symbol": "CNX",
-		"Description": "CONSOL Energy Inc."
+		"symbol": "CNX",
+		"description": "CONSOL Energy Inc."
 	},
 	{
-		"Symbol": "CNXC",
-		"Description": "CNX Coal Resources LP"
+		"symbol": "CNXC",
+		"description": "CNX Coal Resources LP"
 	},
 	{
-		"Symbol": "CNXN",
-		"Description": "PC Connection Inc"
+		"symbol": "CNXN",
+		"description": "PC Connection Inc"
 	},
 	{
-		"Symbol": "CNXR",
-		"Description": "Connecture Inc Cmn"
+		"symbol": "CNXR",
+		"description": "Connecture Inc Cmn"
 	},
 	{
-		"Symbol": "CO",
-		"Description": "China Cord Blood Corporation"
+		"symbol": "CO",
+		"description": "China Cord Blood Corporation"
 	},
 	{
-		"Symbol": "COBZ",
-		"Description": "Cobiz Financial Inc"
+		"symbol": "COBZ",
+		"description": "Cobiz Financial Inc"
 	},
 	{
-		"Symbol": "CODI",
-		"Description": "Compass Diversified Holdings"
+		"symbol": "CODI",
+		"description": "Compass Diversified Holdings"
 	},
 	{
-		"Symbol": "COE",
-		"Description": "China Online Education Group"
+		"symbol": "COE",
+		"description": "China Online Education Group"
 	},
 	{
-		"Symbol": "COF",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF.WS",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF.WS",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^C",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^C",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^D",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^D",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^F",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^F",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^G",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^G",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^H",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^H",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COF^P",
-		"Description": "Capital One Financial Corporation"
+		"symbol": "COF^P",
+		"description": "Capital One Financial Corporation"
 	},
 	{
-		"Symbol": "COG",
-		"Description": "Cabot Oil & Gas Corporation"
+		"symbol": "COG",
+		"description": "Cabot Oil & Gas Corporation"
 	},
 	{
-		"Symbol": "COGT",
-		"Description": "Cogint Inc"
+		"symbol": "COGT",
+		"description": "Cogint Inc"
 	},
 	{
-		"Symbol": "COH",
-		"Description": "Coach, Inc."
+		"symbol": "COH",
+		"description": "Coach, Inc."
 	},
 	{
-		"Symbol": "COHR",
-		"Description": "Coherent Inc"
+		"symbol": "COHR",
+		"description": "Coherent Inc"
 	},
 	{
-		"Symbol": "COHU",
-		"Description": "Cohu Inc"
+		"symbol": "COHU",
+		"description": "Cohu Inc"
 	},
 	{
-		"Symbol": "COKE",
-		"Description": "Coca Cola Bot Cons"
+		"symbol": "COKE",
+		"description": "Coca Cola Bot Cons"
 	},
 	{
-		"Symbol": "COL",
-		"Description": "Rockwell Collins, Inc."
+		"symbol": "COL",
+		"description": "Rockwell Collins, Inc."
 	},
 	{
-		"Symbol": "COLB",
-		"Description": "Columbia Banking Sys"
+		"symbol": "COLB",
+		"description": "Columbia Banking Sys"
 	},
 	{
-		"Symbol": "COLL",
-		"Description": "Collegium Pharma Cmn"
+		"symbol": "COLL",
+		"description": "Collegium Pharma Cmn"
 	},
 	{
-		"Symbol": "COLM",
-		"Description": "Columbia Sprtswr"
+		"symbol": "COLM",
+		"description": "Columbia Sprtswr"
 	},
 	{
-		"Symbol": "COMM",
-		"Description": "Commscope Holding Co"
+		"symbol": "COMM",
+		"description": "Commscope Holding Co"
 	},
 	{
-		"Symbol": "COMT",
-		"Description": "Ishrs Cmdty Sel Stra"
+		"symbol": "COMT",
+		"description": "Ishrs Cmdty Sel Stra"
 	},
 	{
-		"Symbol": "CONE",
-		"Description": "Cyrusone Inc Cmn"
+		"symbol": "CONE",
+		"description": "Cyrusone Inc Cmn"
 	},
 	{
-		"Symbol": "CONN",
-		"Description": "Conn's Inc"
+		"symbol": "CONN",
+		"description": "Conn's Inc"
 	},
 	{
-		"Symbol": "COO",
-		"Description": "Cooper Companies, Inc. "
+		"symbol": "COO",
+		"description": "Cooper Companies, Inc. "
 	},
 	{
-		"Symbol": "COOL",
-		"Description": "Majesco Entertainmnt"
+		"symbol": "COOL",
+		"description": "Majesco Entertainmnt"
 	},
 	{
-		"Symbol": "COP",
-		"Description": "ConocoPhillips"
+		"symbol": "COP",
+		"description": "ConocoPhillips"
 	},
 	{
-		"Symbol": "COR",
-		"Description": "CoreSite Realty Corporation"
+		"symbol": "COR",
+		"description": "CoreSite Realty Corporation"
 	},
 	{
-		"Symbol": "COR^A",
-		"Description": "CoreSite Realty Corporation"
+		"symbol": "COR^A",
+		"description": "CoreSite Realty Corporation"
 	},
 	{
-		"Symbol": "CORE",
-		"Description": "Core Mark Holding"
+		"symbol": "CORE",
+		"description": "Core Mark Holding"
 	},
 	{
-		"Symbol": "CORI",
-		"Description": "Corium Intl Cmn"
+		"symbol": "CORI",
+		"description": "Corium Intl Cmn"
 	},
 	{
-		"Symbol": "CORR",
-		"Description": "CorEnergy Infrastructure Trust, Inc."
+		"symbol": "CORR",
+		"description": "CorEnergy Infrastructure Trust, Inc."
 	},
 	{
-		"Symbol": "CORR^A",
-		"Description": "CorEnergy Infrastructure Trust, Inc."
+		"symbol": "CORR^A",
+		"description": "CorEnergy Infrastructure Trust, Inc."
 	},
 	{
-		"Symbol": "CORT",
-		"Description": "Corcept Therapeutics"
+		"symbol": "CORT",
+		"description": "Corcept Therapeutics"
 	},
 	{
-		"Symbol": "COST",
-		"Description": "Costco Wholesale"
+		"symbol": "COST",
+		"description": "Costco Wholesale"
 	},
 	{
-		"Symbol": "COT",
-		"Description": "Cott Corporation"
+		"symbol": "COT",
+		"description": "Cott Corporation"
 	},
 	{
-		"Symbol": "COTV",
-		"Description": "Cotiviti Holdings, Inc."
+		"symbol": "COTV",
+		"description": "Cotiviti Holdings, Inc."
 	},
 	{
-		"Symbol": "COTY",
-		"Description": "Coty Inc."
+		"symbol": "COTY",
+		"description": "Coty Inc."
 	},
 	{
-		"Symbol": "COUP",
-		"Description": "Coupa Software Inc"
+		"symbol": "COUP",
+		"description": "Coupa Software Inc"
 	},
 	{
-		"Symbol": "COVS",
-		"Description": "Covisint Corp Cmn"
+		"symbol": "COVS",
+		"description": "Covisint Corp Cmn"
 	},
 	{
-		"Symbol": "COWN",
-		"Description": "Cowen Group Inc"
+		"symbol": "COWN",
+		"description": "Cowen Group Inc"
 	},
 	{
-		"Symbol": "COWNL",
-		"Description": "Cowen Grp 8.25 Sr Nt"
+		"symbol": "COWNL",
+		"description": "Cowen Grp 8.25 Sr Nt"
 	},
 	{
-		"Symbol": "COYN",
-		"Description": "Copsync Inc Cmn"
+		"symbol": "COYN",
+		"description": "Copsync Inc Cmn"
 	},
 	{
-		"Symbol": "COYNW",
-		"Description": "Copsync Inc Warrnt"
+		"symbol": "COYNW",
+		"description": "Copsync Inc Warrnt"
 	},
 	{
-		"Symbol": "CP",
-		"Description": "Canadian Pacific Railway Limited"
+		"symbol": "CP",
+		"description": "Canadian Pacific Railway Limited"
 	},
 	{
-		"Symbol": "CPA",
-		"Description": "Copa Holdings, S.A."
+		"symbol": "CPA",
+		"description": "Copa Holdings, S.A."
 	},
 	{
-		"Symbol": "CPAA",
-		"Description": "Conyers Park Acquisition Corp"
+		"symbol": "CPAA",
+		"description": "Conyers Park Acquisition Corp"
 	},
 	{
-		"Symbol": "CPAAU",
-		"Description": "Conyers Park Acquisition Corp"
+		"symbol": "CPAAU",
+		"description": "Conyers Park Acquisition Corp"
 	},
 	{
-		"Symbol": "CPAAW",
-		"Description": "Conyers Park Acquisition Corp. Wt"
+		"symbol": "CPAAW",
+		"description": "Conyers Park Acquisition Corp. Wt"
 	},
 	{
-		"Symbol": "CPAC",
-		"Description": "Cementos Pacasmayo S.A.A."
+		"symbol": "CPAC",
+		"description": "Cementos Pacasmayo S.A.A."
 	},
 	{
-		"Symbol": "CPAH",
-		"Description": "Counterpath Corp"
+		"symbol": "CPAH",
+		"description": "Counterpath Corp"
 	},
 	{
-		"Symbol": "CPB",
-		"Description": "Campbell Soup Company"
+		"symbol": "CPB",
+		"description": "Campbell Soup Company"
 	},
 	{
-		"Symbol": "CPE",
-		"Description": "Callon Petroleum Company"
+		"symbol": "CPE",
+		"description": "Callon Petroleum Company"
 	},
 	{
-		"Symbol": "CPE^A",
-		"Description": "Callon Petroleum Company"
+		"symbol": "CPE^A",
+		"description": "Callon Petroleum Company"
 	},
 	{
-		"Symbol": "CPF",
-		"Description": "CPB Inc."
+		"symbol": "CPF",
+		"description": "CPB Inc."
 	},
 	{
-		"Symbol": "CPG",
-		"Description": "Crescent Point Energy Corporation"
+		"symbol": "CPG",
+		"description": "Crescent Point Energy Corporation"
 	},
 	{
-		"Symbol": "CPHC",
-		"Description": "Canterbury Park Hl"
+		"symbol": "CPHC",
+		"description": "Canterbury Park Hl"
 	},
 	{
-		"Symbol": "CPHI",
-		"Description": "China Pharma Holdings, Inc."
+		"symbol": "CPHI",
+		"description": "China Pharma Holdings, Inc."
 	},
 	{
-		"Symbol": "CPIX",
-		"Description": "Cumberland Pharmaceu"
+		"symbol": "CPIX",
+		"description": "Cumberland Pharmaceu"
 	},
 	{
-		"Symbol": "CPK",
-		"Description": "Chesapeake Utilities Corporation"
+		"symbol": "CPK",
+		"description": "Chesapeake Utilities Corporation"
 	},
 	{
-		"Symbol": "CPL",
-		"Description": "CPFL Energia S.A."
+		"symbol": "CPL",
+		"description": "CPFL Energia S.A."
 	},
 	{
-		"Symbol": "CPLA",
-		"Description": "Capella Education Co"
+		"symbol": "CPLA",
+		"description": "Capella Education Co"
 	},
 	{
-		"Symbol": "CPLP",
-		"Description": "Capital Product Part"
+		"symbol": "CPLP",
+		"description": "Capital Product Part"
 	},
 	{
-		"Symbol": "CPN",
-		"Description": "Calpine Corporation"
+		"symbol": "CPN",
+		"description": "Calpine Corporation"
 	},
 	{
-		"Symbol": "CPPL",
-		"Description": "Columbia Pipeline Partners LP"
+		"symbol": "CPPL",
+		"description": "Columbia Pipeline Partners LP"
 	},
 	{
-		"Symbol": "CPRT",
-		"Description": "Copart Inc"
+		"symbol": "CPRT",
+		"description": "Copart Inc"
 	},
 	{
-		"Symbol": "CPRX",
-		"Description": "Catalyst Pharm Inc"
+		"symbol": "CPRX",
+		"description": "Catalyst Pharm Inc"
 	},
 	{
-		"Symbol": "CPS",
-		"Description": "Cooper-Standard Holdings Inc."
+		"symbol": "CPS",
+		"description": "Cooper-Standard Holdings Inc."
 	},
 	{
-		"Symbol": "CPSH",
-		"Description": "Cps Technologies Cmn"
+		"symbol": "CPSH",
+		"description": "Cps Technologies Cmn"
 	},
 	{
-		"Symbol": "CPSI",
-		"Description": "Computer Programs"
+		"symbol": "CPSI",
+		"description": "Computer Programs"
 	},
 	{
-		"Symbol": "CPSS",
-		"Description": "Consumer Portfol"
+		"symbol": "CPSS",
+		"description": "Consumer Portfol"
 	},
 	{
-		"Symbol": "CPST",
-		"Description": "Capstone Turbine Cp"
+		"symbol": "CPST",
+		"description": "Capstone Turbine Cp"
 	},
 	{
-		"Symbol": "CPT",
-		"Description": "Camden Property Trust"
+		"symbol": "CPT",
+		"description": "Camden Property Trust"
 	},
 	{
-		"Symbol": "CPTA",
-		"Description": "Capitala Finance Crp"
+		"symbol": "CPTA",
+		"description": "Capitala Finance Crp"
 	},
 	{
-		"Symbol": "CQH",
-		"Description": "Cheniere Energy Partners LP Holdings, LLC"
+		"symbol": "CQH",
+		"description": "Cheniere Energy Partners LP Holdings, LLC"
 	},
 	{
-		"Symbol": "CQP",
-		"Description": "Cheniere Energy Partners, LP"
+		"symbol": "CQP",
+		"description": "Cheniere Energy Partners, LP"
 	},
 	{
-		"Symbol": "CR",
-		"Description": "Crane Company"
+		"symbol": "CR",
+		"description": "Crane Company"
 	},
 	{
-		"Symbol": "CRAI",
-		"Description": "Cra International"
+		"symbol": "CRAI",
+		"description": "Cra International"
 	},
 	{
-		"Symbol": "CRAY",
-		"Description": "Cray Inc"
+		"symbol": "CRAY",
+		"description": "Cray Inc"
 	},
 	{
-		"Symbol": "CRBP",
-		"Description": "Corbus Pharma Cmn"
+		"symbol": "CRBP",
+		"description": "Corbus Pharma Cmn"
 	},
 	{
-		"Symbol": "CRC",
-		"Description": "California Resources Corporation"
+		"symbol": "CRC",
+		"description": "California Resources Corporation"
 	},
 	{
-		"Symbol": "CRCM",
-		"Description": "Care.com, Inc."
+		"symbol": "CRCM",
+		"description": "Care.com, Inc."
 	},
 	{
-		"Symbol": "CRD.A",
-		"Description": "Crawford & Company"
+		"symbol": "CRD.A",
+		"description": "Crawford & Company"
 	},
 	{
-		"Symbol": "CRD.B",
-		"Description": "Crawford & Company"
+		"symbol": "CRD.B",
+		"description": "Crawford & Company"
 	},
 	{
-		"Symbol": "CRDS",
-		"Description": "Crossroads Systems"
+		"symbol": "CRDS",
+		"description": "Crossroads Systems"
 	},
 	{
-		"Symbol": "CRDT",
-		"Description": "Wisdmtree Strg Cp Bo"
+		"symbol": "CRDT",
+		"description": "Wisdmtree Strg Cp Bo"
 	},
 	{
-		"Symbol": "CREE",
-		"Description": "Cree Inc"
+		"symbol": "CREE",
+		"description": "Cree Inc"
 	},
 	{
-		"Symbol": "CREG",
-		"Description": "China Recycling Ener"
+		"symbol": "CREG",
+		"description": "China Recycling Ener"
 	},
 	{
-		"Symbol": "CRESY",
-		"Description": "Cresud Sacif ADR"
+		"symbol": "CRESY",
+		"description": "Cresud Sacif ADR"
 	},
 	{
-		"Symbol": "CRF",
-		"Description": "Cornerstone Strategic Return Fund, Inc. "
+		"symbol": "CRF",
+		"description": "Cornerstone Strategic Return Fund, Inc. "
 	},
 	{
-		"Symbol": "CRH",
-		"Description": "CRH PLC"
+		"symbol": "CRH",
+		"description": "CRH PLC"
 	},
 	{
-		"Symbol": "CRHM",
-		"Description": "CRH Medical Corporation"
+		"symbol": "CRHM",
+		"description": "CRH Medical Corporation"
 	},
 	{
-		"Symbol": "CRI",
-		"Description": "Carters, Inc."
+		"symbol": "CRI",
+		"description": "Carters, Inc."
 	},
 	{
-		"Symbol": "CRIS",
-		"Description": "Curis Inc"
+		"symbol": "CRIS",
+		"description": "Curis Inc"
 	},
 	{
-		"Symbol": "CRK",
-		"Description": "Comstock Resources, Inc."
+		"symbol": "CRK",
+		"description": "Comstock Resources, Inc."
 	},
 	{
-		"Symbol": "CRL",
-		"Description": "Charles River Laboratories International, Inc."
+		"symbol": "CRL",
+		"description": "Charles River Laboratories International, Inc."
 	},
 	{
-		"Symbol": "CRM",
-		"Description": "Salesforce.com Inc"
+		"symbol": "CRM",
+		"description": "Salesforce.com Inc"
 	},
 	{
-		"Symbol": "CRMD",
-		"Description": "CorMedix Inc"
+		"symbol": "CRMD",
+		"description": "CorMedix Inc"
 	},
 	{
-		"Symbol": "CRME",
-		"Description": "Cardiome Pharma Corp"
+		"symbol": "CRME",
+		"description": "Cardiome Pharma Corp"
 	},
 	{
-		"Symbol": "CRMT",
-		"Description": "America's Car-Mart"
+		"symbol": "CRMT",
+		"description": "America's Car-Mart"
 	},
 	{
-		"Symbol": "CRNT",
-		"Description": "Ceragon Networks Ltd"
+		"symbol": "CRNT",
+		"description": "Ceragon Networks Ltd"
 	},
 	{
-		"Symbol": "CROX",
-		"Description": "Crocs Inc"
+		"symbol": "CROX",
+		"description": "Crocs Inc"
 	},
 	{
-		"Symbol": "CRR",
-		"Description": "Carbo Ceramics, Inc."
+		"symbol": "CRR",
+		"description": "Carbo Ceramics, Inc."
 	},
 	{
-		"Symbol": "CRS",
-		"Description": "Carpenter Technology Corporation"
+		"symbol": "CRS",
+		"description": "Carpenter Technology Corporation"
 	},
 	{
-		"Symbol": "CRSP",
-		"Description": "Crispr Therapeutics Ag"
+		"symbol": "CRSP",
+		"description": "Crispr Therapeutics Ag"
 	},
 	{
-		"Symbol": "CRT",
-		"Description": "Cross Timbers Royalty Trust"
+		"symbol": "CRT",
+		"description": "Cross Timbers Royalty Trust"
 	},
 	{
-		"Symbol": "CRTN",
-		"Description": "Cartesian Inc Cmn"
+		"symbol": "CRTN",
+		"description": "Cartesian Inc Cmn"
 	},
 	{
-		"Symbol": "CRTO",
-		"Description": "Criteo S.A. Ads"
+		"symbol": "CRTO",
+		"description": "Criteo S.A. Ads"
 	},
 	{
-		"Symbol": "CRUS",
-		"Description": "Cirrus Logic Inc"
+		"symbol": "CRUS",
+		"description": "Cirrus Logic Inc"
 	},
 	{
-		"Symbol": "CRVL",
-		"Description": "Corvel Cp"
+		"symbol": "CRVL",
+		"description": "Corvel Cp"
 	},
 	{
-		"Symbol": "CRVP",
-		"Description": "Crystal Rock Holdings, Inc."
+		"symbol": "CRVP",
+		"description": "Crystal Rock Holdings, Inc."
 	},
 	{
-		"Symbol": "CRVS",
-		"Description": "Corvus Pharma Com"
+		"symbol": "CRVS",
+		"description": "Corvus Pharma Com"
 	},
 	{
-		"Symbol": "CRWS",
-		"Description": "Crown Crafts Inc"
+		"symbol": "CRWS",
+		"description": "Crown Crafts Inc"
 	},
 	{
-		"Symbol": "CRY",
-		"Description": "CryoLife, Inc."
+		"symbol": "CRY",
+		"description": "CryoLife, Inc."
 	},
 	{
-		"Symbol": "CRZO",
-		"Description": "Carrizo Oil & Gas"
+		"symbol": "CRZO",
+		"description": "Carrizo Oil & Gas"
 	},
 	{
-		"Symbol": "CS",
-		"Description": "Credit Suisse Group"
+		"symbol": "CS",
+		"description": "Credit Suisse Group"
 	},
 	{
-		"Symbol": "CSA",
-		"Description": "Victory Cemp US Smal"
+		"symbol": "CSA",
+		"description": "Victory Cemp US Smal"
 	},
 	{
-		"Symbol": "CSAL",
-		"Description": "Com Sls Lease Cn"
+		"symbol": "CSAL",
+		"description": "Com Sls Lease Cn"
 	},
 	{
-		"Symbol": "CSB",
-		"Description": "Victory Cemp US SC H"
+		"symbol": "CSB",
+		"description": "Victory Cemp US SC H"
 	},
 	{
-		"Symbol": "CSBK",
-		"Description": "Clifton Bancorp Inc"
+		"symbol": "CSBK",
+		"description": "Clifton Bancorp Inc"
 	},
 	{
-		"Symbol": "CSBR",
-		"Description": "Champions Oncolog Cmn"
+		"symbol": "CSBR",
+		"description": "Champions Oncolog Cmn"
 	},
 	{
-		"Symbol": "CSC",
-		"Description": "Computer Sciences Corporation"
+		"symbol": "CSC",
+		"description": "Computer Sciences Corporation"
 	},
 	{
-		"Symbol": "CSCO",
-		"Description": "Cisco Systems Inc"
+		"symbol": "CSCO",
+		"description": "Cisco Systems Inc"
 	},
 	{
-		"Symbol": "CSF",
-		"Description": "Victory Cemp US Disc"
+		"symbol": "CSF",
+		"description": "Victory Cemp US Disc"
 	},
 	{
-		"Symbol": "CSFL",
-		"Description": "Centerstate Bks Inc"
+		"symbol": "CSFL",
+		"description": "Centerstate Bks Inc"
 	},
 	{
-		"Symbol": "CSGP",
-		"Description": "Costar Group Inc"
+		"symbol": "CSGP",
+		"description": "Costar Group Inc"
 	},
 	{
-		"Symbol": "CSGS",
-		"Description": "C S G Sys Intl"
+		"symbol": "CSGS",
+		"description": "C S G Sys Intl"
 	},
 	{
-		"Symbol": "CSII",
-		"Description": "Cardiovascular Syst"
+		"symbol": "CSII",
+		"description": "Cardiovascular Syst"
 	},
 	{
-		"Symbol": "CSIQ",
-		"Description": "Canadian Solar Inc"
+		"symbol": "CSIQ",
+		"description": "Canadian Solar Inc"
 	},
 	{
-		"Symbol": "CSL",
-		"Description": "Carlisle Companies Incorporated"
+		"symbol": "CSL",
+		"description": "Carlisle Companies Incorporated"
 	},
 	{
-		"Symbol": "CSLT",
-		"Description": "Castlight Health, inc."
+		"symbol": "CSLT",
+		"description": "Castlight Health, inc."
 	},
 	{
-		"Symbol": "CSOD",
-		"Description": "Cornerstone Ondemand"
+		"symbol": "CSOD",
+		"description": "Cornerstone Ondemand"
 	},
 	{
-		"Symbol": "CSPI",
-		"Description": "C S P Inc"
+		"symbol": "CSPI",
+		"description": "C S P Inc"
 	},
 	{
-		"Symbol": "CSQ",
-		"Description": "Calamos Strgc Ttl Rt"
+		"symbol": "CSQ",
+		"description": "Calamos Strgc Ttl Rt"
 	},
 	{
-		"Symbol": "CSRA",
-		"Description": "CSRA Inc."
+		"symbol": "CSRA",
+		"description": "CSRA Inc."
 	},
 	{
-		"Symbol": "CSS",
-		"Description": "CSS Industries, Inc."
+		"symbol": "CSS",
+		"description": "CSS Industries, Inc."
 	},
 	{
-		"Symbol": "CST",
-		"Description": "CST Brands, Inc."
+		"symbol": "CST",
+		"description": "CST Brands, Inc."
 	},
 	{
-		"Symbol": "CSTE",
-		"Description": "Caesarstone Sdot-Yam"
+		"symbol": "CSTE",
+		"description": "Caesarstone Sdot-Yam"
 	},
 	{
-		"Symbol": "CSTM",
-		"Description": "Constellium N.V."
+		"symbol": "CSTM",
+		"description": "Constellium N.V."
 	},
 	{
-		"Symbol": "CSTR",
-		"Description": "Capstar Financial Holdings Inc"
+		"symbol": "CSTR",
+		"description": "Capstar Financial Holdings Inc"
 	},
 	{
-		"Symbol": "CSU",
-		"Description": "Capital Senior Living Corporation"
+		"symbol": "CSU",
+		"description": "Capital Senior Living Corporation"
 	},
 	{
-		"Symbol": "CSV",
-		"Description": "Carriage Services, Inc."
+		"symbol": "CSV",
+		"description": "Carriage Services, Inc."
 	},
 	{
-		"Symbol": "CSWC",
-		"Description": "Capital Southwest"
+		"symbol": "CSWC",
+		"description": "Capital Southwest"
 	},
 	{
-		"Symbol": "CSWI",
-		"Description": "Csw Industrials Inc"
+		"symbol": "CSWI",
+		"description": "Csw Industrials Inc"
 	},
 	{
-		"Symbol": "CSX",
-		"Description": "CSX Corporation"
+		"symbol": "CSX",
+		"description": "CSX Corporation"
 	},
 	{
-		"Symbol": "CTAA",
-		"Description": "Qwest Corporation"
+		"symbol": "CTAA",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTAS",
-		"Description": "Cintas Corp"
+		"symbol": "CTAS",
+		"description": "Cintas Corp"
 	},
 	{
-		"Symbol": "CTB",
-		"Description": "Cooper Tire & Rubber Company"
+		"symbol": "CTB",
+		"description": "Cooper Tire & Rubber Company"
 	},
 	{
-		"Symbol": "CTBB",
-		"Description": "Qwest Corporation"
+		"symbol": "CTBB",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTBI",
-		"Description": "Community TR Bancp"
+		"symbol": "CTBI",
+		"description": "Community TR Bancp"
 	},
 	{
-		"Symbol": "CTG",
-		"Description": "Computer Task Gp Inc"
+		"symbol": "CTG",
+		"description": "Computer Task Gp Inc"
 	},
 	{
-		"Symbol": "CTHR",
-		"Description": "Charles & Colvard"
+		"symbol": "CTHR",
+		"description": "Charles & Colvard"
 	},
 	{
-		"Symbol": "CTIB",
-		"Description": "Cti Inds Corp"
+		"symbol": "CTIB",
+		"description": "Cti Inds Corp"
 	},
 	{
-		"Symbol": "CTIC",
-		"Description": "Cti Biopharm Corp."
+		"symbol": "CTIC",
+		"description": "Cti Biopharm Corp."
 	},
 	{
-		"Symbol": "CTL",
-		"Description": "CenturyLink, Inc."
+		"symbol": "CTL",
+		"description": "CenturyLink, Inc."
 	},
 	{
-		"Symbol": "CTLT",
-		"Description": "Catalent, Inc."
+		"symbol": "CTLT",
+		"description": "Catalent, Inc."
 	},
 	{
-		"Symbol": "CTMX",
-		"Description": "Cytomx Thera Cmn Stk"
+		"symbol": "CTMX",
+		"description": "Cytomx Thera Cmn Stk"
 	},
 	{
-		"Symbol": "CTO",
-		"Description": "Consolidated-Tomoka Land Co."
+		"symbol": "CTO",
+		"description": "Consolidated-Tomoka Land Co."
 	},
 	{
-		"Symbol": "CTR",
-		"Description": "ClearBridge Energy MLP Total Return Fund Inc."
+		"symbol": "CTR",
+		"description": "ClearBridge Energy MLP Total Return Fund Inc."
 	},
 	{
-		"Symbol": "CTRE",
-		"Description": "Caretrust REIT Inc"
+		"symbol": "CTRE",
+		"description": "Caretrust REIT Inc"
 	},
 	{
-		"Symbol": "CTRL",
-		"Description": "Control4 Corporation"
+		"symbol": "CTRL",
+		"description": "Control4 Corporation"
 	},
 	{
-		"Symbol": "CTRN",
-		"Description": "Citi Trends Inc"
+		"symbol": "CTRN",
+		"description": "Citi Trends Inc"
 	},
 	{
-		"Symbol": "CTRP",
-		"Description": "Ctrip.Com Intl Ltd"
+		"symbol": "CTRP",
+		"description": "Ctrip.Com Intl Ltd"
 	},
 	{
-		"Symbol": "CTRV",
-		"Description": "Contravir Pharmaceut"
+		"symbol": "CTRV",
+		"description": "Contravir Pharmaceut"
 	},
 	{
-		"Symbol": "CTS",
-		"Description": "CTS Corporation"
+		"symbol": "CTS",
+		"description": "CTS Corporation"
 	},
 	{
-		"Symbol": "CTSH",
-		"Description": "Cognizant Tech Sol"
+		"symbol": "CTSH",
+		"description": "Cognizant Tech Sol"
 	},
 	{
-		"Symbol": "CTSO",
-		"Description": "Cytosorbents Cor"
+		"symbol": "CTSO",
+		"description": "Cytosorbents Cor"
 	},
 	{
-		"Symbol": "CTT",
-		"Description": "CatchMark Timber Trust, Inc."
+		"symbol": "CTT",
+		"description": "CatchMark Timber Trust, Inc."
 	},
 	{
-		"Symbol": "CTU",
-		"Description": "Qwest Corporation"
+		"symbol": "CTU",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTV",
-		"Description": "Qwest Corporation"
+		"symbol": "CTV",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTW",
-		"Description": "Qwest Corporation"
+		"symbol": "CTW",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTWS",
-		"Description": "Conn Water Svcs In"
+		"symbol": "CTWS",
+		"description": "Conn Water Svcs In"
 	},
 	{
-		"Symbol": "CTX",
-		"Description": "Qwest Corporation"
+		"symbol": "CTX",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTXS",
-		"Description": "Citrix Systems Inc"
+		"symbol": "CTXS",
+		"description": "Citrix Systems Inc"
 	},
 	{
-		"Symbol": "CTY",
-		"Description": "Qwest Corporation"
+		"symbol": "CTY",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CTZ",
-		"Description": "Qwest Corporation"
+		"symbol": "CTZ",
+		"description": "Qwest Corporation"
 	},
 	{
-		"Symbol": "CUB",
-		"Description": "Cubic Corporation"
+		"symbol": "CUB",
+		"description": "Cubic Corporation"
 	},
 	{
-		"Symbol": "CUBA",
-		"Description": "Herzfeld Caribbean"
+		"symbol": "CUBA",
+		"description": "Herzfeld Caribbean"
 	},
 	{
-		"Symbol": "CUBE",
-		"Description": "CubeSmart"
+		"symbol": "CUBE",
+		"description": "CubeSmart"
 	},
 	{
-		"Symbol": "CUBI",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBI",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUBI^C",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBI^C",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUBI^D",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBI^D",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUBI^E",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBI^E",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUBI^F",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBI^F",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUBN",
-		"Description": "Commerce Un Bcsh Cmn"
+		"symbol": "CUBN",
+		"description": "Commerce Un Bcsh Cmn"
 	},
 	{
-		"Symbol": "CUBS",
-		"Description": "Customers Bancorp, Inc"
+		"symbol": "CUBS",
+		"description": "Customers Bancorp, Inc"
 	},
 	{
-		"Symbol": "CUDA",
-		"Description": "Barracuda Networks, Inc."
+		"symbol": "CUDA",
+		"description": "Barracuda Networks, Inc."
 	},
 	{
-		"Symbol": "CUI",
-		"Description": "Cui Global Inc"
+		"symbol": "CUI",
+		"description": "Cui Global Inc"
 	},
 	{
-		"Symbol": "CUK",
-		"Description": "Carnival Corporation"
+		"symbol": "CUK",
+		"description": "Carnival Corporation"
 	},
 	{
-		"Symbol": "CUNB",
-		"Description": "Cu Bancorp Cmn Stk"
+		"symbol": "CUNB",
+		"description": "Cu Bancorp Cmn Stk"
 	},
 	{
-		"Symbol": "CUO",
-		"Description": "Continental Materials Corporation"
+		"symbol": "CUO",
+		"description": "Continental Materials Corporation"
 	},
 	{
-		"Symbol": "CUR",
-		"Description": "Neuralstem Inc"
+		"symbol": "CUR",
+		"description": "Neuralstem Inc"
 	},
 	{
-		"Symbol": "CUTR",
-		"Description": "Cutera Inc"
+		"symbol": "CUTR",
+		"description": "Cutera Inc"
 	},
 	{
-		"Symbol": "CUZ",
-		"Description": "Cousins Properties Incorporated"
+		"symbol": "CUZ",
+		"description": "Cousins Properties Incorporated"
 	},
 	{
-		"Symbol": "CVA",
-		"Description": "Covanta Holding Corporation"
+		"symbol": "CVA",
+		"description": "Covanta Holding Corporation"
 	},
 	{
-		"Symbol": "CVBF",
-		"Description": "Cvb Financial Corp"
+		"symbol": "CVBF",
+		"description": "Cvb Financial Corp"
 	},
 	{
-		"Symbol": "CVCO",
-		"Description": "Cavco Inds Inc"
+		"symbol": "CVCO",
+		"description": "Cavco Inds Inc"
 	},
 	{
-		"Symbol": "CVCY",
-		"Description": "Central Vly Cmty Bcp"
+		"symbol": "CVCY",
+		"description": "Central Vly Cmty Bcp"
 	},
 	{
-		"Symbol": "CVE",
-		"Description": "Cenovus Energy Inc"
+		"symbol": "CVE",
+		"description": "Cenovus Energy Inc"
 	},
 	{
-		"Symbol": "CVEO",
-		"Description": "Civeo Corporation"
+		"symbol": "CVEO",
+		"description": "Civeo Corporation"
 	},
 	{
-		"Symbol": "CVG",
-		"Description": "Convergys Corporation"
+		"symbol": "CVG",
+		"description": "Convergys Corporation"
 	},
 	{
-		"Symbol": "CVGI",
-		"Description": "Commercial Vehicle G"
+		"symbol": "CVGI",
+		"description": "Commercial Vehicle G"
 	},
 	{
-		"Symbol": "CVGW",
-		"Description": "Calavo Growers Inc"
+		"symbol": "CVGW",
+		"description": "Calavo Growers Inc"
 	},
 	{
-		"Symbol": "CVI",
-		"Description": "CVR Energy Inc."
+		"symbol": "CVI",
+		"description": "CVR Energy Inc."
 	},
 	{
-		"Symbol": "CVLT",
-		"Description": "Commvault Systems"
+		"symbol": "CVLT",
+		"description": "Commvault Systems"
 	},
 	{
-		"Symbol": "CVLY",
-		"Description": "Codorus Valley Bncp"
+		"symbol": "CVLY",
+		"description": "Codorus Valley Bncp"
 	},
 	{
-		"Symbol": "CVM",
-		"Description": "Cel-Sci Corporation"
+		"symbol": "CVM",
+		"description": "Cel-Sci Corporation"
 	},
 	{
-		"Symbol": "CVM.WS",
-		"Description": "Cel-Sci Corporation"
+		"symbol": "CVM.WS",
+		"description": "Cel-Sci Corporation"
 	},
 	{
-		"Symbol": "CVO",
-		"Description": "Cenveo Inc"
+		"symbol": "CVO",
+		"description": "Cenveo Inc"
 	},
 	{
-		"Symbol": "CVR",
-		"Description": "Chicago Rivet & Machine Co."
+		"symbol": "CVR",
+		"description": "Chicago Rivet & Machine Co."
 	},
 	{
-		"Symbol": "CVRR",
-		"Description": "CVR Refining, LP"
+		"symbol": "CVRR",
+		"description": "CVR Refining, LP"
 	},
 	{
-		"Symbol": "CVRS",
-		"Description": "Corindus Vascular Robotics, Inc."
+		"symbol": "CVRS",
+		"description": "Corindus Vascular Robotics, Inc."
 	},
 	{
-		"Symbol": "CVS",
-		"Description": "CVS Health Corporation"
+		"symbol": "CVS",
+		"description": "CVS Health Corporation"
 	},
 	{
-		"Symbol": "CVTI",
-		"Description": "Covenant Transportn"
+		"symbol": "CVTI",
+		"description": "Covenant Transportn"
 	},
 	{
-		"Symbol": "CVU",
-		"Description": "CPI Aerostructures, Inc."
+		"symbol": "CVU",
+		"description": "CPI Aerostructures, Inc."
 	},
 	{
-		"Symbol": "CVV",
-		"Description": "CVD Equipment Corp"
+		"symbol": "CVV",
+		"description": "CVD Equipment Corp"
 	},
 	{
-		"Symbol": "CVX",
-		"Description": "Chevron Corporation"
+		"symbol": "CVX",
+		"description": "Chevron Corporation"
 	},
 	{
-		"Symbol": "CW",
-		"Description": "Curtiss-Wright Corporation"
+		"symbol": "CW",
+		"description": "Curtiss-Wright Corporation"
 	},
 	{
-		"Symbol": "CWAY",
-		"Description": "Coastway Bancorp Inc"
+		"symbol": "CWAY",
+		"description": "Coastway Bancorp Inc"
 	},
 	{
-		"Symbol": "CWBC",
-		"Description": "Community West Bncsh"
+		"symbol": "CWBC",
+		"description": "Community West Bncsh"
 	},
 	{
-		"Symbol": "CWCO",
-		"Description": "Cons Water Co Inc"
+		"symbol": "CWCO",
+		"description": "Cons Water Co Inc"
 	},
 	{
-		"Symbol": "CWEI",
-		"Description": "Clayton Williams Energy, Inc."
+		"symbol": "CWEI",
+		"description": "Clayton Williams Energy, Inc."
 	},
 	{
-		"Symbol": "CWH",
-		"Description": "Camping World Holdings, Inc."
+		"symbol": "CWH",
+		"description": "Camping World Holdings, Inc."
 	},
 	{
-		"Symbol": "CWST",
-		"Description": "Casella Waste Sys"
+		"symbol": "CWST",
+		"description": "Casella Waste Sys"
 	},
 	{
-		"Symbol": "CWT",
-		"Description": "California Water  Service Group Holding"
+		"symbol": "CWT",
+		"description": "California Water  Service Group Holding"
 	},
 	{
-		"Symbol": "CX",
-		"Description": "Cemex S.A.B. de C.V."
+		"symbol": "CX",
+		"description": "Cemex S.A.B. de C.V."
 	},
 	{
-		"Symbol": "CXDC",
-		"Description": "China Xd Plastics Co"
+		"symbol": "CXDC",
+		"description": "China Xd Plastics Co"
 	},
 	{
-		"Symbol": "CXE",
-		"Description": "Colonial High Income Municipal Trust"
+		"symbol": "CXE",
+		"description": "Colonial High Income Municipal Trust"
 	},
 	{
-		"Symbol": "CXH",
-		"Description": "Colonial Investment Grade Municipal Trust"
+		"symbol": "CXH",
+		"description": "Colonial Investment Grade Municipal Trust"
 	},
 	{
-		"Symbol": "CXO",
-		"Description": "Concho Resources Inc."
+		"symbol": "CXO",
+		"description": "Concho Resources Inc."
 	},
 	{
-		"Symbol": "CXP",
-		"Description": "Columbia Property Trust, Inc."
+		"symbol": "CXP",
+		"description": "Columbia Property Trust, Inc."
 	},
 	{
-		"Symbol": "CXRX",
-		"Description": "Concordia International"
+		"symbol": "CXRX",
+		"description": "Concordia International"
 	},
 	{
-		"Symbol": "CXSE",
-		"Description": "Wisdomtree China Ex-"
+		"symbol": "CXSE",
+		"description": "Wisdomtree China Ex-"
 	},
 	{
-		"Symbol": "CXW",
-		"Description": "CoreCivic, Inc."
+		"symbol": "CXW",
+		"description": "CoreCivic, Inc."
 	},
 	{
-		"Symbol": "CY",
-		"Description": "Cypress Semiconductr"
+		"symbol": "CY",
+		"description": "Cypress Semiconductr"
 	},
 	{
-		"Symbol": "CYAD",
-		"Description": "Celyad Sa Ads"
+		"symbol": "CYAD",
+		"description": "Celyad Sa Ads"
 	},
 	{
-		"Symbol": "CYAN",
-		"Description": "Cyanotech Corp"
+		"symbol": "CYAN",
+		"description": "Cyanotech Corp"
 	},
 	{
-		"Symbol": "CYBE",
-		"Description": "Cyberoptics Cp"
+		"symbol": "CYBE",
+		"description": "Cyberoptics Cp"
 	},
 	{
-		"Symbol": "CYBR",
-		"Description": "Cyberark Soft Ord"
+		"symbol": "CYBR",
+		"description": "Cyberark Soft Ord"
 	},
 	{
-		"Symbol": "CYCC",
-		"Description": "Cyclacel Pharmaceuti"
+		"symbol": "CYCC",
+		"description": "Cyclacel Pharmaceuti"
 	},
 	{
-		"Symbol": "CYCCP",
-		"Description": "Cyclacel Pharmaceuti"
+		"symbol": "CYCCP",
+		"description": "Cyclacel Pharmaceuti"
 	},
 	{
-		"Symbol": "CYD",
-		"Description": "China Yuchai International Limited"
+		"symbol": "CYD",
+		"description": "China Yuchai International Limited"
 	},
 	{
-		"Symbol": "CYH",
-		"Description": "Community Health Systems, Inc."
+		"symbol": "CYH",
+		"description": "Community Health Systems, Inc."
 	},
 	{
-		"Symbol": "CYHHZ",
-		"Description": "Community Health Sys"
+		"symbol": "CYHHZ",
+		"description": "Community Health Sys"
 	},
 	{
-		"Symbol": "CYNO",
-		"Description": "Cynosure Inc"
+		"symbol": "CYNO",
+		"description": "Cynosure Inc"
 	},
 	{
-		"Symbol": "CYOU",
-		"Description": "Changyou.Com Limited"
+		"symbol": "CYOU",
+		"description": "Changyou.Com Limited"
 	},
 	{
-		"Symbol": "CYRN",
-		"Description": "Cyren Ltd"
+		"symbol": "CYRN",
+		"description": "Cyren Ltd"
 	},
 	{
-		"Symbol": "CYRX",
-		"Description": "Cryoport Inc"
+		"symbol": "CYRX",
+		"description": "Cryoport Inc"
 	},
 	{
-		"Symbol": "CYRXW",
-		"Description": "Cryoport Inc Wts"
+		"symbol": "CYRXW",
+		"description": "Cryoport Inc Wts"
 	},
 	{
-		"Symbol": "CYS",
-		"Description": "CYS Investments, Inc."
+		"symbol": "CYS",
+		"description": "CYS Investments, Inc."
 	},
 	{
-		"Symbol": "CYS^A",
-		"Description": "CYS Investments, Inc."
+		"symbol": "CYS^A",
+		"description": "CYS Investments, Inc."
 	},
 	{
-		"Symbol": "CYS^B",
-		"Description": "CYS Investments, Inc."
+		"symbol": "CYS^B",
+		"description": "CYS Investments, Inc."
 	},
 	{
-		"Symbol": "CYTK",
-		"Description": "Cytokinetics"
+		"symbol": "CYTK",
+		"description": "Cytokinetics"
 	},
 	{
-		"Symbol": "CYTR",
-		"Description": "Cytrx Cp"
+		"symbol": "CYTR",
+		"description": "Cytrx Cp"
 	},
 	{
-		"Symbol": "CYTX",
-		"Description": "Cytori Therapeutics"
+		"symbol": "CYTX",
+		"description": "Cytori Therapeutics"
 	},
 	{
-		"Symbol": "CYTXW",
-		"Description": "Cytori Therapeutics Inc"
+		"symbol": "CYTXW",
+		"description": "Cytori Therapeutics Inc"
 	},
 	{
-		"Symbol": "CZFC",
-		"Description": "Citizens First Corp"
+		"symbol": "CZFC",
+		"description": "Citizens First Corp"
 	},
 	{
-		"Symbol": "CZNC",
-		"Description": "Citizens Nrthn Cp"
+		"symbol": "CZNC",
+		"description": "Citizens Nrthn Cp"
 	},
 	{
-		"Symbol": "CZR",
-		"Description": "Caesars Entertnmt"
+		"symbol": "CZR",
+		"description": "Caesars Entertnmt"
 	},
 	{
-		"Symbol": "CZWI",
-		"Description": "Citizens Community"
+		"symbol": "CZWI",
+		"description": "Citizens Community"
 	},
 	{
-		"Symbol": "CZZ",
-		"Description": "Cosan Limited"
+		"symbol": "CZZ",
+		"description": "Cosan Limited"
 	},
 	{
-		"Symbol": "D",
-		"Description": "Dominion Resources, Inc."
+		"symbol": "D",
+		"description": "Dominion Resources, Inc."
 	},
 	{
-		"Symbol": "DAC",
-		"Description": "Danaos Corporation"
+		"symbol": "DAC",
+		"description": "Danaos Corporation"
 	},
 	{
-		"Symbol": "DAIO",
-		"Description": "Data I O Cp"
+		"symbol": "DAIO",
+		"description": "Data I O Cp"
 	},
 	{
-		"Symbol": "DAKT",
-		"Description": "Daktronics Inc"
+		"symbol": "DAKT",
+		"description": "Daktronics Inc"
 	},
 	{
-		"Symbol": "DAL",
-		"Description": "Delta Air Lines, Inc."
+		"symbol": "DAL",
+		"description": "Delta Air Lines, Inc."
 	},
 	{
-		"Symbol": "DAN",
-		"Description": "Dana Incorporated"
+		"symbol": "DAN",
+		"description": "Dana Incorporated"
 	},
 	{
-		"Symbol": "DAR",
-		"Description": "Darling Ingredients Inc."
+		"symbol": "DAR",
+		"description": "Darling Ingredients Inc."
 	},
 	{
-		"Symbol": "DATA",
-		"Description": "Tableau Software, Inc."
+		"symbol": "DATA",
+		"description": "Tableau Software, Inc."
 	},
 	{
-		"Symbol": "DAVE",
-		"Description": "Famous Daves of Am"
+		"symbol": "DAVE",
+		"description": "Famous Daves of Am"
 	},
 	{
-		"Symbol": "DAX",
-		"Description": "Recon Cp DAX ETF"
+		"symbol": "DAX",
+		"description": "Recon Cp DAX ETF"
 	},
 	{
-		"Symbol": "DB",
-		"Description": "Deutsche Bank AG"
+		"symbol": "DB",
+		"description": "Deutsche Bank AG"
 	},
 	{
-		"Symbol": "DBD",
-		"Description": "Diebold, Incorporated"
+		"symbol": "DBD",
+		"description": "Diebold, Incorporated"
 	},
 	{
-		"Symbol": "DBL",
-		"Description": "DoubleLine Opportunistic Credit Fund"
+		"symbol": "DBL",
+		"description": "DoubleLine Opportunistic Credit Fund"
 	},
 	{
-		"Symbol": "DBVT",
-		"Description": "Dbv Technologies Ads"
+		"symbol": "DBVT",
+		"description": "Dbv Technologies Ads"
 	},
 	{
-		"Symbol": "DCA",
-		"Description": "Virtus Total Return Fund"
+		"symbol": "DCA",
+		"description": "Virtus Total Return Fund"
 	},
 	{
-		"Symbol": "DCI",
-		"Description": "Donaldson Company, Inc."
+		"symbol": "DCI",
+		"description": "Donaldson Company, Inc."
 	},
 	{
-		"Symbol": "DCIX",
-		"Description": "Diana Containrshp"
+		"symbol": "DCIX",
+		"description": "Diana Containrshp"
 	},
 	{
-		"Symbol": "DCM",
-		"Description": "NTT DOCOMO, Inc"
+		"symbol": "DCM",
+		"description": "NTT DOCOMO, Inc"
 	},
 	{
-		"Symbol": "DCO",
-		"Description": "Ducommun Incorporated"
+		"symbol": "DCO",
+		"description": "Ducommun Incorporated"
 	},
 	{
-		"Symbol": "DCOM",
-		"Description": "Dime Community Bncsh"
+		"symbol": "DCOM",
+		"description": "Dime Community Bncsh"
 	},
 	{
-		"Symbol": "DCP",
-		"Description": "DCP Midstream LP"
+		"symbol": "DCP",
+		"description": "DCP Midstream LP"
 	},
 	{
-		"Symbol": "DCT",
-		"Description": "DCT Industrial Trust Inc"
+		"symbol": "DCT",
+		"description": "DCT Industrial Trust Inc"
 	},
 	{
-		"Symbol": "DCTH",
-		"Description": "Delcath Systems Inc"
+		"symbol": "DCTH",
+		"description": "Delcath Systems Inc"
 	},
 	{
-		"Symbol": "DCUC",
-		"Description": "Dominion Resources, Inc."
+		"symbol": "DCUC",
+		"description": "Dominion Resources, Inc."
 	},
 	{
-		"Symbol": "DCUD",
-		"Description": "Dominion Resources, Inc."
+		"symbol": "DCUD",
+		"description": "Dominion Resources, Inc."
 	},
 	{
-		"Symbol": "DD",
-		"Description": "E.I. du Pont de Nemours and Company"
+		"symbol": "DD",
+		"description": "E.I. du Pont de Nemours and Company"
 	},
 	{
-		"Symbol": "DD^A",
-		"Description": "E.I. du Pont de Nemours and Company"
+		"symbol": "DD^A",
+		"description": "E.I. du Pont de Nemours and Company"
 	},
 	{
-		"Symbol": "DD^B",
-		"Description": "E.I. du Pont de Nemours and Company"
+		"symbol": "DD^B",
+		"description": "E.I. du Pont de Nemours and Company"
 	},
 	{
-		"Symbol": "DDBI",
-		"Description": "Legg Mason Dev Exus"
+		"symbol": "DDBI",
+		"description": "Legg Mason Dev Exus"
 	},
 	{
-		"Symbol": "DDC",
-		"Description": "Dominion Diamond Corporation"
+		"symbol": "DDC",
+		"description": "Dominion Diamond Corporation"
 	},
 	{
-		"Symbol": "DDD",
-		"Description": "3D Systems Corporation"
+		"symbol": "DDD",
+		"description": "3D Systems Corporation"
 	},
 	{
-		"Symbol": "DDE",
-		"Description": "Dover Downs Gaming & Entertainment Inc"
+		"symbol": "DDE",
+		"description": "Dover Downs Gaming & Entertainment Inc"
 	},
 	{
-		"Symbol": "DDF",
-		"Description": "Delaware Investments Dividend & Income Fund, Inc."
+		"symbol": "DDF",
+		"description": "Delaware Investments Dividend & Income Fund, Inc."
 	},
 	{
-		"Symbol": "DDR",
-		"Description": "DDR Corp."
+		"symbol": "DDR",
+		"description": "DDR Corp."
 	},
 	{
-		"Symbol": "DDR^J",
-		"Description": "DDR Corp."
+		"symbol": "DDR^J",
+		"description": "DDR Corp."
 	},
 	{
-		"Symbol": "DDR^K",
-		"Description": "DDR Corp."
+		"symbol": "DDR^K",
+		"description": "DDR Corp."
 	},
 	{
-		"Symbol": "DDS",
-		"Description": "Dillards, Inc."
+		"symbol": "DDS",
+		"description": "Dillards, Inc."
 	},
 	{
-		"Symbol": "DDT",
-		"Description": "Dillards, Inc."
+		"symbol": "DDT",
+		"description": "Dillards, Inc."
 	},
 	{
-		"Symbol": "DE",
-		"Description": "Deere & Company"
+		"symbol": "DE",
+		"description": "Deere & Company"
 	},
 	{
-		"Symbol": "DEA",
-		"Description": "Easterly Government Properties, Inc."
+		"symbol": "DEA",
+		"description": "Easterly Government Properties, Inc."
 	},
 	{
-		"Symbol": "DECK",
-		"Description": "Deckers Outdoor Corporation"
+		"symbol": "DECK",
+		"description": "Deckers Outdoor Corporation"
 	},
 	{
-		"Symbol": "DEI",
-		"Description": "Douglas Emmett, Inc."
+		"symbol": "DEI",
+		"description": "Douglas Emmett, Inc."
 	},
 	{
-		"Symbol": "DEL",
-		"Description": "Deltic Timber Corporation"
+		"symbol": "DEL",
+		"description": "Deltic Timber Corporation"
 	},
 	{
-		"Symbol": "DELT",
-		"Description": "Delta Tech HD Ltd Or"
+		"symbol": "DELT",
+		"description": "Delta Tech HD Ltd Or"
 	},
 	{
-		"Symbol": "DELTW",
-		"Description": "Delta Tech Hld Wt"
+		"symbol": "DELTW",
+		"description": "Delta Tech Hld Wt"
 	},
 	{
-		"Symbol": "DENN",
-		"Description": "Dennys Corp"
+		"symbol": "DENN",
+		"description": "Dennys Corp"
 	},
 	{
-		"Symbol": "DEO",
-		"Description": "Diageo plc"
+		"symbol": "DEO",
+		"description": "Diageo plc"
 	},
 	{
-		"Symbol": "DEPO",
-		"Description": "Depomed Inc"
+		"symbol": "DEPO",
+		"description": "Depomed Inc"
 	},
 	{
-		"Symbol": "DERM",
-		"Description": "Dermira Inc Cm ST"
+		"symbol": "DERM",
+		"description": "Dermira Inc Cm ST"
 	},
 	{
-		"Symbol": "DEST",
-		"Description": "Destination Maternty"
+		"symbol": "DEST",
+		"description": "Destination Maternty"
 	},
 	{
-		"Symbol": "DEX",
-		"Description": "Delaware Enhanced Global Dividend"
+		"symbol": "DEX",
+		"description": "Delaware Enhanced Global Dividend"
 	},
 	{
-		"Symbol": "DF",
-		"Description": "Dean Foods Company"
+		"symbol": "DF",
+		"description": "Dean Foods Company"
 	},
 	{
-		"Symbol": "DFBG",
-		"Description": "Differntl Brands Cmn"
+		"symbol": "DFBG",
+		"description": "Differntl Brands Cmn"
 	},
 	{
-		"Symbol": "DFFN",
-		"Description": "Diffusion Pharmaceuticals Inc"
+		"symbol": "DFFN",
+		"description": "Diffusion Pharmaceuticals Inc"
 	},
 	{
-		"Symbol": "DFIN",
-		"Description": "Donnelley Financial Solutions, Inc."
+		"symbol": "DFIN",
+		"description": "Donnelley Financial Solutions, Inc."
 	},
 	{
-		"Symbol": "DFNL",
-		"Description": "Davis Fundamental ETF Trust Davis Select Financi"
+		"symbol": "DFNL",
+		"description": "Davis Fundamental ETF Trust Davis Select Financi"
 	},
 	{
-		"Symbol": "DFP",
-		"Description": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc."
+		"symbol": "DFP",
+		"description": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc."
 	},
 	{
-		"Symbol": "DFRG",
-		"Description": "Del Frisco's Restrnt"
+		"symbol": "DFRG",
+		"description": "Del Frisco's Restrnt"
 	},
 	{
-		"Symbol": "DFS",
-		"Description": "Discover Financial Services"
+		"symbol": "DFS",
+		"description": "Discover Financial Services"
 	},
 	{
-		"Symbol": "DFS^B",
-		"Description": "Discover Financial Services"
+		"symbol": "DFS^B",
+		"description": "Discover Financial Services"
 	},
 	{
-		"Symbol": "DFT",
-		"Description": "Dupont Fabros Technology, Inc."
+		"symbol": "DFT",
+		"description": "Dupont Fabros Technology, Inc."
 	},
 	{
-		"Symbol": "DFT^C",
-		"Description": "Dupont Fabros Technology, Inc."
+		"symbol": "DFT^C",
+		"description": "Dupont Fabros Technology, Inc."
 	},
 	{
-		"Symbol": "DFVL",
-		"Description": "Ipath 5 Year Bull"
+		"symbol": "DFVL",
+		"description": "Ipath 5 Year Bull"
 	},
 	{
-		"Symbol": "DFVS",
-		"Description": "Ipath 5 Year Bear Et"
+		"symbol": "DFVS",
+		"description": "Ipath 5 Year Bear Et"
 	},
 	{
-		"Symbol": "DG",
-		"Description": "Dollar General Corporation"
+		"symbol": "DG",
+		"description": "Dollar General Corporation"
 	},
 	{
-		"Symbol": "DGAS",
-		"Description": "Delta Natural Gas"
+		"symbol": "DGAS",
+		"description": "Delta Natural Gas"
 	},
 	{
-		"Symbol": "DGI",
-		"Description": "DigitalGlobe, Inc"
+		"symbol": "DGI",
+		"description": "DigitalGlobe, Inc"
 	},
 	{
-		"Symbol": "DGICA",
-		"Description": "Donegal Group Cl A"
+		"symbol": "DGICA",
+		"description": "Donegal Group Cl A"
 	},
 	{
-		"Symbol": "DGICB",
-		"Description": "Donegal Group Cl B"
+		"symbol": "DGICB",
+		"description": "Donegal Group Cl B"
 	},
 	{
-		"Symbol": "DGII",
-		"Description": "Digi Intl Inc"
+		"symbol": "DGII",
+		"description": "Digi Intl Inc"
 	},
 	{
-		"Symbol": "DGLD",
-		"Description": "VS 3X Inv Gold"
+		"symbol": "DGLD",
+		"description": "VS 3X Inv Gold"
 	},
 	{
-		"Symbol": "DGLY",
-		"Description": "Digital Ally Inc"
+		"symbol": "DGLY",
+		"description": "Digital Ally Inc"
 	},
 	{
-		"Symbol": "DGRE",
-		"Description": "Wisdomtree Emg Mkts"
+		"symbol": "DGRE",
+		"description": "Wisdomtree Emg Mkts"
 	},
 	{
-		"Symbol": "DGRS",
-		"Description": "Wisdomtree US SC Qly"
+		"symbol": "DGRS",
+		"description": "Wisdomtree US SC Qly"
 	},
 	{
-		"Symbol": "DGRW",
-		"Description": "Wisdomtree US Qlty D"
+		"symbol": "DGRW",
+		"description": "Wisdomtree US Qlty D"
 	},
 	{
-		"Symbol": "DGSE",
-		"Description": "DGSE Companies, Inc."
+		"symbol": "DGSE",
+		"description": "DGSE Companies, Inc."
 	},
 	{
-		"Symbol": "DGX",
-		"Description": "Quest Diagnostics Incorporated"
+		"symbol": "DGX",
+		"description": "Quest Diagnostics Incorporated"
 	},
 	{
-		"Symbol": "DHF",
-		"Description": "Dreyfus High Yield Strategies Fund"
+		"symbol": "DHF",
+		"description": "Dreyfus High Yield Strategies Fund"
 	},
 	{
-		"Symbol": "DHG",
-		"Description": "DWS High Income Opportunities Fund, Inc."
+		"symbol": "DHG",
+		"description": "DWS High Income Opportunities Fund, Inc."
 	},
 	{
-		"Symbol": "DHI",
-		"Description": "D.R. Horton, Inc."
+		"symbol": "DHI",
+		"description": "D.R. Horton, Inc."
 	},
 	{
-		"Symbol": "DHIL",
-		"Description": "Diamond Hill Inv"
+		"symbol": "DHIL",
+		"description": "Diamond Hill Inv"
 	},
 	{
-		"Symbol": "DHR",
-		"Description": "Danaher Corporation"
+		"symbol": "DHR",
+		"description": "Danaher Corporation"
 	},
 	{
-		"Symbol": "DHT",
-		"Description": "DHT Holdings, Inc."
+		"symbol": "DHT",
+		"description": "DHT Holdings, Inc."
 	},
 	{
-		"Symbol": "DHX",
-		"Description": "DHI Group, Inc."
+		"symbol": "DHX",
+		"description": "DHI Group, Inc."
 	},
 	{
-		"Symbol": "DHXM",
-		"Description": "Dhx Media Varbl Vtg"
+		"symbol": "DHXM",
+		"description": "Dhx Media Varbl Vtg"
 	},
 	{
-		"Symbol": "DHY",
-		"Description": "Credit Suisse High Yield Bond Fund"
+		"symbol": "DHY",
+		"description": "Credit Suisse High Yield Bond Fund"
 	},
 	{
-		"Symbol": "DIAX",
-		"Description": "Nuveen Dow 30SM Dynamic Overwrite Fund"
+		"symbol": "DIAX",
+		"description": "Nuveen Dow 30SM Dynamic Overwrite Fund"
 	},
 	{
-		"Symbol": "DIN",
-		"Description": "DineEquity, Inc"
+		"symbol": "DIN",
+		"description": "DineEquity, Inc"
 	},
 	{
-		"Symbol": "DIOD",
-		"Description": "Diodes Inc"
+		"symbol": "DIOD",
+		"description": "Diodes Inc"
 	},
 	{
-		"Symbol": "DIS",
-		"Description": "Walt Disney Company "
+		"symbol": "DIS",
+		"description": "Walt Disney Company "
 	},
 	{
-		"Symbol": "DISCA",
-		"Description": "Discovery Comm A"
+		"symbol": "DISCA",
+		"description": "Discovery Comm A"
 	},
 	{
-		"Symbol": "DISCB",
-		"Description": "Discovery Comm B"
+		"symbol": "DISCB",
+		"description": "Discovery Comm B"
 	},
 	{
-		"Symbol": "DISCK",
-		"Description": "Discovery Comm Inc"
+		"symbol": "DISCK",
+		"description": "Discovery Comm Inc"
 	},
 	{
-		"Symbol": "DISH",
-		"Description": "Dish Network Corp"
+		"symbol": "DISH",
+		"description": "Dish Network Corp"
 	},
 	{
-		"Symbol": "DIT",
-		"Description": "AMCON Distributing Company"
+		"symbol": "DIT",
+		"description": "AMCON Distributing Company"
 	},
 	{
-		"Symbol": "DJCO",
-		"Description": "Daily Journal Cp"
+		"symbol": "DJCO",
+		"description": "Daily Journal Cp"
 	},
 	{
-		"Symbol": "DK",
-		"Description": "Delek US Holdings, Inc."
+		"symbol": "DK",
+		"description": "Delek US Holdings, Inc."
 	},
 	{
-		"Symbol": "DKL",
-		"Description": "Delek Logistics Partners, L.P."
+		"symbol": "DKL",
+		"description": "Delek Logistics Partners, L.P."
 	},
 	{
-		"Symbol": "DKS",
-		"Description": "Dicks Sporting Goods Inc"
+		"symbol": "DKS",
+		"description": "Dicks Sporting Goods Inc"
 	},
 	{
-		"Symbol": "DKT",
-		"Description": "Deutsch Bk Contingent Cap Tr V"
+		"symbol": "DKT",
+		"description": "Deutsch Bk Contingent Cap Tr V"
 	},
 	{
-		"Symbol": "DL",
-		"Description": "China Distance Education Holdings Limited"
+		"symbol": "DL",
+		"description": "China Distance Education Holdings Limited"
 	},
 	{
-		"Symbol": "DLA",
-		"Description": "Delta Apparel, Inc."
+		"symbol": "DLA",
+		"description": "Delta Apparel, Inc."
 	},
 	{
-		"Symbol": "DLB",
-		"Description": "Dolby Laboratories"
+		"symbol": "DLB",
+		"description": "Dolby Laboratories"
 	},
 	{
-		"Symbol": "DLBS",
-		"Description": "Ipath Long Bond Bear"
+		"symbol": "DLBS",
+		"description": "Ipath Long Bond Bear"
 	},
 	{
-		"Symbol": "DLHC",
-		"Description": "Dlh Holdings Corp."
+		"symbol": "DLHC",
+		"description": "Dlh Holdings Corp."
 	},
 	{
-		"Symbol": "DLNG",
-		"Description": "Dynagas LNG Partners LP"
+		"symbol": "DLNG",
+		"description": "Dynagas LNG Partners LP"
 	},
 	{
-		"Symbol": "DLNG^A",
-		"Description": "Dynagas LNG Partners LP"
+		"symbol": "DLNG^A",
+		"description": "Dynagas LNG Partners LP"
 	},
 	{
-		"Symbol": "DLPH",
-		"Description": "Delphi Automotive plc"
+		"symbol": "DLPH",
+		"description": "Delphi Automotive plc"
 	},
 	{
-		"Symbol": "DLR",
-		"Description": "Digital Realty Trust, Inc."
+		"symbol": "DLR",
+		"description": "Digital Realty Trust, Inc."
 	},
 	{
-		"Symbol": "DLR^F",
-		"Description": "Digital Realty Trust, Inc."
+		"symbol": "DLR^F",
+		"description": "Digital Realty Trust, Inc."
 	},
 	{
-		"Symbol": "DLR^G",
-		"Description": "Digital Realty Trust, Inc."
+		"symbol": "DLR^G",
+		"description": "Digital Realty Trust, Inc."
 	},
 	{
-		"Symbol": "DLR^H",
-		"Description": "Digital Realty Trust, Inc."
+		"symbol": "DLR^H",
+		"description": "Digital Realty Trust, Inc."
 	},
 	{
-		"Symbol": "DLR^I",
-		"Description": "Digital Realty Trust, Inc."
+		"symbol": "DLR^I",
+		"description": "Digital Realty Trust, Inc."
 	},
 	{
-		"Symbol": "DLTH",
-		"Description": "Duluth Hldg Cl B Cmn"
+		"symbol": "DLTH",
+		"description": "Duluth Hldg Cl B Cmn"
 	},
 	{
-		"Symbol": "DLTR",
-		"Description": "Dollar Tree Inc"
+		"symbol": "DLTR",
+		"description": "Dollar Tree Inc"
 	},
 	{
-		"Symbol": "DLX",
-		"Description": "Deluxe Corporation"
+		"symbol": "DLX",
+		"description": "Deluxe Corporation"
 	},
 	{
-		"Symbol": "DM",
-		"Description": "Dominion Midstream Partners, LP"
+		"symbol": "DM",
+		"description": "Dominion Midstream Partners, LP"
 	},
 	{
-		"Symbol": "DMB",
-		"Description": "Dreyfus Municipal Bond Infrastructure Fund, Inc."
+		"symbol": "DMB",
+		"description": "Dreyfus Municipal Bond Infrastructure Fund, Inc."
 	},
 	{
-		"Symbol": "DMF",
-		"Description": "Dreyfus Municipal Income, Inc."
+		"symbol": "DMF",
+		"description": "Dreyfus Municipal Income, Inc."
 	},
 	{
-		"Symbol": "DMLP",
-		"Description": "Dorchester Minls"
+		"symbol": "DMLP",
+		"description": "Dorchester Minls"
 	},
 	{
-		"Symbol": "DMO",
-		"Description": "Western Asset Mortgage Defined Opportunity Fund Inc"
+		"symbol": "DMO",
+		"description": "Western Asset Mortgage Defined Opportunity Fund Inc"
 	},
 	{
-		"Symbol": "DMPI",
-		"Description": "Delmar Pharmaceuticals Inc"
+		"symbol": "DMPI",
+		"description": "Delmar Pharmaceuticals Inc"
 	},
 	{
-		"Symbol": "DMRC",
-		"Description": "Digimarc Corporation"
+		"symbol": "DMRC",
+		"description": "Digimarc Corporation"
 	},
 	{
-		"Symbol": "DMTX",
-		"Description": "Dimension Thera Cmn"
+		"symbol": "DMTX",
+		"description": "Dimension Thera Cmn"
 	},
 	{
-		"Symbol": "DNB",
-		"Description": "Dun & Bradstreet Corporation "
+		"symbol": "DNB",
+		"description": "Dun & Bradstreet Corporation "
 	},
 	{
-		"Symbol": "DNBF",
-		"Description": "Dnb Finl Corp"
+		"symbol": "DNBF",
+		"description": "Dnb Finl Corp"
 	},
 	{
-		"Symbol": "DNI",
-		"Description": "Dividend and Income Fund"
+		"symbol": "DNI",
+		"description": "Dividend and Income Fund"
 	},
 	{
-		"Symbol": "DNKN",
-		"Description": "Dunkin' Brands Group"
+		"symbol": "DNKN",
+		"description": "Dunkin' Brands Group"
 	},
 	{
-		"Symbol": "DNN",
-		"Description": "Denison Mine Corp"
+		"symbol": "DNN",
+		"description": "Denison Mine Corp"
 	},
 	{
-		"Symbol": "DNOW",
-		"Description": "NOW Inc."
+		"symbol": "DNOW",
+		"description": "NOW Inc."
 	},
 	{
-		"Symbol": "DNP",
-		"Description": "Duff & Phelps Utilities Income, Inc."
+		"symbol": "DNP",
+		"description": "Duff & Phelps Utilities Income, Inc."
 	},
 	{
-		"Symbol": "DNR",
-		"Description": "Denbury Resources Inc."
+		"symbol": "DNR",
+		"description": "Denbury Resources Inc."
 	},
 	{
-		"Symbol": "DO",
-		"Description": "Diamond Offshore Drilling, Inc."
+		"symbol": "DO",
+		"description": "Diamond Offshore Drilling, Inc."
 	},
 	{
-		"Symbol": "DOC",
-		"Description": "Physicians Realty Trust"
+		"symbol": "DOC",
+		"description": "Physicians Realty Trust"
 	},
 	{
-		"Symbol": "DOOR",
-		"Description": "Masonite International Corporation"
+		"symbol": "DOOR",
+		"description": "Masonite International Corporation"
 	},
 	{
-		"Symbol": "DORM",
-		"Description": "Dorman Products Inc"
+		"symbol": "DORM",
+		"description": "Dorman Products Inc"
 	},
 	{
-		"Symbol": "DOV",
-		"Description": "Dover Corporation"
+		"symbol": "DOV",
+		"description": "Dover Corporation"
 	},
 	{
-		"Symbol": "DOW",
-		"Description": "Dow Chemical Company "
+		"symbol": "DOW",
+		"description": "Dow Chemical Company "
 	},
 	{
-		"Symbol": "DOX",
-		"Description": "Amdocs Ltd Ord"
+		"symbol": "DOX",
+		"description": "Amdocs Ltd Ord"
 	},
 	{
-		"Symbol": "DPG",
-		"Description": "Duff & Phelps Global Utility Income Fund Inc."
+		"symbol": "DPG",
+		"description": "Duff & Phelps Global Utility Income Fund Inc."
 	},
 	{
-		"Symbol": "DPLO",
-		"Description": "Diplomat Pharmacy, Inc."
+		"symbol": "DPLO",
+		"description": "Diplomat Pharmacy, Inc."
 	},
 	{
-		"Symbol": "DPRX",
-		"Description": "Dipexium Pharmaceuti"
+		"symbol": "DPRX",
+		"description": "Dipexium Pharmaceuti"
 	},
 	{
-		"Symbol": "DPS",
-		"Description": "Dr Pepper Snapple Group, Inc"
+		"symbol": "DPS",
+		"description": "Dr Pepper Snapple Group, Inc"
 	},
 	{
-		"Symbol": "DPW",
-		"Description": "Digital Power Corporation"
+		"symbol": "DPW",
+		"description": "Digital Power Corporation"
 	},
 	{
-		"Symbol": "DPZ",
-		"Description": "Dominos Pizza Inc"
+		"symbol": "DPZ",
+		"description": "Dominos Pizza Inc"
 	},
 	{
-		"Symbol": "DQ",
-		"Description": "DAQO New Energy Corp."
+		"symbol": "DQ",
+		"description": "DAQO New Energy Corp."
 	},
 	{
-		"Symbol": "DRA",
-		"Description": "Diversified Real Asset Income Fund"
+		"symbol": "DRA",
+		"description": "Diversified Real Asset Income Fund"
 	},
 	{
-		"Symbol": "DRAD",
-		"Description": "Digirad Corporation"
+		"symbol": "DRAD",
+		"description": "Digirad Corporation"
 	},
 	{
-		"Symbol": "DRAM",
-		"Description": "Dataram Corp"
+		"symbol": "DRAM",
+		"description": "Dataram Corp"
 	},
 	{
-		"Symbol": "DRD",
-		"Description": "DRDGOLD Limited"
+		"symbol": "DRD",
+		"description": "DRDGOLD Limited"
 	},
 	{
-		"Symbol": "DRE",
-		"Description": "Duke Realty Corporation"
+		"symbol": "DRE",
+		"description": "Duke Realty Corporation"
 	},
 	{
-		"Symbol": "DRH",
-		"Description": "Diamondrock Hospitality Company"
+		"symbol": "DRH",
+		"description": "Diamondrock Hospitality Company"
 	},
 	{
-		"Symbol": "DRI",
-		"Description": "Darden Restaurants, Inc."
+		"symbol": "DRI",
+		"description": "Darden Restaurants, Inc."
 	},
 	{
-		"Symbol": "DRIO",
-		"Description": "Labstyle Innovat Cmn"
+		"symbol": "DRIO",
+		"description": "Labstyle Innovat Cmn"
 	},
 	{
-		"Symbol": "DRIOW",
-		"Description": "Labstyle Innovati Wt"
+		"symbol": "DRIOW",
+		"description": "Labstyle Innovati Wt"
 	},
 	{
-		"Symbol": "DRNA",
-		"Description": "Dicerna Pharmaceutic"
+		"symbol": "DRNA",
+		"description": "Dicerna Pharmaceutic"
 	},
 	{
-		"Symbol": "DRQ",
-		"Description": "Dril-Quip, Inc."
+		"symbol": "DRQ",
+		"description": "Dril-Quip, Inc."
 	},
 	{
-		"Symbol": "DRRX",
-		"Description": "Durect Corporation"
+		"symbol": "DRRX",
+		"description": "Durect Corporation"
 	},
 	{
-		"Symbol": "DRUA",
-		"Description": "Dominion Resources, Inc."
+		"symbol": "DRUA",
+		"description": "Dominion Resources, Inc."
 	},
 	{
-		"Symbol": "DRWI",
-		"Description": "Dragonwave Cmn"
+		"symbol": "DRWI",
+		"description": "Dragonwave Cmn"
 	},
 	{
-		"Symbol": "DRYS",
-		"Description": "Dryships Inc"
+		"symbol": "DRYS",
+		"description": "Dryships Inc"
 	},
 	{
-		"Symbol": "DS",
-		"Description": "Drive Shack Inc."
+		"symbol": "DS",
+		"description": "Drive Shack Inc."
 	},
 	{
-		"Symbol": "DS^B",
-		"Description": "Drive Shack Inc."
+		"symbol": "DS^B",
+		"description": "Drive Shack Inc."
 	},
 	{
-		"Symbol": "DS^C",
-		"Description": "Drive Shack Inc."
+		"symbol": "DS^C",
+		"description": "Drive Shack Inc."
 	},
 	{
-		"Symbol": "DS^D",
-		"Description": "Drive Shack Inc."
+		"symbol": "DS^D",
+		"description": "Drive Shack Inc."
 	},
 	{
-		"Symbol": "DSCI",
-		"Description": "Derma Sciences Cmn"
+		"symbol": "DSCI",
+		"description": "Derma Sciences Cmn"
 	},
 	{
-		"Symbol": "DSE",
-		"Description": "Duff & Phelps Select Energy MLP Fund Inc."
+		"symbol": "DSE",
+		"description": "Duff & Phelps Select Energy MLP Fund Inc."
 	},
 	{
-		"Symbol": "DSGX",
-		"Description": "Descartes Sys Grp"
+		"symbol": "DSGX",
+		"description": "Descartes Sys Grp"
 	},
 	{
-		"Symbol": "DSL",
-		"Description": "DoubleLine Income Solutions Fund"
+		"symbol": "DSL",
+		"description": "DoubleLine Income Solutions Fund"
 	},
 	{
-		"Symbol": "DSLV",
-		"Description": "VS 3X Inv Silver"
+		"symbol": "DSLV",
+		"description": "VS 3X Inv Silver"
 	},
 	{
-		"Symbol": "DSM",
-		"Description": "Dreyfus Strategic Municipal Bond Fund, Inc."
+		"symbol": "DSM",
+		"description": "Dreyfus Strategic Municipal Bond Fund, Inc."
 	},
 	{
-		"Symbol": "DSPG",
-		"Description": "D S P Group Inc"
+		"symbol": "DSPG",
+		"description": "D S P Group Inc"
 	},
 	{
-		"Symbol": "DSS",
-		"Description": "Document Security Systems, Inc."
+		"symbol": "DSS",
+		"description": "Document Security Systems, Inc."
 	},
 	{
-		"Symbol": "DST",
-		"Description": "DST Systems, Inc."
+		"symbol": "DST",
+		"description": "DST Systems, Inc."
 	},
 	{
-		"Symbol": "DSU",
-		"Description": "Blackrock Debt Strategies Fund, Inc."
+		"symbol": "DSU",
+		"description": "Blackrock Debt Strategies Fund, Inc."
 	},
 	{
-		"Symbol": "DSW",
-		"Description": "DSW Inc."
+		"symbol": "DSW",
+		"description": "DSW Inc."
 	},
 	{
-		"Symbol": "DSWL",
-		"Description": "Deswell Inds Inc"
+		"symbol": "DSWL",
+		"description": "Deswell Inds Inc"
 	},
 	{
-		"Symbol": "DSX",
-		"Description": "Diana Shipping inc."
+		"symbol": "DSX",
+		"description": "Diana Shipping inc."
 	},
 	{
-		"Symbol": "DSX^B",
-		"Description": "Diana Shipping inc."
+		"symbol": "DSX^B",
+		"description": "Diana Shipping inc."
 	},
 	{
-		"Symbol": "DSXN",
-		"Description": "Diana Shipping inc."
+		"symbol": "DSXN",
+		"description": "Diana Shipping inc."
 	},
 	{
-		"Symbol": "DTE",
-		"Description": "DTE Energy Company"
+		"symbol": "DTE",
+		"description": "DTE Energy Company"
 	},
 	{
-		"Symbol": "DTEA",
-		"Description": "Davidstea Inc Cm Stk"
+		"symbol": "DTEA",
+		"description": "Davidstea Inc Cm Stk"
 	},
 	{
-		"Symbol": "DTF",
-		"Description": "Duff & Phelps Utilities Tax-Free Income, Inc."
+		"symbol": "DTF",
+		"description": "Duff & Phelps Utilities Tax-Free Income, Inc."
 	},
 	{
-		"Symbol": "DTJ",
-		"Description": "DTE Energy Company"
+		"symbol": "DTJ",
+		"description": "DTE Energy Company"
 	},
 	{
-		"Symbol": "DTK",
-		"Description": "Deutsche Bank AG"
+		"symbol": "DTK",
+		"description": "Deutsche Bank AG"
 	},
 	{
-		"Symbol": "DTLA^",
-		"Description": "Brookfield DTLA Inc."
+		"symbol": "DTLA^",
+		"description": "Brookfield DTLA Inc."
 	},
 	{
-		"Symbol": "DTQ",
-		"Description": "DTE Energy Company"
+		"symbol": "DTQ",
+		"description": "DTE Energy Company"
 	},
 	{
-		"Symbol": "DTRM",
-		"Description": "Determine Inc"
+		"symbol": "DTRM",
+		"description": "Determine Inc"
 	},
 	{
-		"Symbol": "DTUS",
-		"Description": "Ipath 2 Year Bear"
+		"symbol": "DTUS",
+		"description": "Ipath 2 Year Bear"
 	},
 	{
-		"Symbol": "DTV",
-		"Description": "DTE Energy Company"
+		"symbol": "DTV",
+		"description": "DTE Energy Company"
 	},
 	{
-		"Symbol": "DTY",
-		"Description": "DTE Energy Company"
+		"symbol": "DTY",
+		"description": "DTE Energy Company"
 	},
 	{
-		"Symbol": "DTYL",
-		"Description": "Ipath 10 Year Bull"
+		"symbol": "DTYL",
+		"description": "Ipath 10 Year Bull"
 	},
 	{
-		"Symbol": "DTYS",
-		"Description": "Ipath 10 Year Bear"
+		"symbol": "DTYS",
+		"description": "Ipath 10 Year Bear"
 	},
 	{
-		"Symbol": "DUC",
-		"Description": "Duff & Phelps Utility & Corporate Bond Trust, Inc."
+		"symbol": "DUC",
+		"description": "Duff & Phelps Utility & Corporate Bond Trust, Inc."
 	},
 	{
-		"Symbol": "DUK",
-		"Description": "Duke Energy Corporation"
+		"symbol": "DUK",
+		"description": "Duke Energy Corporation"
 	},
 	{
-		"Symbol": "DUKH",
-		"Description": "Duke Energy Corporation"
+		"symbol": "DUKH",
+		"description": "Duke Energy Corporation"
 	},
 	{
-		"Symbol": "DUSA",
-		"Description": "Davis Fundamental ETF Trust Davis Select U.S. Eq"
+		"symbol": "DUSA",
+		"description": "Davis Fundamental ETF Trust Davis Select U.S. Eq"
 	},
 	{
-		"Symbol": "DV",
-		"Description": "DeVry Education Group Inc."
+		"symbol": "DV",
+		"description": "DeVry Education Group Inc."
 	},
 	{
-		"Symbol": "DVA",
-		"Description": "DaVita Inc."
+		"symbol": "DVA",
+		"description": "DaVita Inc."
 	},
 	{
-		"Symbol": "DVAX",
-		"Description": "Dynavax Technologies"
+		"symbol": "DVAX",
+		"description": "Dynavax Technologies"
 	},
 	{
-		"Symbol": "DVCR",
-		"Description": "Diversicare Healthca"
+		"symbol": "DVCR",
+		"description": "Diversicare Healthca"
 	},
 	{
-		"Symbol": "DVD",
-		"Description": "Dover Motorsports, Inc."
+		"symbol": "DVD",
+		"description": "Dover Motorsports, Inc."
 	},
 	{
-		"Symbol": "DVMT",
-		"Description": "Dell Technologies Inc."
+		"symbol": "DVMT",
+		"description": "Dell Technologies Inc."
 	},
 	{
-		"Symbol": "DVN",
-		"Description": "Devon Energy Corporation"
+		"symbol": "DVN",
+		"description": "Devon Energy Corporation"
 	},
 	{
-		"Symbol": "DWAC",
-		"Description": "Elkhorn Commodity Rotation Strategy ETF"
+		"symbol": "DWAC",
+		"description": "Elkhorn Commodity Rotation Strategy ETF"
 	},
 	{
-		"Symbol": "DWAQ",
-		"Description": "Dynamic OTC Powershares"
+		"symbol": "DWAQ",
+		"description": "Dynamic OTC Powershares"
 	},
 	{
-		"Symbol": "DWAS",
-		"Description": "Powershares DWA Smallcap Momentum Portfolio"
+		"symbol": "DWAS",
+		"description": "Powershares DWA Smallcap Momentum Portfolio"
 	},
 	{
-		"Symbol": "DWAT",
-		"Description": "Arrow DWA Tactic ETF"
+		"symbol": "DWAT",
+		"description": "Arrow DWA Tactic ETF"
 	},
 	{
-		"Symbol": "DWCH",
-		"Description": "Datawatch Cp"
+		"symbol": "DWCH",
+		"description": "Datawatch Cp"
 	},
 	{
-		"Symbol": "DWFI",
-		"Description": "SPDR DWA Fi Allo ETF"
+		"symbol": "DWFI",
+		"description": "SPDR DWA Fi Allo ETF"
 	},
 	{
-		"Symbol": "DWIN",
-		"Description": "PS DWA Tactical Multi-Asset Income"
+		"symbol": "DWIN",
+		"description": "PS DWA Tactical Multi-Asset Income"
 	},
 	{
-		"Symbol": "DWLD",
-		"Description": "Davis Fundamental ETF Trust Davis Select Worldwi"
+		"symbol": "DWLD",
+		"description": "Davis Fundamental ETF Trust Davis Select Worldwi"
 	},
 	{
-		"Symbol": "DWLV",
-		"Description": "Powershares DWA Momentum & Low Volatility Rotati"
+		"symbol": "DWLV",
+		"description": "Powershares DWA Momentum & Low Volatility Rotati"
 	},
 	{
-		"Symbol": "DWSN",
-		"Description": "Dawson Geophscl Cmn"
+		"symbol": "DWSN",
+		"description": "Dawson Geophscl Cmn"
 	},
 	{
-		"Symbol": "DWTR",
-		"Description": "PS DWA Tactical Sector Rotation"
+		"symbol": "DWTR",
+		"description": "PS DWA Tactical Sector Rotation"
 	},
 	{
-		"Symbol": "DX",
-		"Description": "Dynex Capital, Inc."
+		"symbol": "DX",
+		"description": "Dynex Capital, Inc."
 	},
 	{
-		"Symbol": "DX^A",
-		"Description": "Dynex Capital, Inc."
+		"symbol": "DX^A",
+		"description": "Dynex Capital, Inc."
 	},
 	{
-		"Symbol": "DX^B",
-		"Description": "Dynex Capital, Inc."
+		"symbol": "DX^B",
+		"description": "Dynex Capital, Inc."
 	},
 	{
-		"Symbol": "DXB",
-		"Description": "Deutsche Bank AG"
+		"symbol": "DXB",
+		"description": "Deutsche Bank AG"
 	},
 	{
-		"Symbol": "DXCM",
-		"Description": "Dexcom"
+		"symbol": "DXCM",
+		"description": "Dexcom"
 	},
 	{
-		"Symbol": "DXGE",
-		"Description": "Wisdomtree Gr Hdg Eq"
+		"symbol": "DXGE",
+		"description": "Wisdomtree Gr Hdg Eq"
 	},
 	{
-		"Symbol": "DXJS",
-		"Description": "Wisdomtree JP Hdg Fd"
+		"symbol": "DXJS",
+		"description": "Wisdomtree JP Hdg Fd"
 	},
 	{
-		"Symbol": "DXKW",
-		"Description": "Wisdomtree Kor Hdg E"
+		"symbol": "DXKW",
+		"description": "Wisdomtree Kor Hdg E"
 	},
 	{
-		"Symbol": "DXLG",
-		"Description": "Destination XL Grp"
+		"symbol": "DXLG",
+		"description": "Destination XL Grp"
 	},
 	{
-		"Symbol": "DXPE",
-		"Description": "Dxp Enterprise"
+		"symbol": "DXPE",
+		"description": "Dxp Enterprise"
 	},
 	{
-		"Symbol": "DXPS",
-		"Description": "Wisdomtree UK Hdg Fd"
+		"symbol": "DXPS",
+		"description": "Wisdomtree UK Hdg Fd"
 	},
 	{
-		"Symbol": "DXR",
-		"Description": "Daxor Corporation"
+		"symbol": "DXR",
+		"description": "Daxor Corporation"
 	},
 	{
-		"Symbol": "DXTR",
-		"Description": "Dextera Surgical Inc"
+		"symbol": "DXTR",
+		"description": "Dextera Surgical Inc"
 	},
 	{
-		"Symbol": "DXYN",
-		"Description": " Dixie Group"
+		"symbol": "DXYN",
+		"description": " Dixie Group"
 	},
 	{
-		"Symbol": "DY",
-		"Description": "Dycom Industries, Inc."
+		"symbol": "DY",
+		"description": "Dycom Industries, Inc."
 	},
 	{
-		"Symbol": "DYN",
-		"Description": "Dynegy Inc."
+		"symbol": "DYN",
+		"description": "Dynegy Inc."
 	},
 	{
-		"Symbol": "DYN.WS",
-		"Description": "Dynegy Inc."
+		"symbol": "DYN.WS",
+		"description": "Dynegy Inc."
 	},
 	{
-		"Symbol": "DYN^A",
-		"Description": "Dynegy Inc."
+		"symbol": "DYN^A",
+		"description": "Dynegy Inc."
 	},
 	{
-		"Symbol": "DYNC",
-		"Description": "Dynegy Inc."
+		"symbol": "DYNC",
+		"description": "Dynegy Inc."
 	},
 	{
-		"Symbol": "DYNT",
-		"Description": "Dynatronics Cp"
+		"symbol": "DYNT",
+		"description": "Dynatronics Cp"
 	},
 	{
-		"Symbol": "DYSL",
-		"Description": "Dynasil Cp America"
+		"symbol": "DYSL",
+		"description": "Dynasil Cp America"
 	},
 	{
-		"Symbol": "DZSI",
-		"Description": "Dasan Zhone Solutions Inc"
+		"symbol": "DZSI",
+		"description": "Dasan Zhone Solutions Inc"
 	},
 	{
-		"Symbol": "E",
-		"Description": "ENI S.p.A."
+		"symbol": "E",
+		"description": "ENI S.p.A."
 	},
 	{
-		"Symbol": "EA",
-		"Description": "Electronic Arts Inc"
+		"symbol": "EA",
+		"description": "Electronic Arts Inc"
 	},
 	{
-		"Symbol": "EAB",
-		"Description": "Entergy Arkansas, Inc."
+		"symbol": "EAB",
+		"description": "Entergy Arkansas, Inc."
 	},
 	{
-		"Symbol": "EACQ",
-		"Description": "Easterly Acq Cmn Stk"
+		"symbol": "EACQ",
+		"description": "Easterly Acq Cmn Stk"
 	},
 	{
-		"Symbol": "EACQU",
-		"Description": "Easterly Acq Units"
+		"symbol": "EACQU",
+		"description": "Easterly Acq Units"
 	},
 	{
-		"Symbol": "EACQW",
-		"Description": "Easterly Acq Warrant"
+		"symbol": "EACQW",
+		"description": "Easterly Acq Warrant"
 	},
 	{
-		"Symbol": "EAD",
-		"Description": "Wells Fargo Income Opportunities Fund"
+		"symbol": "EAD",
+		"description": "Wells Fargo Income Opportunities Fund"
 	},
 	{
-		"Symbol": "EAE",
-		"Description": "Entergy Arkansas, Inc."
+		"symbol": "EAE",
+		"description": "Entergy Arkansas, Inc."
 	},
 	{
-		"Symbol": "EAGL",
-		"Description": "Double Eagle A Ords"
+		"symbol": "EAGL",
+		"description": "Double Eagle A Ords"
 	},
 	{
-		"Symbol": "EAGLU",
-		"Description": "Double Eagle Units"
+		"symbol": "EAGLU",
+		"description": "Double Eagle Units"
 	},
 	{
-		"Symbol": "EAGLW",
-		"Description": "Double Eagle Warrant"
+		"symbol": "EAGLW",
+		"description": "Double Eagle Warrant"
 	},
 	{
-		"Symbol": "EAI",
-		"Description": "Entergy Arkansas, Inc."
+		"symbol": "EAI",
+		"description": "Entergy Arkansas, Inc."
 	},
 	{
-		"Symbol": "EARN",
-		"Description": "Ellington Residential Mortgage REIT"
+		"symbol": "EARN",
+		"description": "Ellington Residential Mortgage REIT"
 	},
 	{
-		"Symbol": "EARS",
-		"Description": "Auris Medical Cmn"
+		"symbol": "EARS",
+		"description": "Auris Medical Cmn"
 	},
 	{
-		"Symbol": "EAT",
-		"Description": "Brinker International, Inc."
+		"symbol": "EAT",
+		"description": "Brinker International, Inc."
 	},
 	{
-		"Symbol": "EBAY",
-		"Description": "Ebay Inc"
+		"symbol": "EBAY",
+		"description": "Ebay Inc"
 	},
 	{
-		"Symbol": "EBAYL",
-		"Description": "Ebay Inc 6.0% NTS"
+		"symbol": "EBAYL",
+		"description": "Ebay Inc 6.0% NTS"
 	},
 	{
-		"Symbol": "EBF",
-		"Description": "Ennis, Inc."
+		"symbol": "EBF",
+		"description": "Ennis, Inc."
 	},
 	{
-		"Symbol": "EBIO",
-		"Description": "Eleven Bio Inc"
+		"symbol": "EBIO",
+		"description": "Eleven Bio Inc"
 	},
 	{
-		"Symbol": "EBIX",
-		"Description": "Ebix Inc"
+		"symbol": "EBIX",
+		"description": "Ebix Inc"
 	},
 	{
-		"Symbol": "EBMT",
-		"Description": "Eagle Bancorp [Mt]"
+		"symbol": "EBMT",
+		"description": "Eagle Bancorp [Mt]"
 	},
 	{
-		"Symbol": "EBR",
-		"Description": "Centrais Electricas Brasileiras S.A.- Eletrobras"
+		"symbol": "EBR",
+		"description": "Centrais Electricas Brasileiras S.A.- Eletrobras"
 	},
 	{
-		"Symbol": "EBR.B",
-		"Description": "Centrais Electricas Brasileiras S.A.- Eletrobras"
+		"symbol": "EBR.B",
+		"description": "Centrais Electricas Brasileiras S.A.- Eletrobras"
 	},
 	{
-		"Symbol": "EBS",
-		"Description": "Emergent Biosolutions, Inc."
+		"symbol": "EBS",
+		"description": "Emergent Biosolutions, Inc."
 	},
 	{
-		"Symbol": "EBSB",
-		"Description": "Meridian Bncp Cmn"
+		"symbol": "EBSB",
+		"description": "Meridian Bncp Cmn"
 	},
 	{
-		"Symbol": "EBTC",
-		"Description": "Enterprise Bancorp I"
+		"symbol": "EBTC",
+		"description": "Enterprise Bancorp I"
 	},
 	{
-		"Symbol": "EC",
-		"Description": "Ecopetrol S.A."
+		"symbol": "EC",
+		"description": "Ecopetrol S.A."
 	},
 	{
-		"Symbol": "ECA",
-		"Description": "Encana Corporation"
+		"symbol": "ECA",
+		"description": "Encana Corporation"
 	},
 	{
-		"Symbol": "ECAC",
-		"Description": "E-Compass Acquisition Corp"
+		"symbol": "ECAC",
+		"description": "E-Compass Acquisition Corp"
 	},
 	{
-		"Symbol": "ECACR",
-		"Description": "E-Compass Acq Cmn"
+		"symbol": "ECACR",
+		"description": "E-Compass Acq Cmn"
 	},
 	{
-		"Symbol": "ECC",
-		"Description": "Eagle Point Credit Company Inc."
+		"symbol": "ECC",
+		"description": "Eagle Point Credit Company Inc."
 	},
 	{
-		"Symbol": "ECCA",
-		"Description": "Eagle Point Credit Company Inc."
+		"symbol": "ECCA",
+		"description": "Eagle Point Credit Company Inc."
 	},
 	{
-		"Symbol": "ECCB",
-		"Description": "Eagle Point Credit Company Inc."
+		"symbol": "ECCB",
+		"description": "Eagle Point Credit Company Inc."
 	},
 	{
-		"Symbol": "ECCZ",
-		"Description": "Eagle Point Credit Company Inc."
+		"symbol": "ECCZ",
+		"description": "Eagle Point Credit Company Inc."
 	},
 	{
-		"Symbol": "ECF",
-		"Description": "Ellsworth Growth and Income Fund Ltd."
+		"symbol": "ECF",
+		"description": "Ellsworth Growth and Income Fund Ltd."
 	},
 	{
-		"Symbol": "ECHO",
-		"Description": "Echo Global Logistic"
+		"symbol": "ECHO",
+		"description": "Echo Global Logistic"
 	},
 	{
-		"Symbol": "ECL",
-		"Description": "Ecolab Inc."
+		"symbol": "ECL",
+		"description": "Ecolab Inc."
 	},
 	{
-		"Symbol": "ECOL",
-		"Description": "US Ecology Inc"
+		"symbol": "ECOL",
+		"description": "US Ecology Inc"
 	},
 	{
-		"Symbol": "ECOM",
-		"Description": "ChannelAdvisor Corporation"
+		"symbol": "ECOM",
+		"description": "ChannelAdvisor Corporation"
 	},
 	{
-		"Symbol": "ECPG",
-		"Description": "Encore Capital Grp"
+		"symbol": "ECPG",
+		"description": "Encore Capital Grp"
 	},
 	{
-		"Symbol": "ECR",
-		"Description": "Eclipse Resources Corporation"
+		"symbol": "ECR",
+		"description": "Eclipse Resources Corporation"
 	},
 	{
-		"Symbol": "ECT",
-		"Description": "ECA Marcellus Trust I"
+		"symbol": "ECT",
+		"description": "ECA Marcellus Trust I"
 	},
 	{
-		"Symbol": "ECYT",
-		"Description": "Endocyte Inc"
+		"symbol": "ECYT",
+		"description": "Endocyte Inc"
 	},
 	{
-		"Symbol": "ED",
-		"Description": "Consolidated Edison Inc"
+		"symbol": "ED",
+		"description": "Consolidated Edison Inc"
 	},
 	{
-		"Symbol": "EDAP",
-		"Description": "Edap Tms Sa ADR"
+		"symbol": "EDAP",
+		"description": "Edap Tms Sa ADR"
 	},
 	{
-		"Symbol": "EDBI",
-		"Description": "Legg Mason EM Div Cr"
+		"symbol": "EDBI",
+		"description": "Legg Mason EM Div Cr"
 	},
 	{
-		"Symbol": "EDD",
-		"Description": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc."
+		"symbol": "EDD",
+		"description": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc."
 	},
 	{
-		"Symbol": "EDF",
-		"Description": "Stone Harbor Emerging Markets Income Fund"
+		"symbol": "EDF",
+		"description": "Stone Harbor Emerging Markets Income Fund"
 	},
 	{
-		"Symbol": "EDGE",
-		"Description": "Edge Therapeut Cm S"
+		"symbol": "EDGE",
+		"description": "Edge Therapeut Cm S"
 	},
 	{
-		"Symbol": "EDGW",
-		"Description": "Edgewater Tech Inc"
+		"symbol": "EDGW",
+		"description": "Edgewater Tech Inc"
 	},
 	{
-		"Symbol": "EDI",
-		"Description": "Stone Harbor Emerging Markets Total Income Fund"
+		"symbol": "EDI",
+		"description": "Stone Harbor Emerging Markets Total Income Fund"
 	},
 	{
-		"Symbol": "EDIT",
-		"Description": "Editas Medicine Cmn"
+		"symbol": "EDIT",
+		"description": "Editas Medicine Cmn"
 	},
 	{
-		"Symbol": "EDN",
-		"Description": "Empresa Distribuidora Y Comercializadora Norte S.A. Edenor"
+		"symbol": "EDN",
+		"description": "Empresa Distribuidora Y Comercializadora Norte S.A. Edenor"
 	},
 	{
-		"Symbol": "EDR",
-		"Description": "Education Realty Trust Inc."
+		"symbol": "EDR",
+		"description": "Education Realty Trust Inc."
 	},
 	{
-		"Symbol": "EDU",
-		"Description": "New Oriental Education & Technology Group, Inc."
+		"symbol": "EDU",
+		"description": "New Oriental Education & Technology Group, Inc."
 	},
 	{
-		"Symbol": "EDUC",
-		"Description": "Educational Dev Cp"
+		"symbol": "EDUC",
+		"description": "Educational Dev Cp"
 	},
 	{
-		"Symbol": "EE",
-		"Description": "El Paso Electric Company"
+		"symbol": "EE",
+		"description": "El Paso Electric Company"
 	},
 	{
-		"Symbol": "EEA",
-		"Description": "European Equity Fund, Inc. "
+		"symbol": "EEA",
+		"description": "European Equity Fund, Inc. "
 	},
 	{
-		"Symbol": "EEFT",
-		"Description": "Euronet Worldwide"
+		"symbol": "EEFT",
+		"description": "Euronet Worldwide"
 	},
 	{
-		"Symbol": "EEI",
-		"Description": "Ecology Environment"
+		"symbol": "EEI",
+		"description": "Ecology Environment"
 	},
 	{
-		"Symbol": "EEMA",
-		"Description": "Ishares MSCI EM Asia"
+		"symbol": "EEMA",
+		"description": "Ishares MSCI EM Asia"
 	},
 	{
-		"Symbol": "EEP",
-		"Description": "Enbridge Energy, L.P."
+		"symbol": "EEP",
+		"description": "Enbridge Energy, L.P."
 	},
 	{
-		"Symbol": "EEQ",
-		"Description": "Enbridge Energy Management LLC"
+		"symbol": "EEQ",
+		"description": "Enbridge Energy Management LLC"
 	},
 	{
-		"Symbol": "EFAS",
-		"Description": "Global X MSCI Superdividend EAFE ETF"
+		"symbol": "EFAS",
+		"description": "Global X MSCI Superdividend EAFE ETF"
 	},
 	{
-		"Symbol": "EFC",
-		"Description": "Ellington Financial LLC"
+		"symbol": "EFC",
+		"description": "Ellington Financial LLC"
 	},
 	{
-		"Symbol": "EFF",
-		"Description": "Eaton vance Floating-Rate Income Plus Fund"
+		"symbol": "EFF",
+		"description": "Eaton vance Floating-Rate Income Plus Fund"
 	},
 	{
-		"Symbol": "EFII",
-		"Description": "Elec Imaging Inc"
+		"symbol": "EFII",
+		"description": "Elec Imaging Inc"
 	},
 	{
-		"Symbol": "EFOI",
-		"Description": "Energy Focus Cmn"
+		"symbol": "EFOI",
+		"description": "Energy Focus Cmn"
 	},
 	{
-		"Symbol": "EFR",
-		"Description": "Eaton Vance Senior Floating-Rate Fund"
+		"symbol": "EFR",
+		"description": "Eaton Vance Senior Floating-Rate Fund"
 	},
 	{
-		"Symbol": "EFSC",
-		"Description": "Enterprises Finl Svc"
+		"symbol": "EFSC",
+		"description": "Enterprises Finl Svc"
 	},
 	{
-		"Symbol": "EFT",
-		"Description": "Eaton Vance Floating Rate Income Trust"
+		"symbol": "EFT",
+		"description": "Eaton Vance Floating Rate Income Trust"
 	},
 	{
-		"Symbol": "EFX",
-		"Description": "Equifax, Inc."
+		"symbol": "EFX",
+		"description": "Equifax, Inc."
 	},
 	{
-		"Symbol": "EGAN",
-		"Description": "Egain Corporation"
+		"symbol": "EGAN",
+		"description": "Egain Corporation"
 	},
 	{
-		"Symbol": "EGAS",
-		"Description": "Gas Natural Inc."
+		"symbol": "EGAS",
+		"description": "Gas Natural Inc."
 	},
 	{
-		"Symbol": "EGBN",
-		"Description": "Eagle Bancorp Inc"
+		"symbol": "EGBN",
+		"description": "Eagle Bancorp Inc"
 	},
 	{
-		"Symbol": "EGF",
-		"Description": "Blackrock Enhanced Government Fund, Inc"
+		"symbol": "EGF",
+		"description": "Blackrock Enhanced Government Fund, Inc"
 	},
 	{
-		"Symbol": "EGHT",
-		"Description": "8X8 Inc"
+		"symbol": "EGHT",
+		"description": "8X8 Inc"
 	},
 	{
-		"Symbol": "EGI",
-		"Description": "Entree Gold Inc"
+		"symbol": "EGI",
+		"description": "Entree Gold Inc"
 	},
 	{
-		"Symbol": "EGIF",
-		"Description": "Eagle Growth and Income Opportunities Fund"
+		"symbol": "EGIF",
+		"description": "Eagle Growth and Income Opportunities Fund"
 	},
 	{
-		"Symbol": "EGL",
-		"Description": "Engility Holdings, Inc."
+		"symbol": "EGL",
+		"description": "Engility Holdings, Inc."
 	},
 	{
-		"Symbol": "EGLE",
-		"Description": "Eagle Bulk Ship New"
+		"symbol": "EGLE",
+		"description": "Eagle Bulk Ship New"
 	},
 	{
-		"Symbol": "EGLT",
-		"Description": "Egalet Corporation"
+		"symbol": "EGLT",
+		"description": "Egalet Corporation"
 	},
 	{
-		"Symbol": "EGN",
-		"Description": "Energen Corporation"
+		"symbol": "EGN",
+		"description": "Energen Corporation"
 	},
 	{
-		"Symbol": "EGO",
-		"Description": "Eldorado Gold Corporation"
+		"symbol": "EGO",
+		"description": "Eldorado Gold Corporation"
 	},
 	{
-		"Symbol": "EGOV",
-		"Description": "Nic Inc"
+		"symbol": "EGOV",
+		"description": "Nic Inc"
 	},
 	{
-		"Symbol": "EGP",
-		"Description": "EastGroup Properties, Inc."
+		"symbol": "EGP",
+		"description": "EastGroup Properties, Inc."
 	},
 	{
-		"Symbol": "EGRX",
-		"Description": "Eagle Pharmaceutical"
+		"symbol": "EGRX",
+		"description": "Eagle Pharmaceutical"
 	},
 	{
-		"Symbol": "EGT",
-		"Description": "Entertainment Gmg Cmn"
+		"symbol": "EGT",
+		"description": "Entertainment Gmg Cmn"
 	},
 	{
-		"Symbol": "EGY",
-		"Description": "Vaalco Energy Inc"
+		"symbol": "EGY",
+		"description": "Vaalco Energy Inc"
 	},
 	{
-		"Symbol": "EHI",
-		"Description": "Western Asset Global High Income Fund Inc"
+		"symbol": "EHI",
+		"description": "Western Asset Global High Income Fund Inc"
 	},
 	{
-		"Symbol": "EHIC",
-		"Description": "eHi Car Services Limited"
+		"symbol": "EHIC",
+		"description": "eHi Car Services Limited"
 	},
 	{
-		"Symbol": "EHT",
-		"Description": "Eaton Vance High Income 2021 Target Term Trust"
+		"symbol": "EHT",
+		"description": "Eaton Vance High Income 2021 Target Term Trust"
 	},
 	{
-		"Symbol": "EHTH",
-		"Description": "Ehealth Inc"
+		"symbol": "EHTH",
+		"description": "Ehealth Inc"
 	},
 	{
-		"Symbol": "EIA",
-		"Description": "Eaton Vance California Municipal Bond Fund II"
+		"symbol": "EIA",
+		"description": "Eaton Vance California Municipal Bond Fund II"
 	},
 	{
-		"Symbol": "EIG",
-		"Description": "Employers Holdings Inc"
+		"symbol": "EIG",
+		"description": "Employers Holdings Inc"
 	},
 	{
-		"Symbol": "EIGI",
-		"Description": "Endurance Int Grp"
+		"symbol": "EIGI",
+		"description": "Endurance Int Grp"
 	},
 	{
-		"Symbol": "EIGR",
-		"Description": "Eiger Biopharma"
+		"symbol": "EIGR",
+		"description": "Eiger Biopharma"
 	},
 	{
-		"Symbol": "EIM",
-		"Description": "Eaton Vance Municipal Bond Fund"
+		"symbol": "EIM",
+		"description": "Eaton Vance Municipal Bond Fund"
 	},
 	{
-		"Symbol": "EIO",
-		"Description": "Eaton Vance Ohio Municipal Bond Fund"
+		"symbol": "EIO",
+		"description": "Eaton Vance Ohio Municipal Bond Fund"
 	},
 	{
-		"Symbol": "EIP",
-		"Description": "Eaton Vance Pennsylvania Municipal Bond Fund"
+		"symbol": "EIP",
+		"description": "Eaton Vance Pennsylvania Municipal Bond Fund"
 	},
 	{
-		"Symbol": "EIV",
-		"Description": "Eaton Vance Municipal Bond Fund II"
+		"symbol": "EIV",
+		"description": "Eaton Vance Municipal Bond Fund II"
 	},
 	{
-		"Symbol": "EIX",
-		"Description": "Edison International"
+		"symbol": "EIX",
+		"description": "Edison International"
 	},
 	{
-		"Symbol": "EKSO",
-		"Description": "Ekso Bionics Holdings Inc"
+		"symbol": "EKSO",
+		"description": "Ekso Bionics Holdings Inc"
 	},
 	{
-		"Symbol": "EL",
-		"Description": "Estee Lauder Companies, Inc. "
+		"symbol": "EL",
+		"description": "Estee Lauder Companies, Inc. "
 	},
 	{
-		"Symbol": "ELC",
-		"Description": "Entergy Louisiana, Inc."
+		"symbol": "ELC",
+		"description": "Entergy Louisiana, Inc."
 	},
 	{
-		"Symbol": "ELEC",
-		"Description": "Electrum Special Or"
+		"symbol": "ELEC",
+		"description": "Electrum Special Or"
 	},
 	{
-		"Symbol": "ELECU",
-		"Description": "Electrum Special Uts"
+		"symbol": "ELECU",
+		"description": "Electrum Special Uts"
 	},
 	{
-		"Symbol": "ELECW",
-		"Description": "Electrum Special Wt"
+		"symbol": "ELECW",
+		"description": "Electrum Special Wt"
 	},
 	{
-		"Symbol": "ELF",
-		"Description": "e.l.f. Beauty, Inc."
+		"symbol": "ELF",
+		"description": "e.l.f. Beauty, Inc."
 	},
 	{
-		"Symbol": "ELGX",
-		"Description": "Endologix Inc"
+		"symbol": "ELGX",
+		"description": "Endologix Inc"
 	},
 	{
-		"Symbol": "ELJ",
-		"Description": "Entergy Louisiana, Inc."
+		"symbol": "ELJ",
+		"description": "Entergy Louisiana, Inc."
 	},
 	{
-		"Symbol": "ELLI",
-		"Description": "Ellie Mae, Inc."
+		"symbol": "ELLI",
+		"description": "Ellie Mae, Inc."
 	},
 	{
-		"Symbol": "ELLO",
-		"Description": "Ellomay Capital Ltd."
+		"symbol": "ELLO",
+		"description": "Ellomay Capital Ltd."
 	},
 	{
-		"Symbol": "ELMD",
-		"Description": "Electromed, Inc."
+		"symbol": "ELMD",
+		"description": "Electromed, Inc."
 	},
 	{
-		"Symbol": "ELNK",
-		"Description": "Earthlink Hlds Cmn"
+		"symbol": "ELNK",
+		"description": "Earthlink Hlds Cmn"
 	},
 	{
-		"Symbol": "ELON",
-		"Description": "Echelon Corporation"
+		"symbol": "ELON",
+		"description": "Echelon Corporation"
 	},
 	{
-		"Symbol": "ELOS",
-		"Description": "Syneron Medical Ltd"
+		"symbol": "ELOS",
+		"description": "Syneron Medical Ltd"
 	},
 	{
-		"Symbol": "ELP",
-		"Description": "Companhia Paranaense de Energia COPEL"
+		"symbol": "ELP",
+		"description": "Companhia Paranaense de Energia COPEL"
 	},
 	{
-		"Symbol": "ELS",
-		"Description": "Equity Lifestyle Properties, Inc."
+		"symbol": "ELS",
+		"description": "Equity Lifestyle Properties, Inc."
 	},
 	{
-		"Symbol": "ELS^C",
-		"Description": "Equity Lifestyle Properties, Inc."
+		"symbol": "ELS^C",
+		"description": "Equity Lifestyle Properties, Inc."
 	},
 	{
-		"Symbol": "ELSE",
-		"Description": "Electro Sensors In"
+		"symbol": "ELSE",
+		"description": "Electro Sensors In"
 	},
 	{
-		"Symbol": "ELTK",
-		"Description": "E L T E K Ltd"
+		"symbol": "ELTK",
+		"description": "E L T E K Ltd"
 	},
 	{
-		"Symbol": "ELU",
-		"Description": "Entergy Louisiana, Inc."
+		"symbol": "ELU",
+		"description": "Entergy Louisiana, Inc."
 	},
 	{
-		"Symbol": "ELY",
-		"Description": "Callaway Golf Company"
+		"symbol": "ELY",
+		"description": "Callaway Golf Company"
 	},
 	{
-		"Symbol": "EMAN",
-		"Description": "eMagin Corporation"
+		"symbol": "EMAN",
+		"description": "eMagin Corporation"
 	},
 	{
-		"Symbol": "EMCB",
-		"Description": "Wisdomtree Emcb Fund"
+		"symbol": "EMCB",
+		"description": "Wisdomtree Emcb Fund"
 	},
 	{
-		"Symbol": "EMCF",
-		"Description": "Emclaire Finl Cor"
+		"symbol": "EMCF",
+		"description": "Emclaire Finl Cor"
 	},
 	{
-		"Symbol": "EMCG",
-		"Description": "Wisdomtree EM Cnr Gr"
+		"symbol": "EMCG",
+		"description": "Wisdomtree EM Cnr Gr"
 	},
 	{
-		"Symbol": "EMCI",
-		"Description": "E M C Insurance Gp"
+		"symbol": "EMCI",
+		"description": "E M C Insurance Gp"
 	},
 	{
-		"Symbol": "EMD",
-		"Description": "Western Asset Emerging Markets Debt Fund Inc"
+		"symbol": "EMD",
+		"description": "Western Asset Emerging Markets Debt Fund Inc"
 	},
 	{
-		"Symbol": "EME",
-		"Description": "EMCOR Group, Inc."
+		"symbol": "EME",
+		"description": "EMCOR Group, Inc."
 	},
 	{
-		"Symbol": "EMES",
-		"Description": "Emerge Energy Services LP"
+		"symbol": "EMES",
+		"description": "Emerge Energy Services LP"
 	},
 	{
-		"Symbol": "EMF",
-		"Description": "Templeton Emerging Markets Fund"
+		"symbol": "EMF",
+		"description": "Templeton Emerging Markets Fund"
 	},
 	{
-		"Symbol": "EMI",
-		"Description": "Eaton Vance Michigan Municipal Income Trust"
+		"symbol": "EMI",
+		"description": "Eaton Vance Michigan Municipal Income Trust"
 	},
 	{
-		"Symbol": "EMIF",
-		"Description": "Ishares SP Emg Mk In"
+		"symbol": "EMIF",
+		"description": "Ishares SP Emg Mk In"
 	},
 	{
-		"Symbol": "EMITF",
-		"Description": "Elbit Imaging Ord"
+		"symbol": "EMITF",
+		"description": "Elbit Imaging Ord"
 	},
 	{
-		"Symbol": "EMJ",
-		"Description": "Eaton Vance New Jersey Municipal Bond Fund"
+		"symbol": "EMJ",
+		"description": "Eaton Vance New Jersey Municipal Bond Fund"
 	},
 	{
-		"Symbol": "EMKR",
-		"Description": "Emcore Corp"
+		"symbol": "EMKR",
+		"description": "Emcore Corp"
 	},
 	{
-		"Symbol": "EML",
-		"Description": "Eastern Co Cmn Stk"
+		"symbol": "EML",
+		"description": "Eastern Co Cmn Stk"
 	},
 	{
-		"Symbol": "EMMS",
-		"Description": "Emmis Commun Cl A"
+		"symbol": "EMMS",
+		"description": "Emmis Commun Cl A"
 	},
 	{
-		"Symbol": "EMN",
-		"Description": "Eastman Chemical Company"
+		"symbol": "EMN",
+		"description": "Eastman Chemical Company"
 	},
 	{
-		"Symbol": "EMO",
-		"Description": "ClearBridge Energy MLP Opportunity Fund Inc."
+		"symbol": "EMO",
+		"description": "ClearBridge Energy MLP Opportunity Fund Inc."
 	},
 	{
-		"Symbol": "EMP",
-		"Description": "Entergy Mississippi, Inc."
+		"symbol": "EMP",
+		"description": "Entergy Mississippi, Inc."
 	},
 	{
-		"Symbol": "EMR",
-		"Description": "Emerson Electric Company"
+		"symbol": "EMR",
+		"description": "Emerson Electric Company"
 	},
 	{
-		"Symbol": "EMX",
-		"Description": "Eurasian Minerals Inc."
+		"symbol": "EMX",
+		"description": "Eurasian Minerals Inc."
 	},
 	{
-		"Symbol": "ENB",
-		"Description": "Enbridge Inc"
+		"symbol": "ENB",
+		"description": "Enbridge Inc"
 	},
 	{
-		"Symbol": "ENBL",
-		"Description": "Enable Midstream Partners, LP"
+		"symbol": "ENBL",
+		"description": "Enable Midstream Partners, LP"
 	},
 	{
-		"Symbol": "ENDP",
-		"Description": "Endo Int'l Plc"
+		"symbol": "ENDP",
+		"description": "Endo Int'l Plc"
 	},
 	{
-		"Symbol": "ENFC",
-		"Description": "Entegra Financ Cm ST"
+		"symbol": "ENFC",
+		"description": "Entegra Financ Cm ST"
 	},
 	{
-		"Symbol": "ENG",
-		"Description": "Englobal Corp"
+		"symbol": "ENG",
+		"description": "Englobal Corp"
 	},
 	{
-		"Symbol": "ENH",
-		"Description": "Endurance Specialty Holdings Ltd"
+		"symbol": "ENH",
+		"description": "Endurance Specialty Holdings Ltd"
 	},
 	{
-		"Symbol": "ENH^C",
-		"Description": "Endurance Specialty Holdings Ltd"
+		"symbol": "ENH^C",
+		"description": "Endurance Specialty Holdings Ltd"
 	},
 	{
-		"Symbol": "ENIA",
-		"Description": "Enel Americas S.A."
+		"symbol": "ENIA",
+		"description": "Enel Americas S.A."
 	},
 	{
-		"Symbol": "ENIC",
-		"Description": "Enel Chile S.A."
+		"symbol": "ENIC",
+		"description": "Enel Chile S.A."
 	},
 	{
-		"Symbol": "ENJ",
-		"Description": "Entergy New Orleans, Inc."
+		"symbol": "ENJ",
+		"description": "Entergy New Orleans, Inc."
 	},
 	{
-		"Symbol": "ENLC",
-		"Description": "EnLink Midstream, LLC"
+		"symbol": "ENLC",
+		"description": "EnLink Midstream, LLC"
 	},
 	{
-		"Symbol": "ENLK",
-		"Description": "EnLink Midstream Partners, LP"
+		"symbol": "ENLK",
+		"description": "EnLink Midstream Partners, LP"
 	},
 	{
-		"Symbol": "ENO",
-		"Description": "Entergy New Orleans, Inc."
+		"symbol": "ENO",
+		"description": "Entergy New Orleans, Inc."
 	},
 	{
-		"Symbol": "ENOC",
-		"Description": "Enernoc Inc"
+		"symbol": "ENOC",
+		"description": "Enernoc Inc"
 	},
 	{
-		"Symbol": "ENPH",
-		"Description": "Enphase Energy Inc"
+		"symbol": "ENPH",
+		"description": "Enphase Energy Inc"
 	},
 	{
-		"Symbol": "ENR",
-		"Description": "Energizer Holdings, Inc."
+		"symbol": "ENR",
+		"description": "Energizer Holdings, Inc."
 	},
 	{
-		"Symbol": "ENRJ",
-		"Description": "EnerJex Resources, Inc."
+		"symbol": "ENRJ",
+		"description": "EnerJex Resources, Inc."
 	},
 	{
-		"Symbol": "ENS",
-		"Description": "Enersys"
+		"symbol": "ENS",
+		"description": "Enersys"
 	},
 	{
-		"Symbol": "ENSG",
-		"Description": " Ensign Group In"
+		"symbol": "ENSG",
+		"description": " Ensign Group In"
 	},
 	{
-		"Symbol": "ENSV",
-		"Description": "ENSERVCO Corporation"
+		"symbol": "ENSV",
+		"description": "ENSERVCO Corporation"
 	},
 	{
-		"Symbol": "ENT",
-		"Description": "Global Eagle Entrtn"
+		"symbol": "ENT",
+		"description": "Global Eagle Entrtn"
 	},
 	{
-		"Symbol": "ENTA",
-		"Description": "Enanta Pharmaceutica"
+		"symbol": "ENTA",
+		"description": "Enanta Pharmaceutica"
 	},
 	{
-		"Symbol": "ENTG",
-		"Description": "Entegris Inc"
+		"symbol": "ENTG",
+		"description": "Entegris Inc"
 	},
 	{
-		"Symbol": "ENTL",
-		"Description": "Entellus Medical Cmn"
+		"symbol": "ENTL",
+		"description": "Entellus Medical Cmn"
 	},
 	{
-		"Symbol": "ENV",
-		"Description": "Envestnet, Inc"
+		"symbol": "ENV",
+		"description": "Envestnet, Inc"
 	},
 	{
-		"Symbol": "ENVA",
-		"Description": "Enova International, Inc."
+		"symbol": "ENVA",
+		"description": "Enova International, Inc."
 	},
 	{
-		"Symbol": "ENX",
-		"Description": "Eaton Vance New York Municipal Bond Fund"
+		"symbol": "ENX",
+		"description": "Eaton Vance New York Municipal Bond Fund"
 	},
 	{
-		"Symbol": "ENZ",
-		"Description": "Enzo Biochem, Inc."
+		"symbol": "ENZ",
+		"description": "Enzo Biochem, Inc."
 	},
 	{
-		"Symbol": "ENZL",
-		"Description": "Ishares MSCI New Zea"
+		"symbol": "ENZL",
+		"description": "Ishares MSCI New Zea"
 	},
 	{
-		"Symbol": "ENZY",
-		"Description": "Enzymotec Ltd"
+		"symbol": "ENZY",
+		"description": "Enzymotec Ltd"
 	},
 	{
-		"Symbol": "EOCC",
-		"Description": "Enel Generacion Chile S.A."
+		"symbol": "EOCC",
+		"description": "Enel Generacion Chile S.A."
 	},
 	{
-		"Symbol": "EOD",
-		"Description": "Wells Fargo Global Dividend Opportunity Fund"
+		"symbol": "EOD",
+		"description": "Wells Fargo Global Dividend Opportunity Fund"
 	},
 	{
-		"Symbol": "EOG",
-		"Description": "EOG Resources, Inc."
+		"symbol": "EOG",
+		"description": "EOG Resources, Inc."
 	},
 	{
-		"Symbol": "EOI",
-		"Description": "Eaton Vance Enhance Equity Income Fund"
+		"symbol": "EOI",
+		"description": "Eaton Vance Enhance Equity Income Fund"
 	},
 	{
-		"Symbol": "EOS",
-		"Description": "Eaton Vance Enhanced Equity Income Fund II"
+		"symbol": "EOS",
+		"description": "Eaton Vance Enhanced Equity Income Fund II"
 	},
 	{
-		"Symbol": "EOT",
-		"Description": "Eaton Vance Municipal Income Trust"
+		"symbol": "EOT",
+		"description": "Eaton Vance Municipal Income Trust"
 	},
 	{
-		"Symbol": "EP^C",
-		"Description": "El Paso Corporation"
+		"symbol": "EP^C",
+		"description": "El Paso Corporation"
 	},
 	{
-		"Symbol": "EPAM",
-		"Description": "EPAM Systems, Inc."
+		"symbol": "EPAM",
+		"description": "EPAM Systems, Inc."
 	},
 	{
-		"Symbol": "EPAY",
-		"Description": "Bottomline Tech In"
+		"symbol": "EPAY",
+		"description": "Bottomline Tech In"
 	},
 	{
-		"Symbol": "EPC",
-		"Description": "Energizer Holdings, Inc."
+		"symbol": "EPC",
+		"description": "Energizer Holdings, Inc."
 	},
 	{
-		"Symbol": "EPD",
-		"Description": "Enterprise Products Partners L.P."
+		"symbol": "EPD",
+		"description": "Enterprise Products Partners L.P."
 	},
 	{
-		"Symbol": "EPE",
-		"Description": "EP Energy Corporation"
+		"symbol": "EPE",
+		"description": "EP Energy Corporation"
 	},
 	{
-		"Symbol": "EPIX",
-		"Description": "Essa Pharma Cmn"
+		"symbol": "EPIX",
+		"description": "Essa Pharma Cmn"
 	},
 	{
-		"Symbol": "EPM",
-		"Description": "Evolution Petroleum Corporation, Inc."
+		"symbol": "EPM",
+		"description": "Evolution Petroleum Corporation, Inc."
 	},
 	{
-		"Symbol": "EPR",
-		"Description": "EPR Properties"
+		"symbol": "EPR",
+		"description": "EPR Properties"
 	},
 	{
-		"Symbol": "EPR^C",
-		"Description": "EPR Properties"
+		"symbol": "EPR^C",
+		"description": "EPR Properties"
 	},
 	{
-		"Symbol": "EPR^E",
-		"Description": "EPR Properties"
+		"symbol": "EPR^E",
+		"description": "EPR Properties"
 	},
 	{
-		"Symbol": "EPR^F",
-		"Description": "EPR Properties"
+		"symbol": "EPR^F",
+		"description": "EPR Properties"
 	},
 	{
-		"Symbol": "EPZM",
-		"Description": "Epizyme Inc Cmn Stk"
+		"symbol": "EPZM",
+		"description": "Epizyme Inc Cmn Stk"
 	},
 	{
-		"Symbol": "EQBK",
-		"Description": "Equity Bncsrs Cm A"
+		"symbol": "EQBK",
+		"description": "Equity Bncsrs Cm A"
 	},
 	{
-		"Symbol": "EQC",
-		"Description": "Equity Commonwealth"
+		"symbol": "EQC",
+		"description": "Equity Commonwealth"
 	},
 	{
-		"Symbol": "EQC^D",
-		"Description": "Equity Commonwealth"
+		"symbol": "EQC^D",
+		"description": "Equity Commonwealth"
 	},
 	{
-		"Symbol": "EQCO",
-		"Description": "Equity Commonwealth"
+		"symbol": "EQCO",
+		"description": "Equity Commonwealth"
 	},
 	{
-		"Symbol": "EQFN",
-		"Description": "Equitable Fincl Cmn"
+		"symbol": "EQFN",
+		"description": "Equitable Fincl Cmn"
 	},
 	{
-		"Symbol": "EQGP",
-		"Description": "EQT GP Holdings, LP"
+		"symbol": "EQGP",
+		"description": "EQT GP Holdings, LP"
 	},
 	{
-		"Symbol": "EQIX",
-		"Description": "Equinix Inc"
+		"symbol": "EQIX",
+		"description": "Equinix Inc"
 	},
 	{
-		"Symbol": "EQM",
-		"Description": "EQT Midstream Partners, LP"
+		"symbol": "EQM",
+		"description": "EQT Midstream Partners, LP"
 	},
 	{
-		"Symbol": "EQR",
-		"Description": "Equity Residential"
+		"symbol": "EQR",
+		"description": "Equity Residential"
 	},
 	{
-		"Symbol": "EQS",
-		"Description": "Equus Total Return, Inc."
+		"symbol": "EQS",
+		"description": "Equus Total Return, Inc."
 	},
 	{
-		"Symbol": "EQT",
-		"Description": "EQT Corporation"
+		"symbol": "EQT",
+		"description": "EQT Corporation"
 	},
 	{
-		"Symbol": "EQY",
-		"Description": "Equity One, Inc."
+		"symbol": "EQY",
+		"description": "Equity One, Inc."
 	},
 	{
-		"Symbol": "ERA",
-		"Description": "Era Group, Inc."
+		"symbol": "ERA",
+		"description": "Era Group, Inc."
 	},
 	{
-		"Symbol": "ERC",
-		"Description": "Wells Fargo Multi-Sector Income Fund"
+		"symbol": "ERC",
+		"description": "Wells Fargo Multi-Sector Income Fund"
 	},
 	{
-		"Symbol": "ERF",
-		"Description": "Enerplus Corporation"
+		"symbol": "ERF",
+		"description": "Enerplus Corporation"
 	},
 	{
-		"Symbol": "ERH",
-		"Description": "Wells Fargo Utilities and High Income Fund"
+		"symbol": "ERH",
+		"description": "Wells Fargo Utilities and High Income Fund"
 	},
 	{
-		"Symbol": "ERI",
-		"Description": "Eldorado Resorts Cmn"
+		"symbol": "ERI",
+		"description": "Eldorado Resorts Cmn"
 	},
 	{
-		"Symbol": "ERIC",
-		"Description": "Ericsson ADR"
+		"symbol": "ERIC",
+		"description": "Ericsson ADR"
 	},
 	{
-		"Symbol": "ERIE",
-		"Description": "Erie Indemnity Co"
+		"symbol": "ERIE",
+		"description": "Erie Indemnity Co"
 	},
 	{
-		"Symbol": "ERII",
-		"Description": "Energy Recovery Inc"
+		"symbol": "ERII",
+		"description": "Energy Recovery Inc"
 	},
 	{
-		"Symbol": "ERJ",
-		"Description": "Embraer-Empresa Brasileira de Aeronautica"
+		"symbol": "ERJ",
+		"description": "Embraer-Empresa Brasileira de Aeronautica"
 	},
 	{
-		"Symbol": "ERN",
-		"Description": "Erin Energy Corp."
+		"symbol": "ERN",
+		"description": "Erin Energy Corp."
 	},
 	{
-		"Symbol": "EROS",
-		"Description": "Eros International PLC"
+		"symbol": "EROS",
+		"description": "Eros International PLC"
 	},
 	{
-		"Symbol": "ERS",
-		"Description": "Empire Res Inc"
+		"symbol": "ERS",
+		"description": "Empire Res Inc"
 	},
 	{
-		"Symbol": "ES",
-		"Description": "Eversource Energy"
+		"symbol": "ES",
+		"description": "Eversource Energy"
 	},
 	{
-		"Symbol": "ESBK",
-		"Description": "Elmira Sav Bk"
+		"symbol": "ESBK",
+		"description": "Elmira Sav Bk"
 	},
 	{
-		"Symbol": "ESCA",
-		"Description": "Escalade Inc"
+		"symbol": "ESCA",
+		"description": "Escalade Inc"
 	},
 	{
-		"Symbol": "ESE",
-		"Description": "ESCO Technologies Inc."
+		"symbol": "ESE",
+		"description": "ESCO Technologies Inc."
 	},
 	{
-		"Symbol": "ESEA",
-		"Description": "Euroseas Ltd"
+		"symbol": "ESEA",
+		"description": "Euroseas Ltd"
 	},
 	{
-		"Symbol": "ESES",
-		"Description": "Eco-Stim Energy Cmn"
+		"symbol": "ESES",
+		"description": "Eco-Stim Energy Cmn"
 	},
 	{
-		"Symbol": "ESG",
-		"Description": "Flexshares Stoxx US ESG Impact Index"
+		"symbol": "ESG",
+		"description": "Flexshares Stoxx US ESG Impact Index"
 	},
 	{
-		"Symbol": "ESGD",
-		"Description": "Ishares MSCI EAFE ESG Select Et"
+		"symbol": "ESGD",
+		"description": "Ishares MSCI EAFE ESG Select Et"
 	},
 	{
-		"Symbol": "ESGE",
-		"Description": "Ishares MSCI EM ESG Select ETF"
+		"symbol": "ESGE",
+		"description": "Ishares MSCI EM ESG Select ETF"
 	},
 	{
-		"Symbol": "ESGG",
-		"Description": "Flexshares Stoxx Global ESG Impact Index"
+		"symbol": "ESGG",
+		"description": "Flexshares Stoxx Global ESG Impact Index"
 	},
 	{
-		"Symbol": "ESGR",
-		"Description": "Enstar Group Limited"
+		"symbol": "ESGR",
+		"description": "Enstar Group Limited"
 	},
 	{
-		"Symbol": "ESGU",
-		"Description": "Ishares MSCI USA ESG Optimized ETF"
+		"symbol": "ESGU",
+		"description": "Ishares MSCI USA ESG Optimized ETF"
 	},
 	{
-		"Symbol": "ESIO",
-		"Description": "Electro Sci Inds"
+		"symbol": "ESIO",
+		"description": "Electro Sci Inds"
 	},
 	{
-		"Symbol": "ESL",
-		"Description": "Esterline Technologies Corporation"
+		"symbol": "ESL",
+		"description": "Esterline Technologies Corporation"
 	},
 	{
-		"Symbol": "ESLT",
-		"Description": "Elbit Systems Ltd"
+		"symbol": "ESLT",
+		"description": "Elbit Systems Ltd"
 	},
 	{
-		"Symbol": "ESNC",
-		"Description": "EnSync, Inc."
+		"symbol": "ESNC",
+		"description": "EnSync, Inc."
 	},
 	{
-		"Symbol": "ESND",
-		"Description": "Essendant Inc"
+		"symbol": "ESND",
+		"description": "Essendant Inc"
 	},
 	{
-		"Symbol": "ESNT",
-		"Description": "Essent Group Ltd."
+		"symbol": "ESNT",
+		"description": "Essent Group Ltd."
 	},
 	{
-		"Symbol": "ESP",
-		"Description": "Espey Mfg. & Electronics Corp."
+		"symbol": "ESP",
+		"description": "Espey Mfg. & Electronics Corp."
 	},
 	{
-		"Symbol": "ESPR",
-		"Description": "Esperion Theraptc Cmn"
+		"symbol": "ESPR",
+		"description": "Esperion Theraptc Cmn"
 	},
 	{
-		"Symbol": "ESRT",
-		"Description": "Empire State Realty Trust, Inc."
+		"symbol": "ESRT",
+		"description": "Empire State Realty Trust, Inc."
 	},
 	{
-		"Symbol": "ESRX",
-		"Description": "Express Scripts"
+		"symbol": "ESRX",
+		"description": "Express Scripts"
 	},
 	{
-		"Symbol": "ESS",
-		"Description": "Essex Property Trust, Inc."
+		"symbol": "ESS",
+		"description": "Essex Property Trust, Inc."
 	},
 	{
-		"Symbol": "ESSA",
-		"Description": "Essa Bancorp Inc"
+		"symbol": "ESSA",
+		"description": "Essa Bancorp Inc"
 	},
 	{
-		"Symbol": "ESTE",
-		"Description": "Earthstone Energy, Inc."
+		"symbol": "ESTE",
+		"description": "Earthstone Energy, Inc."
 	},
 	{
-		"Symbol": "ESV",
-		"Description": "ENSCO plc"
+		"symbol": "ESV",
+		"description": "ENSCO plc"
 	},
 	{
-		"Symbol": "ESXB",
-		"Description": "Community Bankers Cmn"
+		"symbol": "ESXB",
+		"description": "Community Bankers Cmn"
 	},
 	{
-		"Symbol": "ETB",
-		"Description": "Eaton Vance Tax-Managed Buy-Write Income Fund"
+		"symbol": "ETB",
+		"description": "Eaton Vance Tax-Managed Buy-Write Income Fund"
 	},
 	{
-		"Symbol": "ETE",
-		"Description": "Energy Transfer Equity, L.P."
+		"symbol": "ETE",
+		"description": "Energy Transfer Equity, L.P."
 	},
 	{
-		"Symbol": "ETFC",
-		"Description": "E*Trade Finl Corp"
+		"symbol": "ETFC",
+		"description": "E*Trade Finl Corp"
 	},
 	{
-		"Symbol": "ETG",
-		"Description": "Eaton Vance Tax-Advantaged Global Dividend Income Fund"
+		"symbol": "ETG",
+		"description": "Eaton Vance Tax-Advantaged Global Dividend Income Fund"
 	},
 	{
-		"Symbol": "ETH",
-		"Description": "Ethan Allen Interiors Inc."
+		"symbol": "ETH",
+		"description": "Ethan Allen Interiors Inc."
 	},
 	{
-		"Symbol": "ETJ",
-		"Description": "Eaton Vance Risk-Managed Diversified Equity Income Fund"
+		"symbol": "ETJ",
+		"description": "Eaton Vance Risk-Managed Diversified Equity Income Fund"
 	},
 	{
-		"Symbol": "ETM",
-		"Description": "Entercom Communications Corporation"
+		"symbol": "ETM",
+		"description": "Entercom Communications Corporation"
 	},
 	{
-		"Symbol": "ETN",
-		"Description": "Eaton Corporation, PLC"
+		"symbol": "ETN",
+		"description": "Eaton Corporation, PLC"
 	},
 	{
-		"Symbol": "ETO",
-		"Description": "Eaton Vance Tax-Advantage Global Dividend Opp"
+		"symbol": "ETO",
+		"description": "Eaton Vance Tax-Advantage Global Dividend Opp"
 	},
 	{
-		"Symbol": "ETP",
-		"Description": "ENERGY TRANSFER PARTNERS"
+		"symbol": "ETP",
+		"description": "ENERGY TRANSFER PARTNERS"
 	},
 	{
-		"Symbol": "ETR",
-		"Description": "Entergy Corporation"
+		"symbol": "ETR",
+		"description": "Entergy Corporation"
 	},
 	{
-		"Symbol": "ETRM",
-		"Description": "Enteromedics Inc"
+		"symbol": "ETRM",
+		"description": "Enteromedics Inc"
 	},
 	{
-		"Symbol": "ETSY",
-		"Description": "Etsy Inc Common Stk"
+		"symbol": "ETSY",
+		"description": "Etsy Inc Common Stk"
 	},
 	{
-		"Symbol": "ETV",
-		"Description": "Eaton Vance Corporation"
+		"symbol": "ETV",
+		"description": "Eaton Vance Corporation"
 	},
 	{
-		"Symbol": "ETW",
-		"Description": "Eaton Vance Corporation"
+		"symbol": "ETW",
+		"description": "Eaton Vance Corporation"
 	},
 	{
-		"Symbol": "ETX",
-		"Description": "Eaton Vance Municipal Income 2028 Term Trust"
+		"symbol": "ETX",
+		"description": "Eaton Vance Municipal Income 2028 Term Trust"
 	},
 	{
-		"Symbol": "ETY",
-		"Description": "Eaton Vance Tax-Managed Diversified Equity Income Fund"
+		"symbol": "ETY",
+		"description": "Eaton Vance Tax-Managed Diversified Equity Income Fund"
 	},
 	{
-		"Symbol": "EUFN",
-		"Description": "Ishares MSCI EUR Fin"
+		"symbol": "EUFN",
+		"description": "Ishares MSCI EUR Fin"
 	},
 	{
-		"Symbol": "EURN",
-		"Description": "Euronav NV"
+		"symbol": "EURN",
+		"description": "Euronav NV"
 	},
 	{
-		"Symbol": "EV",
-		"Description": "Eaton Vance Corporation"
+		"symbol": "EV",
+		"description": "Eaton Vance Corporation"
 	},
 	{
-		"Symbol": "EVA",
-		"Description": "Enviva Partners, LP"
+		"symbol": "EVA",
+		"description": "Enviva Partners, LP"
 	},
 	{
-		"Symbol": "EVAR",
-		"Description": "Lombard Medical Ord"
+		"symbol": "EVAR",
+		"description": "Lombard Medical Ord"
 	},
 	{
-		"Symbol": "EVBG",
-		"Description": "Everbridge Inc"
+		"symbol": "EVBG",
+		"description": "Everbridge Inc"
 	},
 	{
-		"Symbol": "EVBN",
-		"Description": "Evans Bancorp, Inc."
+		"symbol": "EVBN",
+		"description": "Evans Bancorp, Inc."
 	},
 	{
-		"Symbol": "EVBS",
-		"Description": "Eastern Va Bkshs"
+		"symbol": "EVBS",
+		"description": "Eastern Va Bkshs"
 	},
 	{
-		"Symbol": "EVC",
-		"Description": "Entravision Communications Corporation"
+		"symbol": "EVC",
+		"description": "Entravision Communications Corporation"
 	},
 	{
-		"Symbol": "EVEP",
-		"Description": "Ev Energy Partners"
+		"symbol": "EVEP",
+		"description": "Ev Energy Partners"
 	},
 	{
-		"Symbol": "EVER",
-		"Description": "EverBank Financial Corp."
+		"symbol": "EVER",
+		"description": "EverBank Financial Corp."
 	},
 	{
-		"Symbol": "EVER^A",
-		"Description": "EverBank Financial Corp."
+		"symbol": "EVER^A",
+		"description": "EverBank Financial Corp."
 	},
 	{
-		"Symbol": "EVF",
-		"Description": "Eaton Vance Senior Income Trust"
+		"symbol": "EVF",
+		"description": "Eaton Vance Senior Income Trust"
 	},
 	{
-		"Symbol": "EVG",
-		"Description": "Eaton Vance Short Diversified Income Fund"
+		"symbol": "EVG",
+		"description": "Eaton Vance Short Diversified Income Fund"
 	},
 	{
-		"Symbol": "EVGBC",
-		"Description": "Eaton Vnce Gbl Inc"
+		"symbol": "EVGBC",
+		"description": "Eaton Vnce Gbl Inc"
 	},
 	{
-		"Symbol": "EVGN",
-		"Description": "Evogene Ltd Ord"
+		"symbol": "EVGN",
+		"description": "Evogene Ltd Ord"
 	},
 	{
-		"Symbol": "EVH",
-		"Description": "Evolent Health, Inc"
+		"symbol": "EVH",
+		"description": "Evolent Health, Inc"
 	},
 	{
-		"Symbol": "EVHC",
-		"Description": "Envision Healthcare Corporation"
+		"symbol": "EVHC",
+		"description": "Envision Healthcare Corporation"
 	},
 	{
-		"Symbol": "EVHC^",
-		"Description": "Envision Healthcare Corporation"
+		"symbol": "EVHC^",
+		"description": "Envision Healthcare Corporation"
 	},
 	{
-		"Symbol": "EVI",
-		"Description": "EnviroStarm, Inc."
+		"symbol": "EVI",
+		"description": "EnviroStarm, Inc."
 	},
 	{
-		"Symbol": "EVJ",
-		"Description": "Eaton Vance New Jersey Municipal Income Trust"
+		"symbol": "EVJ",
+		"description": "Eaton Vance New Jersey Municipal Income Trust"
 	},
 	{
-		"Symbol": "EVK",
-		"Description": "Ever Glory Intl Grp"
+		"symbol": "EVK",
+		"description": "Ever Glory Intl Grp"
 	},
 	{
-		"Symbol": "EVLMC",
-		"Description": "Eaton Vnce Tabs 5-15"
+		"symbol": "EVLMC",
+		"description": "Eaton Vnce Tabs 5-15"
 	},
 	{
-		"Symbol": "EVLV",
-		"Description": "Evine Live Cl A"
+		"symbol": "EVLV",
+		"description": "Evine Live Cl A"
 	},
 	{
-		"Symbol": "EVM",
-		"Description": "Eaton Vance California Municipal Bond Fund"
+		"symbol": "EVM",
+		"description": "Eaton Vance California Municipal Bond Fund"
 	},
 	{
-		"Symbol": "EVN",
-		"Description": "Eaton Vance Municipal Income Trust"
+		"symbol": "EVN",
+		"description": "Eaton Vance Municipal Income Trust"
 	},
 	{
-		"Symbol": "EVO",
-		"Description": "Eaton Vance Ohio Municipal Income Trust"
+		"symbol": "EVO",
+		"description": "Eaton Vance Ohio Municipal Income Trust"
 	},
 	{
-		"Symbol": "EVOK",
-		"Description": "Evoke Pharma Cmn"
+		"symbol": "EVOK",
+		"description": "Evoke Pharma Cmn"
 	},
 	{
-		"Symbol": "EVOL",
-		"Description": "Evolving Systems Inc"
+		"symbol": "EVOL",
+		"description": "Evolving Systems Inc"
 	},
 	{
-		"Symbol": "EVP",
-		"Description": "Eaton Vance Pennsylvania Municipal Income Trust"
+		"symbol": "EVP",
+		"description": "Eaton Vance Pennsylvania Municipal Income Trust"
 	},
 	{
-		"Symbol": "EVR",
-		"Description": "Evercore Partners Inc"
+		"symbol": "EVR",
+		"description": "Evercore Partners Inc"
 	},
 	{
-		"Symbol": "EVRI",
-		"Description": "Everi Holdings Inc."
+		"symbol": "EVRI",
+		"description": "Everi Holdings Inc."
 	},
 	{
-		"Symbol": "EVSTC",
-		"Description": "Eton Vnce Stck Nxtsh"
+		"symbol": "EVSTC",
+		"description": "Eton Vnce Stck Nxtsh"
 	},
 	{
-		"Symbol": "EVT",
-		"Description": "Eaton Vance Tax Advantaged Dividend Income Fund"
+		"symbol": "EVT",
+		"description": "Eaton Vance Tax Advantaged Dividend Income Fund"
 	},
 	{
-		"Symbol": "EVTC",
-		"Description": "Evertec, Inc."
+		"symbol": "EVTC",
+		"description": "Evertec, Inc."
 	},
 	{
-		"Symbol": "EVV",
-		"Description": "Eaton Vance Limited Duration Income Fund"
+		"symbol": "EVV",
+		"description": "Eaton Vance Limited Duration Income Fund"
 	},
 	{
-		"Symbol": "EVY",
-		"Description": "Eaton Vance New York Municipal Income Trust"
+		"symbol": "EVY",
+		"description": "Eaton Vance New York Municipal Income Trust"
 	},
 	{
-		"Symbol": "EW",
-		"Description": "Edwards Lifesciences Corporation"
+		"symbol": "EW",
+		"description": "Edwards Lifesciences Corporation"
 	},
 	{
-		"Symbol": "EWBC",
-		"Description": "East West Bancorp"
+		"symbol": "EWBC",
+		"description": "East West Bancorp"
 	},
 	{
-		"Symbol": "EWZS",
-		"Description": "Ishares MSCI Brazil"
+		"symbol": "EWZS",
+		"description": "Ishares MSCI Brazil"
 	},
 	{
-		"Symbol": "EXA",
-		"Description": "Exa Corporation"
+		"symbol": "EXA",
+		"description": "Exa Corporation"
 	},
 	{
-		"Symbol": "EXAC",
-		"Description": "Exactech Inc"
+		"symbol": "EXAC",
+		"description": "Exactech Inc"
 	},
 	{
-		"Symbol": "EXAR",
-		"Description": "Exar Corporation"
+		"symbol": "EXAR",
+		"description": "Exar Corporation"
 	},
 	{
-		"Symbol": "EXAS",
-		"Description": "Exact Sciences Cor"
+		"symbol": "EXAS",
+		"description": "Exact Sciences Cor"
 	},
 	{
-		"Symbol": "EXC",
-		"Description": "Exelon Corporation"
+		"symbol": "EXC",
+		"description": "Exelon Corporation"
 	},
 	{
-		"Symbol": "EXCU",
-		"Description": "Exelon Corporation"
+		"symbol": "EXCU",
+		"description": "Exelon Corporation"
 	},
 	{
-		"Symbol": "EXD",
-		"Description": "Eaton Vance Tax-Advantaged Bond"
+		"symbol": "EXD",
+		"description": "Eaton Vance Tax-Advantaged Bond"
 	},
 	{
-		"Symbol": "EXEL",
-		"Description": "Exelixis Inc"
+		"symbol": "EXEL",
+		"description": "Exelixis Inc"
 	},
 	{
-		"Symbol": "EXFO",
-		"Description": "Exfo Inc"
+		"symbol": "EXFO",
+		"description": "Exfo Inc"
 	},
 	{
-		"Symbol": "EXG",
-		"Description": "Eaton Vance Tax-Managed Global Diversified Equity Income Fund"
+		"symbol": "EXG",
+		"description": "Eaton Vance Tax-Managed Global Diversified Equity Income Fund"
 	},
 	{
-		"Symbol": "EXK",
-		"Description": "Endeavour Silver Corporation"
+		"symbol": "EXK",
+		"description": "Endeavour Silver Corporation"
 	},
 	{
-		"Symbol": "EXLS",
-		"Description": "Exlservice Holdings"
+		"symbol": "EXLS",
+		"description": "Exlservice Holdings"
 	},
 	{
-		"Symbol": "EXP",
-		"Description": "Eagle Materials Inc"
+		"symbol": "EXP",
+		"description": "Eagle Materials Inc"
 	},
 	{
-		"Symbol": "EXPD",
-		"Description": "Expeditors Intl"
+		"symbol": "EXPD",
+		"description": "Expeditors Intl"
 	},
 	{
-		"Symbol": "EXPE",
-		"Description": "Expedia Inc"
+		"symbol": "EXPE",
+		"description": "Expedia Inc"
 	},
 	{
-		"Symbol": "EXPO",
-		"Description": "Exponent Inc"
+		"symbol": "EXPO",
+		"description": "Exponent Inc"
 	},
 	{
-		"Symbol": "EXPR",
-		"Description": "Express, Inc."
+		"symbol": "EXPR",
+		"description": "Express, Inc."
 	},
 	{
-		"Symbol": "EXR",
-		"Description": "Extra Space Storage Inc"
+		"symbol": "EXR",
+		"description": "Extra Space Storage Inc"
 	},
 	{
-		"Symbol": "EXTN",
-		"Description": "Exterran Corporation"
+		"symbol": "EXTN",
+		"description": "Exterran Corporation"
 	},
 	{
-		"Symbol": "EXTR",
-		"Description": "Extreme Networks"
+		"symbol": "EXTR",
+		"description": "Extreme Networks"
 	},
 	{
-		"Symbol": "EYEG",
-		"Description": "Eyegate Pharma Cmn"
+		"symbol": "EYEG",
+		"description": "Eyegate Pharma Cmn"
 	},
 	{
-		"Symbol": "EYEGW",
-		"Description": "Eyegate Pharm Wts"
+		"symbol": "EYEGW",
+		"description": "Eyegate Pharm Wts"
 	},
 	{
-		"Symbol": "EYES",
-		"Description": "Second Sight Cmn"
+		"symbol": "EYES",
+		"description": "Second Sight Cmn"
 	},
 	{
-		"Symbol": "EZPW",
-		"Description": "Ezcorp Inc"
+		"symbol": "EZPW",
+		"description": "Ezcorp Inc"
 	},
 	{
-		"Symbol": "EZT",
-		"Description": "Entergy Texas Inc"
+		"symbol": "EZT",
+		"description": "Entergy Texas Inc"
 	},
 	{
-		"Symbol": "F",
-		"Description": "Ford Motor Company"
+		"symbol": "F",
+		"description": "Ford Motor Company"
 	},
 	{
-		"Symbol": "FAAR",
-		"Description": "FT Alt Ab Ret ST ETF"
+		"symbol": "FAAR",
+		"description": "FT Alt Ab Ret ST ETF"
 	},
 	{
-		"Symbol": "FAB",
-		"Description": "First TR ML CA Alpha"
+		"symbol": "FAB",
+		"description": "First TR ML CA Alpha"
 	},
 	{
-		"Symbol": "FAC",
-		"Description": "First Acceptance Corporation"
+		"symbol": "FAC",
+		"description": "First Acceptance Corporation"
 	},
 	{
-		"Symbol": "FAD",
-		"Description": "First TR ML Cp Gr Al"
+		"symbol": "FAD",
+		"description": "First TR ML Cp Gr Al"
 	},
 	{
-		"Symbol": "FAF",
-		"Description": "First American Corporation "
+		"symbol": "FAF",
+		"description": "First American Corporation "
 	},
 	{
-		"Symbol": "FALC",
-		"Description": "Falconstor Sftwr"
+		"symbol": "FALC",
+		"description": "Falconstor Sftwr"
 	},
 	{
-		"Symbol": "FALN",
-		"Description": "Ishares Fallen Angels USD Bond"
+		"symbol": "FALN",
+		"description": "Ishares Fallen Angels USD Bond"
 	},
 	{
-		"Symbol": "FAM",
-		"Description": "First Trust/Aberdeen Global Opportunity Income Fund"
+		"symbol": "FAM",
+		"description": "First Trust/Aberdeen Global Opportunity Income Fund"
 	},
 	{
-		"Symbol": "FANG",
-		"Description": "Diamondback Energy"
+		"symbol": "FANG",
+		"description": "Diamondback Energy"
 	},
 	{
-		"Symbol": "FANH",
-		"Description": "Fanhua Inc."
+		"symbol": "FANH",
+		"description": "Fanhua Inc."
 	},
 	{
-		"Symbol": "FARM",
-		"Description": "Farmer Brothers"
+		"symbol": "FARM",
+		"description": "Farmer Brothers"
 	},
 	{
-		"Symbol": "FARO",
-		"Description": "Faro Tech Inc"
+		"symbol": "FARO",
+		"description": "Faro Tech Inc"
 	},
 	{
-		"Symbol": "FAST",
-		"Description": "Fastenal Co"
+		"symbol": "FAST",
+		"description": "Fastenal Co"
 	},
 	{
-		"Symbol": "FATE",
-		"Description": "Fate Therapeutics Cmn"
+		"symbol": "FATE",
+		"description": "Fate Therapeutics Cmn"
 	},
 	{
-		"Symbol": "FAX",
-		"Description": "Aberdeen Asia-Pacific Income Fund Inc"
+		"symbol": "FAX",
+		"description": "Aberdeen Asia-Pacific Income Fund Inc"
 	},
 	{
-		"Symbol": "FB",
-		"Description": "Facebook Inc"
+		"symbol": "FB",
+		"description": "Facebook Inc"
 	},
 	{
-		"Symbol": "FBC",
-		"Description": "Flagstar Bancorp, Inc."
+		"symbol": "FBC",
+		"description": "Flagstar Bancorp, Inc."
 	},
 	{
-		"Symbol": "FBHS",
-		"Description": "Fortune Brands Home & Security, Inc."
+		"symbol": "FBHS",
+		"description": "Fortune Brands Home & Security, Inc."
 	},
 	{
-		"Symbol": "FBIO",
-		"Description": "Fortress Biotech Inc"
+		"symbol": "FBIO",
+		"description": "Fortress Biotech Inc"
 	},
 	{
-		"Symbol": "FBIZ",
-		"Description": "First Business Finan"
+		"symbol": "FBIZ",
+		"description": "First Business Finan"
 	},
 	{
-		"Symbol": "FBK",
-		"Description": "FB Financial Corporation"
+		"symbol": "FBK",
+		"description": "FB Financial Corporation"
 	},
 	{
-		"Symbol": "FBMS",
-		"Description": "First Bancshs [Ms]"
+		"symbol": "FBMS",
+		"description": "First Bancshs [Ms]"
 	},
 	{
-		"Symbol": "FBNC",
-		"Description": "First Bancorp [Nc]"
+		"symbol": "FBNC",
+		"description": "First Bancorp [Nc]"
 	},
 	{
-		"Symbol": "FBNK",
-		"Description": "First Connecticut BA"
+		"symbol": "FBNK",
+		"description": "First Connecticut BA"
 	},
 	{
-		"Symbol": "FBP",
-		"Description": "First BanCorp."
+		"symbol": "FBP",
+		"description": "First BanCorp."
 	},
 	{
-		"Symbol": "FBR",
-		"Description": "Fibria Celulose S.A."
+		"symbol": "FBR",
+		"description": "Fibria Celulose S.A."
 	},
 	{
-		"Symbol": "FBRC",
-		"Description": "Fbr & Co. Common Stk"
+		"symbol": "FBRC",
+		"description": "Fbr & Co. Common Stk"
 	},
 	{
-		"Symbol": "FBSS",
-		"Description": "Fauquier Bankshares"
+		"symbol": "FBSS",
+		"description": "Fauquier Bankshares"
 	},
 	{
-		"Symbol": "FBZ",
-		"Description": "FT Brazil Alphadex"
+		"symbol": "FBZ",
+		"description": "FT Brazil Alphadex"
 	},
 	{
-		"Symbol": "FC",
-		"Description": "Franklin Covey Company"
+		"symbol": "FC",
+		"description": "Franklin Covey Company"
 	},
 	{
-		"Symbol": "FCA",
-		"Description": "FT China Alphadex"
+		"symbol": "FCA",
+		"description": "FT China Alphadex"
 	},
 	{
-		"Symbol": "FCAN",
-		"Description": "FT Canada Alphadex"
+		"symbol": "FCAN",
+		"description": "FT Canada Alphadex"
 	},
 	{
-		"Symbol": "FCAP",
-		"Description": "First Capital Inc"
+		"symbol": "FCAP",
+		"description": "First Capital Inc"
 	},
 	{
-		"Symbol": "FCAU",
-		"Description": "Fiat Chrysler Automobiles N.V."
+		"symbol": "FCAU",
+		"description": "Fiat Chrysler Automobiles N.V."
 	},
 	{
-		"Symbol": "FCB",
-		"Description": "FCB Financial Holdings, Inc."
+		"symbol": "FCB",
+		"description": "FCB Financial Holdings, Inc."
 	},
 	{
-		"Symbol": "FCBC",
-		"Description": "First Community Bksh"
+		"symbol": "FCBC",
+		"description": "First Community Bksh"
 	},
 	{
-		"Symbol": "FCCO",
-		"Description": "First Community Corp"
+		"symbol": "FCCO",
+		"description": "First Community Corp"
 	},
 	{
-		"Symbol": "FCCY",
-		"Description": "1St Constitution Bcp"
+		"symbol": "FCCY",
+		"description": "1St Constitution Bcp"
 	},
 	{
-		"Symbol": "FCE.A",
-		"Description": "Forest City Realty Trust, Inc."
+		"symbol": "FCE.A",
+		"description": "Forest City Realty Trust, Inc."
 	},
 	{
-		"Symbol": "FCE.B",
-		"Description": "Forest City Realty Trust, Inc."
+		"symbol": "FCE.B",
+		"description": "Forest City Realty Trust, Inc."
 	},
 	{
-		"Symbol": "FCEF",
-		"Description": "First Trust CEF Income Opportunity ETF"
+		"symbol": "FCEF",
+		"description": "First Trust CEF Income Opportunity ETF"
 	},
 	{
-		"Symbol": "FCEL",
-		"Description": "Fuelcell Energy Inc"
+		"symbol": "FCEL",
+		"description": "Fuelcell Energy Inc"
 	},
 	{
-		"Symbol": "FCF",
-		"Description": "First Commonwealth Financial Corporation"
+		"symbol": "FCF",
+		"description": "First Commonwealth Financial Corporation"
 	},
 	{
-		"Symbol": "FCFP",
-		"Description": "First Comty Fncl Cmn"
+		"symbol": "FCFP",
+		"description": "First Comty Fncl Cmn"
 	},
 	{
-		"Symbol": "FCFS",
-		"Description": "First Cash, Inc."
+		"symbol": "FCFS",
+		"description": "First Cash, Inc."
 	},
 	{
-		"Symbol": "FCH",
-		"Description": "FelCor Lodging Trust Incorporated"
+		"symbol": "FCH",
+		"description": "FelCor Lodging Trust Incorporated"
 	},
 	{
-		"Symbol": "FCH^A",
-		"Description": "FelCor Lodging Trust Incorporated"
+		"symbol": "FCH^A",
+		"description": "FelCor Lodging Trust Incorporated"
 	},
 	{
-		"Symbol": "FCN",
-		"Description": "FTI Consulting, Inc."
+		"symbol": "FCN",
+		"description": "FTI Consulting, Inc."
 	},
 	{
-		"Symbol": "FCNCA",
-		"Description": "First Citizens Bancs"
+		"symbol": "FCNCA",
+		"description": "First Citizens Bancs"
 	},
 	{
-		"Symbol": "FCO",
-		"Description": "Aberdeen Global Income Fund, Inc."
+		"symbol": "FCO",
+		"description": "Aberdeen Global Income Fund, Inc."
 	},
 	{
-		"Symbol": "FCPT",
-		"Description": "Four Corners Property Trust, Inc."
+		"symbol": "FCPT",
+		"description": "Four Corners Property Trust, Inc."
 	},
 	{
-		"Symbol": "FCSC",
-		"Description": "Fibrocell Science Cmn"
+		"symbol": "FCSC",
+		"description": "Fibrocell Science Cmn"
 	},
 	{
-		"Symbol": "FCT",
-		"Description": "First Trust Senior Floating Rate Income Fund II"
+		"symbol": "FCT",
+		"description": "First Trust Senior Floating Rate Income Fund II"
 	},
 	{
-		"Symbol": "FCVT",
-		"Description": "First TR Strategic C"
+		"symbol": "FCVT",
+		"description": "First TR Strategic C"
 	},
 	{
-		"Symbol": "FCX",
-		"Description": "Freeport-McMoran, Inc."
+		"symbol": "FCX",
+		"description": "Freeport-McMoran, Inc."
 	},
 	{
-		"Symbol": "FDC",
-		"Description": "First Data Corporation"
+		"symbol": "FDC",
+		"description": "First Data Corporation"
 	},
 	{
-		"Symbol": "FDEF",
-		"Description": "First Defiance Finl"
+		"symbol": "FDEF",
+		"description": "First Defiance Finl"
 	},
 	{
-		"Symbol": "FDEU",
-		"Description": "First Trust Dynamic Europe Equity Income Fund"
+		"symbol": "FDEU",
+		"description": "First Trust Dynamic Europe Equity Income Fund"
 	},
 	{
-		"Symbol": "FDIV",
-		"Description": "First Trust ETF IV"
+		"symbol": "FDIV",
+		"description": "First Trust ETF IV"
 	},
 	{
-		"Symbol": "FDML",
-		"Description": "Federal-Mogul HD Cmn"
+		"symbol": "FDML",
+		"description": "Federal-Mogul HD Cmn"
 	},
 	{
-		"Symbol": "FDP",
-		"Description": "Fresh Del Monte Produce, Inc."
+		"symbol": "FDP",
+		"description": "Fresh Del Monte Produce, Inc."
 	},
 	{
-		"Symbol": "FDS",
-		"Description": "FactSet Research Systems Inc."
+		"symbol": "FDS",
+		"description": "FactSet Research Systems Inc."
 	},
 	{
-		"Symbol": "FDT",
-		"Description": "FT Dev Mkts Exus A D"
+		"symbol": "FDT",
+		"description": "FT Dev Mkts Exus A D"
 	},
 	{
-		"Symbol": "FDTS",
-		"Description": "FT Dv Mkts Exus Smcp"
+		"symbol": "FDTS",
+		"description": "FT Dv Mkts Exus Smcp"
 	},
 	{
-		"Symbol": "FDUS",
-		"Description": "Fidus Investment Cor"
+		"symbol": "FDUS",
+		"description": "Fidus Investment Cor"
 	},
 	{
-		"Symbol": "FDX",
-		"Description": "FedEx Corporation"
+		"symbol": "FDX",
+		"description": "FedEx Corporation"
 	},
 	{
-		"Symbol": "FE",
-		"Description": "FirstEnergy Corporation"
+		"symbol": "FE",
+		"description": "FirstEnergy Corporation"
 	},
 	{
-		"Symbol": "FEI",
-		"Description": "First Trust MLP and Energy Income Fund"
+		"symbol": "FEI",
+		"description": "First Trust MLP and Energy Income Fund"
 	},
 	{
-		"Symbol": "FEIM",
-		"Description": "Frequency Elcts Inc"
+		"symbol": "FEIM",
+		"description": "Frequency Elcts Inc"
 	},
 	{
-		"Symbol": "FELE",
-		"Description": "Franklin Electric Co"
+		"symbol": "FELE",
+		"description": "Franklin Electric Co"
 	},
 	{
-		"Symbol": "FELP",
-		"Description": "Foresight Energy LP"
+		"symbol": "FELP",
+		"description": "Foresight Energy LP"
 	},
 	{
-		"Symbol": "FEM",
-		"Description": "FT EM Mkts Alphadex"
+		"symbol": "FEM",
+		"description": "FT EM Mkts Alphadex"
 	},
 	{
-		"Symbol": "FEMB",
-		"Description": "First TR Emrg Bd ETF"
+		"symbol": "FEMB",
+		"description": "First TR Emrg Bd ETF"
 	},
 	{
-		"Symbol": "FEMS",
-		"Description": "FT Dv Mkt Sm Cap A D"
+		"symbol": "FEMS",
+		"description": "FT Dv Mkt Sm Cap A D"
 	},
 	{
-		"Symbol": "FEN",
-		"Description": "First Trust Energy Income and Growth Fund"
+		"symbol": "FEN",
+		"description": "First Trust Energy Income and Growth Fund"
 	},
 	{
-		"Symbol": "FENG",
-		"Description": "Phoenix New Media Limited"
+		"symbol": "FENG",
+		"description": "Phoenix New Media Limited"
 	},
 	{
-		"Symbol": "FENX",
-		"Description": "Fenix Parts Inc Cmn"
+		"symbol": "FENX",
+		"description": "Fenix Parts Inc Cmn"
 	},
 	{
-		"Symbol": "FEO",
-		"Description": "First Trust/Aberdeen Emerging Opportunity Fund"
+		"symbol": "FEO",
+		"description": "First Trust/Aberdeen Emerging Opportunity Fund"
 	},
 	{
-		"Symbol": "FEP",
-		"Description": "FT Europe Alphadex"
+		"symbol": "FEP",
+		"description": "FT Europe Alphadex"
 	},
 	{
-		"Symbol": "FET",
-		"Description": "Forum Energy Technologies, Inc."
+		"symbol": "FET",
+		"description": "Forum Energy Technologies, Inc."
 	},
 	{
-		"Symbol": "FEUZ",
-		"Description": "First TR Erzne Alphdx"
+		"symbol": "FEUZ",
+		"description": "First TR Erzne Alphdx"
 	},
 	{
-		"Symbol": "FEX",
-		"Description": "First TR Lg Cp Alpha"
+		"symbol": "FEX",
+		"description": "First TR Lg Cp Alpha"
 	},
 	{
-		"Symbol": "FEYE",
-		"Description": "Fireeye Inc"
+		"symbol": "FEYE",
+		"description": "Fireeye Inc"
 	},
 	{
-		"Symbol": "FF",
-		"Description": "FutureFuel Corp."
+		"symbol": "FF",
+		"description": "FutureFuel Corp."
 	},
 	{
-		"Symbol": "FFA",
-		"Description": "First Trust"
+		"symbol": "FFA",
+		"description": "First Trust"
 	},
 	{
-		"Symbol": "FFBC",
-		"Description": "First Finl Bncp [Oh]"
+		"symbol": "FFBC",
+		"description": "First Finl Bncp [Oh]"
 	},
 	{
-		"Symbol": "FFC",
-		"Description": "Flaherty & Crumrine Preferred Securities Income Fund Inc"
+		"symbol": "FFC",
+		"description": "Flaherty & Crumrine Preferred Securities Income Fund Inc"
 	},
 	{
-		"Symbol": "FFG",
-		"Description": "FBL Financial Group, Inc."
+		"symbol": "FFG",
+		"description": "FBL Financial Group, Inc."
 	},
 	{
-		"Symbol": "FFHL",
-		"Description": "Fuwei Films [Holding"
+		"symbol": "FFHL",
+		"description": "Fuwei Films [Holding"
 	},
 	{
-		"Symbol": "FFIC",
-		"Description": "Flushing Finl Corp"
+		"symbol": "FFIC",
+		"description": "Flushing Finl Corp"
 	},
 	{
-		"Symbol": "FFIN",
-		"Description": "First Finl Bkshs Inc"
+		"symbol": "FFIN",
+		"description": "First Finl Bkshs Inc"
 	},
 	{
-		"Symbol": "FFIV",
-		"Description": "F5 Networks Inc"
+		"symbol": "FFIV",
+		"description": "F5 Networks Inc"
 	},
 	{
-		"Symbol": "FFKT",
-		"Description": "Farmers Capital BA"
+		"symbol": "FFKT",
+		"description": "Farmers Capital BA"
 	},
 	{
-		"Symbol": "FFNW",
-		"Description": "First Financial Nort"
+		"symbol": "FFNW",
+		"description": "First Financial Nort"
 	},
 	{
-		"Symbol": "FFWM",
-		"Description": "First Foundation Cmn"
+		"symbol": "FFWM",
+		"description": "First Foundation Cmn"
 	},
 	{
-		"Symbol": "FGB",
-		"Description": "First Trust Specialty Finance and Financial Opportunities Fund"
+		"symbol": "FGB",
+		"description": "First Trust Specialty Finance and Financial Opportunities Fund"
 	},
 	{
-		"Symbol": "FGBI",
-		"Description": "First Gurty Banc Cmn"
+		"symbol": "FGBI",
+		"description": "First Gurty Banc Cmn"
 	},
 	{
-		"Symbol": "FGEN",
-		"Description": "Fibrogen Inc CS"
+		"symbol": "FGEN",
+		"description": "Fibrogen Inc CS"
 	},
 	{
-		"Symbol": "FGL",
-		"Description": "Fidelity and Guaranty Life"
+		"symbol": "FGL",
+		"description": "Fidelity and Guaranty Life"
 	},
 	{
-		"Symbol": "FGM",
-		"Description": "FT Germany Alphadex"
+		"symbol": "FGM",
+		"description": "FT Germany Alphadex"
 	},
 	{
-		"Symbol": "FGP",
-		"Description": "Ferrellgas Partners, L.P."
+		"symbol": "FGP",
+		"description": "Ferrellgas Partners, L.P."
 	},
 	{
-		"Symbol": "FH",
-		"Description": "Form Holdings Cp"
+		"symbol": "FH",
+		"description": "Form Holdings Cp"
 	},
 	{
-		"Symbol": "FHB",
-		"Description": "First Hawaiian Inc Cmn"
+		"symbol": "FHB",
+		"description": "First Hawaiian Inc Cmn"
 	},
 	{
-		"Symbol": "FHCO",
-		"Description": "Female Health Co"
+		"symbol": "FHCO",
+		"description": "Female Health Co"
 	},
 	{
-		"Symbol": "FHK",
-		"Description": "FT Hong Hong Alphadex"
+		"symbol": "FHK",
+		"description": "FT Hong Hong Alphadex"
 	},
 	{
-		"Symbol": "FHN",
-		"Description": "First Horizon National Corporation"
+		"symbol": "FHN",
+		"description": "First Horizon National Corporation"
 	},
 	{
-		"Symbol": "FHN^A",
-		"Description": "First Horizon National Corporation"
+		"symbol": "FHN^A",
+		"description": "First Horizon National Corporation"
 	},
 	{
-		"Symbol": "FHY",
-		"Description": "First Trust Strategic High Income Fund II"
+		"symbol": "FHY",
+		"description": "First Trust Strategic High Income Fund II"
 	},
 	{
-		"Symbol": "FI",
-		"Description": "Franks International N.V."
+		"symbol": "FI",
+		"description": "Franks International N.V."
 	},
 	{
-		"Symbol": "FIBK",
-		"Description": "First Interstate Ban"
+		"symbol": "FIBK",
+		"description": "First Interstate Ban"
 	},
 	{
-		"Symbol": "FICO",
-		"Description": "Fair Isaac Corporation"
+		"symbol": "FICO",
+		"description": "Fair Isaac Corporation"
 	},
 	{
-		"Symbol": "FIF",
-		"Description": "First Trust Energy Infrastructure Fund"
+		"symbol": "FIF",
+		"description": "First Trust Energy Infrastructure Fund"
 	},
 	{
-		"Symbol": "FIG",
-		"Description": "Fortress Investment Group LLC"
+		"symbol": "FIG",
+		"description": "Fortress Investment Group LLC"
 	},
 	{
-		"Symbol": "FII",
-		"Description": "Federated Investors, Inc."
+		"symbol": "FII",
+		"description": "Federated Investors, Inc."
 	},
 	{
-		"Symbol": "FINL",
-		"Description": "Finish Line Cl A"
+		"symbol": "FINL",
+		"description": "Finish Line Cl A"
 	},
 	{
-		"Symbol": "FINQ",
-		"Description": "Purefunds Solactive Fintech ETF"
+		"symbol": "FINQ",
+		"description": "Purefunds Solactive Fintech ETF"
 	},
 	{
-		"Symbol": "FINX",
-		"Description": "Global X Fintech Thematic ETF"
+		"symbol": "FINX",
+		"description": "Global X Fintech Thematic ETF"
 	},
 	{
-		"Symbol": "FIS",
-		"Description": "Fidelity National Information Services, Inc."
+		"symbol": "FIS",
+		"description": "Fidelity National Information Services, Inc."
 	},
 	{
-		"Symbol": "FISI",
-		"Description": "Financial Institut"
+		"symbol": "FISI",
+		"description": "Financial Institut"
 	},
 	{
-		"Symbol": "FISV",
-		"Description": "Fiserv Inc"
+		"symbol": "FISV",
+		"description": "Fiserv Inc"
 	},
 	{
-		"Symbol": "FIT",
-		"Description": "Fitbit, Inc."
+		"symbol": "FIT",
+		"description": "Fitbit, Inc."
 	},
 	{
-		"Symbol": "FITB",
-		"Description": "Fifth Third Bncp"
+		"symbol": "FITB",
+		"description": "Fifth Third Bncp"
 	},
 	{
-		"Symbol": "FITBI",
-		"Description": "Fifth Third Bancorp"
+		"symbol": "FITBI",
+		"description": "Fifth Third Bancorp"
 	},
 	{
-		"Symbol": "FITS",
-		"Description": " Health and Fitness ETF"
+		"symbol": "FITS",
+		"description": " Health and Fitness ETF"
 	},
 	{
-		"Symbol": "FIV",
-		"Description": "First Trust Senior Floating Rate 2022 Target Term Fund"
+		"symbol": "FIV",
+		"description": "First Trust Senior Floating Rate 2022 Target Term Fund"
 	},
 	{
-		"Symbol": "FIVE",
-		"Description": "Five Below Inc"
+		"symbol": "FIVE",
+		"description": "Five Below Inc"
 	},
 	{
-		"Symbol": "FIVN",
-		"Description": "Five9 Inc Cmn"
+		"symbol": "FIVN",
+		"description": "Five9 Inc Cmn"
 	},
 	{
-		"Symbol": "FIX",
-		"Description": "Comfort Systems USA, Inc."
+		"symbol": "FIX",
+		"description": "Comfort Systems USA, Inc."
 	},
 	{
-		"Symbol": "FIZZ",
-		"Description": "Natl Beverage Cp"
+		"symbol": "FIZZ",
+		"description": "Natl Beverage Cp"
 	},
 	{
-		"Symbol": "FJP",
-		"Description": "First TR Japan Alpdx"
+		"symbol": "FJP",
+		"description": "First TR Japan Alpdx"
 	},
 	{
-		"Symbol": "FKO",
-		"Description": "FT South Korea Alphadex"
+		"symbol": "FKO",
+		"description": "FT South Korea Alphadex"
 	},
 	{
-		"Symbol": "FKU",
-		"Description": "FT UK Alphadex"
+		"symbol": "FKU",
+		"description": "FT UK Alphadex"
 	},
 	{
-		"Symbol": "FL",
-		"Description": "Foot Locker, Inc."
+		"symbol": "FL",
+		"description": "Foot Locker, Inc."
 	},
 	{
-		"Symbol": "FLAG",
-		"Description": "Weatherstorm Forensi"
+		"symbol": "FLAG",
+		"description": "Weatherstorm Forensi"
 	},
 	{
-		"Symbol": "FLAT",
-		"Description": "Ipath Flattener"
+		"symbol": "FLAT",
+		"description": "Ipath Flattener"
 	},
 	{
-		"Symbol": "FLC",
-		"Description": "Flaherty & Crumrine Total Return Fund Inc"
+		"symbol": "FLC",
+		"description": "Flaherty & Crumrine Total Return Fund Inc"
 	},
 	{
-		"Symbol": "FLDM",
-		"Description": "Fluidigm Corporation"
+		"symbol": "FLDM",
+		"description": "Fluidigm Corporation"
 	},
 	{
-		"Symbol": "FLEX",
-		"Description": "Flextronics Intl Ltd"
+		"symbol": "FLEX",
+		"description": "Flextronics Intl Ltd"
 	},
 	{
-		"Symbol": "FLGT",
-		"Description": "Fulgent Genetics Inc"
+		"symbol": "FLGT",
+		"description": "Fulgent Genetics Inc"
 	},
 	{
-		"Symbol": "FLIC",
-		"Description": "First of Long Isla"
+		"symbol": "FLIC",
+		"description": "First of Long Isla"
 	},
 	{
-		"Symbol": "FLIR",
-		"Description": "Flir Systems Inc"
+		"symbol": "FLIR",
+		"description": "Flir Systems Inc"
 	},
 	{
-		"Symbol": "FLKS",
-		"Description": "Flex Pharma Inc Cmn"
+		"symbol": "FLKS",
+		"description": "Flex Pharma Inc Cmn"
 	},
 	{
-		"Symbol": "FLL",
-		"Description": "Full House Rsts Cmn"
+		"symbol": "FLL",
+		"description": "Full House Rsts Cmn"
 	},
 	{
-		"Symbol": "FLN",
-		"Description": "FT Latin Am Alphadex"
+		"symbol": "FLN",
+		"description": "FT Latin Am Alphadex"
 	},
 	{
-		"Symbol": "FLO",
-		"Description": "Flowers Foods, Inc."
+		"symbol": "FLO",
+		"description": "Flowers Foods, Inc."
 	},
 	{
-		"Symbol": "FLOW",
-		"Description": "SPX FLOW, Inc."
+		"symbol": "FLOW",
+		"description": "SPX FLOW, Inc."
 	},
 	{
-		"Symbol": "FLR",
-		"Description": "Fluor Corporation"
+		"symbol": "FLR",
+		"description": "Fluor Corporation"
 	},
 	{
-		"Symbol": "FLS",
-		"Description": "Flowserve Corporation"
+		"symbol": "FLS",
+		"description": "Flowserve Corporation"
 	},
 	{
-		"Symbol": "FLT",
-		"Description": "FleetCor Technologies, Inc."
+		"symbol": "FLT",
+		"description": "FleetCor Technologies, Inc."
 	},
 	{
-		"Symbol": "FLWS",
-		"Description": "1-800-Flowers.Com"
+		"symbol": "FLWS",
+		"description": "1-800-Flowers.Com"
 	},
 	{
-		"Symbol": "FLXN",
-		"Description": "Flexion Therapeutics"
+		"symbol": "FLXN",
+		"description": "Flexion Therapeutics"
 	},
 	{
-		"Symbol": "FLXS",
-		"Description": "Flexsteel Inds"
+		"symbol": "FLXS",
+		"description": "Flexsteel Inds"
 	},
 	{
-		"Symbol": "FLY",
-		"Description": "Fly Leasing Limited"
+		"symbol": "FLY",
+		"description": "Fly Leasing Limited"
 	},
 	{
-		"Symbol": "FMB",
-		"Description": "First Trust ETF III"
+		"symbol": "FMB",
+		"description": "First Trust ETF III"
 	},
 	{
-		"Symbol": "FMBH",
-		"Description": "First Mid Ill Bncshr"
+		"symbol": "FMBH",
+		"description": "First Mid Ill Bncshr"
 	},
 	{
-		"Symbol": "FMBI",
-		"Description": "First Midwest Bncp"
+		"symbol": "FMBI",
+		"description": "First Midwest Bncp"
 	},
 	{
-		"Symbol": "FMC",
-		"Description": "FMC Corporation"
+		"symbol": "FMC",
+		"description": "FMC Corporation"
 	},
 	{
-		"Symbol": "FMI",
-		"Description": "Foundation Medicine"
+		"symbol": "FMI",
+		"description": "Foundation Medicine"
 	},
 	{
-		"Symbol": "FMK",
-		"Description": "First TR Mega Cp Alp"
+		"symbol": "FMK",
+		"description": "First TR Mega Cp Alp"
 	},
 	{
-		"Symbol": "FMN",
-		"Description": "Federated Premier Municipal Income Fund"
+		"symbol": "FMN",
+		"description": "Federated Premier Municipal Income Fund"
 	},
 	{
-		"Symbol": "FMNB",
-		"Description": "Farmers Natl Banc Cp"
+		"symbol": "FMNB",
+		"description": "Farmers Natl Banc Cp"
 	},
 	{
-		"Symbol": "FMO",
-		"Description": "Fiduciary/Claymore MLP Opportunity Fund"
+		"symbol": "FMO",
+		"description": "Fiduciary/Claymore MLP Opportunity Fund"
 	},
 	{
-		"Symbol": "FMS",
-		"Description": "Fresenius Medical Care Corporation"
+		"symbol": "FMS",
+		"description": "Fresenius Medical Care Corporation"
 	},
 	{
-		"Symbol": "FMSA",
-		"Description": "Fairmount Santrol Holdings Inc."
+		"symbol": "FMSA",
+		"description": "Fairmount Santrol Holdings Inc."
 	},
 	{
-		"Symbol": "FMX",
-		"Description": "Fomento Economico Mexicano S.A.B. de C.V."
+		"symbol": "FMX",
+		"description": "Fomento Economico Mexicano S.A.B. de C.V."
 	},
 	{
-		"Symbol": "FMY",
-		"Description": "First Trust"
+		"symbol": "FMY",
+		"description": "First Trust"
 	},
 	{
-		"Symbol": "FN",
-		"Description": "Fabrinet"
+		"symbol": "FN",
+		"description": "Fabrinet"
 	},
 	{
-		"Symbol": "FNB",
-		"Description": "F.N.B. Corporation"
+		"symbol": "FNB",
+		"description": "F.N.B. Corporation"
 	},
 	{
-		"Symbol": "FNB^E",
-		"Description": "F.N.B. Corporation"
+		"symbol": "FNB^E",
+		"description": "F.N.B. Corporation"
 	},
 	{
-		"Symbol": "FNBC",
-		"Description": "First Nbc Bank Holdi"
+		"symbol": "FNBC",
+		"description": "First Nbc Bank Holdi"
 	},
 	{
-		"Symbol": "FNCX",
-		"Description": "Function[X] Inc"
+		"symbol": "FNCX",
+		"description": "Function[X] Inc"
 	},
 	{
-		"Symbol": "FNF",
-		"Description": "Fidelity National Financial, Inc."
+		"symbol": "FNF",
+		"description": "Fidelity National Financial, Inc."
 	},
 	{
-		"Symbol": "FNFV",
-		"Description": "Fidelity National Financial, Inc."
+		"symbol": "FNFV",
+		"description": "Fidelity National Financial, Inc."
 	},
 	{
-		"Symbol": "FNGN",
-		"Description": "Financial Engines Cmn"
+		"symbol": "FNGN",
+		"description": "Financial Engines Cmn"
 	},
 	{
-		"Symbol": "FNHC",
-		"Description": "Federated Natl Hldg"
+		"symbol": "FNHC",
+		"description": "Federated Natl Hldg"
 	},
 	{
-		"Symbol": "FNJN",
-		"Description": "Finjan Holdings Cmn"
+		"symbol": "FNJN",
+		"description": "Finjan Holdings Cmn"
 	},
 	{
-		"Symbol": "FNK",
-		"Description": "First TR MD Cp Vl Al"
+		"symbol": "FNK",
+		"description": "First TR MD Cp Vl Al"
 	},
 	{
-		"Symbol": "FNLC",
-		"Description": "First Bancorp Inc"
+		"symbol": "FNLC",
+		"description": "First Bancorp Inc"
 	},
 	{
-		"Symbol": "FNSR",
-		"Description": "Finisar Corp"
+		"symbol": "FNSR",
+		"description": "Finisar Corp"
 	},
 	{
-		"Symbol": "FNTEU",
-		"Description": "Fintech Acquisition Corp. II Unit"
+		"symbol": "FNTEU",
+		"description": "Fintech Acquisition Corp. II Unit"
 	},
 	{
-		"Symbol": "FNV",
-		"Description": "Franco-Nevada Corporation"
+		"symbol": "FNV",
+		"description": "Franco-Nevada Corporation"
 	},
 	{
-		"Symbol": "FNWB",
-		"Description": "First Nw Banc Cmn"
+		"symbol": "FNWB",
+		"description": "First Nw Banc Cmn"
 	},
 	{
-		"Symbol": "FNX",
-		"Description": "First Trust Mid Cap"
+		"symbol": "FNX",
+		"description": "First Trust Mid Cap"
 	},
 	{
-		"Symbol": "FNY",
-		"Description": "First TR Mid Cp Alph"
+		"symbol": "FNY",
+		"description": "First TR Mid Cp Alph"
 	},
 	{
-		"Symbol": "FOE",
-		"Description": "Ferro Corporation"
+		"symbol": "FOE",
+		"description": "Ferro Corporation"
 	},
 	{
-		"Symbol": "FOF",
-		"Description": "Cohen & Steers Closed-End Opportunity Fund, Inc."
+		"symbol": "FOF",
+		"description": "Cohen & Steers Closed-End Opportunity Fund, Inc."
 	},
 	{
-		"Symbol": "FOGO",
-		"Description": "Fogo De Chao Cm ST"
+		"symbol": "FOGO",
+		"description": "Fogo De Chao Cm ST"
 	},
 	{
-		"Symbol": "FOLD",
-		"Description": "Amicus Therapeutics"
+		"symbol": "FOLD",
+		"description": "Amicus Therapeutics"
 	},
 	{
-		"Symbol": "FOMX",
-		"Description": "Foamix Pharma Ord"
+		"symbol": "FOMX",
+		"description": "Foamix Pharma Ord"
 	},
 	{
-		"Symbol": "FONE",
-		"Description": "First Trust Ndq Smtph"
+		"symbol": "FONE",
+		"description": "First Trust Ndq Smtph"
 	},
 	{
-		"Symbol": "FONR",
-		"Description": "Fonar Corp"
+		"symbol": "FONR",
+		"description": "Fonar Corp"
 	},
 	{
-		"Symbol": "FOR",
-		"Description": "Forestar Group Inc"
+		"symbol": "FOR",
+		"description": "Forestar Group Inc"
 	},
 	{
-		"Symbol": "FORD",
-		"Description": "Forward Inds Inc"
+		"symbol": "FORD",
+		"description": "Forward Inds Inc"
 	},
 	{
-		"Symbol": "FORK",
-		"Description": "Fuling Global Ord Sh"
+		"symbol": "FORK",
+		"description": "Fuling Global Ord Sh"
 	},
 	{
-		"Symbol": "FORM",
-		"Description": "Formfactor Inc"
+		"symbol": "FORM",
+		"description": "Formfactor Inc"
 	},
 	{
-		"Symbol": "FORR",
-		"Description": "Forrester Resrch"
+		"symbol": "FORR",
+		"description": "Forrester Resrch"
 	},
 	{
-		"Symbol": "FORTY",
-		"Description": "Formula Sys [1985]"
+		"symbol": "FORTY",
+		"description": "Formula Sys [1985]"
 	},
 	{
-		"Symbol": "FOSL",
-		"Description": "Fossil Group Cmn Stk"
+		"symbol": "FOSL",
+		"description": "Fossil Group Cmn Stk"
 	},
 	{
-		"Symbol": "FOX",
-		"Description": "21St Centry Fox Class B"
+		"symbol": "FOX",
+		"description": "21St Centry Fox Class B"
 	},
 	{
-		"Symbol": "FOXA",
-		"Description": "21St Centry Fox Class A"
+		"symbol": "FOXA",
+		"description": "21St Centry Fox Class A"
 	},
 	{
-		"Symbol": "FOXF",
-		"Description": "Fox Factory Cp Cmn"
+		"symbol": "FOXF",
+		"description": "Fox Factory Cp Cmn"
 	},
 	{
-		"Symbol": "FPA",
-		"Description": "FT Asia Pac Ex Japan"
+		"symbol": "FPA",
+		"description": "FT Asia Pac Ex Japan"
 	},
 	{
-		"Symbol": "FPAY",
-		"Description": "Flexshopper Inc."
+		"symbol": "FPAY",
+		"description": "Flexshopper Inc."
 	},
 	{
-		"Symbol": "FPF",
-		"Description": "First Trust Intermediate Duration Preferred & Income Fund"
+		"symbol": "FPF",
+		"description": "First Trust Intermediate Duration Preferred & Income Fund"
 	},
 	{
-		"Symbol": "FPI",
-		"Description": "Farmland Partners Inc."
+		"symbol": "FPI",
+		"description": "Farmland Partners Inc."
 	},
 	{
-		"Symbol": "FPL",
-		"Description": "First Trust New Opportunities MLP & Energy Fund"
+		"symbol": "FPL",
+		"description": "First Trust New Opportunities MLP & Energy Fund"
 	},
 	{
-		"Symbol": "FPO",
-		"Description": "First Potomac Realty Trust"
+		"symbol": "FPO",
+		"description": "First Potomac Realty Trust"
 	},
 	{
-		"Symbol": "FPP",
-		"Description": "FieldPoint Petroleum Corporation"
+		"symbol": "FPP",
+		"description": "FieldPoint Petroleum Corporation"
 	},
 	{
-		"Symbol": "FPP.WS",
-		"Description": "FieldPoint Petroleum Corporation"
+		"symbol": "FPP.WS",
+		"description": "FieldPoint Petroleum Corporation"
 	},
 	{
-		"Symbol": "FPRX",
-		"Description": "Five Prime Thera Cmn"
+		"symbol": "FPRX",
+		"description": "Five Prime Thera Cmn"
 	},
 	{
-		"Symbol": "FPT",
-		"Description": "Federated Premier Intermediate Municipal Income Fund"
+		"symbol": "FPT",
+		"description": "Federated Premier Intermediate Municipal Income Fund"
 	},
 	{
-		"Symbol": "FPXI",
-		"Description": "First TR Itl Ipo ETF"
+		"symbol": "FPXI",
+		"description": "First TR Itl Ipo ETF"
 	},
 	{
-		"Symbol": "FR",
-		"Description": "First Industrial Realty Trust, Inc."
+		"symbol": "FR",
+		"description": "First Industrial Realty Trust, Inc."
 	},
 	{
-		"Symbol": "FRA",
-		"Description": "Blackrock Floating Rate Income Strategies Fund Inc"
+		"symbol": "FRA",
+		"description": "Blackrock Floating Rate Income Strategies Fund Inc"
 	},
 	{
-		"Symbol": "FRAC",
-		"Description": "Keane Group, Inc."
+		"symbol": "FRAC",
+		"description": "Keane Group, Inc."
 	},
 	{
-		"Symbol": "FRAN",
-		"Description": "Francesca's Holdings"
+		"symbol": "FRAN",
+		"description": "Francesca's Holdings"
 	},
 	{
-		"Symbol": "FRBA",
-		"Description": "First Bank Cmn"
+		"symbol": "FRBA",
+		"description": "First Bank Cmn"
 	},
 	{
-		"Symbol": "FRBK",
-		"Description": "Republic First Bcp"
+		"symbol": "FRBK",
+		"description": "Republic First Bcp"
 	},
 	{
-		"Symbol": "FRC",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^B",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^B",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^C",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^C",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^D",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^D",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^E",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^E",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^F",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^F",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRC^G",
-		"Description": "FIRST REPUBLIC BANK"
+		"symbol": "FRC^G",
+		"description": "FIRST REPUBLIC BANK"
 	},
 	{
-		"Symbol": "FRD",
-		"Description": "Friedman Industries Inc."
+		"symbol": "FRD",
+		"description": "Friedman Industries Inc."
 	},
 	{
-		"Symbol": "FRED",
-		"Description": "Fred's Inc"
+		"symbol": "FRED",
+		"description": "Fred's Inc"
 	},
 	{
-		"Symbol": "FRGI",
-		"Description": "Fiesta Restaurant Gp"
+		"symbol": "FRGI",
+		"description": "Fiesta Restaurant Gp"
 	},
 	{
-		"Symbol": "FRME",
-		"Description": "First Merchants Corp"
+		"symbol": "FRME",
+		"description": "First Merchants Corp"
 	},
 	{
-		"Symbol": "FRO",
-		"Description": "Frontline Ltd."
+		"symbol": "FRO",
+		"description": "Frontline Ltd."
 	},
 	{
-		"Symbol": "FRP",
-		"Description": "Fairpoint Communicat"
+		"symbol": "FRP",
+		"description": "Fairpoint Communicat"
 	},
 	{
-		"Symbol": "FRPH",
-		"Description": "Frp Holdings Inc"
+		"symbol": "FRPH",
+		"description": "Frp Holdings Inc"
 	},
 	{
-		"Symbol": "FRPT",
-		"Description": "Freshpet Inc CS"
+		"symbol": "FRPT",
+		"description": "Freshpet Inc CS"
 	},
 	{
-		"Symbol": "FRSH",
-		"Description": "Papa Murphys Hld Com"
+		"symbol": "FRSH",
+		"description": "Papa Murphys Hld Com"
 	},
 	{
-		"Symbol": "FRT",
-		"Description": "Federal Realty Investment Trust"
+		"symbol": "FRT",
+		"description": "Federal Realty Investment Trust"
 	},
 	{
-		"Symbol": "FRTA",
-		"Description": "Forterra Inc"
+		"symbol": "FRTA",
+		"description": "Forterra Inc"
 	},
 	{
-		"Symbol": "FSAM",
-		"Description": "Fifth Street Cmn"
+		"symbol": "FSAM",
+		"description": "Fifth Street Cmn"
 	},
 	{
-		"Symbol": "FSB",
-		"Description": "Franklin Financial Network, Inc."
+		"symbol": "FSB",
+		"description": "Franklin Financial Network, Inc."
 	},
 	{
-		"Symbol": "FSBC",
-		"Description": "Fsb Community Bnksh"
+		"symbol": "FSBC",
+		"description": "Fsb Community Bnksh"
 	},
 	{
-		"Symbol": "FSBK",
-		"Description": "First South Bncp Inc"
+		"symbol": "FSBK",
+		"description": "First South Bncp Inc"
 	},
 	{
-		"Symbol": "FSBW",
-		"Description": "FS Bancorp Inc"
+		"symbol": "FSBW",
+		"description": "FS Bancorp Inc"
 	},
 	{
-		"Symbol": "FSC",
-		"Description": "Fifth Street Finance"
+		"symbol": "FSC",
+		"description": "Fifth Street Finance"
 	},
 	{
-		"Symbol": "FSCE",
-		"Description": "Fifth Street Finance Corp."
+		"symbol": "FSCE",
+		"description": "Fifth Street Finance Corp."
 	},
 	{
-		"Symbol": "FSCFL",
-		"Description": "Fth ST Fin 6.125 Sn"
+		"symbol": "FSCFL",
+		"description": "Fth ST Fin 6.125 Sn"
 	},
 	{
-		"Symbol": "FSD",
-		"Description": "First Trust High Income Long Short Fund"
+		"symbol": "FSD",
+		"description": "First Trust High Income Long Short Fund"
 	},
 	{
-		"Symbol": "FSFG",
-		"Description": "First Savings Financ"
+		"symbol": "FSFG",
+		"description": "First Savings Financ"
 	},
 	{
-		"Symbol": "FSFR",
-		"Description": "Fifth Strt Snr Flt"
+		"symbol": "FSFR",
+		"description": "Fifth Strt Snr Flt"
 	},
 	{
-		"Symbol": "FSI",
-		"Description": "Flexible Solutions International Inc."
+		"symbol": "FSI",
+		"description": "Flexible Solutions International Inc."
 	},
 	{
-		"Symbol": "FSIC",
-		"Description": "FS Investment Corporation"
+		"symbol": "FSIC",
+		"description": "FS Investment Corporation"
 	},
 	{
-		"Symbol": "FSLR",
-		"Description": "First Solar Inc"
+		"symbol": "FSLR",
+		"description": "First Solar Inc"
 	},
 	{
-		"Symbol": "FSM",
-		"Description": "Fortuna Silver Mines Inc."
+		"symbol": "FSM",
+		"description": "Fortuna Silver Mines Inc."
 	},
 	{
-		"Symbol": "FSNN",
-		"Description": "Fusion Telecom Intl"
+		"symbol": "FSNN",
+		"description": "Fusion Telecom Intl"
 	},
 	{
-		"Symbol": "FSP",
-		"Description": "Franklin Street Properties Corp."
+		"symbol": "FSP",
+		"description": "Franklin Street Properties Corp."
 	},
 	{
-		"Symbol": "FSS",
-		"Description": "Federal Signal Corporation"
+		"symbol": "FSS",
+		"description": "Federal Signal Corporation"
 	},
 	{
-		"Symbol": "FSTR",
-		"Description": "Foster L B Co"
+		"symbol": "FSTR",
+		"description": "Foster L B Co"
 	},
 	{
-		"Symbol": "FSV",
-		"Description": "Firstsrvce Sub Vt Sh"
+		"symbol": "FSV",
+		"description": "Firstsrvce Sub Vt Sh"
 	},
 	{
-		"Symbol": "FSZ",
-		"Description": "FT Switzerland Alphadex"
+		"symbol": "FSZ",
+		"description": "FT Switzerland Alphadex"
 	},
 	{
-		"Symbol": "FT",
-		"Description": "Franklin Universal Trust"
+		"symbol": "FT",
+		"description": "Franklin Universal Trust"
 	},
 	{
-		"Symbol": "FTA",
-		"Description": "First TR Lr CA Alpha"
+		"symbol": "FTA",
+		"description": "First TR Lr CA Alpha"
 	},
 	{
-		"Symbol": "FTAG",
-		"Description": "First TR Indxx Gl Ag"
+		"symbol": "FTAG",
+		"description": "First TR Indxx Gl Ag"
 	},
 	{
-		"Symbol": "FTAI",
-		"Description": "Fortress Transportation and Infrastructure Investors LLC"
+		"symbol": "FTAI",
+		"description": "Fortress Transportation and Infrastructure Investors LLC"
 	},
 	{
-		"Symbol": "FTC",
-		"Description": "First Trust Large CA"
+		"symbol": "FTC",
+		"description": "First Trust Large CA"
 	},
 	{
-		"Symbol": "FTCS",
-		"Description": "First Trust Capital"
+		"symbol": "FTCS",
+		"description": "First Trust Capital"
 	},
 	{
-		"Symbol": "FTD",
-		"Description": "Ftd Companies"
+		"symbol": "FTD",
+		"description": "Ftd Companies"
 	},
 	{
-		"Symbol": "FTEK",
-		"Description": "Fuel Tech Inc"
+		"symbol": "FTEK",
+		"description": "Fuel Tech Inc"
 	},
 	{
-		"Symbol": "FTEO",
-		"Description": "Fronteo Inc"
+		"symbol": "FTEO",
+		"description": "Fronteo Inc"
 	},
 	{
-		"Symbol": "FTF",
-		"Description": "Franklin Limited Duration Income Trust"
+		"symbol": "FTF",
+		"description": "Franklin Limited Duration Income Trust"
 	},
 	{
-		"Symbol": "FTGC",
-		"Description": "First Trust Glb Tc Cmn"
+		"symbol": "FTGC",
+		"description": "First Trust Glb Tc Cmn"
 	},
 	{
-		"Symbol": "FTHI",
-		"Description": "First Trust Exchange"
+		"symbol": "FTHI",
+		"description": "First Trust Exchange"
 	},
 	{
-		"Symbol": "FTI",
-		"Description": "TechnipFMC plc"
+		"symbol": "FTI",
+		"description": "TechnipFMC plc"
 	},
 	{
-		"Symbol": "FTK",
-		"Description": "Flotek Industries, Inc."
+		"symbol": "FTK",
+		"description": "Flotek Industries, Inc."
 	},
 	{
-		"Symbol": "FTLB",
-		"Description": "First Trust ETF Vi"
+		"symbol": "FTLB",
+		"description": "First Trust ETF Vi"
 	},
 	{
-		"Symbol": "FTNT",
-		"Description": "Fortinet Inc"
+		"symbol": "FTNT",
+		"description": "Fortinet Inc"
 	},
 	{
-		"Symbol": "FTR",
-		"Description": "Frontier Commun Cp"
+		"symbol": "FTR",
+		"description": "Frontier Commun Cp"
 	},
 	{
-		"Symbol": "FTRI",
-		"Description": "First TR Indxx Glb N"
+		"symbol": "FTRI",
+		"description": "First TR Indxx Glb N"
 	},
 	{
-		"Symbol": "FTRPR",
-		"Description": "Frontier A Mn Cnv Pd"
+		"symbol": "FTRPR",
+		"description": "Frontier A Mn Cnv Pd"
 	},
 	{
-		"Symbol": "FTS",
-		"Description": "Fortis Inc."
+		"symbol": "FTS",
+		"description": "Fortis Inc."
 	},
 	{
-		"Symbol": "FTSL",
-		"Description": "First TR Snr Ln ETF"
+		"symbol": "FTSL",
+		"description": "First TR Snr Ln ETF"
 	},
 	{
-		"Symbol": "FTSM",
-		"Description": "First Trust ETF IV"
+		"symbol": "FTSM",
+		"description": "First Trust ETF IV"
 	},
 	{
-		"Symbol": "FTV",
-		"Description": "Fortive Corporation"
+		"symbol": "FTV",
+		"description": "Fortive Corporation"
 	},
 	{
-		"Symbol": "FTW",
-		"Description": "FT Hk Alphadex"
+		"symbol": "FTW",
+		"description": "FT Hk Alphadex"
 	},
 	{
-		"Symbol": "FTXD",
-		"Description": "First Trust Nasdaq Retail ETF"
+		"symbol": "FTXD",
+		"description": "First Trust Nasdaq Retail ETF"
 	},
 	{
-		"Symbol": "FTXG",
-		"Description": "First Trust Nasdaq Food & Beverage ETF"
+		"symbol": "FTXG",
+		"description": "First Trust Nasdaq Food & Beverage ETF"
 	},
 	{
-		"Symbol": "FTXH",
-		"Description": "First Trust Nasdaq Pharmaceuticals ETF"
+		"symbol": "FTXH",
+		"description": "First Trust Nasdaq Pharmaceuticals ETF"
 	},
 	{
-		"Symbol": "FTXL",
-		"Description": "First Trust Nasdaq Semiconductor ETF"
+		"symbol": "FTXL",
+		"description": "First Trust Nasdaq Semiconductor ETF"
 	},
 	{
-		"Symbol": "FTXN",
-		"Description": "First Trust Nasdaq Oil & Gas ETF"
+		"symbol": "FTXN",
+		"description": "First Trust Nasdaq Oil & Gas ETF"
 	},
 	{
-		"Symbol": "FTXO",
-		"Description": "First Trust Nasdaq Bank ETF"
+		"symbol": "FTXO",
+		"description": "First Trust Nasdaq Bank ETF"
 	},
 	{
-		"Symbol": "FTXR",
-		"Description": "First Trust Nasdaq Transportation ETF"
+		"symbol": "FTXR",
+		"description": "First Trust Nasdaq Transportation ETF"
 	},
 	{
-		"Symbol": "FUEL",
-		"Description": "Rocket Fuel Inc"
+		"symbol": "FUEL",
+		"description": "Rocket Fuel Inc"
 	},
 	{
-		"Symbol": "FUL",
-		"Description": "H. B. Fuller Company"
+		"symbol": "FUL",
+		"description": "H. B. Fuller Company"
 	},
 	{
-		"Symbol": "FULLL",
-		"Description": "Full Circle Cp Sr Nt"
+		"symbol": "FULLL",
+		"description": "Full Circle Cp Sr Nt"
 	},
 	{
-		"Symbol": "FULT",
-		"Description": "Fulton Financial Cor"
+		"symbol": "FULT",
+		"description": "Fulton Financial Cor"
 	},
 	{
-		"Symbol": "FUN",
-		"Description": "Cedar Fair, L.P."
+		"symbol": "FUN",
+		"description": "Cedar Fair, L.P."
 	},
 	{
-		"Symbol": "FUNC",
-		"Description": "First United Corp"
+		"symbol": "FUNC",
+		"description": "First United Corp"
 	},
 	{
-		"Symbol": "FUND",
-		"Description": "Sprott Focus Trust"
+		"symbol": "FUND",
+		"description": "Sprott Focus Trust"
 	},
 	{
-		"Symbol": "FUSB",
-		"Description": "First US Bancshares Inc"
+		"symbol": "FUSB",
+		"description": "First US Bancshares Inc"
 	},
 	{
-		"Symbol": "FV",
-		"Description": "First Trust ETF Vi"
+		"symbol": "FV",
+		"description": "First Trust ETF Vi"
 	},
 	{
-		"Symbol": "FVC",
-		"Description": "FT DWA Dyn Foc 5 ETF"
+		"symbol": "FVC",
+		"description": "FT DWA Dyn Foc 5 ETF"
 	},
 	{
-		"Symbol": "FVE",
-		"Description": "Five Star Quality Care"
+		"symbol": "FVE",
+		"description": "Five Star Quality Care"
 	},
 	{
-		"Symbol": "FWONA",
-		"Description": "Liberty Media F1 Series A"
+		"symbol": "FWONA",
+		"description": "Liberty Media F1 Series A"
 	},
 	{
-		"Symbol": "FWONK",
-		"Description": "Liberty Media F1 Series K"
+		"symbol": "FWONK",
+		"description": "Liberty Media F1 Series K"
 	},
 	{
-		"Symbol": "FWP",
-		"Description": "Forward Pharma Ads"
+		"symbol": "FWP",
+		"description": "Forward Pharma Ads"
 	},
 	{
-		"Symbol": "FWRD",
-		"Description": "Foward Air Corp"
+		"symbol": "FWRD",
+		"description": "Foward Air Corp"
 	},
 	{
-		"Symbol": "FXCM",
-		"Description": "FXCM Inc"
+		"symbol": "FXCM",
+		"description": "FXCM Inc"
 	},
 	{
-		"Symbol": "FYC",
-		"Description": "First Trust Small CA"
+		"symbol": "FYC",
+		"description": "First Trust Small CA"
 	},
 	{
-		"Symbol": "FYT",
-		"Description": "First TR Sm Cp Alpha"
+		"symbol": "FYT",
+		"description": "First TR Sm Cp Alpha"
 	},
 	{
-		"Symbol": "FYX",
-		"Description": "First TR Sm Cr Alpha"
+		"symbol": "FYX",
+		"description": "First TR Sm Cr Alpha"
 	},
 	{
-		"Symbol": "G",
-		"Description": "Genpact Limited"
+		"symbol": "G",
+		"description": "Genpact Limited"
 	},
 	{
-		"Symbol": "GAB",
-		"Description": "Gabelli Equity Trust, Inc. "
+		"symbol": "GAB",
+		"description": "Gabelli Equity Trust, Inc. "
 	},
 	{
-		"Symbol": "GAB^D",
-		"Description": "Gabelli Equity Trust, Inc. "
+		"symbol": "GAB^D",
+		"description": "Gabelli Equity Trust, Inc. "
 	},
 	{
-		"Symbol": "GAB^G",
-		"Description": "Gabelli Equity Trust, Inc. "
+		"symbol": "GAB^G",
+		"description": "Gabelli Equity Trust, Inc. "
 	},
 	{
-		"Symbol": "GAB^H",
-		"Description": "Gabelli Equity Trust, Inc. "
+		"symbol": "GAB^H",
+		"description": "Gabelli Equity Trust, Inc. "
 	},
 	{
-		"Symbol": "GAB^J",
-		"Description": "Gabelli Equity Trust, Inc. "
+		"symbol": "GAB^J",
+		"description": "Gabelli Equity Trust, Inc. "
 	},
 	{
-		"Symbol": "GABC",
-		"Description": "German Amer Bncp Inc"
+		"symbol": "GABC",
+		"description": "German Amer Bncp Inc"
 	},
 	{
-		"Symbol": "GAIA",
-		"Description": "Gaiam Inc"
+		"symbol": "GAIA",
+		"description": "Gaiam Inc"
 	},
 	{
-		"Symbol": "GAIN",
-		"Description": "Gladstone Investment"
+		"symbol": "GAIN",
+		"description": "Gladstone Investment"
 	},
 	{
-		"Symbol": "GAINM",
-		"Description": "Gladstone Investment Corp."
+		"symbol": "GAINM",
+		"description": "Gladstone Investment Corp."
 	},
 	{
-		"Symbol": "GAINN",
-		"Description": "Gladstone Inv 6.5 C"
+		"symbol": "GAINN",
+		"description": "Gladstone Inv 6.5 C"
 	},
 	{
-		"Symbol": "GAINO",
-		"Description": "Gladstone Invt Corp"
+		"symbol": "GAINO",
+		"description": "Gladstone Invt Corp"
 	},
 	{
-		"Symbol": "GALE",
-		"Description": "Galena Biopharma In"
+		"symbol": "GALE",
+		"description": "Galena Biopharma In"
 	},
 	{
-		"Symbol": "GALT",
-		"Description": "Galectin Therapeutic"
+		"symbol": "GALT",
+		"description": "Galectin Therapeutic"
 	},
 	{
-		"Symbol": "GALTU",
-		"Description": "Galectin Therapeutics Inc"
+		"symbol": "GALTU",
+		"description": "Galectin Therapeutics Inc"
 	},
 	{
-		"Symbol": "GALTW",
-		"Description": "Galectin Therap Wts"
+		"symbol": "GALTW",
+		"description": "Galectin Therap Wts"
 	},
 	{
-		"Symbol": "GAM",
-		"Description": "General American Investors, Inc."
+		"symbol": "GAM",
+		"description": "General American Investors, Inc."
 	},
 	{
-		"Symbol": "GAM^B",
-		"Description": "General American Investors, Inc."
+		"symbol": "GAM^B",
+		"description": "General American Investors, Inc."
 	},
 	{
-		"Symbol": "GARS",
-		"Description": "Garrison Capital Inc"
+		"symbol": "GARS",
+		"description": "Garrison Capital Inc"
 	},
 	{
-		"Symbol": "GASS",
-		"Description": "Stealthgas Inc"
+		"symbol": "GASS",
+		"description": "Stealthgas Inc"
 	},
 	{
-		"Symbol": "GATX",
-		"Description": "GATX Corporation"
+		"symbol": "GATX",
+		"description": "GATX Corporation"
 	},
 	{
-		"Symbol": "GBAB",
-		"Description": "Guggenheim Taxable Municipal Managed Duration Trst"
+		"symbol": "GBAB",
+		"description": "Guggenheim Taxable Municipal Managed Duration Trst"
 	},
 	{
-		"Symbol": "GBCI",
-		"Description": "Glacier Bancorp Inc"
+		"symbol": "GBCI",
+		"description": "Glacier Bancorp Inc"
 	},
 	{
-		"Symbol": "GBDC",
-		"Description": "Golub Capital Bdc I"
+		"symbol": "GBDC",
+		"description": "Golub Capital Bdc I"
 	},
 	{
-		"Symbol": "GBL",
-		"Description": "Gamco Investors, Inc."
+		"symbol": "GBL",
+		"description": "Gamco Investors, Inc."
 	},
 	{
-		"Symbol": "GBLI",
-		"Description": "Global Indemnity Plc"
+		"symbol": "GBLI",
+		"description": "Global Indemnity Plc"
 	},
 	{
-		"Symbol": "GBLIZ",
-		"Description": "Global Indmnty 7.75"
+		"symbol": "GBLIZ",
+		"description": "Global Indmnty 7.75"
 	},
 	{
-		"Symbol": "GBNK",
-		"Description": "Guaranty Bancorp"
+		"symbol": "GBNK",
+		"description": "Guaranty Bancorp"
 	},
 	{
-		"Symbol": "GBR",
-		"Description": "New Concept Energy, Inc"
+		"symbol": "GBR",
+		"description": "New Concept Energy, Inc"
 	},
 	{
-		"Symbol": "GBT",
-		"Description": "Global Blood Ther Cmn"
+		"symbol": "GBT",
+		"description": "Global Blood Ther Cmn"
 	},
 	{
-		"Symbol": "GBX",
-		"Description": "Greenbrier Companies, Inc. "
+		"symbol": "GBX",
+		"description": "Greenbrier Companies, Inc. "
 	},
 	{
-		"Symbol": "GCAP",
-		"Description": "GAIN Capital Holdings, Inc."
+		"symbol": "GCAP",
+		"description": "GAIN Capital Holdings, Inc."
 	},
 	{
-		"Symbol": "GCBC",
-		"Description": "Greene County Bncp"
+		"symbol": "GCBC",
+		"description": "Greene County Bncp"
 	},
 	{
-		"Symbol": "GCH",
-		"Description": "Aberdeen Greater China Fund, Inc."
+		"symbol": "GCH",
+		"description": "Aberdeen Greater China Fund, Inc."
 	},
 	{
-		"Symbol": "GCI",
-		"Description": "TEGNA Inc."
+		"symbol": "GCI",
+		"description": "TEGNA Inc."
 	},
 	{
-		"Symbol": "GCO",
-		"Description": "Genesco Inc."
+		"symbol": "GCO",
+		"description": "Genesco Inc."
 	},
 	{
-		"Symbol": "GCP",
-		"Description": "GCP Applied Technologies Inc."
+		"symbol": "GCP",
+		"description": "GCP Applied Technologies Inc."
 	},
 	{
-		"Symbol": "GCV",
-		"Description": "Gabelli Convertible and Income Securities Fund, Inc. "
+		"symbol": "GCV",
+		"description": "Gabelli Convertible and Income Securities Fund, Inc. "
 	},
 	{
-		"Symbol": "GCV^B",
-		"Description": "Gabelli Convertible and Income Securities Fund, Inc. "
+		"symbol": "GCV^B",
+		"description": "Gabelli Convertible and Income Securities Fund, Inc. "
 	},
 	{
-		"Symbol": "GCVRZ",
-		"Description": "Sanofi Cvr"
+		"symbol": "GCVRZ",
+		"description": "Sanofi Cvr"
 	},
 	{
-		"Symbol": "GD",
-		"Description": "General Dynamics Corporation"
+		"symbol": "GD",
+		"description": "General Dynamics Corporation"
 	},
 	{
-		"Symbol": "GDDY",
-		"Description": "GoDaddy Inc."
+		"symbol": "GDDY",
+		"description": "GoDaddy Inc."
 	},
 	{
-		"Symbol": "GDEN",
-		"Description": "Golden Entmt Cmn"
+		"symbol": "GDEN",
+		"description": "Golden Entmt Cmn"
 	},
 	{
-		"Symbol": "GDL",
-		"Description": " GDL Fund"
+		"symbol": "GDL",
+		"description": " GDL Fund"
 	},
 	{
-		"Symbol": "GDL^B",
-		"Description": " GDL Fund"
+		"symbol": "GDL^B",
+		"description": " GDL Fund"
 	},
 	{
-		"Symbol": "GDO",
-		"Description": "Western Asset Global Corporate Defined Opportunity Fund Inc."
+		"symbol": "GDO",
+		"description": "Western Asset Global Corporate Defined Opportunity Fund Inc."
 	},
 	{
-		"Symbol": "GDOT",
-		"Description": "Green Dot Corporation"
+		"symbol": "GDOT",
+		"description": "Green Dot Corporation"
 	},
 	{
-		"Symbol": "GDS",
-		"Description": "Gds Holdings Ltd"
+		"symbol": "GDS",
+		"description": "Gds Holdings Ltd"
 	},
 	{
-		"Symbol": "GDV",
-		"Description": "Gabelli Dividend"
+		"symbol": "GDV",
+		"description": "Gabelli Dividend"
 	},
 	{
-		"Symbol": "GDV^A",
-		"Description": "Gabelli Dividend"
+		"symbol": "GDV^A",
+		"description": "Gabelli Dividend"
 	},
 	{
-		"Symbol": "GDV^D",
-		"Description": "Gabelli Dividend"
+		"symbol": "GDV^D",
+		"description": "Gabelli Dividend"
 	},
 	{
-		"Symbol": "GDV^G",
-		"Description": "Gabelli Dividend"
+		"symbol": "GDV^G",
+		"description": "Gabelli Dividend"
 	},
 	{
-		"Symbol": "GE",
-		"Description": "General Electric Company"
+		"symbol": "GE",
+		"description": "General Electric Company"
 	},
 	{
-		"Symbol": "GEB",
-		"Description": "General Electric Company"
+		"symbol": "GEB",
+		"description": "General Electric Company"
 	},
 	{
-		"Symbol": "GEC",
-		"Description": "Great Elm Capital Group Inc"
+		"symbol": "GEC",
+		"description": "Great Elm Capital Group Inc"
 	},
 	{
-		"Symbol": "GECC",
-		"Description": "Great Elm Capital Corp"
+		"symbol": "GECC",
+		"description": "Great Elm Capital Corp"
 	},
 	{
-		"Symbol": "GEF",
-		"Description": "Greif Bros. Corporation"
+		"symbol": "GEF",
+		"description": "Greif Bros. Corporation"
 	},
 	{
-		"Symbol": "GEF.B",
-		"Description": "Greif Bros. Corporation"
+		"symbol": "GEF.B",
+		"description": "Greif Bros. Corporation"
 	},
 	{
-		"Symbol": "GEH",
-		"Description": "General Electric Capital Corporation"
+		"symbol": "GEH",
+		"description": "General Electric Capital Corporation"
 	},
 	{
-		"Symbol": "GEK",
-		"Description": "General Electric Capital Corporation"
+		"symbol": "GEK",
+		"description": "General Electric Capital Corporation"
 	},
 	{
-		"Symbol": "GEL",
-		"Description": "Genesis Energy, L.P."
+		"symbol": "GEL",
+		"description": "Genesis Energy, L.P."
 	},
 	{
-		"Symbol": "GEMP",
-		"Description": "Gemphire Therapeutics Inc"
+		"symbol": "GEMP",
+		"description": "Gemphire Therapeutics Inc"
 	},
 	{
-		"Symbol": "GEN",
-		"Description": "Genesis Healthcare, Inc."
+		"symbol": "GEN",
+		"description": "Genesis Healthcare, Inc."
 	},
 	{
-		"Symbol": "GENC",
-		"Description": "Gencor Industries In"
+		"symbol": "GENC",
+		"description": "Gencor Industries In"
 	},
 	{
-		"Symbol": "GENE",
-		"Description": "Genetic Tech Spn Ads"
+		"symbol": "GENE",
+		"description": "Genetic Tech Spn Ads"
 	},
 	{
-		"Symbol": "GENY",
-		"Description": "Principal Millennials Index ETF"
+		"symbol": "GENY",
+		"description": "Principal Millennials Index ETF"
 	},
 	{
-		"Symbol": "GEO",
-		"Description": "Geo Group Inc "
+		"symbol": "GEO",
+		"description": "Geo Group Inc "
 	},
 	{
-		"Symbol": "GEOS",
-		"Description": "Geospace Technologie"
+		"symbol": "GEOS",
+		"description": "Geospace Technologie"
 	},
 	{
-		"Symbol": "GEQ",
-		"Description": "Guggenheim Equal Weight Enhanced Equity Income Fund"
+		"symbol": "GEQ",
+		"description": "Guggenheim Equal Weight Enhanced Equity Income Fund"
 	},
 	{
-		"Symbol": "GER",
-		"Description": "Goldman Sachs MLP Energy Renaissance Fund"
+		"symbol": "GER",
+		"description": "Goldman Sachs MLP Energy Renaissance Fund"
 	},
 	{
-		"Symbol": "GERN",
-		"Description": "Geron Corporation"
+		"symbol": "GERN",
+		"description": "Geron Corporation"
 	},
 	{
-		"Symbol": "GES",
-		"Description": "Guess?, Inc."
+		"symbol": "GES",
+		"description": "Guess?, Inc."
 	},
 	{
-		"Symbol": "GEVO",
-		"Description": "Gevo Inc Cmn Stk"
+		"symbol": "GEVO",
+		"description": "Gevo Inc Cmn Stk"
 	},
 	{
-		"Symbol": "GF",
-		"Description": "New Germany Fund, Inc. "
+		"symbol": "GF",
+		"description": "New Germany Fund, Inc. "
 	},
 	{
-		"Symbol": "GFA",
-		"Description": "Gafisa SA"
+		"symbol": "GFA",
+		"description": "Gafisa SA"
 	},
 	{
-		"Symbol": "GFED",
-		"Description": "Guaranty Fedl Bcshs"
+		"symbol": "GFED",
+		"description": "Guaranty Fedl Bcshs"
 	},
 	{
-		"Symbol": "GFF",
-		"Description": "Griffon Corporation"
+		"symbol": "GFF",
+		"description": "Griffon Corporation"
 	},
 	{
-		"Symbol": "GFI",
-		"Description": "Gold Fields Limited"
+		"symbol": "GFI",
+		"description": "Gold Fields Limited"
 	},
 	{
-		"Symbol": "GFN",
-		"Description": "General Finance Corp"
+		"symbol": "GFN",
+		"description": "General Finance Corp"
 	},
 	{
-		"Symbol": "GFNCP",
-		"Description": "General Fn Cum Pfd C"
+		"symbol": "GFNCP",
+		"description": "General Fn Cum Pfd C"
 	},
 	{
-		"Symbol": "GFNSL",
-		"Description": "Genrl Fin Sr Nt 2021"
+		"symbol": "GFNSL",
+		"description": "Genrl Fin Sr Nt 2021"
 	},
 	{
-		"Symbol": "GFY",
-		"Description": "Western Asset Variable Rate Strategic Fund Inc."
+		"symbol": "GFY",
+		"description": "Western Asset Variable Rate Strategic Fund Inc."
 	},
 	{
-		"Symbol": "GG",
-		"Description": "Goldcorp Inc."
+		"symbol": "GG",
+		"description": "Goldcorp Inc."
 	},
 	{
-		"Symbol": "GGAL",
-		"Description": "Grupo Fin Galicia"
+		"symbol": "GGAL",
+		"description": "Grupo Fin Galicia"
 	},
 	{
-		"Symbol": "GGB",
-		"Description": "Gerdau S.A."
+		"symbol": "GGB",
+		"description": "Gerdau S.A."
 	},
 	{
-		"Symbol": "GGE",
-		"Description": "Guggenheim Enhanced Equity Strategy Fund"
+		"symbol": "GGE",
+		"description": "Guggenheim Enhanced Equity Strategy Fund"
 	},
 	{
-		"Symbol": "GGG",
-		"Description": "Graco Inc."
+		"symbol": "GGG",
+		"description": "Graco Inc."
 	},
 	{
-		"Symbol": "GGM",
-		"Description": "Guggenheim Credit Allocation Fund"
+		"symbol": "GGM",
+		"description": "Guggenheim Credit Allocation Fund"
 	},
 	{
-		"Symbol": "GGN",
-		"Description": "GAMCO Global Gold, Natural Reources & Income Trust"
+		"symbol": "GGN",
+		"description": "GAMCO Global Gold, Natural Reources & Income Trust"
 	},
 	{
-		"Symbol": "GGN^B",
-		"Description": "GAMCO Global Gold, Natural Reources & Income Trust"
+		"symbol": "GGN^B",
+		"description": "GAMCO Global Gold, Natural Reources & Income Trust"
 	},
 	{
-		"Symbol": "GGO",
-		"Description": " Gabelli Go Anywhere Trust"
+		"symbol": "GGO",
+		"description": " Gabelli Go Anywhere Trust"
 	},
 	{
-		"Symbol": "GGO^A",
-		"Description": " Gabelli Go Anywhere Trust"
+		"symbol": "GGO^A",
+		"description": " Gabelli Go Anywhere Trust"
 	},
 	{
-		"Symbol": "GGP",
-		"Description": "GGP Inc."
+		"symbol": "GGP",
+		"description": "GGP Inc."
 	},
 	{
-		"Symbol": "GGP^A",
-		"Description": "GGP Inc."
+		"symbol": "GGP^A",
+		"description": "GGP Inc."
 	},
 	{
-		"Symbol": "GGT",
-		"Description": "Gabelli Multi-Media Trust Inc. "
+		"symbol": "GGT",
+		"description": "Gabelli Multi-Media Trust Inc. "
 	},
 	{
-		"Symbol": "GGT^B",
-		"Description": "Gabelli Multi-Media Trust Inc. "
+		"symbol": "GGT^B",
+		"description": "Gabelli Multi-Media Trust Inc. "
 	},
 	{
-		"Symbol": "GGZ",
-		"Description": "Gabelli Global Small and Mid Cap Value Trust "
+		"symbol": "GGZ",
+		"description": "Gabelli Global Small and Mid Cap Value Trust "
 	},
 	{
-		"Symbol": "GGZ^A",
-		"Description": "Gabelli Global Small and Mid Cap Value Trust "
+		"symbol": "GGZ^A",
+		"description": "Gabelli Global Small and Mid Cap Value Trust "
 	},
 	{
-		"Symbol": "GHC",
-		"Description": "Graham Holdings Company"
+		"symbol": "GHC",
+		"description": "Graham Holdings Company"
 	},
 	{
-		"Symbol": "GHDX",
-		"Description": "Genomic Health Inc"
+		"symbol": "GHDX",
+		"description": "Genomic Health Inc"
 	},
 	{
-		"Symbol": "GHL",
-		"Description": "Greenhill & Co., Inc."
+		"symbol": "GHL",
+		"description": "Greenhill & Co., Inc."
 	},
 	{
-		"Symbol": "GHM",
-		"Description": "Graham Corporation"
+		"symbol": "GHM",
+		"description": "Graham Corporation"
 	},
 	{
-		"Symbol": "GHY",
-		"Description": "Prudential Global Short Duration High Yield Fund, Inc."
+		"symbol": "GHY",
+		"description": "Prudential Global Short Duration High Yield Fund, Inc."
 	},
 	{
-		"Symbol": "GIB",
-		"Description": "CGI Group, Inc."
+		"symbol": "GIB",
+		"description": "CGI Group, Inc."
 	},
 	{
-		"Symbol": "GIFI",
-		"Description": "Gulf Island Fab"
+		"symbol": "GIFI",
+		"description": "Gulf Island Fab"
 	},
 	{
-		"Symbol": "GIG",
-		"Description": "GigPeak, Inc."
+		"symbol": "GIG",
+		"description": "GigPeak, Inc."
 	},
 	{
-		"Symbol": "GIGA",
-		"Description": "Giga Tronics Inc"
+		"symbol": "GIGA",
+		"description": "Giga Tronics Inc"
 	},
 	{
-		"Symbol": "GIGM",
-		"Description": "Gigamedia Limited"
+		"symbol": "GIGM",
+		"description": "Gigamedia Limited"
 	},
 	{
-		"Symbol": "GIII",
-		"Description": "G-III Apparel Gp I"
+		"symbol": "GIII",
+		"description": "G-III Apparel Gp I"
 	},
 	{
-		"Symbol": "GIL",
-		"Description": "Gildan Activewear, Inc."
+		"symbol": "GIL",
+		"description": "Gildan Activewear, Inc."
 	},
 	{
-		"Symbol": "GILD",
-		"Description": "Gilead Sciences Inc"
+		"symbol": "GILD",
+		"description": "Gilead Sciences Inc"
 	},
 	{
-		"Symbol": "GILT",
-		"Description": "Gilat Satellite Ntwk"
+		"symbol": "GILT",
+		"description": "Gilat Satellite Ntwk"
 	},
 	{
-		"Symbol": "GIM",
-		"Description": "Templeton Global Income Fund, Inc."
+		"symbol": "GIM",
+		"description": "Templeton Global Income Fund, Inc."
 	},
 	{
-		"Symbol": "GIMO",
-		"Description": "Gigamon Inc."
+		"symbol": "GIMO",
+		"description": "Gigamon Inc."
 	},
 	{
-		"Symbol": "GIS",
-		"Description": "General Mills, Inc."
+		"symbol": "GIS",
+		"description": "General Mills, Inc."
 	},
 	{
-		"Symbol": "GJH",
-		"Description": "STRATS Trust"
+		"symbol": "GJH",
+		"description": "STRATS Trust"
 	},
 	{
-		"Symbol": "GJO",
-		"Description": "STRATS Trust"
+		"symbol": "GJO",
+		"description": "STRATS Trust"
 	},
 	{
-		"Symbol": "GJP",
-		"Description": "Synthetic Fixed-Income Securities, Inc."
+		"symbol": "GJP",
+		"description": "Synthetic Fixed-Income Securities, Inc."
 	},
 	{
-		"Symbol": "GJR",
-		"Description": "Synthetic Fixed-Income Securities, Inc."
+		"symbol": "GJR",
+		"description": "Synthetic Fixed-Income Securities, Inc."
 	},
 	{
-		"Symbol": "GJS",
-		"Description": "STRATS Trust"
+		"symbol": "GJS",
+		"description": "STRATS Trust"
 	},
 	{
-		"Symbol": "GJT",
-		"Description": "Synthetic Fixed-Income Securities, Inc."
+		"symbol": "GJT",
+		"description": "Synthetic Fixed-Income Securities, Inc."
 	},
 	{
-		"Symbol": "GJV",
-		"Description": "Synthetic Fixed-Income Securities, Inc."
+		"symbol": "GJV",
+		"description": "Synthetic Fixed-Income Securities, Inc."
 	},
 	{
-		"Symbol": "GK",
-		"Description": "G K Svcs Inc Cl A"
+		"symbol": "GK",
+		"description": "G K Svcs Inc Cl A"
 	},
 	{
-		"Symbol": "GKOS",
-		"Description": "Glaukos Corporation"
+		"symbol": "GKOS",
+		"description": "Glaukos Corporation"
 	},
 	{
-		"Symbol": "GLAD",
-		"Description": "Gladstone Cap Corp"
+		"symbol": "GLAD",
+		"description": "Gladstone Cap Corp"
 	},
 	{
-		"Symbol": "GLADO",
-		"Description": "Gladstone 6.75 Srs"
+		"symbol": "GLADO",
+		"description": "Gladstone 6.75 Srs"
 	},
 	{
-		"Symbol": "GLBL",
-		"Description": "Terraform Glbl Cla"
+		"symbol": "GLBL",
+		"description": "Terraform Glbl Cla"
 	},
 	{
-		"Symbol": "GLBS",
-		"Description": "Globus Maritime Limi"
+		"symbol": "GLBS",
+		"description": "Globus Maritime Limi"
 	},
 	{
-		"Symbol": "GLBZ",
-		"Description": "Glen Burnie Bancorp"
+		"symbol": "GLBZ",
+		"description": "Glen Burnie Bancorp"
 	},
 	{
-		"Symbol": "GLDD",
-		"Description": "Great Lakes Drg Dock"
+		"symbol": "GLDD",
+		"description": "Great Lakes Drg Dock"
 	},
 	{
-		"Symbol": "GLDI",
-		"Description": "CS X-Links Gld Share"
+		"symbol": "GLDI",
+		"description": "CS X-Links Gld Share"
 	},
 	{
-		"Symbol": "GLF",
-		"Description": "GulfMark Offshore, Inc."
+		"symbol": "GLF",
+		"description": "GulfMark Offshore, Inc."
 	},
 	{
-		"Symbol": "GLMD",
-		"Description": "Galmed Pharmaceutica"
+		"symbol": "GLMD",
+		"description": "Galmed Pharmaceutica"
 	},
 	{
-		"Symbol": "GLNG",
-		"Description": "Golar Lng Ltd"
+		"symbol": "GLNG",
+		"description": "Golar Lng Ltd"
 	},
 	{
-		"Symbol": "GLO",
-		"Description": "Clough Global Opportunities Fund"
+		"symbol": "GLO",
+		"description": "Clough Global Opportunities Fund"
 	},
 	{
-		"Symbol": "GLOB",
-		"Description": "Globant S.A."
+		"symbol": "GLOB",
+		"description": "Globant S.A."
 	},
 	{
-		"Symbol": "GLOG",
-		"Description": "GasLog LP."
+		"symbol": "GLOG",
+		"description": "GasLog LP."
 	},
 	{
-		"Symbol": "GLOG^A",
-		"Description": "GasLog LP."
+		"symbol": "GLOG^A",
+		"description": "GasLog LP."
 	},
 	{
-		"Symbol": "GLOP",
-		"Description": "GasLog Partners LP"
+		"symbol": "GLOP",
+		"description": "GasLog Partners LP"
 	},
 	{
-		"Symbol": "GLOW",
-		"Description": "Glowpoint, Inc."
+		"symbol": "GLOW",
+		"description": "Glowpoint, Inc."
 	},
 	{
-		"Symbol": "GLP",
-		"Description": "Global Partners LP"
+		"symbol": "GLP",
+		"description": "Global Partners LP"
 	},
 	{
-		"Symbol": "GLPG",
-		"Description": "Galapagos Nv"
+		"symbol": "GLPG",
+		"description": "Galapagos Nv"
 	},
 	{
-		"Symbol": "GLPI",
-		"Description": "Gaming & Leisure"
+		"symbol": "GLPI",
+		"description": "Gaming & Leisure"
 	},
 	{
-		"Symbol": "GLQ",
-		"Description": "Clough Global Equity Fund"
+		"symbol": "GLQ",
+		"description": "Clough Global Equity Fund"
 	},
 	{
-		"Symbol": "GLRE",
-		"Description": "Greenlight Cap. Re."
+		"symbol": "GLRE",
+		"description": "Greenlight Cap. Re."
 	},
 	{
-		"Symbol": "GLT",
-		"Description": "Glatfelter"
+		"symbol": "GLT",
+		"description": "Glatfelter"
 	},
 	{
-		"Symbol": "GLU",
-		"Description": " Gabelli Global Utility and Income Trust"
+		"symbol": "GLU",
+		"description": " Gabelli Global Utility and Income Trust"
 	},
 	{
-		"Symbol": "GLU^A",
-		"Description": " Gabelli Global Utility and Income Trust"
+		"symbol": "GLU^A",
+		"description": " Gabelli Global Utility and Income Trust"
 	},
 	{
-		"Symbol": "GLUU",
-		"Description": "Glu Mobile Inc"
+		"symbol": "GLUU",
+		"description": "Glu Mobile Inc"
 	},
 	{
-		"Symbol": "GLV",
-		"Description": "Clough Global Dividend and Income Fund"
+		"symbol": "GLV",
+		"description": "Clough Global Dividend and Income Fund"
 	},
 	{
-		"Symbol": "GLW",
-		"Description": "Corning Incorporated"
+		"symbol": "GLW",
+		"description": "Corning Incorporated"
 	},
 	{
-		"Symbol": "GLYC",
-		"Description": "Glycomimetics Inc"
+		"symbol": "GLYC",
+		"description": "Glycomimetics Inc"
 	},
 	{
-		"Symbol": "GM",
-		"Description": "General Motors Company"
+		"symbol": "GM",
+		"description": "General Motors Company"
 	},
 	{
-		"Symbol": "GM.WS.B",
-		"Description": "General Motors Company"
+		"symbol": "GM.WS.B",
+		"description": "General Motors Company"
 	},
 	{
-		"Symbol": "GMAN",
-		"Description": "Gordmans Stores Inc"
+		"symbol": "GMAN",
+		"description": "Gordmans Stores Inc"
 	},
 	{
-		"Symbol": "GME",
-		"Description": "Gamestop Corporation"
+		"symbol": "GME",
+		"description": "Gamestop Corporation"
 	},
 	{
-		"Symbol": "GMED",
-		"Description": "Globus Medical, Inc."
+		"symbol": "GMED",
+		"description": "Globus Medical, Inc."
 	},
 	{
-		"Symbol": "GMLP",
-		"Description": "Golar Lng Partners"
+		"symbol": "GMLP",
+		"description": "Golar Lng Partners"
 	},
 	{
-		"Symbol": "GMO",
-		"Description": "General Moly, Inc"
+		"symbol": "GMO",
+		"description": "General Moly, Inc"
 	},
 	{
-		"Symbol": "GMRE",
-		"Description": "Global Medical REIT Inc."
+		"symbol": "GMRE",
+		"description": "Global Medical REIT Inc."
 	},
 	{
-		"Symbol": "GMS",
-		"Description": "GMS Inc."
+		"symbol": "GMS",
+		"description": "GMS Inc."
 	},
 	{
-		"Symbol": "GMTA",
-		"Description": "GATX Corporation"
+		"symbol": "GMTA",
+		"description": "GATX Corporation"
 	},
 	{
-		"Symbol": "GMZ",
-		"Description": "Goldman Sachs MLP Income Opportunities Fund"
+		"symbol": "GMZ",
+		"description": "Goldman Sachs MLP Income Opportunities Fund"
 	},
 	{
-		"Symbol": "GNBC",
-		"Description": "Green Bancorp Cmn"
+		"symbol": "GNBC",
+		"description": "Green Bancorp Cmn"
 	},
 	{
-		"Symbol": "GNC",
-		"Description": "GNC Holdings, Inc."
+		"symbol": "GNC",
+		"description": "GNC Holdings, Inc."
 	},
 	{
-		"Symbol": "GNCA",
-		"Description": "Genocea Biosciences"
+		"symbol": "GNCA",
+		"description": "Genocea Biosciences"
 	},
 	{
-		"Symbol": "GNCMA",
-		"Description": "Gen Communication"
+		"symbol": "GNCMA",
+		"description": "Gen Communication"
 	},
 	{
-		"Symbol": "GNE",
-		"Description": "Genie Energy Ltd."
+		"symbol": "GNE",
+		"description": "Genie Energy Ltd."
 	},
 	{
-		"Symbol": "GNE^A",
-		"Description": "Genie Energy Ltd."
+		"symbol": "GNE^A",
+		"description": "Genie Energy Ltd."
 	},
 	{
-		"Symbol": "GNK",
-		"Description": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021"
+		"symbol": "GNK",
+		"description": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021"
 	},
 	{
-		"Symbol": "GNL",
-		"Description": "Global Net Lease, Inc."
+		"symbol": "GNL",
+		"description": "Global Net Lease, Inc."
 	},
 	{
-		"Symbol": "GNMA",
-		"Description": "Ishares GNMA Bd ETF"
+		"symbol": "GNMA",
+		"description": "Ishares GNMA Bd ETF"
 	},
 	{
-		"Symbol": "GNMK",
-		"Description": "Genmark Diagnostics"
+		"symbol": "GNMK",
+		"description": "Genmark Diagnostics"
 	},
 	{
-		"Symbol": "GNMX",
-		"Description": "Aevi Genomic Medicine"
+		"symbol": "GNMX",
+		"description": "Aevi Genomic Medicine"
 	},
 	{
-		"Symbol": "GNRC",
-		"Description": "Generac Holdlings Inc."
+		"symbol": "GNRC",
+		"description": "Generac Holdlings Inc."
 	},
 	{
-		"Symbol": "GNRT",
-		"Description": "Gener8 Maritime, Inc."
+		"symbol": "GNRT",
+		"description": "Gener8 Maritime, Inc."
 	},
 	{
-		"Symbol": "GNRX",
-		"Description": "Vaneck Vectors Gener"
+		"symbol": "GNRX",
+		"description": "Vaneck Vectors Gener"
 	},
 	{
-		"Symbol": "GNT",
-		"Description": "GAMCO Natural Resources, Gold & Income Tust"
+		"symbol": "GNT",
+		"description": "GAMCO Natural Resources, Gold & Income Tust"
 	},
 	{
-		"Symbol": "GNTX",
-		"Description": "Gentex Corp"
+		"symbol": "GNTX",
+		"description": "Gentex Corp"
 	},
 	{
-		"Symbol": "GNUS",
-		"Description": "Genius Brands International Inc"
+		"symbol": "GNUS",
+		"description": "Genius Brands International Inc"
 	},
 	{
-		"Symbol": "GNVC",
-		"Description": "Genvec Inc"
+		"symbol": "GNVC",
+		"description": "Genvec Inc"
 	},
 	{
-		"Symbol": "GNW",
-		"Description": "Genworth Financial Inc"
+		"symbol": "GNW",
+		"description": "Genworth Financial Inc"
 	},
 	{
-		"Symbol": "GOF",
-		"Description": "Guggenheim Strategic Opportunities Fund"
+		"symbol": "GOF",
+		"description": "Guggenheim Strategic Opportunities Fund"
 	},
 	{
-		"Symbol": "GOGL",
-		"Description": "Golden Ocean Gp Cmn"
+		"symbol": "GOGL",
+		"description": "Golden Ocean Gp Cmn"
 	},
 	{
-		"Symbol": "GOGO",
-		"Description": "Gogo Inc Cmn Stk"
+		"symbol": "GOGO",
+		"description": "Gogo Inc Cmn Stk"
 	},
 	{
-		"Symbol": "GOL",
-		"Description": "Gol Linhas Aereas Inteligentes S.A."
+		"symbol": "GOL",
+		"description": "Gol Linhas Aereas Inteligentes S.A."
 	},
 	{
-		"Symbol": "GOLD",
-		"Description": "Randgold Res Ltd"
+		"symbol": "GOLD",
+		"description": "Randgold Res Ltd"
 	},
 	{
-		"Symbol": "GOLF",
-		"Description": "Acushnet Holdings Corp."
+		"symbol": "GOLF",
+		"description": "Acushnet Holdings Corp."
 	},
 	{
-		"Symbol": "GOOD",
-		"Description": "Gladstone Comml"
+		"symbol": "GOOD",
+		"description": "Gladstone Comml"
 	},
 	{
-		"Symbol": "GOODM",
-		"Description": "Gladstone Commercial Corporatio"
+		"symbol": "GOODM",
+		"description": "Gladstone Commercial Corporatio"
 	},
 	{
-		"Symbol": "GOODO",
-		"Description": "Gladstone Commercial"
+		"symbol": "GOODO",
+		"description": "Gladstone Commercial"
 	},
 	{
-		"Symbol": "GOODP",
-		"Description": "Gladstone Commercia"
+		"symbol": "GOODP",
+		"description": "Gladstone Commercia"
 	},
 	{
-		"Symbol": "GOOG",
-		"Description": "Alphabet Class C"
+		"symbol": "GOOG",
+		"description": "Alphabet Class C"
 	},
 	{
-		"Symbol": "GOOGL",
-		"Description": "Alphabet Class A"
+		"symbol": "GOOGL",
+		"description": "Alphabet Class A"
 	},
 	{
-		"Symbol": "GORO",
-		"Description": "Gold Resource Corporation"
+		"symbol": "GORO",
+		"description": "Gold Resource Corporation"
 	},
 	{
-		"Symbol": "GOV",
-		"Description": "Government Properties Income Trust"
+		"symbol": "GOV",
+		"description": "Government Properties Income Trust"
 	},
 	{
-		"Symbol": "GOVNI",
-		"Description": "Government Properties Income TR"
+		"symbol": "GOVNI",
+		"description": "Government Properties Income TR"
 	},
 	{
-		"Symbol": "GPAC",
-		"Description": "Global Ptnr Acq Com"
+		"symbol": "GPAC",
+		"description": "Global Ptnr Acq Com"
 	},
 	{
-		"Symbol": "GPACW",
-		"Description": "Global Ptnr Acq Wrt"
+		"symbol": "GPACW",
+		"description": "Global Ptnr Acq Wrt"
 	},
 	{
-		"Symbol": "GPC",
-		"Description": "Genuine Parts Company"
+		"symbol": "GPC",
+		"description": "Genuine Parts Company"
 	},
 	{
-		"Symbol": "GPE^A",
-		"Description": "Georgia Power Company"
+		"symbol": "GPE^A",
+		"description": "Georgia Power Company"
 	},
 	{
-		"Symbol": "GPI",
-		"Description": "Group 1 Automotive, Inc."
+		"symbol": "GPI",
+		"description": "Group 1 Automotive, Inc."
 	},
 	{
-		"Symbol": "GPIA",
-		"Description": "Gp Invstmts Aq Ord"
+		"symbol": "GPIA",
+		"description": "Gp Invstmts Aq Ord"
 	},
 	{
-		"Symbol": "GPIAW",
-		"Description": "Gp Investments Aq Wt"
+		"symbol": "GPIAW",
+		"description": "Gp Investments Aq Wt"
 	},
 	{
-		"Symbol": "GPIC",
-		"Description": "Gaming Partners Intl"
+		"symbol": "GPIC",
+		"description": "Gaming Partners Intl"
 	},
 	{
-		"Symbol": "GPK",
-		"Description": "Graphic Packaging Holding Company"
+		"symbol": "GPK",
+		"description": "Graphic Packaging Holding Company"
 	},
 	{
-		"Symbol": "GPL",
-		"Description": "Great Panther Silver Limited"
+		"symbol": "GPL",
+		"description": "Great Panther Silver Limited"
 	},
 	{
-		"Symbol": "GPM",
-		"Description": "Guggenheim Enhanced Equity Income Fund"
+		"symbol": "GPM",
+		"description": "Guggenheim Enhanced Equity Income Fund"
 	},
 	{
-		"Symbol": "GPN",
-		"Description": "Global Payments Inc."
+		"symbol": "GPN",
+		"description": "Global Payments Inc."
 	},
 	{
-		"Symbol": "GPOR",
-		"Description": "Gulfport Energy Corp"
+		"symbol": "GPOR",
+		"description": "Gulfport Energy Corp"
 	},
 	{
-		"Symbol": "GPP",
-		"Description": "Green Plains Partners LP"
+		"symbol": "GPP",
+		"description": "Green Plains Partners LP"
 	},
 	{
-		"Symbol": "GPRE",
-		"Description": "Green Plains Inc Cmn"
+		"symbol": "GPRE",
+		"description": "Green Plains Inc Cmn"
 	},
 	{
-		"Symbol": "GPRK",
-		"Description": "Geopark Ltd"
+		"symbol": "GPRK",
+		"description": "Geopark Ltd"
 	},
 	{
-		"Symbol": "GPRO",
-		"Description": "Gopro Inc Cl A Cmn"
+		"symbol": "GPRO",
+		"description": "Gopro Inc Cl A Cmn"
 	},
 	{
-		"Symbol": "GPS",
-		"Description": "Gap, Inc. "
+		"symbol": "GPS",
+		"description": "Gap, Inc. "
 	},
 	{
-		"Symbol": "GPT",
-		"Description": "Gramercy Property Trust"
+		"symbol": "GPT",
+		"description": "Gramercy Property Trust"
 	},
 	{
-		"Symbol": "GPT^A",
-		"Description": "Gramercy Property Trust Inc."
+		"symbol": "GPT^A",
+		"description": "Gramercy Property Trust Inc."
 	},
 	{
-		"Symbol": "GPX",
-		"Description": "GP Strategies Corporation"
+		"symbol": "GPX",
+		"description": "GP Strategies Corporation"
 	},
 	{
-		"Symbol": "GRA",
-		"Description": "W.R. Grace & Co."
+		"symbol": "GRA",
+		"description": "W.R. Grace & Co."
 	},
 	{
-		"Symbol": "GRAM",
-		"Description": "Grana y Montero S.A.A."
+		"symbol": "GRAM",
+		"description": "Grana y Montero S.A.A."
 	},
 	{
-		"Symbol": "GRBK",
-		"Description": "Green Brick Partners"
+		"symbol": "GRBK",
+		"description": "Green Brick Partners"
 	},
 	{
-		"Symbol": "GRC",
-		"Description": "Gorman-Rupp Company "
+		"symbol": "GRC",
+		"description": "Gorman-Rupp Company "
 	},
 	{
-		"Symbol": "GRF",
-		"Description": "Eagle Capital Growth Fund, Inc."
+		"symbol": "GRF",
+		"description": "Eagle Capital Growth Fund, Inc."
 	},
 	{
-		"Symbol": "GRFS",
-		"Description": "Grifols S.A."
+		"symbol": "GRFS",
+		"description": "Grifols S.A."
 	},
 	{
-		"Symbol": "GRID",
-		"Description": "First Trust Nq Ce Smgrid"
+		"symbol": "GRID",
+		"description": "First Trust Nq Ce Smgrid"
 	},
 	{
-		"Symbol": "GRIF",
-		"Description": "Griffin Industrial"
+		"symbol": "GRIF",
+		"description": "Griffin Industrial"
 	},
 	{
-		"Symbol": "GRMN",
-		"Description": "Garmin Ltd"
+		"symbol": "GRMN",
+		"description": "Garmin Ltd"
 	},
 	{
-		"Symbol": "GROW",
-		"Description": "U S Global Inv Inc"
+		"symbol": "GROW",
+		"description": "U S Global Inv Inc"
 	},
 	{
-		"Symbol": "GRP.U",
-		"Description": "Granite Real Estate Inc."
+		"symbol": "GRP.U",
+		"description": "Granite Real Estate Inc."
 	},
 	{
-		"Symbol": "GRPN",
-		"Description": "Groupon Cl A Cmn"
+		"symbol": "GRPN",
+		"description": "Groupon Cl A Cmn"
 	},
 	{
-		"Symbol": "GRR",
-		"Description": "Asia Tigers Fund, Inc. "
+		"symbol": "GRR",
+		"description": "Asia Tigers Fund, Inc. "
 	},
 	{
-		"Symbol": "GRUB",
-		"Description": "GrubHub Inc."
+		"symbol": "GRUB",
+		"description": "GrubHub Inc."
 	},
 	{
-		"Symbol": "GRVY",
-		"Description": "Gravity Co. Ltd"
+		"symbol": "GRVY",
+		"description": "Gravity Co. Ltd"
 	},
 	{
-		"Symbol": "GRX",
-		"Description": " Gabelli Healthcare & Wellness Trust"
+		"symbol": "GRX",
+		"description": " Gabelli Healthcare & Wellness Trust"
 	},
 	{
-		"Symbol": "GRX^A",
-		"Description": " Gabelli Healthcare & Wellness Trust"
+		"symbol": "GRX^A",
+		"description": " Gabelli Healthcare & Wellness Trust"
 	},
 	{
-		"Symbol": "GRX^B",
-		"Description": " Gabelli Healthcare & Wellness Trust"
+		"symbol": "GRX^B",
+		"description": " Gabelli Healthcare & Wellness Trust"
 	},
 	{
-		"Symbol": "GS",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^A",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^A",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^B",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^B",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^C",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^C",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^D",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^D",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^I",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^I",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^J",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^J",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^K",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^K",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GS^N",
-		"Description": "Goldman Sachs Group, Inc. "
+		"symbol": "GS^N",
+		"description": "Goldman Sachs Group, Inc. "
 	},
 	{
-		"Symbol": "GSAT",
-		"Description": "Globalstar, Inc."
+		"symbol": "GSAT",
+		"description": "Globalstar, Inc."
 	},
 	{
-		"Symbol": "GSB",
-		"Description": "GlobalSCAPE, Inc."
+		"symbol": "GSB",
+		"description": "GlobalSCAPE, Inc."
 	},
 	{
-		"Symbol": "GSBC",
-		"Description": "Great Southern Bncp"
+		"symbol": "GSBC",
+		"description": "Great Southern Bncp"
 	},
 	{
-		"Symbol": "GSBD",
-		"Description": "Goldman Sachs BDC, Inc."
+		"symbol": "GSBD",
+		"description": "Goldman Sachs BDC, Inc."
 	},
 	{
-		"Symbol": "GSH",
-		"Description": "Guangshen Railway Company Limited"
+		"symbol": "GSH",
+		"description": "Guangshen Railway Company Limited"
 	},
 	{
-		"Symbol": "GSHTU",
-		"Description": "Gores Holdings II Inc. Units"
+		"symbol": "GSHTU",
+		"description": "Gores Holdings II Inc. Units"
 	},
 	{
-		"Symbol": "GSIT",
-		"Description": "Gsi Technology Inc"
+		"symbol": "GSIT",
+		"description": "Gsi Technology Inc"
 	},
 	{
-		"Symbol": "GSK",
-		"Description": "GlaxoSmithKline PLC"
+		"symbol": "GSK",
+		"description": "GlaxoSmithKline PLC"
 	},
 	{
-		"Symbol": "GSL",
-		"Description": "Global Ship Lease, Inc."
+		"symbol": "GSL",
+		"description": "Global Ship Lease, Inc."
 	},
 	{
-		"Symbol": "GSL^B",
-		"Description": "Global Ship Lease, Inc."
+		"symbol": "GSL^B",
+		"description": "Global Ship Lease, Inc."
 	},
 	{
-		"Symbol": "GSM",
-		"Description": "Ferroglobe Plc Os"
+		"symbol": "GSM",
+		"description": "Ferroglobe Plc Os"
 	},
 	{
-		"Symbol": "GSOL",
-		"Description": "Global Sources Ltd"
+		"symbol": "GSOL",
+		"description": "Global Sources Ltd"
 	},
 	{
-		"Symbol": "GSS",
-		"Description": "Golden Star Resources, Ltd"
+		"symbol": "GSS",
+		"description": "Golden Star Resources, Ltd"
 	},
 	{
-		"Symbol": "GST",
-		"Description": "Gastar Exploration Inc."
+		"symbol": "GST",
+		"description": "Gastar Exploration Inc."
 	},
 	{
-		"Symbol": "GST^A",
-		"Description": "Gastar Exploration Inc."
+		"symbol": "GST^A",
+		"description": "Gastar Exploration Inc."
 	},
 	{
-		"Symbol": "GST^B",
-		"Description": "Gastar Exploration Inc."
+		"symbol": "GST^B",
+		"description": "Gastar Exploration Inc."
 	},
 	{
-		"Symbol": "GSUM",
-		"Description": "Gridsum Holding Inc"
+		"symbol": "GSUM",
+		"description": "Gridsum Holding Inc"
 	},
 	{
-		"Symbol": "GSV",
-		"Description": "Gold Standard Ventures Corporation"
+		"symbol": "GSV",
+		"description": "Gold Standard Ventures Corporation"
 	},
 	{
-		"Symbol": "GSVC",
-		"Description": "Gsv Capital Cp Cmn"
+		"symbol": "GSVC",
+		"description": "Gsv Capital Cp Cmn"
 	},
 	{
-		"Symbol": "GT",
-		"Description": "Goodyear Tire Rubber"
+		"symbol": "GT",
+		"description": "Goodyear Tire Rubber"
 	},
 	{
-		"Symbol": "GTE",
-		"Description": "Gran Tierra Energy Inc."
+		"symbol": "GTE",
+		"description": "Gran Tierra Energy Inc."
 	},
 	{
-		"Symbol": "GTIM",
-		"Description": "Good Times Rest"
+		"symbol": "GTIM",
+		"description": "Good Times Rest"
 	},
 	{
-		"Symbol": "GTLS",
-		"Description": "Chart Industries In"
+		"symbol": "GTLS",
+		"description": "Chart Industries In"
 	},
 	{
-		"Symbol": "GTN",
-		"Description": "Gray Television, Inc."
+		"symbol": "GTN",
+		"description": "Gray Television, Inc."
 	},
 	{
-		"Symbol": "GTN.A",
-		"Description": "Gray Television, Inc."
+		"symbol": "GTN.A",
+		"description": "Gray Television, Inc."
 	},
 	{
-		"Symbol": "GTS",
-		"Description": "Triple-S Management Corporation"
+		"symbol": "GTS",
+		"description": "Triple-S Management Corporation"
 	},
 	{
-		"Symbol": "GTT",
-		"Description": "GTT Communications, Inc."
+		"symbol": "GTT",
+		"description": "GTT Communications, Inc."
 	},
 	{
-		"Symbol": "GTWN",
-		"Description": "Georgetown Bancp Cmn"
+		"symbol": "GTWN",
+		"description": "Georgetown Bancp Cmn"
 	},
 	{
-		"Symbol": "GTXI",
-		"Description": "GTX Inc"
+		"symbol": "GTXI",
+		"description": "GTX Inc"
 	},
 	{
-		"Symbol": "GTY",
-		"Description": "Getty Realty Corporation"
+		"symbol": "GTY",
+		"description": "Getty Realty Corporation"
 	},
 	{
-		"Symbol": "GTYH",
-		"Description": "Gty Technology Holdings Inc"
+		"symbol": "GTYH",
+		"description": "Gty Technology Holdings Inc"
 	},
 	{
-		"Symbol": "GTYHU",
-		"Description": "Gty Technology Holdings Inc"
+		"symbol": "GTYHU",
+		"description": "Gty Technology Holdings Inc"
 	},
 	{
-		"Symbol": "GTYHW",
-		"Description": "Gty Technology Holdings Inc. Warrants"
+		"symbol": "GTYHW",
+		"description": "Gty Technology Holdings Inc. Warrants"
 	},
 	{
-		"Symbol": "GUID",
-		"Description": "Guidance Software"
+		"symbol": "GUID",
+		"description": "Guidance Software"
 	},
 	{
-		"Symbol": "GULF",
-		"Description": "Wisdomtree"
+		"symbol": "GULF",
+		"description": "Wisdomtree"
 	},
 	{
-		"Symbol": "GURE",
-		"Description": "Gulf Resources Inc"
+		"symbol": "GURE",
+		"description": "Gulf Resources Inc"
 	},
 	{
-		"Symbol": "GUT",
-		"Description": "Gabelli Utility Trust "
+		"symbol": "GUT",
+		"description": "Gabelli Utility Trust "
 	},
 	{
-		"Symbol": "GUT^A",
-		"Description": "Gabelli Utility Trust "
+		"symbol": "GUT^A",
+		"description": "Gabelli Utility Trust "
 	},
 	{
-		"Symbol": "GUT^C",
-		"Description": "Gabelli Utility Trust "
+		"symbol": "GUT^C",
+		"description": "Gabelli Utility Trust "
 	},
 	{
-		"Symbol": "GV",
-		"Description": "Goldfield Corporation "
+		"symbol": "GV",
+		"description": "Goldfield Corporation "
 	},
 	{
-		"Symbol": "GVA",
-		"Description": "Granite Construction Incorporated"
+		"symbol": "GVA",
+		"description": "Granite Construction Incorporated"
 	},
 	{
-		"Symbol": "GVP",
-		"Description": "GSE Systems, Inc."
+		"symbol": "GVP",
+		"description": "GSE Systems, Inc."
 	},
 	{
-		"Symbol": "GWB",
-		"Description": "Great Western Bancorp, Inc."
+		"symbol": "GWB",
+		"description": "Great Western Bancorp, Inc."
 	},
 	{
-		"Symbol": "GWGH",
-		"Description": "Gwg Holdings Com Stk"
+		"symbol": "GWGH",
+		"description": "Gwg Holdings Com Stk"
 	},
 	{
-		"Symbol": "GWPH",
-		"Description": "Gw Pharma ADR"
+		"symbol": "GWPH",
+		"description": "Gw Pharma ADR"
 	},
 	{
-		"Symbol": "GWR",
-		"Description": "Genesee & Wyoming, Inc."
+		"symbol": "GWR",
+		"description": "Genesee & Wyoming, Inc."
 	},
 	{
-		"Symbol": "GWRE",
-		"Description": "Guidewire Software, Inc."
+		"symbol": "GWRE",
+		"description": "Guidewire Software, Inc."
 	},
 	{
-		"Symbol": "GWRS",
-		"Description": "Global Water Reso Cmn"
+		"symbol": "GWRS",
+		"description": "Global Water Reso Cmn"
 	},
 	{
-		"Symbol": "GWW",
-		"Description": "W.W. Grainger, Inc."
+		"symbol": "GWW",
+		"description": "W.W. Grainger, Inc."
 	},
 	{
-		"Symbol": "GXP",
-		"Description": "Great Plains Energy Inc"
+		"symbol": "GXP",
+		"description": "Great Plains Energy Inc"
 	},
 	{
-		"Symbol": "GXP^B",
-		"Description": "Great Plains Energy Inc"
+		"symbol": "GXP^B",
+		"description": "Great Plains Energy Inc"
 	},
 	{
-		"Symbol": "GYB",
-		"Description": "CABCO Series 2004-101 Trust"
+		"symbol": "GYB",
+		"description": "CABCO Series 2004-101 Trust"
 	},
 	{
-		"Symbol": "GYC",
-		"Description": "Corporate Asset Backed Corp CABCO"
+		"symbol": "GYC",
+		"description": "Corporate Asset Backed Corp CABCO"
 	},
 	{
-		"Symbol": "GYRO",
-		"Description": "Gyrodyne Llc Cmn"
+		"symbol": "GYRO",
+		"description": "Gyrodyne Llc Cmn"
 	},
 	{
-		"Symbol": "GZT",
-		"Description": "Gazit-Globe Ltd."
+		"symbol": "GZT",
+		"description": "Gazit-Globe Ltd."
 	},
 	{
-		"Symbol": "H",
-		"Description": "Hyatt Hotels Corporation"
+		"symbol": "H",
+		"description": "Hyatt Hotels Corporation"
 	},
 	{
-		"Symbol": "HA",
-		"Description": "Hawaiian Hldgs Inc"
+		"symbol": "HA",
+		"description": "Hawaiian Hldgs Inc"
 	},
 	{
-		"Symbol": "HABT",
-		"Description": "Habit Rest Cmn A"
+		"symbol": "HABT",
+		"description": "Habit Rest Cmn A"
 	},
 	{
-		"Symbol": "HAE",
-		"Description": "Haemonetics Corporation"
+		"symbol": "HAE",
+		"description": "Haemonetics Corporation"
 	},
 	{
-		"Symbol": "HAFC",
-		"Description": "Hanmi Financial Cp"
+		"symbol": "HAFC",
+		"description": "Hanmi Financial Cp"
 	},
 	{
-		"Symbol": "HAIN",
-		"Description": "Hain Celestial Grp"
+		"symbol": "HAIN",
+		"description": "Hain Celestial Grp"
 	},
 	{
-		"Symbol": "HAL",
-		"Description": "Halliburton Company"
+		"symbol": "HAL",
+		"description": "Halliburton Company"
 	},
 	{
-		"Symbol": "HALL",
-		"Description": "Hallmark Fin Svc"
+		"symbol": "HALL",
+		"description": "Hallmark Fin Svc"
 	},
 	{
-		"Symbol": "HALO",
-		"Description": "Halozyme Therapeutic"
+		"symbol": "HALO",
+		"description": "Halozyme Therapeutic"
 	},
 	{
-		"Symbol": "HAR",
-		"Description": "Harman International Industries, Incorporated"
+		"symbol": "HAR",
+		"description": "Harman International Industries, Incorporated"
 	},
 	{
-		"Symbol": "HAS",
-		"Description": "Hasbro Inc"
+		"symbol": "HAS",
+		"description": "Hasbro Inc"
 	},
 	{
-		"Symbol": "HASI",
-		"Description": "Hannon Armstrong Sustainable Infrastructure Capital, Inc."
+		"symbol": "HASI",
+		"description": "Hannon Armstrong Sustainable Infrastructure Capital, Inc."
 	},
 	{
-		"Symbol": "HAWK",
-		"Description": "Blackhawk Network Ho"
+		"symbol": "HAWK",
+		"description": "Blackhawk Network Ho"
 	},
 	{
-		"Symbol": "HAYN",
-		"Description": "Haynes Intl Inc"
+		"symbol": "HAYN",
+		"description": "Haynes Intl Inc"
 	},
 	{
-		"Symbol": "HBAN",
-		"Description": "Huntington Bcshs"
+		"symbol": "HBAN",
+		"description": "Huntington Bcshs"
 	},
 	{
-		"Symbol": "HBANN",
-		"Description": "Huntington Bancshares Incorporated Depositary Sh"
+		"symbol": "HBANN",
+		"description": "Huntington Bancshares Incorporated Depositary Sh"
 	},
 	{
-		"Symbol": "HBANO",
-		"Description": "Huntington Banc. Dep"
+		"symbol": "HBANO",
+		"description": "Huntington Banc. Dep"
 	},
 	{
-		"Symbol": "HBANP",
-		"Description": "Huntington BNC Pfd A"
+		"symbol": "HBANP",
+		"description": "Huntington BNC Pfd A"
 	},
 	{
-		"Symbol": "HBCP",
-		"Description": "Home Bancorp Inc"
+		"symbol": "HBCP",
+		"description": "Home Bancorp Inc"
 	},
 	{
-		"Symbol": "HBHC",
-		"Description": "Hancock Holding Co"
+		"symbol": "HBHC",
+		"description": "Hancock Holding Co"
 	},
 	{
-		"Symbol": "HBHCL",
-		"Description": "Hancock Hld 5.95 Nt"
+		"symbol": "HBHCL",
+		"description": "Hancock Hld 5.95 Nt"
 	},
 	{
-		"Symbol": "HBI",
-		"Description": "Hanesbrands Inc."
+		"symbol": "HBI",
+		"description": "Hanesbrands Inc."
 	},
 	{
-		"Symbol": "HBIO",
-		"Description": "Harvard Bioscience"
+		"symbol": "HBIO",
+		"description": "Harvard Bioscience"
 	},
 	{
-		"Symbol": "HBK",
-		"Description": "Hamilton Bancorp"
+		"symbol": "HBK",
+		"description": "Hamilton Bancorp"
 	},
 	{
-		"Symbol": "HBM",
-		"Description": "Hudbay Minerals Inc."
+		"symbol": "HBM",
+		"description": "Hudbay Minerals Inc."
 	},
 	{
-		"Symbol": "HBM.WS",
-		"Description": "Hudbay Minerals Inc."
+		"symbol": "HBM.WS",
+		"description": "Hudbay Minerals Inc."
 	},
 	{
-		"Symbol": "HBMD",
-		"Description": "Howard Bancorp MD"
+		"symbol": "HBMD",
+		"description": "Howard Bancorp MD"
 	},
 	{
-		"Symbol": "HBNC",
-		"Description": "Horizon Bancorp"
+		"symbol": "HBNC",
+		"description": "Horizon Bancorp"
 	},
 	{
-		"Symbol": "HBP",
-		"Description": "Huttig Bldg Products"
+		"symbol": "HBP",
+		"description": "Huttig Bldg Products"
 	},
 	{
-		"Symbol": "HCA",
-		"Description": "HCA Holdings, Inc."
+		"symbol": "HCA",
+		"description": "HCA Holdings, Inc."
 	},
 	{
-		"Symbol": "HCAC",
-		"Description": "Hennssy Cp Aq II Cmn"
+		"symbol": "HCAC",
+		"description": "Hennssy Cp Aq II Cmn"
 	},
 	{
-		"Symbol": "HCACU",
-		"Description": "Hennessy Ctl Ut II"
+		"symbol": "HCACU",
+		"description": "Hennessy Ctl Ut II"
 	},
 	{
-		"Symbol": "HCACW",
-		"Description": "Hennssy Cp Aq II Wrt"
+		"symbol": "HCACW",
+		"description": "Hennssy Cp Aq II Wrt"
 	},
 	{
-		"Symbol": "HCAP",
-		"Description": "Harvest Capital Cred"
+		"symbol": "HCAP",
+		"description": "Harvest Capital Cred"
 	},
 	{
-		"Symbol": "HCAPL",
-		"Description": "Hrvst Cap 7% Nt 2020"
+		"symbol": "HCAPL",
+		"description": "Hrvst Cap 7% Nt 2020"
 	},
 	{
-		"Symbol": "HCCI",
-		"Description": "Heritage-Crystal"
+		"symbol": "HCCI",
+		"description": "Heritage-Crystal"
 	},
 	{
-		"Symbol": "HCHC",
-		"Description": "HC2 Holdings, Inc."
+		"symbol": "HCHC",
+		"description": "HC2 Holdings, Inc."
 	},
 	{
-		"Symbol": "HCI",
-		"Description": "HCI Group, Inc."
+		"symbol": "HCI",
+		"description": "HCI Group, Inc."
 	},
 	{
-		"Symbol": "HCJ",
-		"Description": "HCI Group, Inc."
+		"symbol": "HCJ",
+		"description": "HCI Group, Inc."
 	},
 	{
-		"Symbol": "HCKT",
-		"Description": "Hackett Grp Inc"
+		"symbol": "HCKT",
+		"description": "Hackett Grp Inc"
 	},
 	{
-		"Symbol": "HCLP",
-		"Description": "Hi-Crush Partners LP"
+		"symbol": "HCLP",
+		"description": "Hi-Crush Partners LP"
 	},
 	{
-		"Symbol": "HCM",
-		"Description": "Hutchison China Ads"
+		"symbol": "HCM",
+		"description": "Hutchison China Ads"
 	},
 	{
-		"Symbol": "HCN",
-		"Description": "Welltower Inc."
+		"symbol": "HCN",
+		"description": "Welltower Inc."
 	},
 	{
-		"Symbol": "HCN^I",
-		"Description": "Welltower Inc."
+		"symbol": "HCN^I",
+		"description": "Welltower Inc."
 	},
 	{
-		"Symbol": "HCN^J.CL",
-		"Description": "Welltower Inc."
+		"symbol": "HCN^J.CL",
+		"description": "Welltower Inc."
 	},
 	{
-		"Symbol": "HCOM",
-		"Description": "Hawaiian Telcom Hold"
+		"symbol": "HCOM",
+		"description": "Hawaiian Telcom Hold"
 	},
 	{
-		"Symbol": "HCP",
-		"Description": "HCP, Inc."
+		"symbol": "HCP",
+		"description": "HCP, Inc."
 	},
 	{
-		"Symbol": "HCSG",
-		"Description": "Healthcare Svcs Gp"
+		"symbol": "HCSG",
+		"description": "Healthcare Svcs Gp"
 	},
 	{
-		"Symbol": "HD",
-		"Description": "Home Depot, Inc. "
+		"symbol": "HD",
+		"description": "Home Depot, Inc. "
 	},
 	{
-		"Symbol": "HDB",
-		"Description": "HDFC Bank Limited"
+		"symbol": "HDB",
+		"description": "HDFC Bank Limited"
 	},
 	{
-		"Symbol": "HDNG",
-		"Description": "Hardinge Inc"
+		"symbol": "HDNG",
+		"description": "Hardinge Inc"
 	},
 	{
-		"Symbol": "HDP",
-		"Description": "Hortonworks Cmn"
+		"symbol": "HDP",
+		"description": "Hortonworks Cmn"
 	},
 	{
-		"Symbol": "HDS",
-		"Description": "HD Supply Hlds Cmm"
+		"symbol": "HDS",
+		"description": "HD Supply Hlds Cmm"
 	},
 	{
-		"Symbol": "HDSN",
-		"Description": "Hudson Tech Inc"
+		"symbol": "HDSN",
+		"description": "Hudson Tech Inc"
 	},
 	{
-		"Symbol": "HE",
-		"Description": "Hawaiian Electric Industries, Inc."
+		"symbol": "HE",
+		"description": "Hawaiian Electric Industries, Inc."
 	},
 	{
-		"Symbol": "HE^U",
-		"Description": "Hawaiian Electric Industries, Inc."
+		"symbol": "HE^U",
+		"description": "Hawaiian Electric Industries, Inc."
 	},
 	{
-		"Symbol": "HEAR",
-		"Description": "Turtle Beach Corp Cmn"
+		"symbol": "HEAR",
+		"description": "Turtle Beach Corp Cmn"
 	},
 	{
-		"Symbol": "HEB",
-		"Description": "Hemispherx BioPharma, Inc."
+		"symbol": "HEB",
+		"description": "Hemispherx BioPharma, Inc."
 	},
 	{
-		"Symbol": "HEBT",
-		"Description": "Hebron Technology Co. Ltd. Common Shares"
+		"symbol": "HEBT",
+		"description": "Hebron Technology Co. Ltd. Common Shares"
 	},
 	{
-		"Symbol": "HEES",
-		"Description": "H&E Equip Services"
+		"symbol": "HEES",
+		"description": "H&E Equip Services"
 	},
 	{
-		"Symbol": "HEI",
-		"Description": "Heico Corporation"
+		"symbol": "HEI",
+		"description": "Heico Corporation"
 	},
 	{
-		"Symbol": "HEI.A",
-		"Description": "Heico Corporation"
+		"symbol": "HEI.A",
+		"description": "Heico Corporation"
 	},
 	{
-		"Symbol": "HELE",
-		"Description": "Helen of Troy Ltd"
+		"symbol": "HELE",
+		"description": "Helen of Troy Ltd"
 	},
 	{
-		"Symbol": "HEOP",
-		"Description": "Heritage Oaks Bancp"
+		"symbol": "HEOP",
+		"description": "Heritage Oaks Bancp"
 	},
 	{
-		"Symbol": "HEP",
-		"Description": "Holly Energy Partners, L.P."
+		"symbol": "HEP",
+		"description": "Holly Energy Partners, L.P."
 	},
 	{
-		"Symbol": "HEQ",
-		"Description": "John Hancock Hedged Equity & Income Fund"
+		"symbol": "HEQ",
+		"description": "John Hancock Hedged Equity & Income Fund"
 	},
 	{
-		"Symbol": "HES",
-		"Description": "Hess Corporation"
+		"symbol": "HES",
+		"description": "Hess Corporation"
 	},
 	{
-		"Symbol": "HES^A",
-		"Description": "Hess Corporation"
+		"symbol": "HES^A",
+		"description": "Hess Corporation"
 	},
 	{
-		"Symbol": "HF",
-		"Description": "HFF, Inc."
+		"symbol": "HF",
+		"description": "HFF, Inc."
 	},
 	{
-		"Symbol": "HFBC",
-		"Description": "Hopfed Bancorp Inc"
+		"symbol": "HFBC",
+		"description": "Hopfed Bancorp Inc"
 	},
 	{
-		"Symbol": "HFBL",
-		"Description": "Home Federal"
+		"symbol": "HFBL",
+		"description": "Home Federal"
 	},
 	{
-		"Symbol": "HFC",
-		"Description": "HollyFrontier Corporation"
+		"symbol": "HFC",
+		"description": "HollyFrontier Corporation"
 	},
 	{
-		"Symbol": "HFWA",
-		"Description": "Heritage Financial"
+		"symbol": "HFWA",
+		"description": "Heritage Financial"
 	},
 	{
-		"Symbol": "HGG",
-		"Description": "HHGregg, Inc."
+		"symbol": "HGG",
+		"description": "HHGregg, Inc."
 	},
 	{
-		"Symbol": "HGH",
-		"Description": "Hartford Financial Services Group, Inc. "
+		"symbol": "HGH",
+		"description": "Hartford Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "HGSH",
-		"Description": "China Hgs Real Est"
+		"symbol": "HGSH",
+		"description": "China Hgs Real Est"
 	},
 	{
-		"Symbol": "HGT",
-		"Description": "Hugoton Royalty Trust"
+		"symbol": "HGT",
+		"description": "Hugoton Royalty Trust"
 	},
 	{
-		"Symbol": "HGV",
-		"Description": "Hilton Grand Vacations Inc."
+		"symbol": "HGV",
+		"description": "Hilton Grand Vacations Inc."
 	},
 	{
-		"Symbol": "HH",
-		"Description": "Hooper Holmes, Inc."
+		"symbol": "HH",
+		"description": "Hooper Holmes, Inc."
 	},
 	{
-		"Symbol": "HHC",
-		"Description": "Howard Hughes Corporation "
+		"symbol": "HHC",
+		"description": "Howard Hughes Corporation "
 	},
 	{
-		"Symbol": "HHS",
-		"Description": "Harte-Hanks, Inc."
+		"symbol": "HHS",
+		"description": "Harte-Hanks, Inc."
 	},
 	{
-		"Symbol": "HI",
-		"Description": "Hillenbrand Inc"
+		"symbol": "HI",
+		"description": "Hillenbrand Inc"
 	},
 	{
-		"Symbol": "HIBB",
-		"Description": "Hibbett Sports Inc"
+		"symbol": "HIBB",
+		"description": "Hibbett Sports Inc"
 	},
 	{
-		"Symbol": "HIE",
-		"Description": "Miller/Howard High Income Equity Fund"
+		"symbol": "HIE",
+		"description": "Miller/Howard High Income Equity Fund"
 	},
 	{
-		"Symbol": "HIFR",
-		"Description": "InfraREIT, Inc."
+		"symbol": "HIFR",
+		"description": "InfraREIT, Inc."
 	},
 	{
-		"Symbol": "HIFS",
-		"Description": "Hingham Inst For Svg"
+		"symbol": "HIFS",
+		"description": "Hingham Inst For Svg"
 	},
 	{
-		"Symbol": "HIG",
-		"Description": "Hartford Financial Services Group, Inc. "
+		"symbol": "HIG",
+		"description": "Hartford Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "HIG.WS",
-		"Description": "Hartford Financial Services Group, Inc. "
+		"symbol": "HIG.WS",
+		"description": "Hartford Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "HIHO",
-		"Description": "Highway Hldgs Ltd"
+		"symbol": "HIHO",
+		"description": "Highway Hldgs Ltd"
 	},
 	{
-		"Symbol": "HII",
-		"Description": "Huntington Ingalls Industries, Inc."
+		"symbol": "HII",
+		"description": "Huntington Ingalls Industries, Inc."
 	},
 	{
-		"Symbol": "HIIQ",
-		"Description": "Health Insurance Inn"
+		"symbol": "HIIQ",
+		"description": "Health Insurance Inn"
 	},
 	{
-		"Symbol": "HIL",
-		"Description": "Hill International, Inc."
+		"symbol": "HIL",
+		"description": "Hill International, Inc."
 	},
 	{
-		"Symbol": "HIMX",
-		"Description": "Himax Technologies"
+		"symbol": "HIMX",
+		"description": "Himax Technologies"
 	},
 	{
-		"Symbol": "HIO",
-		"Description": "Western Asset High Income Opportunity Fund, Inc."
+		"symbol": "HIO",
+		"description": "Western Asset High Income Opportunity Fund, Inc."
 	},
 	{
-		"Symbol": "HIVE",
-		"Description": "Aerohive Networks, Inc."
+		"symbol": "HIVE",
+		"description": "Aerohive Networks, Inc."
 	},
 	{
-		"Symbol": "HIW",
-		"Description": "Highwoods Properties, Inc."
+		"symbol": "HIW",
+		"description": "Highwoods Properties, Inc."
 	},
 	{
-		"Symbol": "HIX",
-		"Description": "Western Asset High Income Fund II Inc."
+		"symbol": "HIX",
+		"description": "Western Asset High Income Fund II Inc."
 	},
 	{
-		"Symbol": "HJV",
-		"Description": "MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14"
+		"symbol": "HJV",
+		"description": "MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14"
 	},
 	{
-		"Symbol": "HK",
-		"Description": "Halcon Resources Corporation"
+		"symbol": "HK",
+		"description": "Halcon Resources Corporation"
 	},
 	{
-		"Symbol": "HK.WS",
-		"Description": "Halcon Resources Corporation"
+		"symbol": "HK.WS",
+		"description": "Halcon Resources Corporation"
 	},
 	{
-		"Symbol": "HL",
-		"Description": "Hecla Mining Company"
+		"symbol": "HL",
+		"description": "Hecla Mining Company"
 	},
 	{
-		"Symbol": "HL^B",
-		"Description": "Hecla Mining Company"
+		"symbol": "HL^B",
+		"description": "Hecla Mining Company"
 	},
 	{
-		"Symbol": "HLF",
-		"Description": "Herbalife LTD."
+		"symbol": "HLF",
+		"description": "Herbalife LTD."
 	},
 	{
-		"Symbol": "HLG",
-		"Description": "Hailiang Edu Grp Ads"
+		"symbol": "HLG",
+		"description": "Hailiang Edu Grp Ads"
 	},
 	{
-		"Symbol": "HLI",
-		"Description": "Houlihan Lokey, Inc."
+		"symbol": "HLI",
+		"description": "Houlihan Lokey, Inc."
 	},
 	{
-		"Symbol": "HLIT",
-		"Description": "Harmonic Inc"
+		"symbol": "HLIT",
+		"description": "Harmonic Inc"
 	},
 	{
-		"Symbol": "HLM^",
-		"Description": "Hillman Group Capital Trust"
+		"symbol": "HLM^",
+		"description": "Hillman Group Capital Trust"
 	},
 	{
-		"Symbol": "HLS",
-		"Description": "HealthSouth Corporation"
+		"symbol": "HLS",
+		"description": "HealthSouth Corporation"
 	},
 	{
-		"Symbol": "HLT",
-		"Description": "Hilton Worldwide Holdings Inc."
+		"symbol": "HLT",
+		"description": "Hilton Worldwide Holdings Inc."
 	},
 	{
-		"Symbol": "HLTH",
-		"Description": "Nobilis Health Corp."
+		"symbol": "HLTH",
+		"description": "Nobilis Health Corp."
 	},
 	{
-		"Symbol": "HLX",
-		"Description": "Helix Energy Solutions Group, Inc."
+		"symbol": "HLX",
+		"description": "Helix Energy Solutions Group, Inc."
 	},
 	{
-		"Symbol": "HMC",
-		"Description": "Honda Motor Company, Ltd."
+		"symbol": "HMC",
+		"description": "Honda Motor Company, Ltd."
 	},
 	{
-		"Symbol": "HMG",
-		"Description": "HMG/Courtland Properties, Inc."
+		"symbol": "HMG",
+		"description": "HMG/Courtland Properties, Inc."
 	},
 	{
-		"Symbol": "HMHC",
-		"Description": "Houghton Mifflin Har"
+		"symbol": "HMHC",
+		"description": "Houghton Mifflin Har"
 	},
 	{
-		"Symbol": "HMLP",
-		"Description": "Hoegh LNG Partners LP"
+		"symbol": "HMLP",
+		"description": "Hoegh LNG Partners LP"
 	},
 	{
-		"Symbol": "HMN",
-		"Description": "Horace Mann Educators Corporation"
+		"symbol": "HMN",
+		"description": "Horace Mann Educators Corporation"
 	},
 	{
-		"Symbol": "HMNF",
-		"Description": "Hmn Financial Inc"
+		"symbol": "HMNF",
+		"description": "Hmn Financial Inc"
 	},
 	{
-		"Symbol": "HMNY",
-		"Description": "Helios and Matsn Ana"
+		"symbol": "HMNY",
+		"description": "Helios and Matsn Ana"
 	},
 	{
-		"Symbol": "HMST",
-		"Description": "Homestreet Inc"
+		"symbol": "HMST",
+		"description": "Homestreet Inc"
 	},
 	{
-		"Symbol": "HMSY",
-		"Description": "Hms Hldgs Cp"
+		"symbol": "HMSY",
+		"description": "Hms Hldgs Cp"
 	},
 	{
-		"Symbol": "HMTA",
-		"Description": "Hometown Bankshares"
+		"symbol": "HMTA",
+		"description": "Hometown Bankshares"
 	},
 	{
-		"Symbol": "HMTV",
-		"Description": "Hemisphere Media A"
+		"symbol": "HMTV",
+		"description": "Hemisphere Media A"
 	},
 	{
-		"Symbol": "HMY",
-		"Description": "Harmony Gold Mining Company Limited"
+		"symbol": "HMY",
+		"description": "Harmony Gold Mining Company Limited"
 	},
 	{
-		"Symbol": "HNH",
-		"Description": "Handy & Harman Ltd"
+		"symbol": "HNH",
+		"description": "Handy & Harman Ltd"
 	},
 	{
-		"Symbol": "HNI",
-		"Description": "HNI Corporation"
+		"symbol": "HNI",
+		"description": "HNI Corporation"
 	},
 	{
-		"Symbol": "HNNA",
-		"Description": "Hennessy Advisors Cmn"
+		"symbol": "HNNA",
+		"description": "Hennessy Advisors Cmn"
 	},
 	{
-		"Symbol": "HNP",
-		"Description": "Huaneng Power International, Inc."
+		"symbol": "HNP",
+		"description": "Huaneng Power International, Inc."
 	},
 	{
-		"Symbol": "HNR",
-		"Description": "Harvest Natural Resources Inc"
+		"symbol": "HNR",
+		"description": "Harvest Natural Resources Inc"
 	},
 	{
-		"Symbol": "HNRG",
-		"Description": "Hallador Energy Co"
+		"symbol": "HNRG",
+		"description": "Hallador Energy Co"
 	},
 	{
-		"Symbol": "HNW",
-		"Description": "Pioneer Diversified High Income Trust"
+		"symbol": "HNW",
+		"description": "Pioneer Diversified High Income Trust"
 	},
 	{
-		"Symbol": "HOFT",
-		"Description": "Hooker Furniture"
+		"symbol": "HOFT",
+		"description": "Hooker Furniture"
 	},
 	{
-		"Symbol": "HOG",
-		"Description": "Harley-Davidson, Inc."
+		"symbol": "HOG",
+		"description": "Harley-Davidson, Inc."
 	},
 	{
-		"Symbol": "HOLI",
-		"Description": "Hollysys Automation"
+		"symbol": "HOLI",
+		"description": "Hollysys Automation"
 	},
 	{
-		"Symbol": "HOLX",
-		"Description": "Hologic Inc"
+		"symbol": "HOLX",
+		"description": "Hologic Inc"
 	},
 	{
-		"Symbol": "HOMB",
-		"Description": "Home Bancshares Inc"
+		"symbol": "HOMB",
+		"description": "Home Bancshares Inc"
 	},
 	{
-		"Symbol": "HOME",
-		"Description": "At Home Group Inc."
+		"symbol": "HOME",
+		"description": "At Home Group Inc."
 	},
 	{
-		"Symbol": "HON",
-		"Description": "Honeywell International Inc."
+		"symbol": "HON",
+		"description": "Honeywell International Inc."
 	},
 	{
-		"Symbol": "HONE",
-		"Description": "Harborone Bancorp Inc"
+		"symbol": "HONE",
+		"description": "Harborone Bancorp Inc"
 	},
 	{
-		"Symbol": "HOPE",
-		"Description": "Hope Bancorp Inc"
+		"symbol": "HOPE",
+		"description": "Hope Bancorp Inc"
 	},
 	{
-		"Symbol": "HOS",
-		"Description": "Hornbeck Offshore Services"
+		"symbol": "HOS",
+		"description": "Hornbeck Offshore Services"
 	},
 	{
-		"Symbol": "HOTR",
-		"Description": "Chanticleer Hldgs"
+		"symbol": "HOTR",
+		"description": "Chanticleer Hldgs"
 	},
 	{
-		"Symbol": "HOTRW",
-		"Description": "Chanticleer Warrants"
+		"symbol": "HOTRW",
+		"description": "Chanticleer Warrants"
 	},
 	{
-		"Symbol": "HOV",
-		"Description": "Hovnanian Enterprises Inc"
+		"symbol": "HOV",
+		"description": "Hovnanian Enterprises Inc"
 	},
 	{
-		"Symbol": "HOVNP",
-		"Description": "Hovnanian Entr Dep A"
+		"symbol": "HOVNP",
+		"description": "Hovnanian Entr Dep A"
 	},
 	{
-		"Symbol": "HP",
-		"Description": "Helmerich & Payne, Inc."
+		"symbol": "HP",
+		"description": "Helmerich & Payne, Inc."
 	},
 	{
-		"Symbol": "HPE",
-		"Description": "Hewlett Packard Enterprise Company"
+		"symbol": "HPE",
+		"description": "Hewlett Packard Enterprise Company"
 	},
 	{
-		"Symbol": "HPF",
-		"Description": "John Hancock Pfd Income Fund II"
+		"symbol": "HPF",
+		"description": "John Hancock Pfd Income Fund II"
 	},
 	{
-		"Symbol": "HPI",
-		"Description": "John Hancock Preferred Income Fund"
+		"symbol": "HPI",
+		"description": "John Hancock Preferred Income Fund"
 	},
 	{
-		"Symbol": "HPJ",
-		"Description": "Highpower Intl Inc"
+		"symbol": "HPJ",
+		"description": "Highpower Intl Inc"
 	},
 	{
-		"Symbol": "HPP",
-		"Description": "Hudson Pacific Properties, Inc."
+		"symbol": "HPP",
+		"description": "Hudson Pacific Properties, Inc."
 	},
 	{
-		"Symbol": "HPQ",
-		"Description": "HP Inc."
+		"symbol": "HPQ",
+		"description": "HP Inc."
 	},
 	{
-		"Symbol": "HPS",
-		"Description": "John Hancock Preferred Income Fund III"
+		"symbol": "HPS",
+		"description": "John Hancock Preferred Income Fund III"
 	},
 	{
-		"Symbol": "HPT",
-		"Description": "Hospitality Properites Trust"
+		"symbol": "HPT",
+		"description": "Hospitality Properites Trust"
 	},
 	{
-		"Symbol": "HPTRP",
-		"Description": "Hospitality Properties Trust"
+		"symbol": "HPTRP",
+		"description": "Hospitality Properties Trust"
 	},
 	{
-		"Symbol": "HQCL",
-		"Description": "Hanwha Q Cells Ads"
+		"symbol": "HQCL",
+		"description": "Hanwha Q Cells Ads"
 	},
 	{
-		"Symbol": "HQH",
-		"Description": "Tekla Healthcare Investors"
+		"symbol": "HQH",
+		"description": "Tekla Healthcare Investors"
 	},
 	{
-		"Symbol": "HQL",
-		"Description": "Tekla Life Sciences Investors"
+		"symbol": "HQL",
+		"description": "Tekla Life Sciences Investors"
 	},
 	{
-		"Symbol": "HQY",
-		"Description": "Healthequity Cmn Stk"
+		"symbol": "HQY",
+		"description": "Healthequity Cmn Stk"
 	},
 	{
-		"Symbol": "HR",
-		"Description": "Healthcare Realty Trust Incorporated"
+		"symbol": "HR",
+		"description": "Healthcare Realty Trust Incorporated"
 	},
 	{
-		"Symbol": "HRB",
-		"Description": "H&R Block, Inc."
+		"symbol": "HRB",
+		"description": "H&R Block, Inc."
 	},
 	{
-		"Symbol": "HRC",
-		"Description": "Hill-Rom Holdings Inc"
+		"symbol": "HRC",
+		"description": "Hill-Rom Holdings Inc"
 	},
 	{
-		"Symbol": "HRG",
-		"Description": "HRG Group, Inc."
+		"symbol": "HRG",
+		"description": "HRG Group, Inc."
 	},
 	{
-		"Symbol": "HRI",
-		"Description": "Herc Holdings Inc."
+		"symbol": "HRI",
+		"description": "Herc Holdings Inc."
 	},
 	{
-		"Symbol": "HRL",
-		"Description": "Hormel Foods Corporation"
+		"symbol": "HRL",
+		"description": "Hormel Foods Corporation"
 	},
 	{
-		"Symbol": "HRMN",
-		"Description": "Harmony Merger Cmn"
+		"symbol": "HRMN",
+		"description": "Harmony Merger Cmn"
 	},
 	{
-		"Symbol": "HRMNU",
-		"Description": "Harmony Merger Unit"
+		"symbol": "HRMNU",
+		"description": "Harmony Merger Unit"
 	},
 	{
-		"Symbol": "HRMNW",
-		"Description": "Harmony Merger Wrnt"
+		"symbol": "HRMNW",
+		"description": "Harmony Merger Wrnt"
 	},
 	{
-		"Symbol": "HRS",
-		"Description": "Harris Corporation"
+		"symbol": "HRS",
+		"description": "Harris Corporation"
 	},
 	{
-		"Symbol": "HRT",
-		"Description": "Arrhythmia Research Technology Inc."
+		"symbol": "HRT",
+		"description": "Arrhythmia Research Technology Inc."
 	},
 	{
-		"Symbol": "HRTG",
-		"Description": "Heritage Insurance Holdings, Inc."
+		"symbol": "HRTG",
+		"description": "Heritage Insurance Holdings, Inc."
 	},
 	{
-		"Symbol": "HRTX",
-		"Description": "Heron Therapeutics"
+		"symbol": "HRTX",
+		"description": "Heron Therapeutics"
 	},
 	{
-		"Symbol": "HRZN",
-		"Description": "Horizon Technology F"
+		"symbol": "HRZN",
+		"description": "Horizon Technology F"
 	},
 	{
-		"Symbol": "HSBC",
-		"Description": "HSBC Holdings plc"
+		"symbol": "HSBC",
+		"description": "HSBC Holdings plc"
 	},
 	{
-		"Symbol": "HSBC^A",
-		"Description": "HSBC Holdings plc"
+		"symbol": "HSBC^A",
+		"description": "HSBC Holdings plc"
 	},
 	{
-		"Symbol": "HSC",
-		"Description": "Harsco Corporation"
+		"symbol": "HSC",
+		"description": "Harsco Corporation"
 	},
 	{
-		"Symbol": "HSEA",
-		"Description": "HSBC Holdings plc"
+		"symbol": "HSEA",
+		"description": "HSBC Holdings plc"
 	},
 	{
-		"Symbol": "HSEB",
-		"Description": "HSBC Holdings plc"
+		"symbol": "HSEB",
+		"description": "HSBC Holdings plc"
 	},
 	{
-		"Symbol": "HSGX",
-		"Description": "Histogenics Cp Cmn"
+		"symbol": "HSGX",
+		"description": "Histogenics Cp Cmn"
 	},
 	{
-		"Symbol": "HSIC",
-		"Description": "Henry Schein Inc"
+		"symbol": "HSIC",
+		"description": "Henry Schein Inc"
 	},
 	{
-		"Symbol": "HSII",
-		"Description": "Heidrick & Struggl"
+		"symbol": "HSII",
+		"description": "Heidrick & Struggl"
 	},
 	{
-		"Symbol": "HSKA",
-		"Description": "Heska Corp"
+		"symbol": "HSKA",
+		"description": "Heska Corp"
 	},
 	{
-		"Symbol": "HSNI",
-		"Description": "HSN Inc Cmn Stk"
+		"symbol": "HSNI",
+		"description": "HSN Inc Cmn Stk"
 	},
 	{
-		"Symbol": "HSON",
-		"Description": "Hudson Global Cmn"
+		"symbol": "HSON",
+		"description": "Hudson Global Cmn"
 	},
 	{
-		"Symbol": "HST",
-		"Description": "Host Hotels & Resorts, Inc."
+		"symbol": "HST",
+		"description": "Host Hotels & Resorts, Inc."
 	},
 	{
-		"Symbol": "HSTM",
-		"Description": "Healthstream Inc"
+		"symbol": "HSTM",
+		"description": "Healthstream Inc"
 	},
 	{
-		"Symbol": "HSY",
-		"Description": "Hershey Company "
+		"symbol": "HSY",
+		"description": "Hershey Company "
 	},
 	{
-		"Symbol": "HT",
-		"Description": "Hersha Hospitality Trust"
+		"symbol": "HT",
+		"description": "Hersha Hospitality Trust"
 	},
 	{
-		"Symbol": "HT^C",
-		"Description": "Hersha Hospitality Trust"
+		"symbol": "HT^C",
+		"description": "Hersha Hospitality Trust"
 	},
 	{
-		"Symbol": "HT^D",
-		"Description": "Hersha Hospitality Trust"
+		"symbol": "HT^D",
+		"description": "Hersha Hospitality Trust"
 	},
 	{
-		"Symbol": "HT^E",
-		"Description": "Hersha Hospitality Trust"
+		"symbol": "HT^E",
+		"description": "Hersha Hospitality Trust"
 	},
 	{
-		"Symbol": "HTA",
-		"Description": "Healthcare Trust of America, Inc."
+		"symbol": "HTA",
+		"description": "Healthcare Trust of America, Inc."
 	},
 	{
-		"Symbol": "HTBI",
-		"Description": "Hometrust Bancshares"
+		"symbol": "HTBI",
+		"description": "Hometrust Bancshares"
 	},
 	{
-		"Symbol": "HTBK",
-		"Description": "Heritage Commerce"
+		"symbol": "HTBK",
+		"description": "Heritage Commerce"
 	},
 	{
-		"Symbol": "HTBX",
-		"Description": "Heat Biologics Inc"
+		"symbol": "HTBX",
+		"description": "Heat Biologics Inc"
 	},
 	{
-		"Symbol": "HTD",
-		"Description": "John Hancock Tax Advantaged Dividend Income Fund"
+		"symbol": "HTD",
+		"description": "John Hancock Tax Advantaged Dividend Income Fund"
 	},
 	{
-		"Symbol": "HTF",
-		"Description": "Horizon Technology Finance Corporation"
+		"symbol": "HTF",
+		"description": "Horizon Technology Finance Corporation"
 	},
 	{
-		"Symbol": "HTGC",
-		"Description": "Hercules Capital, Inc."
+		"symbol": "HTGC",
+		"description": "Hercules Capital, Inc."
 	},
 	{
-		"Symbol": "HTGM",
-		"Description": "Htg Molecular Dia Cmn"
+		"symbol": "HTGM",
+		"description": "Htg Molecular Dia Cmn"
 	},
 	{
-		"Symbol": "HTGX",
-		"Description": "Hercules Capital, Inc."
+		"symbol": "HTGX",
+		"description": "Hercules Capital, Inc."
 	},
 	{
-		"Symbol": "HTGY.CL",
-		"Description": "Hercules Capital, Inc."
+		"symbol": "HTGY.CL",
+		"description": "Hercules Capital, Inc."
 	},
 	{
-		"Symbol": "HTGZ.CL",
-		"Description": "Hercules Capital, Inc."
+		"symbol": "HTGZ.CL",
+		"description": "Hercules Capital, Inc."
 	},
 	{
-		"Symbol": "HTH",
-		"Description": "Hilltop Holdings Inc."
+		"symbol": "HTH",
+		"description": "Hilltop Holdings Inc."
 	},
 	{
-		"Symbol": "HTHT",
-		"Description": "China Lodg Grp Ads"
+		"symbol": "HTHT",
+		"description": "China Lodg Grp Ads"
 	},
 	{
-		"Symbol": "HTLD",
-		"Description": "Heartland Express"
+		"symbol": "HTLD",
+		"description": "Heartland Express"
 	},
 	{
-		"Symbol": "HTLF",
-		"Description": "Heartland Finl USA"
+		"symbol": "HTLF",
+		"description": "Heartland Finl USA"
 	},
 	{
-		"Symbol": "HTM",
-		"Description": "U.S. Geothermal Inc."
+		"symbol": "HTM",
+		"description": "U.S. Geothermal Inc."
 	},
 	{
-		"Symbol": "HTY",
-		"Description": "John Hancock Tax-Advantaged Global Shareholder Yield Fund"
+		"symbol": "HTY",
+		"description": "John Hancock Tax-Advantaged Global Shareholder Yield Fund"
 	},
 	{
-		"Symbol": "HTZ",
-		"Description": "Hertz Global Holdings, Inc"
+		"symbol": "HTZ",
+		"description": "Hertz Global Holdings, Inc"
 	},
 	{
-		"Symbol": "HUBB",
-		"Description": "Hubbell Inc"
+		"symbol": "HUBB",
+		"description": "Hubbell Inc"
 	},
 	{
-		"Symbol": "HUBG",
-		"Description": "Hub Group Inc A"
+		"symbol": "HUBG",
+		"description": "Hub Group Inc A"
 	},
 	{
-		"Symbol": "HUBS",
-		"Description": "HubSpot, Inc."
+		"symbol": "HUBS",
+		"description": "HubSpot, Inc."
 	},
 	{
-		"Symbol": "HUM",
-		"Description": "Humana Inc."
+		"symbol": "HUM",
+		"description": "Humana Inc."
 	},
 	{
-		"Symbol": "HUN",
-		"Description": "Huntsman Corporation"
+		"symbol": "HUN",
+		"description": "Huntsman Corporation"
 	},
 	{
-		"Symbol": "HUNTU",
-		"Description": "Hunter Maritime Acquisition Corp"
+		"symbol": "HUNTU",
+		"description": "Hunter Maritime Acquisition Corp"
 	},
 	{
-		"Symbol": "HUNTW",
-		"Description": "Hunter Maritime Acquisition Corp. Warrant"
+		"symbol": "HUNTW",
+		"description": "Hunter Maritime Acquisition Corp. Warrant"
 	},
 	{
-		"Symbol": "HURC",
-		"Description": "Hurco Cos Inc"
+		"symbol": "HURC",
+		"description": "Hurco Cos Inc"
 	},
 	{
-		"Symbol": "HURN",
-		"Description": "Huron Consulting"
+		"symbol": "HURN",
+		"description": "Huron Consulting"
 	},
 	{
-		"Symbol": "HUSA",
-		"Description": "Houston American Energy Corporation"
+		"symbol": "HUSA",
+		"description": "Houston American Energy Corporation"
 	},
 	{
-		"Symbol": "HVBC",
-		"Description": "Hv Bancorp Inc"
+		"symbol": "HVBC",
+		"description": "Hv Bancorp Inc"
 	},
 	{
-		"Symbol": "HVT",
-		"Description": "Haverty Furniture Companies, Inc."
+		"symbol": "HVT",
+		"description": "Haverty Furniture Companies, Inc."
 	},
 	{
-		"Symbol": "HVT.A",
-		"Description": "Haverty Furniture Companies, Inc."
+		"symbol": "HVT.A",
+		"description": "Haverty Furniture Companies, Inc."
 	},
 	{
-		"Symbol": "HW",
-		"Description": "Headwaters Incorporated"
+		"symbol": "HW",
+		"description": "Headwaters Incorporated"
 	},
 	{
-		"Symbol": "HWBK",
-		"Description": "Hawthorn Bancshares"
+		"symbol": "HWBK",
+		"description": "Hawthorn Bancshares"
 	},
 	{
-		"Symbol": "HWCC",
-		"Description": "Houston Wire Cable"
+		"symbol": "HWCC",
+		"description": "Houston Wire Cable"
 	},
 	{
-		"Symbol": "HWKN",
-		"Description": "Hawkins Inc"
+		"symbol": "HWKN",
+		"description": "Hawkins Inc"
 	},
 	{
-		"Symbol": "HXL",
-		"Description": "Hexcel Corporation"
+		"symbol": "HXL",
+		"description": "Hexcel Corporation"
 	},
 	{
-		"Symbol": "HY",
-		"Description": "Hyster-Yale Materials Handling, Inc."
+		"symbol": "HY",
+		"description": "Hyster-Yale Materials Handling, Inc."
 	},
 	{
-		"Symbol": "HYB",
-		"Description": "New America High Income Fund, Inc. "
+		"symbol": "HYB",
+		"description": "New America High Income Fund, Inc. "
 	},
 	{
-		"Symbol": "HYGS",
-		"Description": "Hydrogenics Corp"
+		"symbol": "HYGS",
+		"description": "Hydrogenics Corp"
 	},
 	{
-		"Symbol": "HYH",
-		"Description": "Halyard Health, Inc."
+		"symbol": "HYH",
+		"description": "Halyard Health, Inc."
 	},
 	{
-		"Symbol": "HYI",
-		"Description": "Western Asset High Yield Defined Opportunity Fund Inc."
+		"symbol": "HYI",
+		"description": "Western Asset High Yield Defined Opportunity Fund Inc."
 	},
 	{
-		"Symbol": "HYLS",
-		"Description": "First Trust Tactical"
+		"symbol": "HYLS",
+		"description": "First Trust Tactical"
 	},
 	{
-		"Symbol": "HYND",
-		"Description": "Wt Bofa ML HY Ngdr F"
+		"symbol": "HYND",
+		"description": "Wt Bofa ML HY Ngdr F"
 	},
 	{
-		"Symbol": "HYT",
-		"Description": "Blackrock Corporate High Yield Fund, Inc."
+		"symbol": "HYT",
+		"description": "Blackrock Corporate High Yield Fund, Inc."
 	},
 	{
-		"Symbol": "HYXE",
-		"Description": "Ishares Iboxx $ High Yield Ex O"
+		"symbol": "HYXE",
+		"description": "Ishares Iboxx $ High Yield Ex O"
 	},
 	{
-		"Symbol": "HYZD",
-		"Description": "Wt Bofa ML HY Zero D"
+		"symbol": "HYZD",
+		"description": "Wt Bofa ML HY Zero D"
 	},
 	{
-		"Symbol": "HZN",
-		"Description": "Horizon Global Corporation"
+		"symbol": "HZN",
+		"description": "Horizon Global Corporation"
 	},
 	{
-		"Symbol": "HZNP",
-		"Description": "Horizon Pharma Ord"
+		"symbol": "HZNP",
+		"description": "Horizon Pharma Ord"
 	},
 	{
-		"Symbol": "HZO",
-		"Description": "MarineMax, Inc."
+		"symbol": "HZO",
+		"description": "MarineMax, Inc."
 	},
 	{
-		"Symbol": "I",
-		"Description": "Intelsat S.A."
+		"symbol": "I",
+		"description": "Intelsat S.A."
 	},
 	{
-		"Symbol": "IAC",
-		"Description": "Iac/Interactive"
+		"symbol": "IAC",
+		"description": "Iac/Interactive"
 	},
 	{
-		"Symbol": "IAE",
-		"Description": "Voya Asia Pacific High Dividend Equity Income Fund"
+		"symbol": "IAE",
+		"description": "Voya Asia Pacific High Dividend Equity Income Fund"
 	},
 	{
-		"Symbol": "IAF",
-		"Description": "Aberdeen Australia Equity Fund Inc"
+		"symbol": "IAF",
+		"description": "Aberdeen Australia Equity Fund Inc"
 	},
 	{
-		"Symbol": "IAG",
-		"Description": "Iamgold Corporation"
+		"symbol": "IAG",
+		"description": "Iamgold Corporation"
 	},
 	{
-		"Symbol": "IART",
-		"Description": "Integra Lifesciences"
+		"symbol": "IART",
+		"description": "Integra Lifesciences"
 	},
 	{
-		"Symbol": "IBA",
-		"Description": "Industrias Bachoco, S.A. de C.V."
+		"symbol": "IBA",
+		"description": "Industrias Bachoco, S.A. de C.V."
 	},
 	{
-		"Symbol": "IBB",
-		"Description": "Ishare Nasdaq Biotech ETF"
+		"symbol": "IBB",
+		"description": "Ishare Nasdaq Biotech ETF"
 	},
 	{
-		"Symbol": "IBCP",
-		"Description": "Independent Bk Cp"
+		"symbol": "IBCP",
+		"description": "Independent Bk Cp"
 	},
 	{
-		"Symbol": "IBIO",
-		"Description": "iBio, Inc."
+		"symbol": "IBIO",
+		"description": "iBio, Inc."
 	},
 	{
-		"Symbol": "IBKC",
-		"Description": "Iberiabank Corp"
+		"symbol": "IBKC",
+		"description": "Iberiabank Corp"
 	},
 	{
-		"Symbol": "IBKCO",
-		"Description": "Iberiabank Ds Rep C"
+		"symbol": "IBKCO",
+		"description": "Iberiabank Ds Rep C"
 	},
 	{
-		"Symbol": "IBKCP",
-		"Description": "Iberiabank Dp Sh B"
+		"symbol": "IBKCP",
+		"description": "Iberiabank Dp Sh B"
 	},
 	{
-		"Symbol": "IBKR",
-		"Description": "Interactive Brokers"
+		"symbol": "IBKR",
+		"description": "Interactive Brokers"
 	},
 	{
-		"Symbol": "IBM",
-		"Description": "International Business Machines Corporation"
+		"symbol": "IBM",
+		"description": "International Business Machines Corporation"
 	},
 	{
-		"Symbol": "IBN",
-		"Description": "ICICI Bank Limited"
+		"symbol": "IBN",
+		"description": "ICICI Bank Limited"
 	},
 	{
-		"Symbol": "IBO",
-		"Description": "IBO Listing Market - NYSE Amex Network B F"
+		"symbol": "IBO",
+		"description": "IBO Listing Market - NYSE Amex Network B F"
 	},
 	{
-		"Symbol": "IBOC",
-		"Description": "Intl Bancshares"
+		"symbol": "IBOC",
+		"description": "Intl Bancshares"
 	},
 	{
-		"Symbol": "IBP",
-		"Description": "Installed Building Products, Inc."
+		"symbol": "IBP",
+		"description": "Installed Building Products, Inc."
 	},
 	{
-		"Symbol": "IBTX",
-		"Description": "Independent Bank Grp"
+		"symbol": "IBTX",
+		"description": "Independent Bank Grp"
 	},
 	{
-		"Symbol": "IBUY",
-		"Description": "Amplify Onln Rtl ETF"
+		"symbol": "IBUY",
+		"description": "Amplify Onln Rtl ETF"
 	},
 	{
-		"Symbol": "ICAD",
-		"Description": "Icad Inc Cmn Stk"
+		"symbol": "ICAD",
+		"description": "Icad Inc Cmn Stk"
 	},
 	{
-		"Symbol": "ICB",
-		"Description": "MS Income Securities, Inc."
+		"symbol": "ICB",
+		"description": "MS Income Securities, Inc."
 	},
 	{
-		"Symbol": "ICBK",
-		"Description": "County Bancorp Cmn"
+		"symbol": "ICBK",
+		"description": "County Bancorp Cmn"
 	},
 	{
-		"Symbol": "ICCC",
-		"Description": "Immucell Cp"
+		"symbol": "ICCC",
+		"description": "Immucell Cp"
 	},
 	{
-		"Symbol": "ICD",
-		"Description": "Independence Contract Drilling, Inc."
+		"symbol": "ICD",
+		"description": "Independence Contract Drilling, Inc."
 	},
 	{
-		"Symbol": "ICE",
-		"Description": "Intercontinental Exchange Inc."
+		"symbol": "ICE",
+		"description": "Intercontinental Exchange Inc."
 	},
 	{
-		"Symbol": "ICFI",
-		"Description": "Icf International"
+		"symbol": "ICFI",
+		"description": "Icf International"
 	},
 	{
-		"Symbol": "ICHR",
-		"Description": "Ichor"
+		"symbol": "ICHR",
+		"description": "Ichor"
 	},
 	{
-		"Symbol": "ICL",
-		"Description": "Israel Chemicals Shs"
+		"symbol": "ICL",
+		"description": "Israel Chemicals Shs"
 	},
 	{
-		"Symbol": "ICLN",
-		"Description": "Ishres Gbl Cln Ergy"
+		"symbol": "ICLN",
+		"description": "Ishres Gbl Cln Ergy"
 	},
 	{
-		"Symbol": "ICLR",
-		"Description": "Icon Plc"
+		"symbol": "ICLR",
+		"description": "Icon Plc"
 	},
 	{
-		"Symbol": "ICON",
-		"Description": "Iconix Brand Group"
+		"symbol": "ICON",
+		"description": "Iconix Brand Group"
 	},
 	{
-		"Symbol": "ICP",
-		"Description": "IC Power Ltd."
+		"symbol": "ICP",
+		"description": "IC Power Ltd."
 	},
 	{
-		"Symbol": "ICPT",
-		"Description": "Intercept Pharmaceut"
+		"symbol": "ICPT",
+		"description": "Intercept Pharmaceut"
 	},
 	{
-		"Symbol": "ICUI",
-		"Description": "I C U Medical Inc"
+		"symbol": "ICUI",
+		"description": "I C U Medical Inc"
 	},
 	{
-		"Symbol": "IDA",
-		"Description": "IDACORP, Inc."
+		"symbol": "IDA",
+		"description": "IDACORP, Inc."
 	},
 	{
-		"Symbol": "IDCC",
-		"Description": "Interdigital Inc"
+		"symbol": "IDCC",
+		"description": "Interdigital Inc"
 	},
 	{
-		"Symbol": "IDE",
-		"Description": "Voya Infrastructure, Industrials and Materials Fund"
+		"symbol": "IDE",
+		"description": "Voya Infrastructure, Industrials and Materials Fund"
 	},
 	{
-		"Symbol": "IDLB",
-		"Description": "PS FTSE International Low Beta Equal Weight"
+		"symbol": "IDLB",
+		"description": "PS FTSE International Low Beta Equal Weight"
 	},
 	{
-		"Symbol": "IDN",
-		"Description": "Intellicheck Mobilisa, Inc."
+		"symbol": "IDN",
+		"description": "Intellicheck Mobilisa, Inc."
 	},
 	{
-		"Symbol": "IDRA",
-		"Description": "Idera Pharmaceutical"
+		"symbol": "IDRA",
+		"description": "Idera Pharmaceutical"
 	},
 	{
-		"Symbol": "IDSA",
-		"Description": "Industrial Svcs Am"
+		"symbol": "IDSA",
+		"description": "Industrial Svcs Am"
 	},
 	{
-		"Symbol": "IDSY",
-		"Description": "Id Systems Inc"
+		"symbol": "IDSY",
+		"description": "Id Systems Inc"
 	},
 	{
-		"Symbol": "IDT",
-		"Description": "IDT Corporation"
+		"symbol": "IDT",
+		"description": "IDT Corporation"
 	},
 	{
-		"Symbol": "IDTI",
-		"Description": "Integrated Devices"
+		"symbol": "IDTI",
+		"description": "Integrated Devices"
 	},
 	{
-		"Symbol": "IDXG",
-		"Description": "Interpace Diag Grp"
+		"symbol": "IDXG",
+		"description": "Interpace Diag Grp"
 	},
 	{
-		"Symbol": "IDXX",
-		"Description": "Idexx Laboratories"
+		"symbol": "IDXX",
+		"description": "Idexx Laboratories"
 	},
 	{
-		"Symbol": "IEC",
-		"Description": "IEC Electronics Corp."
+		"symbol": "IEC",
+		"description": "IEC Electronics Corp."
 	},
 	{
-		"Symbol": "IEP",
-		"Description": "Icahn Enterprises"
+		"symbol": "IEP",
+		"description": "Icahn Enterprises"
 	},
 	{
-		"Symbol": "IESC",
-		"Description": "Ies Holdings Cmn"
+		"symbol": "IESC",
+		"description": "Ies Holdings Cmn"
 	},
 	{
-		"Symbol": "IEUS",
-		"Description": "Ishares MSCI Europe"
+		"symbol": "IEUS",
+		"description": "Ishares MSCI Europe"
 	},
 	{
-		"Symbol": "IEX",
-		"Description": "IDEX Corporation"
+		"symbol": "IEX",
+		"description": "IDEX Corporation"
 	},
 	{
-		"Symbol": "IF",
-		"Description": "Aberdeen Indonesia Fund, Inc."
+		"symbol": "IF",
+		"description": "Aberdeen Indonesia Fund, Inc."
 	},
 	{
-		"Symbol": "IFEU",
-		"Description": "Ishares Europe Dvlpd"
+		"symbol": "IFEU",
+		"description": "Ishares Europe Dvlpd"
 	},
 	{
-		"Symbol": "IFF",
-		"Description": "Internationa Flavors & Fragrances, Inc."
+		"symbol": "IFF",
+		"description": "Internationa Flavors & Fragrances, Inc."
 	},
 	{
-		"Symbol": "IFGL",
-		"Description": "Ishares Intl Devlp"
+		"symbol": "IFGL",
+		"description": "Ishares Intl Devlp"
 	},
 	{
-		"Symbol": "IFMI",
-		"Description": "Institutional Financial Markets, Inc."
+		"symbol": "IFMI",
+		"description": "Institutional Financial Markets, Inc."
 	},
 	{
-		"Symbol": "IFN",
-		"Description": "India Fund, Inc. "
+		"symbol": "IFN",
+		"description": "India Fund, Inc. "
 	},
 	{
-		"Symbol": "IFON",
-		"Description": "Infosonic Corp"
+		"symbol": "IFON",
+		"description": "Infosonic Corp"
 	},
 	{
-		"Symbol": "IFV",
-		"Description": "First Trt Dorsey Wri"
+		"symbol": "IFV",
+		"description": "First Trt Dorsey Wri"
 	},
 	{
-		"Symbol": "IGA",
-		"Description": "Voya Global Advantage and Premium Opportunity Fund"
+		"symbol": "IGA",
+		"description": "Voya Global Advantage and Premium Opportunity Fund"
 	},
 	{
-		"Symbol": "IGC",
-		"Description": "India Globalization Capital Inc."
+		"symbol": "IGC",
+		"description": "India Globalization Capital Inc."
 	},
 	{
-		"Symbol": "IGD",
-		"Description": "Voya Global Equity Dividend and Premium Opportunity Fund"
+		"symbol": "IGD",
+		"description": "Voya Global Equity Dividend and Premium Opportunity Fund"
 	},
 	{
-		"Symbol": "IGF",
-		"Description": "Ishares Global Infra"
+		"symbol": "IGF",
+		"description": "Ishares Global Infra"
 	},
 	{
-		"Symbol": "IGI",
-		"Description": "Western Asset Investment Grade Defined Opportunity Trust Inc."
+		"symbol": "IGI",
+		"description": "Western Asset Investment Grade Defined Opportunity Trust Inc."
 	},
 	{
-		"Symbol": "IGLD",
-		"Description": "Internet Gold-Golden"
+		"symbol": "IGLD",
+		"description": "Internet Gold-Golden"
 	},
 	{
-		"Symbol": "IGOV",
-		"Description": "Ishares Intl Trsy Bd"
+		"symbol": "IGOV",
+		"description": "Ishares Intl Trsy Bd"
 	},
 	{
-		"Symbol": "IGR",
-		"Description": "CBRE Clarion Global Real Estate Income Fund"
+		"symbol": "IGR",
+		"description": "CBRE Clarion Global Real Estate Income Fund"
 	},
 	{
-		"Symbol": "IGT",
-		"Description": "International Game Technology"
+		"symbol": "IGT",
+		"description": "International Game Technology"
 	},
 	{
-		"Symbol": "IHC",
-		"Description": "Independence Holding Company"
+		"symbol": "IHC",
+		"description": "Independence Holding Company"
 	},
 	{
-		"Symbol": "IHD",
-		"Description": "Voya Emerging Markets High Income Dividend Equity Fund"
+		"symbol": "IHD",
+		"description": "Voya Emerging Markets High Income Dividend Equity Fund"
 	},
 	{
-		"Symbol": "IHG",
-		"Description": "Intercontinental Hotels Group"
+		"symbol": "IHG",
+		"description": "Intercontinental Hotels Group"
 	},
 	{
-		"Symbol": "IHIT",
-		"Description": "Invesco High Income 2023 Target Term Fund"
+		"symbol": "IHIT",
+		"description": "Invesco High Income 2023 Target Term Fund"
 	},
 	{
-		"Symbol": "IHT",
-		"Description": "InnSuites Hospitality Trust"
+		"symbol": "IHT",
+		"description": "InnSuites Hospitality Trust"
 	},
 	{
-		"Symbol": "IID",
-		"Description": "Voya International High Dividend Equity Income Fund"
+		"symbol": "IID",
+		"description": "Voya International High Dividend Equity Income Fund"
 	},
 	{
-		"Symbol": "IIF",
-		"Description": "Morgan Stanley India Investment Fund, Inc."
+		"symbol": "IIF",
+		"description": "Morgan Stanley India Investment Fund, Inc."
 	},
 	{
-		"Symbol": "III",
-		"Description": "Information Svcs Grp"
+		"symbol": "III",
+		"description": "Information Svcs Grp"
 	},
 	{
-		"Symbol": "IIIN",
-		"Description": "Insteel Industries"
+		"symbol": "IIIN",
+		"description": "Insteel Industries"
 	},
 	{
-		"Symbol": "IIJI",
-		"Description": "Internet Init Jap"
+		"symbol": "IIJI",
+		"description": "Internet Init Jap"
 	},
 	{
-		"Symbol": "IIM",
-		"Description": "Invesco Value Municipal Income Trust"
+		"symbol": "IIM",
+		"description": "Invesco Value Municipal Income Trust"
 	},
 	{
-		"Symbol": "IIN",
-		"Description": "Intricon Corp"
+		"symbol": "IIN",
+		"description": "Intricon Corp"
 	},
 	{
-		"Symbol": "IIPR",
-		"Description": "Innovative Industrial Properties, Inc."
+		"symbol": "IIPR",
+		"description": "Innovative Industrial Properties, Inc."
 	},
 	{
-		"Symbol": "IIVI",
-		"Description": "I I V I Inc"
+		"symbol": "IIVI",
+		"description": "I I V I Inc"
 	},
 	{
-		"Symbol": "IKGH",
-		"Description": "Iao Kun Grp Holdings"
+		"symbol": "IKGH",
+		"description": "Iao Kun Grp Holdings"
 	},
 	{
-		"Symbol": "IKNX",
-		"Description": "Ikonics Corp"
+		"symbol": "IKNX",
+		"description": "Ikonics Corp"
 	},
 	{
-		"Symbol": "ILG",
-		"Description": "Ilg Inc"
+		"symbol": "ILG",
+		"description": "Ilg Inc"
 	},
 	{
-		"Symbol": "ILMN",
-		"Description": "Illumina Inc"
+		"symbol": "ILMN",
+		"description": "Illumina Inc"
 	},
 	{
-		"Symbol": "IMAX",
-		"Description": "Imax Corporation"
+		"symbol": "IMAX",
+		"description": "Imax Corporation"
 	},
 	{
-		"Symbol": "IMDZ",
-		"Description": "Immune Design CS"
+		"symbol": "IMDZ",
+		"description": "Immune Design CS"
 	},
 	{
-		"Symbol": "IMED",
-		"Description": "Purefunds Etfx Healthtech ETF"
+		"symbol": "IMED",
+		"description": "Purefunds Etfx Healthtech ETF"
 	},
 	{
-		"Symbol": "IMGN",
-		"Description": "Immunogen Inc"
+		"symbol": "IMGN",
+		"description": "Immunogen Inc"
 	},
 	{
-		"Symbol": "IMH",
-		"Description": "Impac Mortgage Holdings, Inc."
+		"symbol": "IMH",
+		"description": "Impac Mortgage Holdings, Inc."
 	},
 	{
-		"Symbol": "IMI",
-		"Description": "Intermolecular Inc"
+		"symbol": "IMI",
+		"description": "Intermolecular Inc"
 	},
 	{
-		"Symbol": "IMKTA",
-		"Description": "Ingles Markets Inc"
+		"symbol": "IMKTA",
+		"description": "Ingles Markets Inc"
 	},
 	{
-		"Symbol": "IMMR",
-		"Description": "Immersion Corp"
+		"symbol": "IMMR",
+		"description": "Immersion Corp"
 	},
 	{
-		"Symbol": "IMMU",
-		"Description": "Immunomedics Inc"
+		"symbol": "IMMU",
+		"description": "Immunomedics Inc"
 	},
 	{
-		"Symbol": "IMMY",
-		"Description": "Imprimis Phar Cmn"
+		"symbol": "IMMY",
+		"description": "Imprimis Phar Cmn"
 	},
 	{
-		"Symbol": "IMN",
-		"Description": "Imation Corporation"
+		"symbol": "IMN",
+		"description": "Imation Corporation"
 	},
 	{
-		"Symbol": "IMNP",
-		"Description": "Immune Pharma Cmn"
+		"symbol": "IMNP",
+		"description": "Immune Pharma Cmn"
 	},
 	{
-		"Symbol": "IMO",
-		"Description": "Imperial Oil Limited"
+		"symbol": "IMO",
+		"description": "Imperial Oil Limited"
 	},
 	{
-		"Symbol": "IMOS",
-		"Description": "Chipmos Tech New"
+		"symbol": "IMOS",
+		"description": "Chipmos Tech New"
 	},
 	{
-		"Symbol": "IMPV",
-		"Description": "Imperva Inc"
+		"symbol": "IMPV",
+		"description": "Imperva Inc"
 	},
 	{
-		"Symbol": "IMUC",
-		"Description": "ImmunoCellular Therapeutics, Ltd."
+		"symbol": "IMUC",
+		"description": "ImmunoCellular Therapeutics, Ltd."
 	},
 	{
-		"Symbol": "IMUC.WS",
-		"Description": "ImmunoCellular Therapeutics, Ltd."
+		"symbol": "IMUC.WS",
+		"description": "ImmunoCellular Therapeutics, Ltd."
 	},
 	{
-		"Symbol": "INAP",
-		"Description": "Internap Corp Cmn"
+		"symbol": "INAP",
+		"description": "Internap Corp Cmn"
 	},
 	{
-		"Symbol": "INB",
-		"Description": "Cohen & Steers Global Income Builder, Inc."
+		"symbol": "INB",
+		"description": "Cohen & Steers Global Income Builder, Inc."
 	},
 	{
-		"Symbol": "INBK",
-		"Description": "First Internet Bcp"
+		"symbol": "INBK",
+		"description": "First Internet Bcp"
 	},
 	{
-		"Symbol": "INBKL",
-		"Description": "First Internet Bancorp"
+		"symbol": "INBKL",
+		"description": "First Internet Bancorp"
 	},
 	{
-		"Symbol": "INCR",
-		"Description": "Inc Research A Cmn"
+		"symbol": "INCR",
+		"description": "Inc Research A Cmn"
 	},
 	{
-		"Symbol": "INCY",
-		"Description": "Incyte Corporation"
+		"symbol": "INCY",
+		"description": "Incyte Corporation"
 	},
 	{
-		"Symbol": "INDB",
-		"Description": "Independent Bk Corp"
+		"symbol": "INDB",
+		"description": "Independent Bk Corp"
 	},
 	{
-		"Symbol": "INDY",
-		"Description": "Ishares India 50 ETF"
+		"symbol": "INDY",
+		"description": "Ishares India 50 ETF"
 	},
 	{
-		"Symbol": "INF",
-		"Description": "Brookfield Global Listed Infrastructure Income Fund"
+		"symbol": "INF",
+		"description": "Brookfield Global Listed Infrastructure Income Fund"
 	},
 	{
-		"Symbol": "INFI",
-		"Description": "Infinity Pharmaceuti"
+		"symbol": "INFI",
+		"description": "Infinity Pharmaceuti"
 	},
 	{
-		"Symbol": "INFN",
-		"Description": "Infinera Corporation"
+		"symbol": "INFN",
+		"description": "Infinera Corporation"
 	},
 	{
-		"Symbol": "INFO",
-		"Description": "IHS Markit Ltd"
+		"symbol": "INFO",
+		"description": "IHS Markit Ltd"
 	},
 	{
-		"Symbol": "INFR",
-		"Description": "Legg Mason ETF Equity Trust Legg Mason Global In"
+		"symbol": "INFR",
+		"description": "Legg Mason ETF Equity Trust Legg Mason Global In"
 	},
 	{
-		"Symbol": "INFU",
-		"Description": "InfuSystems Holdings, Inc."
+		"symbol": "INFU",
+		"description": "InfuSystems Holdings, Inc."
 	},
 	{
-		"Symbol": "INFY",
-		"Description": "Infosys Limited"
+		"symbol": "INFY",
+		"description": "Infosys Limited"
 	},
 	{
-		"Symbol": "ING",
-		"Description": "ING Group, N.V."
+		"symbol": "ING",
+		"description": "ING Group, N.V."
 	},
 	{
-		"Symbol": "INGN",
-		"Description": "Inogen Inc"
+		"symbol": "INGN",
+		"description": "Inogen Inc"
 	},
 	{
-		"Symbol": "INGR",
-		"Description": "Ingredion Incorporated"
+		"symbol": "INGR",
+		"description": "Ingredion Incorporated"
 	},
 	{
-		"Symbol": "INN",
-		"Description": "Summit Hotel Properties, Inc."
+		"symbol": "INN",
+		"description": "Summit Hotel Properties, Inc."
 	},
 	{
-		"Symbol": "INN^B",
-		"Description": "Summit Hotel Properties, Inc."
+		"symbol": "INN^B",
+		"description": "Summit Hotel Properties, Inc."
 	},
 	{
-		"Symbol": "INN^C",
-		"Description": "Summit Hotel Properties, Inc."
+		"symbol": "INN^C",
+		"description": "Summit Hotel Properties, Inc."
 	},
 	{
-		"Symbol": "INN^D",
-		"Description": "Summit Hotel Properties, Inc."
+		"symbol": "INN^D",
+		"description": "Summit Hotel Properties, Inc."
 	},
 	{
-		"Symbol": "INNL",
-		"Description": "Innocoll Hld Ord Shr"
+		"symbol": "INNL",
+		"description": "Innocoll Hld Ord Shr"
 	},
 	{
-		"Symbol": "INO",
-		"Description": "Inovio Pharma Cmn"
+		"symbol": "INO",
+		"description": "Inovio Pharma Cmn"
 	},
 	{
-		"Symbol": "INOD",
-		"Description": "Innodata Inc"
+		"symbol": "INOD",
+		"description": "Innodata Inc"
 	},
 	{
-		"Symbol": "INOV",
-		"Description": "Inovalon Hldgs Cm A"
+		"symbol": "INOV",
+		"description": "Inovalon Hldgs Cm A"
 	},
 	{
-		"Symbol": "INS",
-		"Description": "Intelligent Systems Corporation"
+		"symbol": "INS",
+		"description": "Intelligent Systems Corporation"
 	},
 	{
-		"Symbol": "INSE",
-		"Description": "Inspired Entertainment Inc. Common Stock"
+		"symbol": "INSE",
+		"description": "Inspired Entertainment Inc. Common Stock"
 	},
 	{
-		"Symbol": "INSEW",
-		"Description": "Inspired Entertainment Inc. Warrants"
+		"symbol": "INSEW",
+		"description": "Inspired Entertainment Inc. Warrants"
 	},
 	{
-		"Symbol": "INSG",
-		"Description": "Novatel Wireless Cmn"
+		"symbol": "INSG",
+		"description": "Novatel Wireless Cmn"
 	},
 	{
-		"Symbol": "INSI",
-		"Description": "Insight Select Income Fund"
+		"symbol": "INSI",
+		"description": "Insight Select Income Fund"
 	},
 	{
-		"Symbol": "INSM",
-		"Description": "Insmed Inc"
+		"symbol": "INSM",
+		"description": "Insmed Inc"
 	},
 	{
-		"Symbol": "INST",
-		"Description": "Instructure, Inc."
+		"symbol": "INST",
+		"description": "Instructure, Inc."
 	},
 	{
-		"Symbol": "INSW",
-		"Description": "International Seaways, Inc."
+		"symbol": "INSW",
+		"description": "International Seaways, Inc."
 	},
 	{
-		"Symbol": "INSY",
-		"Description": "Insys Theraptcs Cmn"
+		"symbol": "INSY",
+		"description": "Insys Theraptcs Cmn"
 	},
 	{
-		"Symbol": "INT",
-		"Description": "World Fuel Services Corporation"
+		"symbol": "INT",
+		"description": "World Fuel Services Corporation"
 	},
 	{
-		"Symbol": "INTC",
-		"Description": "Intel Corp"
+		"symbol": "INTC",
+		"description": "Intel Corp"
 	},
 	{
-		"Symbol": "INTG",
-		"Description": "Intergroup Cp "
+		"symbol": "INTG",
+		"description": "Intergroup Cp "
 	},
 	{
-		"Symbol": "INTL",
-		"Description": "Intl Fcstone Inc Cmn"
+		"symbol": "INTL",
+		"description": "Intl Fcstone Inc Cmn"
 	},
 	{
-		"Symbol": "INTT",
-		"Description": "inTest Corporation"
+		"symbol": "INTT",
+		"description": "inTest Corporation"
 	},
 	{
-		"Symbol": "INTU",
-		"Description": "Intuit Inc"
+		"symbol": "INTU",
+		"description": "Intuit Inc"
 	},
 	{
-		"Symbol": "INTX",
-		"Description": "Intersections Inc"
+		"symbol": "INTX",
+		"description": "Intersections Inc"
 	},
 	{
-		"Symbol": "INUV",
-		"Description": "Inuvo, Inc"
+		"symbol": "INUV",
+		"description": "Inuvo, Inc"
 	},
 	{
-		"Symbol": "INVA",
-		"Description": "Innoviva Inc"
+		"symbol": "INVA",
+		"description": "Innoviva Inc"
 	},
 	{
-		"Symbol": "INVE",
-		"Description": "Identiv Inc"
+		"symbol": "INVE",
+		"description": "Identiv Inc"
 	},
 	{
-		"Symbol": "INVH",
-		"Description": "Invitation Homes Inc."
+		"symbol": "INVH",
+		"description": "Invitation Homes Inc."
 	},
 	{
-		"Symbol": "INVN",
-		"Description": "InvenSense, Inc."
+		"symbol": "INVN",
+		"description": "InvenSense, Inc."
 	},
 	{
-		"Symbol": "INVT",
-		"Description": "Inventergy Glbl Inc"
+		"symbol": "INVT",
+		"description": "Inventergy Glbl Inc"
 	},
 	{
-		"Symbol": "INWK",
-		"Description": "Innerworkings Inc"
+		"symbol": "INWK",
+		"description": "Innerworkings Inc"
 	},
 	{
-		"Symbol": "INXN",
-		"Description": "InterXion Holding N.V."
+		"symbol": "INXN",
+		"description": "InterXion Holding N.V."
 	},
 	{
-		"Symbol": "INZ",
-		"Description": "ING Group, N.V."
+		"symbol": "INZ",
+		"description": "ING Group, N.V."
 	},
 	{
-		"Symbol": "IO",
-		"Description": "Ion Geophysical Corporation"
+		"symbol": "IO",
+		"description": "Ion Geophysical Corporation"
 	},
 	{
-		"Symbol": "IOC",
-		"Description": "InterOil Corporation"
+		"symbol": "IOC",
+		"description": "InterOil Corporation"
 	},
 	{
-		"Symbol": "IONS",
-		"Description": "Ionis Pharmaceutical"
+		"symbol": "IONS",
+		"description": "Ionis Pharmaceutical"
 	},
 	{
-		"Symbol": "IOSP",
-		"Description": "Innospec Inc"
+		"symbol": "IOSP",
+		"description": "Innospec Inc"
 	},
 	{
-		"Symbol": "IOT",
-		"Description": "Income Opportunity Realty Investors, Inc."
+		"symbol": "IOT",
+		"description": "Income Opportunity Realty Investors, Inc."
 	},
 	{
-		"Symbol": "IOTS",
-		"Description": "Adesto Tech Cmn"
+		"symbol": "IOTS",
+		"description": "Adesto Tech Cmn"
 	},
 	{
-		"Symbol": "IP",
-		"Description": "International Paper Company"
+		"symbol": "IP",
+		"description": "International Paper Company"
 	},
 	{
-		"Symbol": "IPAR",
-		"Description": "Inter Parfums Inc"
+		"symbol": "IPAR",
+		"description": "Inter Parfums Inc"
 	},
 	{
-		"Symbol": "IPAS",
-		"Description": "Ipass Inc"
+		"symbol": "IPAS",
+		"description": "Ipass Inc"
 	},
 	{
-		"Symbol": "IPB",
-		"Description": "Merrill Lynch & Co., Inc."
+		"symbol": "IPB",
+		"description": "Merrill Lynch & Co., Inc."
 	},
 	{
-		"Symbol": "IPCC",
-		"Description": "Infinity Property"
+		"symbol": "IPCC",
+		"description": "Infinity Property"
 	},
 	{
-		"Symbol": "IPCI",
-		"Description": "Intellipharmaceutics"
+		"symbol": "IPCI",
+		"description": "Intellipharmaceutics"
 	},
 	{
-		"Symbol": "IPDN",
-		"Description": "Professional Diversi"
+		"symbol": "IPDN",
+		"description": "Professional Diversi"
 	},
 	{
-		"Symbol": "IPG",
-		"Description": "Interpublic Group of Companies, Inc. "
+		"symbol": "IPG",
+		"description": "Interpublic Group of Companies, Inc. "
 	},
 	{
-		"Symbol": "IPGP",
-		"Description": "Ipg Photonics Corp"
+		"symbol": "IPGP",
+		"description": "Ipg Photonics Corp"
 	},
 	{
-		"Symbol": "IPHI",
-		"Description": "Inphi Corporation"
+		"symbol": "IPHI",
+		"description": "Inphi Corporation"
 	},
 	{
-		"Symbol": "IPHS",
-		"Description": "Innophos Hldngs Inc"
+		"symbol": "IPHS",
+		"description": "Innophos Hldngs Inc"
 	},
 	{
-		"Symbol": "IPI",
-		"Description": "Intrepid Potash, Inc"
+		"symbol": "IPI",
+		"description": "Intrepid Potash, Inc"
 	},
 	{
-		"Symbol": "IPKW",
-		"Description": "PS International Buyback Achievers"
+		"symbol": "IPKW",
+		"description": "PS International Buyback Achievers"
 	},
 	{
-		"Symbol": "IPL^D",
-		"Description": "Interstate Power and Light Company"
+		"symbol": "IPL^D",
+		"description": "Interstate Power and Light Company"
 	},
 	{
-		"Symbol": "IPWR",
-		"Description": "Ideal Power Inc"
+		"symbol": "IPWR",
+		"description": "Ideal Power Inc"
 	},
 	{
-		"Symbol": "IPXL",
-		"Description": "Impax Labs Inc"
+		"symbol": "IPXL",
+		"description": "Impax Labs Inc"
 	},
 	{
-		"Symbol": "IQI",
-		"Description": "Invesco Quality Municipal Income Trust"
+		"symbol": "IQI",
+		"description": "Invesco Quality Municipal Income Trust"
 	},
 	{
-		"Symbol": "IQNT",
-		"Description": "Inteliquent Inc Cmn"
+		"symbol": "IQNT",
+		"description": "Inteliquent Inc Cmn"
 	},
 	{
-		"Symbol": "IR",
-		"Description": "Ingersoll-Rand plc Ireland"
+		"symbol": "IR",
+		"description": "Ingersoll-Rand plc Ireland"
 	},
 	{
-		"Symbol": "IRBT",
-		"Description": "Irobot Corporation"
+		"symbol": "IRBT",
+		"description": "Irobot Corporation"
 	},
 	{
-		"Symbol": "IRCP",
-		"Description": "Irsa Propiedades Ads"
+		"symbol": "IRCP",
+		"description": "Irsa Propiedades Ads"
 	},
 	{
-		"Symbol": "IRDM",
-		"Description": "Iridium Comm Inc"
+		"symbol": "IRDM",
+		"description": "Iridium Comm Inc"
 	},
 	{
-		"Symbol": "IRDMB",
-		"Description": "Iridium 6.75 Sr B Pf"
+		"symbol": "IRDMB",
+		"description": "Iridium 6.75 Sr B Pf"
 	},
 	{
-		"Symbol": "IRET",
-		"Description": "Investors Real Estate Trust"
+		"symbol": "IRET",
+		"description": "Investors Real Estate Trust"
 	},
 	{
-		"Symbol": "IRET^B",
-		"Description": "Investors Real Estate Trust"
+		"symbol": "IRET^B",
+		"description": "Investors Real Estate Trust"
 	},
 	{
-		"Symbol": "IRG",
-		"Description": "Ignite Restaurant Gp"
+		"symbol": "IRG",
+		"description": "Ignite Restaurant Gp"
 	},
 	{
-		"Symbol": "IRIX",
-		"Description": "Iridex Cp"
+		"symbol": "IRIX",
+		"description": "Iridex Cp"
 	},
 	{
-		"Symbol": "IRL",
-		"Description": "New Ireland Fund, Inc. "
+		"symbol": "IRL",
+		"description": "New Ireland Fund, Inc. "
 	},
 	{
-		"Symbol": "IRM",
-		"Description": "Iron Mountain Incorporated"
+		"symbol": "IRM",
+		"description": "Iron Mountain Incorporated"
 	},
 	{
-		"Symbol": "IRMD",
-		"Description": "Iradimed Cp Cm Stk"
+		"symbol": "IRMD",
+		"description": "Iradimed Cp Cm Stk"
 	},
 	{
-		"Symbol": "IROQ",
-		"Description": "If Bancorp Inc"
+		"symbol": "IROQ",
+		"description": "If Bancorp Inc"
 	},
 	{
-		"Symbol": "IRR",
-		"Description": "Voya Natural Resources Equity Income Fund"
+		"symbol": "IRR",
+		"description": "Voya Natural Resources Equity Income Fund"
 	},
 	{
-		"Symbol": "IRS",
-		"Description": "IRSA Inversiones Y Representaciones S.A."
+		"symbol": "IRS",
+		"description": "IRSA Inversiones Y Representaciones S.A."
 	},
 	{
-		"Symbol": "IRT",
-		"Description": "Independence Realty Trust, Inc."
+		"symbol": "IRT",
+		"description": "Independence Realty Trust, Inc."
 	},
 	{
-		"Symbol": "IRTC",
-		"Description": "Irhythm Technologies Inc"
+		"symbol": "IRTC",
+		"description": "Irhythm Technologies Inc"
 	},
 	{
-		"Symbol": "IRWD",
-		"Description": "Ironwood Pharmaceuti"
+		"symbol": "IRWD",
+		"description": "Ironwood Pharmaceuti"
 	},
 	{
-		"Symbol": "ISBC",
-		"Description": "Investors Bancorp"
+		"symbol": "ISBC",
+		"description": "Investors Bancorp"
 	},
 	{
-		"Symbol": "ISCA",
-		"Description": "Intl Speedway Cl A"
+		"symbol": "ISCA",
+		"description": "Intl Speedway Cl A"
 	},
 	{
-		"Symbol": "ISD",
-		"Description": "Prudential Short Duration High Yield Fund, Inc."
+		"symbol": "ISD",
+		"description": "Prudential Short Duration High Yield Fund, Inc."
 	},
 	{
-		"Symbol": "ISDR",
-		"Description": "Issuer Direct Corporation"
+		"symbol": "ISDR",
+		"description": "Issuer Direct Corporation"
 	},
 	{
-		"Symbol": "ISF",
-		"Description": "ING Group, N.V."
+		"symbol": "ISF",
+		"description": "ING Group, N.V."
 	},
 	{
-		"Symbol": "ISG",
-		"Description": "ING Group, N.V."
+		"symbol": "ISG",
+		"description": "ING Group, N.V."
 	},
 	{
-		"Symbol": "ISHG",
-		"Description": "Ishares 1-3 Yr Intl"
+		"symbol": "ISHG",
+		"description": "Ishares 1-3 Yr Intl"
 	},
 	{
-		"Symbol": "ISIG",
-		"Description": "Insignia Systems"
+		"symbol": "ISIG",
+		"description": "Insignia Systems"
 	},
 	{
-		"Symbol": "ISIL",
-		"Description": "Intersil Corp Cla"
+		"symbol": "ISIL",
+		"description": "Intersil Corp Cla"
 	},
 	{
-		"Symbol": "ISL",
-		"Description": "Aberdeen Israel Fund, Inc."
+		"symbol": "ISL",
+		"description": "Aberdeen Israel Fund, Inc."
 	},
 	{
-		"Symbol": "ISLE",
-		"Description": "Isle of Capri Cas"
+		"symbol": "ISLE",
+		"description": "Isle of Capri Cas"
 	},
 	{
-		"Symbol": "ISM",
-		"Description": "SLM Corp Med Nt A"
+		"symbol": "ISM",
+		"description": "SLM Corp Med Nt A"
 	},
 	{
-		"Symbol": "ISNS",
-		"Description": "Image Sensing Syst"
+		"symbol": "ISNS",
+		"description": "Image Sensing Syst"
 	},
 	{
-		"Symbol": "ISP",
-		"Description": "ING Group, N.V."
+		"symbol": "ISP",
+		"description": "ING Group, N.V."
 	},
 	{
-		"Symbol": "ISR",
-		"Description": "IsoRay, Inc."
+		"symbol": "ISR",
+		"description": "IsoRay, Inc."
 	},
 	{
-		"Symbol": "ISRG",
-		"Description": "Intuitive Surg Inc"
+		"symbol": "ISRG",
+		"description": "Intuitive Surg Inc"
 	},
 	{
-		"Symbol": "ISRL",
-		"Description": "Isramco Inc"
+		"symbol": "ISRL",
+		"description": "Isramco Inc"
 	},
 	{
-		"Symbol": "ISSC",
-		"Description": "Innovative Sol&Sup"
+		"symbol": "ISSC",
+		"description": "Innovative Sol&Sup"
 	},
 	{
-		"Symbol": "ISTR",
-		"Description": "Investar Holding Cmn"
+		"symbol": "ISTR",
+		"description": "Investar Holding Cmn"
 	},
 	{
-		"Symbol": "IT",
-		"Description": "Gartner, Inc."
+		"symbol": "IT",
+		"description": "Gartner, Inc."
 	},
 	{
-		"Symbol": "ITCB",
-		"Description": "Ita? CorpBanca"
+		"symbol": "ITCB",
+		"description": "Ita? CorpBanca"
 	},
 	{
-		"Symbol": "ITCI",
-		"Description": "Intra-Cellular Ther"
+		"symbol": "ITCI",
+		"description": "Intra-Cellular Ther"
 	},
 	{
-		"Symbol": "ITEK",
-		"Description": "Inotek Pharma Cmn"
+		"symbol": "ITEK",
+		"description": "Inotek Pharma Cmn"
 	},
 	{
-		"Symbol": "ITEQ",
-		"Description": "Blstar Ta-Bgtch Isrl"
+		"symbol": "ITEQ",
+		"description": "Blstar Ta-Bgtch Isrl"
 	},
 	{
-		"Symbol": "ITG",
-		"Description": "Investment Technology Group, Inc."
+		"symbol": "ITG",
+		"description": "Investment Technology Group, Inc."
 	},
 	{
-		"Symbol": "ITGR",
-		"Description": "Integer Holdings Corporation"
+		"symbol": "ITGR",
+		"description": "Integer Holdings Corporation"
 	},
 	{
-		"Symbol": "ITI",
-		"Description": "Iteris Inc Cmn Stk"
+		"symbol": "ITI",
+		"description": "Iteris Inc Cmn Stk"
 	},
 	{
-		"Symbol": "ITIC",
-		"Description": "Investors Title Co"
+		"symbol": "ITIC",
+		"description": "Investors Title Co"
 	},
 	{
-		"Symbol": "ITRI",
-		"Description": "Itron Inc"
+		"symbol": "ITRI",
+		"description": "Itron Inc"
 	},
 	{
-		"Symbol": "ITRN",
-		"Description": "Ituran Location"
+		"symbol": "ITRN",
+		"description": "Ituran Location"
 	},
 	{
-		"Symbol": "ITT",
-		"Description": "ITT Inc."
+		"symbol": "ITT",
+		"description": "ITT Inc."
 	},
 	{
-		"Symbol": "ITUB",
-		"Description": "Itau Unibanco Banco Holding SA"
+		"symbol": "ITUB",
+		"description": "Itau Unibanco Banco Holding SA"
 	},
 	{
-		"Symbol": "ITUS",
-		"Description": "Itus Corp Cmn"
+		"symbol": "ITUS",
+		"description": "Itus Corp Cmn"
 	},
 	{
-		"Symbol": "ITW",
-		"Description": "Illinois Tool Works Inc."
+		"symbol": "ITW",
+		"description": "Illinois Tool Works Inc."
 	},
 	{
-		"Symbol": "IVAC",
-		"Description": "Intevac Inc"
+		"symbol": "IVAC",
+		"description": "Intevac Inc"
 	},
 	{
-		"Symbol": "IVC",
-		"Description": "Invacare Corporation"
+		"symbol": "IVC",
+		"description": "Invacare Corporation"
 	},
 	{
-		"Symbol": "IVENC",
-		"Description": "Ivy Energy Nextshares"
+		"symbol": "IVENC",
+		"description": "Ivy Energy Nextshares"
 	},
 	{
-		"Symbol": "IVFGC",
-		"Description": "Ivy Focused Growth Nextshares"
+		"symbol": "IVFGC",
+		"description": "Ivy Focused Growth Nextshares"
 	},
 	{
-		"Symbol": "IVFVC",
-		"Description": "Ivy Focused Value Nextshares"
+		"symbol": "IVFVC",
+		"description": "Ivy Focused Value Nextshares"
 	},
 	{
-		"Symbol": "IVH",
-		"Description": "Ivy High Income Opportunities Fund"
+		"symbol": "IVH",
+		"description": "Ivy High Income Opportunities Fund"
 	},
 	{
-		"Symbol": "IVR",
-		"Description": "INVESCO MORTGAGE CAPITAL INC"
+		"symbol": "IVR",
+		"description": "INVESCO MORTGAGE CAPITAL INC"
 	},
 	{
-		"Symbol": "IVR^A",
-		"Description": "Invesco Mortgage Capital Inc."
+		"symbol": "IVR^A",
+		"description": "Invesco Mortgage Capital Inc."
 	},
 	{
-		"Symbol": "IVR^B",
-		"Description": "INVESCO MORTGAGE CAPITAL INC"
+		"symbol": "IVR^B",
+		"description": "INVESCO MORTGAGE CAPITAL INC"
 	},
 	{
-		"Symbol": "IVTY",
-		"Description": "Invuity Inc Cmn Stk"
+		"symbol": "IVTY",
+		"description": "Invuity Inc Cmn Stk"
 	},
 	{
-		"Symbol": "IVZ",
-		"Description": "Invesco Plc"
+		"symbol": "IVZ",
+		"description": "Invesco Plc"
 	},
 	{
-		"Symbol": "IX",
-		"Description": "Orix Corp Ads"
+		"symbol": "IX",
+		"description": "Orix Corp Ads"
 	},
 	{
-		"Symbol": "IXUS",
-		"Description": "Ishs Core ACWI IMI"
+		"symbol": "IXUS",
+		"description": "Ishs Core ACWI IMI"
 	},
 	{
-		"Symbol": "IXYS",
-		"Description": "Ixys Corporation"
+		"symbol": "IXYS",
+		"description": "Ixys Corporation"
 	},
 	{
-		"Symbol": "IZEA",
-		"Description": "Izea Inc Common Stk"
+		"symbol": "IZEA",
+		"description": "Izea Inc Common Stk"
 	},
 	{
-		"Symbol": "JACK",
-		"Description": "Jack In  Box Inc"
+		"symbol": "JACK",
+		"description": "Jack In  Box Inc"
 	},
 	{
-		"Symbol": "JAG",
-		"Description": "Jagged Peak Energy Inc."
+		"symbol": "JAG",
+		"description": "Jagged Peak Energy Inc."
 	},
 	{
-		"Symbol": "JAGX",
-		"Description": "Jaguar Animal Cmn"
+		"symbol": "JAGX",
+		"description": "Jaguar Animal Cmn"
 	},
 	{
-		"Symbol": "JAKK",
-		"Description": "Jakks Pacific Inc"
+		"symbol": "JAKK",
+		"description": "Jakks Pacific Inc"
 	},
 	{
-		"Symbol": "JASN",
-		"Description": "Jason Indst Cmn"
+		"symbol": "JASN",
+		"description": "Jason Indst Cmn"
 	},
 	{
-		"Symbol": "JASNW",
-		"Description": "Jason Industries Wt"
+		"symbol": "JASNW",
+		"description": "Jason Industries Wt"
 	},
 	{
-		"Symbol": "JASO",
-		"Description": "JA Solar Holdings"
+		"symbol": "JASO",
+		"description": "JA Solar Holdings"
 	},
 	{
-		"Symbol": "JAX",
-		"Description": "J. Alexanders Holdings, Inc."
+		"symbol": "JAX",
+		"description": "J. Alexanders Holdings, Inc."
 	},
 	{
-		"Symbol": "JAZZ",
-		"Description": "Jazz Pharma Plc"
+		"symbol": "JAZZ",
+		"description": "Jazz Pharma Plc"
 	},
 	{
-		"Symbol": "JBHT",
-		"Description": "J B Hunt Transport"
+		"symbol": "JBHT",
+		"description": "J B Hunt Transport"
 	},
 	{
-		"Symbol": "JBK",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "JBK",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "JBL",
-		"Description": "Jabil Circuit, Inc."
+		"symbol": "JBL",
+		"description": "Jabil Circuit, Inc."
 	},
 	{
-		"Symbol": "JBLU",
-		"Description": "Jetblue Airways Cp"
+		"symbol": "JBLU",
+		"description": "Jetblue Airways Cp"
 	},
 	{
-		"Symbol": "JBN",
-		"Description": "Select Asset Inc."
+		"symbol": "JBN",
+		"description": "Select Asset Inc."
 	},
 	{
-		"Symbol": "JBR",
-		"Description": "Select Asset Inc."
+		"symbol": "JBR",
+		"description": "Select Asset Inc."
 	},
 	{
-		"Symbol": "JBSS",
-		"Description": "John B Sanfilippo"
+		"symbol": "JBSS",
+		"description": "John B Sanfilippo"
 	},
 	{
-		"Symbol": "JBT",
-		"Description": "John Bean Technologies Corporation"
+		"symbol": "JBT",
+		"description": "John Bean Technologies Corporation"
 	},
 	{
-		"Symbol": "JCAP",
-		"Description": "Jernigan Capital, Inc."
+		"symbol": "JCAP",
+		"description": "Jernigan Capital, Inc."
 	},
 	{
-		"Symbol": "JCE",
-		"Description": "Nuveen Core Equity Alpha Fund"
+		"symbol": "JCE",
+		"description": "Nuveen Core Equity Alpha Fund"
 	},
 	{
-		"Symbol": "JCI",
-		"Description": "Johnson Controls International plc"
+		"symbol": "JCI",
+		"description": "Johnson Controls International plc"
 	},
 	{
-		"Symbol": "JCOM",
-		"Description": "J2 Global Inc Cmn"
+		"symbol": "JCOM",
+		"description": "J2 Global Inc Cmn"
 	},
 	{
-		"Symbol": "JCP",
-		"Description": "J.C. Penney Company, Inc. Holding Company"
+		"symbol": "JCP",
+		"description": "J.C. Penney Company, Inc. Holding Company"
 	},
 	{
-		"Symbol": "JCS",
-		"Description": "Commun Systems Inc"
+		"symbol": "JCS",
+		"description": "Commun Systems Inc"
 	},
 	{
-		"Symbol": "JCTCF",
-		"Description": "Jewett-Cameron Trd"
+		"symbol": "JCTCF",
+		"description": "Jewett-Cameron Trd"
 	},
 	{
-		"Symbol": "JD",
-		"Description": "Jd.Com Inc Ads"
+		"symbol": "JD",
+		"description": "Jd.Com Inc Ads"
 	},
 	{
-		"Symbol": "JDD",
-		"Description": "Nuveen Diversified Dividend and Income Fund"
+		"symbol": "JDD",
+		"description": "Nuveen Diversified Dividend and Income Fund"
 	},
 	{
-		"Symbol": "JE",
-		"Description": "Just Energy Group, Inc."
+		"symbol": "JE",
+		"description": "Just Energy Group, Inc."
 	},
 	{
-		"Symbol": "JEC",
-		"Description": "Jacobs Engineering Group Inc."
+		"symbol": "JEC",
+		"description": "Jacobs Engineering Group Inc."
 	},
 	{
-		"Symbol": "JELD",
-		"Description": "JELD-WEN Holding, Inc."
+		"symbol": "JELD",
+		"description": "JELD-WEN Holding, Inc."
 	},
 	{
-		"Symbol": "JEQ",
-		"Description": "Aberdeen Japan Equity Fund, Inc."
+		"symbol": "JEQ",
+		"description": "Aberdeen Japan Equity Fund, Inc."
 	},
 	{
-		"Symbol": "JFC",
-		"Description": "JPMorgan China Region Fund, Inc."
+		"symbol": "JFC",
+		"description": "JPMorgan China Region Fund, Inc."
 	},
 	{
-		"Symbol": "JFR",
-		"Description": "Nuveen Floating Rate Income Fund"
+		"symbol": "JFR",
+		"description": "Nuveen Floating Rate Income Fund"
 	},
 	{
-		"Symbol": "JGH",
-		"Description": "Nuveen Global High Income Fund"
+		"symbol": "JGH",
+		"description": "Nuveen Global High Income Fund"
 	},
 	{
-		"Symbol": "JHA",
-		"Description": "Nuveen High Income 2020 Target Term Fund"
+		"symbol": "JHA",
+		"description": "Nuveen High Income 2020 Target Term Fund"
 	},
 	{
-		"Symbol": "JHB",
-		"Description": "Nuveen High Income November 2021 Target Term Fund"
+		"symbol": "JHB",
+		"description": "Nuveen High Income November 2021 Target Term Fund"
 	},
 	{
-		"Symbol": "JHD",
-		"Description": "Nuveen High Income December 2019 Target Term Fund"
+		"symbol": "JHD",
+		"description": "Nuveen High Income December 2019 Target Term Fund"
 	},
 	{
-		"Symbol": "JHI",
-		"Description": "John Hancock Investors Trust"
+		"symbol": "JHI",
+		"description": "John Hancock Investors Trust"
 	},
 	{
-		"Symbol": "JHS",
-		"Description": "John Hancock Income Securities Trust"
+		"symbol": "JHS",
+		"description": "John Hancock Income Securities Trust"
 	},
 	{
-		"Symbol": "JHX",
-		"Description": "James Hardie Industries plc."
+		"symbol": "JHX",
+		"description": "James Hardie Industries plc."
 	},
 	{
-		"Symbol": "JHY",
-		"Description": "Nuveen High Income 2020 Target Term Fund"
+		"symbol": "JHY",
+		"description": "Nuveen High Income 2020 Target Term Fund"
 	},
 	{
-		"Symbol": "JIVE",
-		"Description": "Jive Software Inc"
+		"symbol": "JIVE",
+		"description": "Jive Software Inc"
 	},
 	{
-		"Symbol": "JJSF",
-		"Description": "J J Snack Foods"
+		"symbol": "JJSF",
+		"description": "J J Snack Foods"
 	},
 	{
-		"Symbol": "JKHY",
-		"Description": "Jack Henry & Assoc"
+		"symbol": "JKHY",
+		"description": "Jack Henry & Assoc"
 	},
 	{
-		"Symbol": "JKI",
-		"Description": "Ishares Mrgng Mid Va"
+		"symbol": "JKI",
+		"description": "Ishares Mrgng Mid Va"
 	},
 	{
-		"Symbol": "JKS",
-		"Description": "JinkoSolar Holding Company Limited"
+		"symbol": "JKS",
+		"description": "JinkoSolar Holding Company Limited"
 	},
 	{
-		"Symbol": "JLL",
-		"Description": "Jones Lang LaSalle Incorporated"
+		"symbol": "JLL",
+		"description": "Jones Lang LaSalle Incorporated"
 	},
 	{
-		"Symbol": "JLS",
-		"Description": "Nuveen Mortgage Opportunity Term Fund"
+		"symbol": "JLS",
+		"description": "Nuveen Mortgage Opportunity Term Fund"
 	},
 	{
-		"Symbol": "JMBA",
-		"Description": "Jamba Inc Cmn Stk"
+		"symbol": "JMBA",
+		"description": "Jamba Inc Cmn Stk"
 	},
 	{
-		"Symbol": "JMEI",
-		"Description": "Jumei International Holding Limited"
+		"symbol": "JMEI",
+		"description": "Jumei International Holding Limited"
 	},
 	{
-		"Symbol": "JMF",
-		"Description": "Nuveen Energy MLP Total Return Fund"
+		"symbol": "JMF",
+		"description": "Nuveen Energy MLP Total Return Fund"
 	},
 	{
-		"Symbol": "JMLP",
-		"Description": "Nuveen All Cap Energy MLP Opportunities Fund"
+		"symbol": "JMLP",
+		"description": "Nuveen All Cap Energy MLP Opportunities Fund"
 	},
 	{
-		"Symbol": "JMM",
-		"Description": "Nuveen Multi-Market Income Fund"
+		"symbol": "JMM",
+		"description": "Nuveen Multi-Market Income Fund"
 	},
 	{
-		"Symbol": "JMP",
-		"Description": "JMP Group LLC"
+		"symbol": "JMP",
+		"description": "JMP Group LLC"
 	},
 	{
-		"Symbol": "JMPB",
-		"Description": "JMP Group LLC"
+		"symbol": "JMPB",
+		"description": "JMP Group LLC"
 	},
 	{
-		"Symbol": "JMPC",
-		"Description": "JMP Group LLC"
+		"symbol": "JMPC",
+		"description": "JMP Group LLC"
 	},
 	{
-		"Symbol": "JMT",
-		"Description": "Nuven Mortgage Opportunity Term Fund 2"
+		"symbol": "JMT",
+		"description": "Nuven Mortgage Opportunity Term Fund 2"
 	},
 	{
-		"Symbol": "JMU",
-		"Description": "Wowo Ltd Ads"
+		"symbol": "JMU",
+		"description": "Wowo Ltd Ads"
 	},
 	{
-		"Symbol": "JNCE",
-		"Description": "Jounce Therapeutics Inc."
+		"symbol": "JNCE",
+		"description": "Jounce Therapeutics Inc."
 	},
 	{
-		"Symbol": "JNJ",
-		"Description": "Johnson & Johnson"
+		"symbol": "JNJ",
+		"description": "Johnson & Johnson"
 	},
 	{
-		"Symbol": "JNP",
-		"Description": "Juniper Pharm Inc"
+		"symbol": "JNP",
+		"description": "Juniper Pharm Inc"
 	},
 	{
-		"Symbol": "JNPR",
-		"Description": "Juniper Networks, Inc."
+		"symbol": "JNPR",
+		"description": "Juniper Networks, Inc."
 	},
 	{
-		"Symbol": "JNS",
-		"Description": "Janus Capital Group, Inc"
+		"symbol": "JNS",
+		"description": "Janus Capital Group, Inc"
 	},
 	{
-		"Symbol": "JOB",
-		"Description": "GEE Group Inc."
+		"symbol": "JOB",
+		"description": "GEE Group Inc."
 	},
 	{
-		"Symbol": "JOBS",
-		"Description": "51Job Inc"
+		"symbol": "JOBS",
+		"description": "51Job Inc"
 	},
 	{
-		"Symbol": "JOE",
-		"Description": "St. Joe Company "
+		"symbol": "JOE",
+		"description": "St. Joe Company "
 	},
 	{
-		"Symbol": "JOF",
-		"Description": "Japan Smaller Capitalization Fund Inc"
+		"symbol": "JOF",
+		"description": "Japan Smaller Capitalization Fund Inc"
 	},
 	{
-		"Symbol": "JONE",
-		"Description": "Jones Energy, Inc."
+		"symbol": "JONE",
+		"description": "Jones Energy, Inc."
 	},
 	{
-		"Symbol": "JOUT",
-		"Description": "Johnson Outdoors I"
+		"symbol": "JOUT",
+		"description": "Johnson Outdoors I"
 	},
 	{
-		"Symbol": "JOY",
-		"Description": "Joy Global Inc."
+		"symbol": "JOY",
+		"description": "Joy Global Inc."
 	},
 	{
-		"Symbol": "JP",
-		"Description": "Jupai Holdings Limited"
+		"symbol": "JP",
+		"description": "Jupai Holdings Limited"
 	},
 	{
-		"Symbol": "JPC",
-		"Description": "Nuveen Preferred Income Opportunites Fund"
+		"symbol": "JPC",
+		"description": "Nuveen Preferred Income Opportunites Fund"
 	},
 	{
-		"Symbol": "JPEP",
-		"Description": "JP Energy Partners LP"
+		"symbol": "JPEP",
+		"description": "JP Energy Partners LP"
 	},
 	{
-		"Symbol": "JPI",
-		"Description": "Nuveen Preferred and Income Term Fund"
+		"symbol": "JPI",
+		"description": "Nuveen Preferred and Income Term Fund"
 	},
 	{
-		"Symbol": "JPM",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM.WS",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM.WS",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^A",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^A",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^B",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^B",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^D",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^D",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^E",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^E",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^F",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^F",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^G",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^G",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPM^H",
-		"Description": "J P Morgan Chase & Co"
+		"symbol": "JPM^H",
+		"description": "J P Morgan Chase & Co"
 	},
 	{
-		"Symbol": "JPS",
-		"Description": "Nuveen Quality Preferred Income Fund 2"
+		"symbol": "JPS",
+		"description": "Nuveen Quality Preferred Income Fund 2"
 	},
 	{
-		"Symbol": "JPT",
-		"Description": "Nuveen Preferred and Income 2022 Term Fund"
+		"symbol": "JPT",
+		"description": "Nuveen Preferred and Income 2022 Term Fund"
 	},
 	{
-		"Symbol": "JPW",
-		"Description": "Nuveen Flexible Investment Income Fund"
+		"symbol": "JPW",
+		"description": "Nuveen Flexible Investment Income Fund"
 	},
 	{
-		"Symbol": "JQC",
-		"Description": "Nuveen Credit Strategies Income Fund"
+		"symbol": "JQC",
+		"description": "Nuveen Credit Strategies Income Fund"
 	},
 	{
-		"Symbol": "JRI",
-		"Description": "Nuveen Real Asset Income and Growth Fund"
+		"symbol": "JRI",
+		"description": "Nuveen Real Asset Income and Growth Fund"
 	},
 	{
-		"Symbol": "JRJC",
-		"Description": "China Finance Online"
+		"symbol": "JRJC",
+		"description": "China Finance Online"
 	},
 	{
-		"Symbol": "JRJR",
-		"Description": "JRjr33, Inc."
+		"symbol": "JRJR",
+		"description": "JRjr33, Inc."
 	},
 	{
-		"Symbol": "JRO",
-		"Description": "Nuveen Floating Rate Income Opportuntiy Fund"
+		"symbol": "JRO",
+		"description": "Nuveen Floating Rate Income Opportuntiy Fund"
 	},
 	{
-		"Symbol": "JRS",
-		"Description": "Nuveen Real Estate Fund"
+		"symbol": "JRS",
+		"description": "Nuveen Real Estate Fund"
 	},
 	{
-		"Symbol": "JRVR",
-		"Description": "James River Gp HD Cmn"
+		"symbol": "JRVR",
+		"description": "James River Gp HD Cmn"
 	},
 	{
-		"Symbol": "JSD",
-		"Description": "Nuveen Short Duration Credit Opportunities Fund"
+		"symbol": "JSD",
+		"description": "Nuveen Short Duration Credit Opportunities Fund"
 	},
 	{
-		"Symbol": "JSM",
-		"Description": "SLM Cp 6% Sr Nt"
+		"symbol": "JSM",
+		"description": "SLM Cp 6% Sr Nt"
 	},
 	{
-		"Symbol": "JSMD",
-		"Description": "Jns Sml Mid Cap ETF"
+		"symbol": "JSMD",
+		"description": "Jns Sml Mid Cap ETF"
 	},
 	{
-		"Symbol": "JSML",
-		"Description": "Janus Sm Cap Gr ETF"
+		"symbol": "JSML",
+		"description": "Janus Sm Cap Gr ETF"
 	},
 	{
-		"Symbol": "JSYN",
-		"Description": "Jensyn Acq Cp CS"
+		"symbol": "JSYN",
+		"description": "Jensyn Acq Cp CS"
 	},
 	{
-		"Symbol": "JSYNR",
-		"Description": "Jensyn Acq Cp Rt"
+		"symbol": "JSYNR",
+		"description": "Jensyn Acq Cp Rt"
 	},
 	{
-		"Symbol": "JSYNU",
-		"Description": "Jensyn Acq Cp Ut"
+		"symbol": "JSYNU",
+		"description": "Jensyn Acq Cp Ut"
 	},
 	{
-		"Symbol": "JSYNW",
-		"Description": "Jensyn Acq Cp Wt"
+		"symbol": "JSYNW",
+		"description": "Jensyn Acq Cp Wt"
 	},
 	{
-		"Symbol": "JTA",
-		"Description": "Nuveen Tax-Advantaged Total Return Strategy Fund"
+		"symbol": "JTA",
+		"description": "Nuveen Tax-Advantaged Total Return Strategy Fund"
 	},
 	{
-		"Symbol": "JTD",
-		"Description": "Nuveen Tax-Advantaged Dividend Growth Fund"
+		"symbol": "JTD",
+		"description": "Nuveen Tax-Advantaged Dividend Growth Fund"
 	},
 	{
-		"Symbol": "JTPY",
-		"Description": "Jetpay Corporation"
+		"symbol": "JTPY",
+		"description": "Jetpay Corporation"
 	},
 	{
-		"Symbol": "JUNO",
-		"Description": "Juno Therapeutics Cmn"
+		"symbol": "JUNO",
+		"description": "Juno Therapeutics Cmn"
 	},
 	{
-		"Symbol": "JVA",
-		"Description": "Coffee Holding Co."
+		"symbol": "JVA",
+		"description": "Coffee Holding Co."
 	},
 	{
-		"Symbol": "JW.A",
-		"Description": "John Wiley & Sons, Inc."
+		"symbol": "JW.A",
+		"description": "John Wiley & Sons, Inc."
 	},
 	{
-		"Symbol": "JW.B",
-		"Description": "John Wiley & Sons, Inc."
+		"symbol": "JW.B",
+		"description": "John Wiley & Sons, Inc."
 	},
 	{
-		"Symbol": "JWN",
-		"Description": "Nordstrom, Inc."
+		"symbol": "JWN",
+		"description": "Nordstrom, Inc."
 	},
 	{
-		"Symbol": "JXSB",
-		"Description": "Jacksonville Bncp"
+		"symbol": "JXSB",
+		"description": "Jacksonville Bncp"
 	},
 	{
-		"Symbol": "JYNT",
-		"Description": " Joint Corp Cmn"
+		"symbol": "JYNT",
+		"description": " Joint Corp Cmn"
 	},
 	{
-		"Symbol": "K",
-		"Description": "Kellogg Company"
+		"symbol": "K",
+		"description": "Kellogg Company"
 	},
 	{
-		"Symbol": "KAI",
-		"Description": "Kadant Inc"
+		"symbol": "KAI",
+		"description": "Kadant Inc"
 	},
 	{
-		"Symbol": "KALU",
-		"Description": "Kaiser Aluminum"
+		"symbol": "KALU",
+		"description": "Kaiser Aluminum"
 	},
 	{
-		"Symbol": "KALV",
-		"Description": "Kalvista Pharmaceuticals Inc."
+		"symbol": "KALV",
+		"description": "Kalvista Pharmaceuticals Inc."
 	},
 	{
-		"Symbol": "KAMN",
-		"Description": "Kaman Corporation"
+		"symbol": "KAMN",
+		"description": "Kaman Corporation"
 	},
 	{
-		"Symbol": "KANG",
-		"Description": "Ikang Healthcare ADR"
+		"symbol": "KANG",
+		"description": "Ikang Healthcare ADR"
 	},
 	{
-		"Symbol": "KAP",
-		"Description": "KCAP Financial, Inc."
+		"symbol": "KAP",
+		"description": "KCAP Financial, Inc."
 	},
 	{
-		"Symbol": "KAR",
-		"Description": "KAR Auction Services, Inc"
+		"symbol": "KAR",
+		"description": "KAR Auction Services, Inc"
 	},
 	{
-		"Symbol": "KATE",
-		"Description": "Kate Spade & Company"
+		"symbol": "KATE",
+		"description": "Kate Spade & Company"
 	},
 	{
-		"Symbol": "KB",
-		"Description": "KB Financial Group Inc"
+		"symbol": "KB",
+		"description": "KB Financial Group Inc"
 	},
 	{
-		"Symbol": "KBAL",
-		"Description": "Kimball Intl Cl B"
+		"symbol": "KBAL",
+		"description": "Kimball Intl Cl B"
 	},
 	{
-		"Symbol": "KBH",
-		"Description": "KB Home"
+		"symbol": "KBH",
+		"description": "KB Home"
 	},
 	{
-		"Symbol": "KBR",
-		"Description": "KBR, Inc."
+		"symbol": "KBR",
+		"description": "KBR, Inc."
 	},
 	{
-		"Symbol": "KBSF",
-		"Description": "Kbs Fashion Gp Ltd"
+		"symbol": "KBSF",
+		"description": "Kbs Fashion Gp Ltd"
 	},
 	{
-		"Symbol": "KBWB",
-		"Description": "KBW Bank Powershares"
+		"symbol": "KBWB",
+		"description": "KBW Bank Powershares"
 	},
 	{
-		"Symbol": "KBWD",
-		"Description": "KBW High Div Yield Financial Powershares"
+		"symbol": "KBWD",
+		"description": "KBW High Div Yield Financial Powershares"
 	},
 	{
-		"Symbol": "KBWP",
-		"Description": "KBW Prop & Casuality Insur Powershares"
+		"symbol": "KBWP",
+		"description": "KBW Prop & Casuality Insur Powershares"
 	},
 	{
-		"Symbol": "KBWR",
-		"Description": "KBW Regional Banking Powershares"
+		"symbol": "KBWR",
+		"description": "KBW Regional Banking Powershares"
 	},
 	{
-		"Symbol": "KBWY",
-		"Description": "KBW Prem Yield Equity REIT Powershares"
+		"symbol": "KBWY",
+		"description": "KBW Prem Yield Equity REIT Powershares"
 	},
 	{
-		"Symbol": "KCAP",
-		"Description": "Kcap Financial Cmn"
+		"symbol": "KCAP",
+		"description": "Kcap Financial Cmn"
 	},
 	{
-		"Symbol": "KCC.CL",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "KCC.CL",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "KCG",
-		"Description": "KCG Holdings, Inc."
+		"symbol": "KCG",
+		"description": "KCG Holdings, Inc."
 	},
 	{
-		"Symbol": "KDMN",
-		"Description": "Kadmon Holdings, Inc."
+		"symbol": "KDMN",
+		"description": "Kadmon Holdings, Inc."
 	},
 	{
-		"Symbol": "KE",
-		"Description": "Kimball Electrnc Cmn"
+		"symbol": "KE",
+		"description": "Kimball Electrnc Cmn"
 	},
 	{
-		"Symbol": "KED",
-		"Description": "Kayne Anderson Energy Development Company"
+		"symbol": "KED",
+		"description": "Kayne Anderson Energy Development Company"
 	},
 	{
-		"Symbol": "KEF",
-		"Description": "Korea Equity Fund, Inc."
+		"symbol": "KEF",
+		"description": "Korea Equity Fund, Inc."
 	},
 	{
-		"Symbol": "KEG",
-		"Description": "Key Energy Services, Inc."
+		"symbol": "KEG",
+		"description": "Key Energy Services, Inc."
 	},
 	{
-		"Symbol": "KELYA",
-		"Description": "Kelly Svcs Cl A"
+		"symbol": "KELYA",
+		"description": "Kelly Svcs Cl A"
 	},
 	{
-		"Symbol": "KEM",
-		"Description": "Kemet Corporation"
+		"symbol": "KEM",
+		"description": "Kemet Corporation"
 	},
 	{
-		"Symbol": "KEN",
-		"Description": "Kenon Holdings Ltd."
+		"symbol": "KEN",
+		"description": "Kenon Holdings Ltd."
 	},
 	{
-		"Symbol": "KEP",
-		"Description": "Korea Electric Power Corporation"
+		"symbol": "KEP",
+		"description": "Korea Electric Power Corporation"
 	},
 	{
-		"Symbol": "KEQU",
-		"Description": "Kewaunee Scientifi"
+		"symbol": "KEQU",
+		"description": "Kewaunee Scientifi"
 	},
 	{
-		"Symbol": "KERX",
-		"Description": "Keryx Biopharm Inc"
+		"symbol": "KERX",
+		"description": "Keryx Biopharm Inc"
 	},
 	{
-		"Symbol": "KEX",
-		"Description": "Kirby Corporation"
+		"symbol": "KEX",
+		"description": "Kirby Corporation"
 	},
 	{
-		"Symbol": "KEY",
-		"Description": "KeyCorp"
+		"symbol": "KEY",
+		"description": "KeyCorp"
 	},
 	{
-		"Symbol": "KEY^G",
-		"Description": "KeyCorp"
+		"symbol": "KEY^G",
+		"description": "KeyCorp"
 	},
 	{
-		"Symbol": "KEY^H.CL",
-		"Description": "KeyCorp"
+		"symbol": "KEY^H.CL",
+		"description": "KeyCorp"
 	},
 	{
-		"Symbol": "KEY^I",
-		"Description": "KeyCorp"
+		"symbol": "KEY^I",
+		"description": "KeyCorp"
 	},
 	{
-		"Symbol": "KEYS",
-		"Description": "Keysight Technologies Inc."
+		"symbol": "KEYS",
+		"description": "Keysight Technologies Inc."
 	},
 	{
-		"Symbol": "KEYW",
-		"Description": "Keyw Holding Corp"
+		"symbol": "KEYW",
+		"description": "Keyw Holding Corp"
 	},
 	{
-		"Symbol": "KF",
-		"Description": "Korea Fund, Inc. "
+		"symbol": "KF",
+		"description": "Korea Fund, Inc. "
 	},
 	{
-		"Symbol": "KFFB",
-		"Description": "Kentucky First Fed"
+		"symbol": "KFFB",
+		"description": "Kentucky First Fed"
 	},
 	{
-		"Symbol": "KFI",
-		"Description": "KKR Financial Holdings LLC"
+		"symbol": "KFI",
+		"description": "KKR Financial Holdings LLC"
 	},
 	{
-		"Symbol": "KFN^",
-		"Description": "KKR Financial Holdings LLC"
+		"symbol": "KFN^",
+		"description": "KKR Financial Holdings LLC"
 	},
 	{
-		"Symbol": "KFRC",
-		"Description": "Kforce Inc"
+		"symbol": "KFRC",
+		"description": "Kforce Inc"
 	},
 	{
-		"Symbol": "KFS",
-		"Description": "Kingsway Financial Services, Inc."
+		"symbol": "KFS",
+		"description": "Kingsway Financial Services, Inc."
 	},
 	{
-		"Symbol": "KFY",
-		"Description": "Korn/Ferry International"
+		"symbol": "KFY",
+		"description": "Korn/Ferry International"
 	},
 	{
-		"Symbol": "KGC",
-		"Description": "Kinross Gold Corporation"
+		"symbol": "KGC",
+		"description": "Kinross Gold Corporation"
 	},
 	{
-		"Symbol": "KGJI",
-		"Description": "Kingold Jewelry Inc"
+		"symbol": "KGJI",
+		"description": "Kingold Jewelry Inc"
 	},
 	{
-		"Symbol": "KHC",
-		"Description": "Kraft Heinz Co Cmn"
+		"symbol": "KHC",
+		"description": "Kraft Heinz Co Cmn"
 	},
 	{
-		"Symbol": "KIM",
-		"Description": "Kimco Realty Corporation"
+		"symbol": "KIM",
+		"description": "Kimco Realty Corporation"
 	},
 	{
-		"Symbol": "KIM^I",
-		"Description": "Kimco Realty Corporation"
+		"symbol": "KIM^I",
+		"description": "Kimco Realty Corporation"
 	},
 	{
-		"Symbol": "KIM^J",
-		"Description": "Kimco Realty Corporation"
+		"symbol": "KIM^J",
+		"description": "Kimco Realty Corporation"
 	},
 	{
-		"Symbol": "KIM^K",
-		"Description": "Kimco Realty Corporation"
+		"symbol": "KIM^K",
+		"description": "Kimco Realty Corporation"
 	},
 	{
-		"Symbol": "KIN",
-		"Description": "Kindred Biosciences"
+		"symbol": "KIN",
+		"description": "Kindred Biosciences"
 	},
 	{
-		"Symbol": "KINS",
-		"Description": "Kingstone Cos Inc"
+		"symbol": "KINS",
+		"description": "Kingstone Cos Inc"
 	},
 	{
-		"Symbol": "KIO",
-		"Description": "KKR Income Opportunities Fund"
+		"symbol": "KIO",
+		"description": "KKR Income Opportunities Fund"
 	},
 	{
-		"Symbol": "KIQ",
-		"Description": "Kelso Technologies Inc"
+		"symbol": "KIQ",
+		"description": "Kelso Technologies Inc"
 	},
 	{
-		"Symbol": "KIRK",
-		"Description": "Kirkland's Inc"
+		"symbol": "KIRK",
+		"description": "Kirkland's Inc"
 	},
 	{
-		"Symbol": "KITE",
-		"Description": "Kite Pharma Inc Cmn"
+		"symbol": "KITE",
+		"description": "Kite Pharma Inc Cmn"
 	},
 	{
-		"Symbol": "KKR",
-		"Description": "KKR & Co. L.P."
+		"symbol": "KKR",
+		"description": "KKR & Co. L.P."
 	},
 	{
-		"Symbol": "KKR^A",
-		"Description": "KKR & Co. L.P."
+		"symbol": "KKR^A",
+		"description": "KKR & Co. L.P."
 	},
 	{
-		"Symbol": "KKR^B",
-		"Description": "KKR & Co. L.P."
+		"symbol": "KKR^B",
+		"description": "KKR & Co. L.P."
 	},
 	{
-		"Symbol": "KLAC",
-		"Description": "K L A-Tencor Corp"
+		"symbol": "KLAC",
+		"description": "K L A-Tencor Corp"
 	},
 	{
-		"Symbol": "KLDX",
-		"Description": "Klondex Mines Ltd."
+		"symbol": "KLDX",
+		"description": "Klondex Mines Ltd."
 	},
 	{
-		"Symbol": "KLIC",
-		"Description": "Kulicke and Soffa"
+		"symbol": "KLIC",
+		"description": "Kulicke and Soffa"
 	},
 	{
-		"Symbol": "KLRE",
-		"Description": "Klr Energy Acq Cm A"
+		"symbol": "KLRE",
+		"description": "Klr Energy Acq Cm A"
 	},
 	{
-		"Symbol": "KLREU",
-		"Description": "Klr Energy Acq Ut"
+		"symbol": "KLREU",
+		"description": "Klr Energy Acq Ut"
 	},
 	{
-		"Symbol": "KLREW",
-		"Description": "Klr Energy Acq Wt"
+		"symbol": "KLREW",
+		"description": "Klr Energy Acq Wt"
 	},
 	{
-		"Symbol": "KLXI",
-		"Description": "Klx Inc"
+		"symbol": "KLXI",
+		"description": "Klx Inc"
 	},
 	{
-		"Symbol": "KMB",
-		"Description": "Kimberly-Clark Corporation"
+		"symbol": "KMB",
+		"description": "Kimberly-Clark Corporation"
 	},
 	{
-		"Symbol": "KMDA",
-		"Description": "Kamada Ltd"
+		"symbol": "KMDA",
+		"description": "Kamada Ltd"
 	},
 	{
-		"Symbol": "KMF",
-		"Description": "Kayne Anderson Midstream Energy Fund, Inc"
+		"symbol": "KMF",
+		"description": "Kayne Anderson Midstream Energy Fund, Inc"
 	},
 	{
-		"Symbol": "KMG",
-		"Description": "KMG Chemicals, Inc."
+		"symbol": "KMG",
+		"description": "KMG Chemicals, Inc."
 	},
 	{
-		"Symbol": "KMI",
-		"Description": "Kinder Morgan, Inc."
+		"symbol": "KMI",
+		"description": "Kinder Morgan, Inc."
 	},
 	{
-		"Symbol": "KMI.WS",
-		"Description": "Kinder Morgan, Inc."
+		"symbol": "KMI.WS",
+		"description": "Kinder Morgan, Inc."
 	},
 	{
-		"Symbol": "KMI^A",
-		"Description": "Kinder Morgan, Inc."
+		"symbol": "KMI^A",
+		"description": "Kinder Morgan, Inc."
 	},
 	{
-		"Symbol": "KMM",
-		"Description": "Scudder Multi-Market Income Trust"
+		"symbol": "KMM",
+		"description": "Scudder Multi-Market Income Trust"
 	},
 	{
-		"Symbol": "KMPA",
-		"Description": "Kemper Corporation"
+		"symbol": "KMPA",
+		"description": "Kemper Corporation"
 	},
 	{
-		"Symbol": "KMPH",
-		"Description": "Kempharm Inc Cmn"
+		"symbol": "KMPH",
+		"description": "Kempharm Inc Cmn"
 	},
 	{
-		"Symbol": "KMPR",
-		"Description": "Kemper Corporation"
+		"symbol": "KMPR",
+		"description": "Kemper Corporation"
 	},
 	{
-		"Symbol": "KMT",
-		"Description": "Kennametal Inc."
+		"symbol": "KMT",
+		"description": "Kennametal Inc."
 	},
 	{
-		"Symbol": "KMX",
-		"Description": "CarMax Inc"
+		"symbol": "KMX",
+		"description": "CarMax Inc"
 	},
 	{
-		"Symbol": "KN",
-		"Description": "Knowles Corporation"
+		"symbol": "KN",
+		"description": "Knowles Corporation"
 	},
 	{
-		"Symbol": "KND",
-		"Description": "Kindred Healthcare, Inc."
+		"symbol": "KND",
+		"description": "Kindred Healthcare, Inc."
 	},
 	{
-		"Symbol": "KNDI",
-		"Description": "Kandi Techs Grp Cmn"
+		"symbol": "KNDI",
+		"description": "Kandi Techs Grp Cmn"
 	},
 	{
-		"Symbol": "KNL",
-		"Description": "Knoll, Inc."
+		"symbol": "KNL",
+		"description": "Knoll, Inc."
 	},
 	{
-		"Symbol": "KNOP",
-		"Description": "KNOT Offshore Partners LP"
+		"symbol": "KNOP",
+		"description": "KNOT Offshore Partners LP"
 	},
 	{
-		"Symbol": "KNSL",
-		"Description": "Kinsale Capital Group Inc Cmn"
+		"symbol": "KNSL",
+		"description": "Kinsale Capital Group Inc Cmn"
 	},
 	{
-		"Symbol": "KNX",
-		"Description": "Knight Transportation, Inc."
+		"symbol": "KNX",
+		"description": "Knight Transportation, Inc."
 	},
 	{
-		"Symbol": "KO",
-		"Description": "Coca-Cola Company "
+		"symbol": "KO",
+		"description": "Coca-Cola Company "
 	},
 	{
-		"Symbol": "KODK",
-		"Description": "Eastman Kodak Company"
+		"symbol": "KODK",
+		"description": "Eastman Kodak Company"
 	},
 	{
-		"Symbol": "KODK.WS",
-		"Description": "Eastman Kodak Company"
+		"symbol": "KODK.WS",
+		"description": "Eastman Kodak Company"
 	},
 	{
-		"Symbol": "KODK.WS.A",
-		"Description": "Eastman Kodak Company"
+		"symbol": "KODK.WS.A",
+		"description": "Eastman Kodak Company"
 	},
 	{
-		"Symbol": "KOF",
-		"Description": "Coca Cola Femsa S.A.B. de C.V."
+		"symbol": "KOF",
+		"description": "Coca Cola Femsa S.A.B. de C.V."
 	},
 	{
-		"Symbol": "KONA",
-		"Description": "Kona Grill Inc"
+		"symbol": "KONA",
+		"description": "Kona Grill Inc"
 	},
 	{
-		"Symbol": "KONE",
-		"Description": "Kingtone Wirelessinf"
+		"symbol": "KONE",
+		"description": "Kingtone Wirelessinf"
 	},
 	{
-		"Symbol": "KOOL",
-		"Description": "Cesca Therapeutics I"
+		"symbol": "KOOL",
+		"description": "Cesca Therapeutics I"
 	},
 	{
-		"Symbol": "KOP",
-		"Description": "Koppers Holdings Inc."
+		"symbol": "KOP",
+		"description": "Koppers Holdings Inc."
 	},
 	{
-		"Symbol": "KOPN",
-		"Description": "Kopin Cp"
+		"symbol": "KOPN",
+		"description": "Kopin Cp"
 	},
 	{
-		"Symbol": "KORS",
-		"Description": "Michael Kors Holdings Limited"
+		"symbol": "KORS",
+		"description": "Michael Kors Holdings Limited"
 	},
 	{
-		"Symbol": "KOS",
-		"Description": "Kosmos Energy Ltd."
+		"symbol": "KOS",
+		"description": "Kosmos Energy Ltd."
 	},
 	{
-		"Symbol": "KOSS",
-		"Description": "Koss Cp"
+		"symbol": "KOSS",
+		"description": "Koss Cp"
 	},
 	{
-		"Symbol": "KPTI",
-		"Description": "Karyopharm Therapeut"
+		"symbol": "KPTI",
+		"description": "Karyopharm Therapeut"
 	},
 	{
-		"Symbol": "KR",
-		"Description": "Kroger Company "
+		"symbol": "KR",
+		"description": "Kroger Company "
 	},
 	{
-		"Symbol": "KRA",
-		"Description": "Kraton Corporation"
+		"symbol": "KRA",
+		"description": "Kraton Corporation"
 	},
 	{
-		"Symbol": "KRC",
-		"Description": "Kilroy Realty Corporation"
+		"symbol": "KRC",
+		"description": "Kilroy Realty Corporation"
 	},
 	{
-		"Symbol": "KRC^G",
-		"Description": "Kilroy Realty Corporation"
+		"symbol": "KRC^G",
+		"description": "Kilroy Realty Corporation"
 	},
 	{
-		"Symbol": "KRC^H",
-		"Description": "Kilroy Realty Corporation"
+		"symbol": "KRC^H",
+		"description": "Kilroy Realty Corporation"
 	},
 	{
-		"Symbol": "KRG",
-		"Description": "Kite Realty Group Trust"
+		"symbol": "KRG",
+		"description": "Kite Realty Group Trust"
 	},
 	{
-		"Symbol": "KRMA",
-		"Description": "Global X Conscious Companies ETF"
+		"symbol": "KRMA",
+		"description": "Global X Conscious Companies ETF"
 	},
 	{
-		"Symbol": "KRNT",
-		"Description": "Kornit Digital Ord"
+		"symbol": "KRNT",
+		"description": "Kornit Digital Ord"
 	},
 	{
-		"Symbol": "KRNY",
-		"Description": "Kearny Financial Cmn"
+		"symbol": "KRNY",
+		"description": "Kearny Financial Cmn"
 	},
 	{
-		"Symbol": "KRO",
-		"Description": "Kronos Worldwide Inc"
+		"symbol": "KRO",
+		"description": "Kronos Worldwide Inc"
 	},
 	{
-		"Symbol": "KRP",
-		"Description": "Kimbell Royalty Partners"
+		"symbol": "KRP",
+		"description": "Kimbell Royalty Partners"
 	},
 	{
-		"Symbol": "KS",
-		"Description": "KapStone Paper and Packaging Corporation"
+		"symbol": "KS",
+		"description": "KapStone Paper and Packaging Corporation"
 	},
 	{
-		"Symbol": "KSM",
-		"Description": "Scudder Strategic Municiple Income Trust"
+		"symbol": "KSM",
+		"description": "Scudder Strategic Municiple Income Trust"
 	},
 	{
-		"Symbol": "KSS",
-		"Description": "Kohls Corporation"
+		"symbol": "KSS",
+		"description": "Kohls Corporation"
 	},
 	{
-		"Symbol": "KST",
-		"Description": "Scudder Strategic Income Trust"
+		"symbol": "KST",
+		"description": "Scudder Strategic Income Trust"
 	},
 	{
-		"Symbol": "KSU",
-		"Description": "Kansas City Southern"
+		"symbol": "KSU",
+		"description": "Kansas City Southern"
 	},
 	{
-		"Symbol": "KSU^",
-		"Description": "Kansas City Southern"
+		"symbol": "KSU^",
+		"description": "Kansas City Southern"
 	},
 	{
-		"Symbol": "KT",
-		"Description": "KT Corporation"
+		"symbol": "KT",
+		"description": "KT Corporation"
 	},
 	{
-		"Symbol": "KTCC",
-		"Description": "Key Tronic Cp"
+		"symbol": "KTCC",
+		"description": "Key Tronic Cp"
 	},
 	{
-		"Symbol": "KTEC",
-		"Description": "Key Technology Inc"
+		"symbol": "KTEC",
+		"description": "Key Technology Inc"
 	},
 	{
-		"Symbol": "KTF",
-		"Description": "Scudder Municiple Income Trust"
+		"symbol": "KTF",
+		"description": "Scudder Municiple Income Trust"
 	},
 	{
-		"Symbol": "KTH",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "KTH",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "KTN",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "KTN",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "KTOS",
-		"Description": "Kratos Defns"
+		"symbol": "KTOS",
+		"description": "Kratos Defns"
 	},
 	{
-		"Symbol": "KTOV",
-		"Description": "Kitov Pharamceut Ads"
+		"symbol": "KTOV",
+		"description": "Kitov Pharamceut Ads"
 	},
 	{
-		"Symbol": "KTOVW",
-		"Description": "Kitov Pharamceuti Wt"
+		"symbol": "KTOVW",
+		"description": "Kitov Pharamceuti Wt"
 	},
 	{
-		"Symbol": "KTP",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "KTP",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "KTWO",
-		"Description": "K2M Group Hldngs Cmn"
+		"symbol": "KTWO",
+		"description": "K2M Group Hldngs Cmn"
 	},
 	{
-		"Symbol": "KURA",
-		"Description": "Kura Oncology Cmn"
+		"symbol": "KURA",
+		"description": "Kura Oncology Cmn"
 	},
 	{
-		"Symbol": "KVHI",
-		"Description": "K V H Inds Inc"
+		"symbol": "KVHI",
+		"description": "K V H Inds Inc"
 	},
 	{
-		"Symbol": "KW",
-		"Description": "Kennedy-Wilson Holdings Inc."
+		"symbol": "KW",
+		"description": "Kennedy-Wilson Holdings Inc."
 	},
 	{
-		"Symbol": "KWEB",
-		"Description": "Kraneshs Csi Chn ETF"
+		"symbol": "KWEB",
+		"description": "Kraneshs Csi Chn ETF"
 	},
 	{
-		"Symbol": "KWN",
-		"Description": "Kennedy-Wilson Holdings Inc."
+		"symbol": "KWN",
+		"description": "Kennedy-Wilson Holdings Inc."
 	},
 	{
-		"Symbol": "KWR",
-		"Description": "Quaker Chemical Corporation"
+		"symbol": "KWR",
+		"description": "Quaker Chemical Corporation"
 	},
 	{
-		"Symbol": "KYE",
-		"Description": "Kayne Anderson Energy Total Return Fund, Inc."
+		"symbol": "KYE",
+		"description": "Kayne Anderson Energy Total Return Fund, Inc."
 	},
 	{
-		"Symbol": "KYN",
-		"Description": "Kayne Anderson MLP Investment Company"
+		"symbol": "KYN",
+		"description": "Kayne Anderson MLP Investment Company"
 	},
 	{
-		"Symbol": "KYN^F",
-		"Description": "Kayne Anderson MLP Investment Company"
+		"symbol": "KYN^F",
+		"description": "Kayne Anderson MLP Investment Company"
 	},
 	{
-		"Symbol": "KYO",
-		"Description": "Kyocera Corporation"
+		"symbol": "KYO",
+		"description": "Kyocera Corporation"
 	},
 	{
-		"Symbol": "KZ",
-		"Description": "Kongzhong Corp"
+		"symbol": "KZ",
+		"description": "Kongzhong Corp"
 	},
 	{
-		"Symbol": "L",
-		"Description": "Loews Corporation"
+		"symbol": "L",
+		"description": "Loews Corporation"
 	},
 	{
-		"Symbol": "LABL",
-		"Description": "Multi Color Cp"
+		"symbol": "LABL",
+		"description": "Multi Color Cp"
 	},
 	{
-		"Symbol": "LAD",
-		"Description": "Lithia Motors, Inc."
+		"symbol": "LAD",
+		"description": "Lithia Motors, Inc."
 	},
 	{
-		"Symbol": "LADR",
-		"Description": "Ladder Capital Corp"
+		"symbol": "LADR",
+		"description": "Ladder Capital Corp"
 	},
 	{
-		"Symbol": "LAKE",
-		"Description": "Lakeland Inds Inc"
+		"symbol": "LAKE",
+		"description": "Lakeland Inds Inc"
 	},
 	{
-		"Symbol": "LALT",
-		"Description": "PS Multi-Strategy Alternative"
+		"symbol": "LALT",
+		"description": "PS Multi-Strategy Alternative"
 	},
 	{
-		"Symbol": "LAMR",
-		"Description": "Lamar Advertis A"
+		"symbol": "LAMR",
+		"description": "Lamar Advertis A"
 	},
 	{
-		"Symbol": "LANC",
-		"Description": "Lancaster Colony Cor"
+		"symbol": "LANC",
+		"description": "Lancaster Colony Cor"
 	},
 	{
-		"Symbol": "LAND",
-		"Description": "Gladstone Land Corp"
+		"symbol": "LAND",
+		"description": "Gladstone Land Corp"
 	},
 	{
-		"Symbol": "LANDP",
-		"Description": "Gladstone Land Corp."
+		"symbol": "LANDP",
+		"description": "Gladstone Land Corp."
 	},
 	{
-		"Symbol": "LAQ",
-		"Description": "Latin America Equity Fund, Inc. "
+		"symbol": "LAQ",
+		"description": "Latin America Equity Fund, Inc. "
 	},
 	{
-		"Symbol": "LARK",
-		"Description": "Landmark Bancorp Inc"
+		"symbol": "LARK",
+		"description": "Landmark Bancorp Inc"
 	},
 	{
-		"Symbol": "LAUR",
-		"Description": "Laureate Education Inc."
+		"symbol": "LAUR",
+		"description": "Laureate Education Inc."
 	},
 	{
-		"Symbol": "LAWS",
-		"Description": "Lawson Products In"
+		"symbol": "LAWS",
+		"description": "Lawson Products In"
 	},
 	{
-		"Symbol": "LAYN",
-		"Description": "Layne Christensen"
+		"symbol": "LAYN",
+		"description": "Layne Christensen"
 	},
 	{
-		"Symbol": "LAZ",
-		"Description": "Lazard Ltd."
+		"symbol": "LAZ",
+		"description": "Lazard Ltd."
 	},
 	{
-		"Symbol": "LB",
-		"Description": "L Brands, Inc."
+		"symbol": "LB",
+		"description": "L Brands, Inc."
 	},
 	{
-		"Symbol": "LBAI",
-		"Description": "Lakeland Bancorp Inc"
+		"symbol": "LBAI",
+		"description": "Lakeland Bancorp Inc"
 	},
 	{
-		"Symbol": "LBF",
-		"Description": "Scudder Global High Income Fund, Inc."
+		"symbol": "LBF",
+		"description": "Scudder Global High Income Fund, Inc."
 	},
 	{
-		"Symbol": "LBIO",
-		"Description": "Lion Biotechnologies"
+		"symbol": "LBIO",
+		"description": "Lion Biotechnologies"
 	},
 	{
-		"Symbol": "LBIX",
-		"Description": "Leading Brands"
+		"symbol": "LBIX",
+		"description": "Leading Brands"
 	},
 	{
-		"Symbol": "LBRDA",
-		"Description": "Liberty Broadbd A Cmn"
+		"symbol": "LBRDA",
+		"description": "Liberty Broadbd A Cmn"
 	},
 	{
-		"Symbol": "LBRDK",
-		"Description": "Liberty Broadbd C Cmn"
+		"symbol": "LBRDK",
+		"description": "Liberty Broadbd C Cmn"
 	},
 	{
-		"Symbol": "LBTYA",
-		"Description": "Liberty Global Ord A"
+		"symbol": "LBTYA",
+		"description": "Liberty Global Ord A"
 	},
 	{
-		"Symbol": "LBTYB",
-		"Description": "Liberty Global Ord B"
+		"symbol": "LBTYB",
+		"description": "Liberty Global Ord B"
 	},
 	{
-		"Symbol": "LBTYK",
-		"Description": "Liberty Global Ord C"
+		"symbol": "LBTYK",
+		"description": "Liberty Global Ord C"
 	},
 	{
-		"Symbol": "LBY",
-		"Description": "Libbey, Inc."
+		"symbol": "LBY",
+		"description": "Libbey, Inc."
 	},
 	{
-		"Symbol": "LC",
-		"Description": "LendingClub Corporation"
+		"symbol": "LC",
+		"description": "LendingClub Corporation"
 	},
 	{
-		"Symbol": "LCA",
-		"Description": "Landcadia Holdings Inc"
+		"symbol": "LCA",
+		"description": "Landcadia Holdings Inc"
 	},
 	{
-		"Symbol": "LCAHU",
-		"Description": "Landcadia Holding Un"
+		"symbol": "LCAHU",
+		"description": "Landcadia Holding Un"
 	},
 	{
-		"Symbol": "LCAHW",
-		"Description": "Landcadia Holdings Inc. Warrant"
+		"symbol": "LCAHW",
+		"description": "Landcadia Holdings Inc. Warrant"
 	},
 	{
-		"Symbol": "LCI",
-		"Description": "Lannett Co Inc"
+		"symbol": "LCI",
+		"description": "Lannett Co Inc"
 	},
 	{
-		"Symbol": "LCII",
-		"Description": "LCI Industries"
+		"symbol": "LCII",
+		"description": "LCI Industries"
 	},
 	{
-		"Symbol": "LCM",
-		"Description": "Advent/Claymore Enhanced Growth & Income Fund"
+		"symbol": "LCM",
+		"description": "Advent/Claymore Enhanced Growth & Income Fund"
 	},
 	{
-		"Symbol": "LCNB",
-		"Description": "Lcnb Corporation"
+		"symbol": "LCNB",
+		"description": "Lcnb Corporation"
 	},
 	{
-		"Symbol": "LCUT",
-		"Description": "Lifetime Brands Inc"
+		"symbol": "LCUT",
+		"description": "Lifetime Brands Inc"
 	},
 	{
-		"Symbol": "LDF",
-		"Description": "Latin American Discovery Fund, Inc. "
+		"symbol": "LDF",
+		"description": "Latin American Discovery Fund, Inc. "
 	},
 	{
-		"Symbol": "LDL",
-		"Description": "Lydall, Inc."
+		"symbol": "LDL",
+		"description": "Lydall, Inc."
 	},
 	{
-		"Symbol": "LDOS",
-		"Description": "Leidos Holdings, Inc."
+		"symbol": "LDOS",
+		"description": "Leidos Holdings, Inc."
 	},
 	{
-		"Symbol": "LDP",
-		"Description": "Cohen & Steers Limited Duration Preferred and Income Fund, Inc"
+		"symbol": "LDP",
+		"description": "Cohen & Steers Limited Duration Preferred and Income Fund, Inc"
 	},
 	{
-		"Symbol": "LDR",
-		"Description": "Landauer, Inc."
+		"symbol": "LDR",
+		"description": "Landauer, Inc."
 	},
 	{
-		"Symbol": "LDRI",
-		"Description": "PS Ladderrite 0-5 Year Corporate Bond"
+		"symbol": "LDRI",
+		"description": "PS Ladderrite 0-5 Year Corporate Bond"
 	},
 	{
-		"Symbol": "LE",
-		"Description": "Lands' End Inc Cmn"
+		"symbol": "LE",
+		"description": "Lands' End Inc Cmn"
 	},
 	{
-		"Symbol": "LEA",
-		"Description": "Lear Corporation"
+		"symbol": "LEA",
+		"description": "Lear Corporation"
 	},
 	{
-		"Symbol": "LECO",
-		"Description": "Lincoln Elec Hldg"
+		"symbol": "LECO",
+		"description": "Lincoln Elec Hldg"
 	},
 	{
-		"Symbol": "LEDS",
-		"Description": "Semileds Corporation"
+		"symbol": "LEDS",
+		"description": "Semileds Corporation"
 	},
 	{
-		"Symbol": "LEE",
-		"Description": "Lee Enterprises, Incorporated"
+		"symbol": "LEE",
+		"description": "Lee Enterprises, Incorporated"
 	},
 	{
-		"Symbol": "LEG",
-		"Description": "Leggett & Platt, Incorporated"
+		"symbol": "LEG",
+		"description": "Leggett & Platt, Incorporated"
 	},
 	{
-		"Symbol": "LEJU",
-		"Description": "Leju Holdings Limited"
+		"symbol": "LEJU",
+		"description": "Leju Holdings Limited"
 	},
 	{
-		"Symbol": "LEN",
-		"Description": "Lennar Corporation"
+		"symbol": "LEN",
+		"description": "Lennar Corporation"
 	},
 	{
-		"Symbol": "LEN.B",
-		"Description": "Lennar Corporation"
+		"symbol": "LEN.B",
+		"description": "Lennar Corporation"
 	},
 	{
-		"Symbol": "LENS",
-		"Description": "Presbia Plc Ord Shs"
+		"symbol": "LENS",
+		"description": "Presbia Plc Ord Shs"
 	},
 	{
-		"Symbol": "LEO",
-		"Description": "Dreyfus Strategic Municipals, Inc."
+		"symbol": "LEO",
+		"description": "Dreyfus Strategic Municipals, Inc."
 	},
 	{
-		"Symbol": "LEU",
-		"Description": "Centrus Energy Corp."
+		"symbol": "LEU",
+		"description": "Centrus Energy Corp."
 	},
 	{
-		"Symbol": "LEXEA",
-		"Description": "Liberty Expedia Holdings Inc"
+		"symbol": "LEXEA",
+		"description": "Liberty Expedia Holdings Inc"
 	},
 	{
-		"Symbol": "LFC",
-		"Description": "China Life Insurance Company Limited"
+		"symbol": "LFC",
+		"description": "China Life Insurance Company Limited"
 	},
 	{
-		"Symbol": "LFGR",
-		"Description": "Leaf Group Ltd."
+		"symbol": "LFGR",
+		"description": "Leaf Group Ltd."
 	},
 	{
-		"Symbol": "LFL",
-		"Description": "LATAM Airlines Group S.A."
+		"symbol": "LFL",
+		"description": "LATAM Airlines Group S.A."
 	},
 	{
-		"Symbol": "LFUS",
-		"Description": "Littelfuse Inc"
+		"symbol": "LFUS",
+		"description": "Littelfuse Inc"
 	},
 	{
-		"Symbol": "LFVN",
-		"Description": "Lifevantage Cp Cmn"
+		"symbol": "LFVN",
+		"description": "Lifevantage Cp Cmn"
 	},
 	{
-		"Symbol": "LGCY",
-		"Description": "Legacy Reserves LP"
+		"symbol": "LGCY",
+		"description": "Legacy Reserves LP"
 	},
 	{
-		"Symbol": "LGCYO",
-		"Description": "Legacy Resrvs Sr B"
+		"symbol": "LGCYO",
+		"description": "Legacy Resrvs Sr B"
 	},
 	{
-		"Symbol": "LGCYP",
-		"Description": "Legacy Resrvs Sr A"
+		"symbol": "LGCYP",
+		"description": "Legacy Resrvs Sr A"
 	},
 	{
-		"Symbol": "LGF.A",
-		"Description": "Lions Gate Entertainment Corporation"
+		"symbol": "LGF.A",
+		"description": "Lions Gate Entertainment Corporation"
 	},
 	{
-		"Symbol": "LGF.B",
-		"Description": "Lions Gate Entertainment Corporation"
+		"symbol": "LGF.B",
+		"description": "Lions Gate Entertainment Corporation"
 	},
 	{
-		"Symbol": "LGI",
-		"Description": "Lazard Global Total Return and Income Fund"
+		"symbol": "LGI",
+		"description": "Lazard Global Total Return and Income Fund"
 	},
 	{
-		"Symbol": "LGIH",
-		"Description": "LGI Homes Inc"
+		"symbol": "LGIH",
+		"description": "LGI Homes Inc"
 	},
 	{
-		"Symbol": "LGL",
-		"Description": "LGL Group, Inc. "
+		"symbol": "LGL",
+		"description": "LGL Group, Inc. "
 	},
 	{
-		"Symbol": "LGND",
-		"Description": "Ligand Pharm Cmn"
+		"symbol": "LGND",
+		"description": "Ligand Pharm Cmn"
 	},
 	{
-		"Symbol": "LH",
-		"Description": "Laboratory Corporation of America Holdings"
+		"symbol": "LH",
+		"description": "Laboratory Corporation of America Holdings"
 	},
 	{
-		"Symbol": "LHCG",
-		"Description": "LHC Group Inc"
+		"symbol": "LHCG",
+		"description": "LHC Group Inc"
 	},
 	{
-		"Symbol": "LHO",
-		"Description": "LaSalle Hotel Properties"
+		"symbol": "LHO",
+		"description": "LaSalle Hotel Properties"
 	},
 	{
-		"Symbol": "LHO^H",
-		"Description": "LaSalle Hotel Properties"
+		"symbol": "LHO^H",
+		"description": "LaSalle Hotel Properties"
 	},
 	{
-		"Symbol": "LHO^I",
-		"Description": "LaSalle Hotel Properties"
+		"symbol": "LHO^I",
+		"description": "LaSalle Hotel Properties"
 	},
 	{
-		"Symbol": "LHO^J",
-		"Description": "LaSalle Hotel Properties"
+		"symbol": "LHO^J",
+		"description": "LaSalle Hotel Properties"
 	},
 	{
-		"Symbol": "LIFE",
-		"Description": "Atyr Pharma Inc Cmn"
+		"symbol": "LIFE",
+		"description": "Atyr Pharma Inc Cmn"
 	},
 	{
-		"Symbol": "LII",
-		"Description": "Lennox International, Inc."
+		"symbol": "LII",
+		"description": "Lennox International, Inc."
 	},
 	{
-		"Symbol": "LILA",
-		"Description": "Liberty Lilac Cl A"
+		"symbol": "LILA",
+		"description": "Liberty Lilac Cl A"
 	},
 	{
-		"Symbol": "LILAK",
-		"Description": "Liberty Lilac Cl C"
+		"symbol": "LILAK",
+		"description": "Liberty Lilac Cl C"
 	},
 	{
-		"Symbol": "LINC",
-		"Description": "Lincoln Educational"
+		"symbol": "LINC",
+		"description": "Lincoln Educational"
 	},
 	{
-		"Symbol": "LIND",
-		"Description": "Lindblad Expd Hld Cmn"
+		"symbol": "LIND",
+		"description": "Lindblad Expd Hld Cmn"
 	},
 	{
-		"Symbol": "LINDW",
-		"Description": "Lindblad Expd Wt"
+		"symbol": "LINDW",
+		"description": "Lindblad Expd Wt"
 	},
 	{
-		"Symbol": "LINK",
-		"Description": "Interlink Elctrnc Cmn"
+		"symbol": "LINK",
+		"description": "Interlink Elctrnc Cmn"
 	},
 	{
-		"Symbol": "LION",
-		"Description": "Fidelity Southern Cp"
+		"symbol": "LION",
+		"description": "Fidelity Southern Cp"
 	},
 	{
-		"Symbol": "LIOX",
-		"Description": "Lionbridge Tech"
+		"symbol": "LIOX",
+		"description": "Lionbridge Tech"
 	},
 	{
-		"Symbol": "LIQT",
-		"Description": "LiqTech International, Inc."
+		"symbol": "LIQT",
+		"description": "LiqTech International, Inc."
 	},
 	{
-		"Symbol": "LITB",
-		"Description": "LightInTheBox Holding Co., Ltd."
+		"symbol": "LITB",
+		"description": "LightInTheBox Holding Co., Ltd."
 	},
 	{
-		"Symbol": "LITE",
-		"Description": "Lumentum Hld Cmn"
+		"symbol": "LITE",
+		"description": "Lumentum Hld Cmn"
 	},
 	{
-		"Symbol": "LIVE",
-		"Description": "Live Ventures Cmn"
+		"symbol": "LIVE",
+		"description": "Live Ventures Cmn"
 	},
 	{
-		"Symbol": "LIVN",
-		"Description": "Livanova Plc Or Sh"
+		"symbol": "LIVN",
+		"description": "Livanova Plc Or Sh"
 	},
 	{
-		"Symbol": "LJPC",
-		"Description": "La Jolla Pharma"
+		"symbol": "LJPC",
+		"description": "La Jolla Pharma"
 	},
 	{
-		"Symbol": "LKFN",
-		"Description": "Lakeland Finl Corp"
+		"symbol": "LKFN",
+		"description": "Lakeland Finl Corp"
 	},
 	{
-		"Symbol": "LKOR",
-		"Description": "Flxshrs Crsc Lg Corp"
+		"symbol": "LKOR",
+		"description": "Flxshrs Crsc Lg Corp"
 	},
 	{
-		"Symbol": "LKQ",
-		"Description": "LKQ Corp"
+		"symbol": "LKQ",
+		"description": "LKQ Corp"
 	},
 	{
-		"Symbol": "LKSD",
-		"Description": "LSC Communications, Inc."
+		"symbol": "LKSD",
+		"description": "LSC Communications, Inc."
 	},
 	{
-		"Symbol": "LL",
-		"Description": "Lumber Liquidators Holdings, Inc"
+		"symbol": "LL",
+		"description": "Lumber Liquidators Holdings, Inc"
 	},
 	{
-		"Symbol": "LLIT",
-		"Description": "Lianluo Smart Ltd"
+		"symbol": "LLIT",
+		"description": "Lianluo Smart Ltd"
 	},
 	{
-		"Symbol": "LLL",
-		"Description": "L3 Technologies, Inc."
+		"symbol": "LLL",
+		"description": "L3 Technologies, Inc."
 	},
 	{
-		"Symbol": "LLNW",
-		"Description": "Limelight Networks"
+		"symbol": "LLNW",
+		"description": "Limelight Networks"
 	},
 	{
-		"Symbol": "LLTC",
-		"Description": "Linear Technology"
+		"symbol": "LLTC",
+		"description": "Linear Technology"
 	},
 	{
-		"Symbol": "LLY",
-		"Description": "Eli Lilly and Company"
+		"symbol": "LLY",
+		"description": "Eli Lilly and Company"
 	},
 	{
-		"Symbol": "LM",
-		"Description": "Legg Mason, Inc."
+		"symbol": "LM",
+		"description": "Legg Mason, Inc."
 	},
 	{
-		"Symbol": "LMAT",
-		"Description": "Lemaitre Vascular"
+		"symbol": "LMAT",
+		"description": "Lemaitre Vascular"
 	},
 	{
-		"Symbol": "LMB",
-		"Description": "Limbach Holdings Inc."
+		"symbol": "LMB",
+		"description": "Limbach Holdings Inc."
 	},
 	{
-		"Symbol": "LMBS",
-		"Description": "First TR Low Opp ETF"
+		"symbol": "LMBS",
+		"description": "First TR Low Opp ETF"
 	},
 	{
-		"Symbol": "LMCA",
-		"Description": "Liberty Media CS A"
+		"symbol": "LMCA",
+		"description": "Liberty Media CS A"
 	},
 	{
-		"Symbol": "LMCK",
-		"Description": "Liberty Media CS C"
+		"symbol": "LMCK",
+		"description": "Liberty Media CS C"
 	},
 	{
-		"Symbol": "LMFA",
-		"Description": "Lm Funding Cmn"
+		"symbol": "LMFA",
+		"description": "Lm Funding Cmn"
 	},
 	{
-		"Symbol": "LMFAW",
-		"Description": "Lm Funding Wt"
+		"symbol": "LMFAW",
+		"description": "Lm Funding Wt"
 	},
 	{
-		"Symbol": "LMHA",
-		"Description": "Legg Mason, Inc."
+		"symbol": "LMHA",
+		"description": "Legg Mason, Inc."
 	},
 	{
-		"Symbol": "LMHB",
-		"Description": "Legg Mason, Inc."
+		"symbol": "LMHB",
+		"description": "Legg Mason, Inc."
 	},
 	{
-		"Symbol": "LMIA",
-		"Description": "LMI Aerospace Inc"
+		"symbol": "LMIA",
+		"description": "LMI Aerospace Inc"
 	},
 	{
-		"Symbol": "LMNR",
-		"Description": "Limoneira Co"
+		"symbol": "LMNR",
+		"description": "Limoneira Co"
 	},
 	{
-		"Symbol": "LMNX",
-		"Description": "Luminex Corporation"
+		"symbol": "LMNX",
+		"description": "Luminex Corporation"
 	},
 	{
-		"Symbol": "LMOS",
-		"Description": "Lumos Networks Corp"
+		"symbol": "LMOS",
+		"description": "Lumos Networks Corp"
 	},
 	{
-		"Symbol": "LMRK",
-		"Description": "Landmark Cmn Units"
+		"symbol": "LMRK",
+		"description": "Landmark Cmn Units"
 	},
 	{
-		"Symbol": "LMRKO",
-		"Description": "Landmark Infrastructure Partners LP"
+		"symbol": "LMRKO",
+		"description": "Landmark Infrastructure Partners LP"
 	},
 	{
-		"Symbol": "LMRKP",
-		"Description": "Landmark Inf Prf"
+		"symbol": "LMRKP",
+		"description": "Landmark Inf Prf"
 	},
 	{
-		"Symbol": "LMT",
-		"Description": "Lockheed Martin Corporation"
+		"symbol": "LMT",
+		"description": "Lockheed Martin Corporation"
 	},
 	{
-		"Symbol": "LN",
-		"Description": "LINE Corporation"
+		"symbol": "LN",
+		"description": "LINE Corporation"
 	},
 	{
-		"Symbol": "LNC",
-		"Description": "Lincoln National Corporation"
+		"symbol": "LNC",
+		"description": "Lincoln National Corporation"
 	},
 	{
-		"Symbol": "LNC.WS",
-		"Description": "Lincoln National Corporation"
+		"symbol": "LNC.WS",
+		"description": "Lincoln National Corporation"
 	},
 	{
-		"Symbol": "LNCE",
-		"Description": "Snyders-Lance Inc"
+		"symbol": "LNCE",
+		"description": "Snyders-Lance Inc"
 	},
 	{
-		"Symbol": "LND",
-		"Description": "Brasilagro Cia Brasileira De Propriedades Agricolas"
+		"symbol": "LND",
+		"description": "Brasilagro Cia Brasileira De Propriedades Agricolas"
 	},
 	{
-		"Symbol": "LNDC",
-		"Description": "Landec Cp"
+		"symbol": "LNDC",
+		"description": "Landec Cp"
 	},
 	{
-		"Symbol": "LNG",
-		"Description": "Cheniere Energy, Inc."
+		"symbol": "LNG",
+		"description": "Cheniere Energy, Inc."
 	},
 	{
-		"Symbol": "LNGR",
-		"Description": "Glbl X Lngvty Th Ett"
+		"symbol": "LNGR",
+		"description": "Glbl X Lngvty Th Ett"
 	},
 	{
-		"Symbol": "LNN",
-		"Description": "Lindsay Corporation"
+		"symbol": "LNN",
+		"description": "Lindsay Corporation"
 	},
 	{
-		"Symbol": "LNT",
-		"Description": "Alliant Energy Corporation"
+		"symbol": "LNT",
+		"description": "Alliant Energy Corporation"
 	},
 	{
-		"Symbol": "LNTH",
-		"Description": "Lantheus Holdings Cmn"
+		"symbol": "LNTH",
+		"description": "Lantheus Holdings Cmn"
 	},
 	{
-		"Symbol": "LOAN",
-		"Description": "Manhattan Bridge"
+		"symbol": "LOAN",
+		"description": "Manhattan Bridge"
 	},
 	{
-		"Symbol": "LOB",
-		"Description": "Live Oak Bancsh Cmn"
+		"symbol": "LOB",
+		"description": "Live Oak Bancsh Cmn"
 	},
 	{
-		"Symbol": "LOCO",
-		"Description": "El Pollo Loco Cmn"
+		"symbol": "LOCO",
+		"description": "El Pollo Loco Cmn"
 	},
 	{
-		"Symbol": "LODE",
-		"Description": "Comstock Mining, Inc."
+		"symbol": "LODE",
+		"description": "Comstock Mining, Inc."
 	},
 	{
-		"Symbol": "LOGI",
-		"Description": "Logitech Int Sa"
+		"symbol": "LOGI",
+		"description": "Logitech Int Sa"
 	},
 	{
-		"Symbol": "LOGM",
-		"Description": "Logmein Inc"
+		"symbol": "LOGM",
+		"description": "Logmein Inc"
 	},
 	{
-		"Symbol": "LONE",
-		"Description": "Lonestar Resources US Inc"
+		"symbol": "LONE",
+		"description": "Lonestar Resources US Inc"
 	},
 	{
-		"Symbol": "LOPE",
-		"Description": "Grand Canyon Educati"
+		"symbol": "LOPE",
+		"description": "Grand Canyon Educati"
 	},
 	{
-		"Symbol": "LOR",
-		"Description": "Lazard World Dividend & Income Fund, Inc."
+		"symbol": "LOR",
+		"description": "Lazard World Dividend & Income Fund, Inc."
 	},
 	{
-		"Symbol": "LORL",
-		"Description": "Loral Space Comm"
+		"symbol": "LORL",
+		"description": "Loral Space Comm"
 	},
 	{
-		"Symbol": "LOV",
-		"Description": "Spark Networks, Inc."
+		"symbol": "LOV",
+		"description": "Spark Networks, Inc."
 	},
 	{
-		"Symbol": "LOW",
-		"Description": "Lowes Companies, Inc."
+		"symbol": "LOW",
+		"description": "Lowes Companies, Inc."
 	},
 	{
-		"Symbol": "LOXO",
-		"Description": "Loxo Oncology CS"
+		"symbol": "LOXO",
+		"description": "Loxo Oncology CS"
 	},
 	{
-		"Symbol": "LPCN",
-		"Description": "Lipocine Inc Cmn"
+		"symbol": "LPCN",
+		"description": "Lipocine Inc Cmn"
 	},
 	{
-		"Symbol": "LPG",
-		"Description": "Dorian LPG Ltd."
+		"symbol": "LPG",
+		"description": "Dorian LPG Ltd."
 	},
 	{
-		"Symbol": "LPI",
-		"Description": "Laredo Petroleum, Inc."
+		"symbol": "LPI",
+		"description": "Laredo Petroleum, Inc."
 	},
 	{
-		"Symbol": "LPL",
-		"Description": "LG Display Co., Ltd."
+		"symbol": "LPL",
+		"description": "LG Display Co., Ltd."
 	},
 	{
-		"Symbol": "LPLA",
-		"Description": "Lpl Financial Hld Cmn"
+		"symbol": "LPLA",
+		"description": "Lpl Financial Hld Cmn"
 	},
 	{
-		"Symbol": "LPNT",
-		"Description": "Lifepoint Health Cmn"
+		"symbol": "LPNT",
+		"description": "Lifepoint Health Cmn"
 	},
 	{
-		"Symbol": "LPSN",
-		"Description": "Liveperson Inc"
+		"symbol": "LPSN",
+		"description": "Liveperson Inc"
 	},
 	{
-		"Symbol": "LPT",
-		"Description": "Liberty Property Trust"
+		"symbol": "LPT",
+		"description": "Liberty Property Trust"
 	},
 	{
-		"Symbol": "LPTH",
-		"Description": "Lightpath Tech Inc"
+		"symbol": "LPTH",
+		"description": "Lightpath Tech Inc"
 	},
 	{
-		"Symbol": "LPTX",
-		"Description": "Leap Therapeutics Inc."
+		"symbol": "LPTX",
+		"description": "Leap Therapeutics Inc."
 	},
 	{
-		"Symbol": "LPX",
-		"Description": "Louisiana-Pacific Corporation"
+		"symbol": "LPX",
+		"description": "Louisiana-Pacific Corporation"
 	},
 	{
-		"Symbol": "LQ",
-		"Description": "La Quinta Holdings Inc."
+		"symbol": "LQ",
+		"description": "La Quinta Holdings Inc."
 	},
 	{
-		"Symbol": "LQDT",
-		"Description": "Liquidity Services"
+		"symbol": "LQDT",
+		"description": "Liquidity Services"
 	},
 	{
-		"Symbol": "LRAD",
-		"Description": "Lrad Corporation"
+		"symbol": "LRAD",
+		"description": "Lrad Corporation"
 	},
 	{
-		"Symbol": "LRCX",
-		"Description": "Lam Research Corp"
+		"symbol": "LRCX",
+		"description": "Lam Research Corp"
 	},
 	{
-		"Symbol": "LRN",
-		"Description": "K12 Inc"
+		"symbol": "LRN",
+		"description": "K12 Inc"
 	},
 	{
-		"Symbol": "LSBG",
-		"Description": "Lake Sunapee Bk Cmn"
+		"symbol": "LSBG",
+		"description": "Lake Sunapee Bk Cmn"
 	},
 	{
-		"Symbol": "LSBK",
-		"Description": "Lake Shore Bancorp"
+		"symbol": "LSBK",
+		"description": "Lake Shore Bancorp"
 	},
 	{
-		"Symbol": "LSCC",
-		"Description": "Lattice Semicond"
+		"symbol": "LSCC",
+		"description": "Lattice Semicond"
 	},
 	{
-		"Symbol": "LSI",
-		"Description": "Life Storage, Inc."
+		"symbol": "LSI",
+		"description": "Life Storage, Inc."
 	},
 	{
-		"Symbol": "LSTR",
-		"Description": "Landstar System"
+		"symbol": "LSTR",
+		"description": "Landstar System"
 	},
 	{
-		"Symbol": "LSXMA",
-		"Description": "Liberty Srs XM CS A"
+		"symbol": "LSXMA",
+		"description": "Liberty Srs XM CS A"
 	},
 	{
-		"Symbol": "LSXMB",
-		"Description": "Liberty Srs XM CS B"
+		"symbol": "LSXMB",
+		"description": "Liberty Srs XM CS B"
 	},
 	{
-		"Symbol": "LSXMK",
-		"Description": "Liberty Srs XM CS C"
+		"symbol": "LSXMK",
+		"description": "Liberty Srs XM CS C"
 	},
 	{
-		"Symbol": "LTBR",
-		"Description": "Lightbridge Corp"
+		"symbol": "LTBR",
+		"description": "Lightbridge Corp"
 	},
 	{
-		"Symbol": "LTC",
-		"Description": "LTC Properties, Inc."
+		"symbol": "LTC",
+		"description": "LTC Properties, Inc."
 	},
 	{
-		"Symbol": "LTEA",
-		"Description": "Long Island Iced Tea Corp"
+		"symbol": "LTEA",
+		"description": "Long Island Iced Tea Corp"
 	},
 	{
-		"Symbol": "LTRPA",
-		"Description": "Liberty Tripadv A Cmn"
+		"symbol": "LTRPA",
+		"description": "Liberty Tripadv A Cmn"
 	},
 	{
-		"Symbol": "LTRX",
-		"Description": "Lantronix Inc"
+		"symbol": "LTRX",
+		"description": "Lantronix Inc"
 	},
 	{
-		"Symbol": "LTS",
-		"Description": "Ladenburg Thalmann Financial Services Inc"
+		"symbol": "LTS",
+		"description": "Ladenburg Thalmann Financial Services Inc"
 	},
 	{
-		"Symbol": "LTS^A",
-		"Description": "Ladenburg Thalmann Financial Services Inc"
+		"symbol": "LTS^A",
+		"description": "Ladenburg Thalmann Financial Services Inc"
 	},
 	{
-		"Symbol": "LTXB",
-		"Description": "Legacytexas Fnl Cmn"
+		"symbol": "LTXB",
+		"description": "Legacytexas Fnl Cmn"
 	},
 	{
-		"Symbol": "LUB",
-		"Description": "Lubys, Inc."
+		"symbol": "LUB",
+		"description": "Lubys, Inc."
 	},
 	{
-		"Symbol": "LUK",
-		"Description": "Leucadia National Corporation"
+		"symbol": "LUK",
+		"description": "Leucadia National Corporation"
 	},
 	{
-		"Symbol": "LULU",
-		"Description": "Lululemon Athletica"
+		"symbol": "LULU",
+		"description": "Lululemon Athletica"
 	},
 	{
-		"Symbol": "LUNA",
-		"Description": "Luna Innovations Inc"
+		"symbol": "LUNA",
+		"description": "Luna Innovations Inc"
 	},
 	{
-		"Symbol": "LUV",
-		"Description": "Southwest Airlines Company"
+		"symbol": "LUV",
+		"description": "Southwest Airlines Company"
 	},
 	{
-		"Symbol": "LUX",
-		"Description": "Luxottica Group, S.p.A."
+		"symbol": "LUX",
+		"description": "Luxottica Group, S.p.A."
 	},
 	{
-		"Symbol": "LVHD",
-		"Description": "Legg Mason Lv HD ETF"
+		"symbol": "LVHD",
+		"description": "Legg Mason Lv HD ETF"
 	},
 	{
-		"Symbol": "LVLT",
-		"Description": "Level 3 Communications, Inc."
+		"symbol": "LVLT",
+		"description": "Level 3 Communications, Inc."
 	},
 	{
-		"Symbol": "LVNTA",
-		"Description": "Liberty Vntrs Srs A"
+		"symbol": "LVNTA",
+		"description": "Liberty Vntrs Srs A"
 	},
 	{
-		"Symbol": "LVNTB",
-		"Description": "Liberty Vntrs Srs B"
+		"symbol": "LVNTB",
+		"description": "Liberty Vntrs Srs B"
 	},
 	{
-		"Symbol": "LVS",
-		"Description": "Las Vegas Sands Corp."
+		"symbol": "LVS",
+		"description": "Las Vegas Sands Corp."
 	},
 	{
-		"Symbol": "LW",
-		"Description": "Lamb Weston Holdings, Inc."
+		"symbol": "LW",
+		"description": "Lamb Weston Holdings, Inc."
 	},
 	{
-		"Symbol": "LWAY",
-		"Description": "Lifeway Foods Inc"
+		"symbol": "LWAY",
+		"description": "Lifeway Foods Inc"
 	},
 	{
-		"Symbol": "LXFR",
-		"Description": "Luxfer Holdings PLC"
+		"symbol": "LXFR",
+		"description": "Luxfer Holdings PLC"
 	},
 	{
-		"Symbol": "LXFT",
-		"Description": "Luxoft Holding, Inc."
+		"symbol": "LXFT",
+		"description": "Luxoft Holding, Inc."
 	},
 	{
-		"Symbol": "LXP",
-		"Description": "Lexington Realty Trust"
+		"symbol": "LXP",
+		"description": "Lexington Realty Trust"
 	},
 	{
-		"Symbol": "LXP^C",
-		"Description": "Lexington Realty Trust"
+		"symbol": "LXP^C",
+		"description": "Lexington Realty Trust"
 	},
 	{
-		"Symbol": "LXRX",
-		"Description": "Lexicon Pharmaceutcl"
+		"symbol": "LXRX",
+		"description": "Lexicon Pharmaceutcl"
 	},
 	{
-		"Symbol": "LXU",
-		"Description": "Lsb Industries Inc."
+		"symbol": "LXU",
+		"description": "Lsb Industries Inc."
 	},
 	{
-		"Symbol": "LYB",
-		"Description": "LyondellBasell Industries NV"
+		"symbol": "LYB",
+		"description": "LyondellBasell Industries NV"
 	},
 	{
-		"Symbol": "LYG",
-		"Description": "Lloyds Banking Group Plc"
+		"symbol": "LYG",
+		"description": "Lloyds Banking Group Plc"
 	},
 	{
-		"Symbol": "LYTS",
-		"Description": "L S I Industries I"
+		"symbol": "LYTS",
+		"description": "L S I Industries I"
 	},
 	{
-		"Symbol": "LYV",
-		"Description": "Live Nation Entertainment, Inc."
+		"symbol": "LYV",
+		"description": "Live Nation Entertainment, Inc."
 	},
 	{
-		"Symbol": "LZB",
-		"Description": "La-Z-Boy Incorporated"
+		"symbol": "LZB",
+		"description": "La-Z-Boy Incorporated"
 	},
 	{
-		"Symbol": "M",
-		"Description": "Macys Inc"
+		"symbol": "M",
+		"description": "Macys Inc"
 	},
 	{
-		"Symbol": "MA",
-		"Description": "Mastercard Incorporated"
+		"symbol": "MA",
+		"description": "Mastercard Incorporated"
 	},
 	{
-		"Symbol": "MAA",
-		"Description": "Mid-America Apartment Communities, Inc."
+		"symbol": "MAA",
+		"description": "Mid-America Apartment Communities, Inc."
 	},
 	{
-		"Symbol": "MAA^I",
-		"Description": "Mid-America Apartment Communities, Inc."
+		"symbol": "MAA^I",
+		"description": "Mid-America Apartment Communities, Inc."
 	},
 	{
-		"Symbol": "MAB",
-		"Description": "Eaton Vance Massachusetts Municipal Bond Fund"
+		"symbol": "MAB",
+		"description": "Eaton Vance Massachusetts Municipal Bond Fund"
 	},
 	{
-		"Symbol": "MAC",
-		"Description": "Macerich Company "
+		"symbol": "MAC",
+		"description": "Macerich Company "
 	},
 	{
-		"Symbol": "MACK",
-		"Description": "Merrimack Pharmaceut"
+		"symbol": "MACK",
+		"description": "Merrimack Pharmaceut"
 	},
 	{
-		"Symbol": "MACQ",
-		"Description": "M I Acquisitions Inc"
+		"symbol": "MACQ",
+		"description": "M I Acquisitions Inc"
 	},
 	{
-		"Symbol": "MACQU",
-		"Description": "M I Acquisitions Inc. Un"
+		"symbol": "MACQU",
+		"description": "M I Acquisitions Inc. Un"
 	},
 	{
-		"Symbol": "MACQW",
-		"Description": "M I Acquisitions Inc. Warrant"
+		"symbol": "MACQW",
+		"description": "M I Acquisitions Inc. Warrant"
 	},
 	{
-		"Symbol": "MAG",
-		"Description": "MAG Silver Corporation"
+		"symbol": "MAG",
+		"description": "MAG Silver Corporation"
 	},
 	{
-		"Symbol": "MAGS",
-		"Description": "Magal Security Syst"
+		"symbol": "MAGS",
+		"description": "Magal Security Syst"
 	},
 	{
-		"Symbol": "MAIN",
-		"Description": "Main Street Capital Corporation"
+		"symbol": "MAIN",
+		"description": "Main Street Capital Corporation"
 	},
 	{
-		"Symbol": "MAMS",
-		"Description": "Mam Software Gp Cmn"
+		"symbol": "MAMS",
+		"description": "Mam Software Gp Cmn"
 	},
 	{
-		"Symbol": "MAN",
-		"Description": "ManpowerGroup"
+		"symbol": "MAN",
+		"description": "ManpowerGroup"
 	},
 	{
-		"Symbol": "MANH",
-		"Description": "Manhattan Assoc"
+		"symbol": "MANH",
+		"description": "Manhattan Assoc"
 	},
 	{
-		"Symbol": "MANT",
-		"Description": "Mantech Intl Cp A"
+		"symbol": "MANT",
+		"description": "Mantech Intl Cp A"
 	},
 	{
-		"Symbol": "MANU",
-		"Description": "Manchester United Ltd."
+		"symbol": "MANU",
+		"description": "Manchester United Ltd."
 	},
 	{
-		"Symbol": "MAR",
-		"Description": "Marriot Int Class A"
+		"symbol": "MAR",
+		"description": "Marriot Int Class A"
 	},
 	{
-		"Symbol": "MARA",
-		"Description": "Marathon Patent Grou"
+		"symbol": "MARA",
+		"description": "Marathon Patent Grou"
 	},
 	{
-		"Symbol": "MARK",
-		"Description": "Remark Media Cmn"
+		"symbol": "MARK",
+		"description": "Remark Media Cmn"
 	},
 	{
-		"Symbol": "MARPS",
-		"Description": "Marine Petroleum U"
+		"symbol": "MARPS",
+		"description": "Marine Petroleum U"
 	},
 	{
-		"Symbol": "MAS",
-		"Description": "Masco Corporation"
+		"symbol": "MAS",
+		"description": "Masco Corporation"
 	},
 	{
-		"Symbol": "MASI",
-		"Description": "Masimo Corporation"
+		"symbol": "MASI",
+		"description": "Masimo Corporation"
 	},
 	{
-		"Symbol": "MAT",
-		"Description": "Mattel Inc"
+		"symbol": "MAT",
+		"description": "Mattel Inc"
 	},
 	{
-		"Symbol": "MATR",
-		"Description": "Mattersight Corp"
+		"symbol": "MATR",
+		"description": "Mattersight Corp"
 	},
 	{
-		"Symbol": "MATW",
-		"Description": "Matthews Intl Corp"
+		"symbol": "MATW",
+		"description": "Matthews Intl Corp"
 	},
 	{
-		"Symbol": "MATX",
-		"Description": "Matson, Inc."
+		"symbol": "MATX",
+		"description": "Matson, Inc."
 	},
 	{
-		"Symbol": "MAUI",
-		"Description": "Advisrshs Mkt Adptve"
+		"symbol": "MAUI",
+		"description": "Advisrshs Mkt Adptve"
 	},
 	{
-		"Symbol": "MAV",
-		"Description": "Pioneer Municipal High Income Advantage Trust"
+		"symbol": "MAV",
+		"description": "Pioneer Municipal High Income Advantage Trust"
 	},
 	{
-		"Symbol": "MAYS",
-		"Description": "J W Mays Inc"
+		"symbol": "MAYS",
+		"description": "J W Mays Inc"
 	},
 	{
-		"Symbol": "MB",
-		"Description": "Mindbody Cls A Cmn"
+		"symbol": "MB",
+		"description": "Mindbody Cls A Cmn"
 	},
 	{
-		"Symbol": "MBCN",
-		"Description": "Middlefield Banc Cmn"
+		"symbol": "MBCN",
+		"description": "Middlefield Banc Cmn"
 	},
 	{
-		"Symbol": "MBFI",
-		"Description": "MB Financial Inc"
+		"symbol": "MBFI",
+		"description": "MB Financial Inc"
 	},
 	{
-		"Symbol": "MBFIP",
-		"Description": "MB Financial Pd Sr A"
+		"symbol": "MBFIP",
+		"description": "MB Financial Pd Sr A"
 	},
 	{
-		"Symbol": "MBI",
-		"Description": "MBIA, Inc."
+		"symbol": "MBI",
+		"description": "MBIA, Inc."
 	},
 	{
-		"Symbol": "MBII",
-		"Description": "Marrone Bio Innov"
+		"symbol": "MBII",
+		"description": "Marrone Bio Innov"
 	},
 	{
-		"Symbol": "MBLY",
-		"Description": "Mobileye N.V."
+		"symbol": "MBLY",
+		"description": "Mobileye N.V."
 	},
 	{
-		"Symbol": "MBOT",
-		"Description": "Microbot Medical Inc."
+		"symbol": "MBOT",
+		"description": "Microbot Medical Inc."
 	},
 	{
-		"Symbol": "MBRG",
-		"Description": "Middleburg Finl Corp"
+		"symbol": "MBRG",
+		"description": "Middleburg Finl Corp"
 	},
 	{
-		"Symbol": "MBRX",
-		"Description": "Moleculin Biotech CS"
+		"symbol": "MBRX",
+		"description": "Moleculin Biotech CS"
 	},
 	{
-		"Symbol": "MBSD",
-		"Description": "Flexshares Dspln MBS"
+		"symbol": "MBSD",
+		"description": "Flexshares Dspln MBS"
 	},
 	{
-		"Symbol": "MBT",
-		"Description": "Mobile TeleSystems OJSC"
+		"symbol": "MBT",
+		"description": "Mobile TeleSystems OJSC"
 	},
 	{
-		"Symbol": "MBTF",
-		"Description": "Mbt Financial Corp"
+		"symbol": "MBTF",
+		"description": "Mbt Financial Corp"
 	},
 	{
-		"Symbol": "MBUU",
-		"Description": "Malibu Boats Cmn A"
+		"symbol": "MBUU",
+		"description": "Malibu Boats Cmn A"
 	},
 	{
-		"Symbol": "MBVT",
-		"Description": "Merchants Bancshares"
+		"symbol": "MBVT",
+		"description": "Merchants Bancshares"
 	},
 	{
-		"Symbol": "MBVX",
-		"Description": "Mabvax Therapeutics Holdings Inc"
+		"symbol": "MBVX",
+		"description": "Mabvax Therapeutics Holdings Inc"
 	},
 	{
-		"Symbol": "MBWM",
-		"Description": "Mercantile Bank Corp"
+		"symbol": "MBWM",
+		"description": "Mercantile Bank Corp"
 	},
 	{
-		"Symbol": "MC",
-		"Description": "Moelis & Company"
+		"symbol": "MC",
+		"description": "Moelis & Company"
 	},
 	{
-		"Symbol": "MCA",
-		"Description": "Blackrock MuniYield California Insured Fund, Inc."
+		"symbol": "MCA",
+		"description": "Blackrock MuniYield California Insured Fund, Inc."
 	},
 	{
-		"Symbol": "MCBC",
-		"Description": "Macatawa Bank Corp"
+		"symbol": "MCBC",
+		"description": "Macatawa Bank Corp"
 	},
 	{
-		"Symbol": "MCC",
-		"Description": "Medley Capital Corporation"
+		"symbol": "MCC",
+		"description": "Medley Capital Corporation"
 	},
 	{
-		"Symbol": "MCD",
-		"Description": "McDonalds Corporation"
+		"symbol": "MCD",
+		"description": "McDonalds Corporation"
 	},
 	{
-		"Symbol": "MCEF",
-		"Description": "First Trust Municipal CEF Income Opportunity ETF"
+		"symbol": "MCEF",
+		"description": "First Trust Municipal CEF Income Opportunity ETF"
 	},
 	{
-		"Symbol": "MCEP",
-		"Description": "Mid-Con Energy Partn"
+		"symbol": "MCEP",
+		"description": "Mid-Con Energy Partn"
 	},
 	{
-		"Symbol": "MCF",
-		"Description": "Contango Oil & Gas Company"
+		"symbol": "MCF",
+		"description": "Contango Oil & Gas Company"
 	},
 	{
-		"Symbol": "MCFT",
-		"Description": "Mcbc Holdings Cmn"
+		"symbol": "MCFT",
+		"description": "Mcbc Holdings Cmn"
 	},
 	{
-		"Symbol": "MCHI",
-		"Description": "Ishares MSCI China ETF"
+		"symbol": "MCHI",
+		"description": "Ishares MSCI China ETF"
 	},
 	{
-		"Symbol": "MCHP",
-		"Description": "Microchip Technology"
+		"symbol": "MCHP",
+		"description": "Microchip Technology"
 	},
 	{
-		"Symbol": "MCHX",
-		"Description": "Marchex Inc"
+		"symbol": "MCHX",
+		"description": "Marchex Inc"
 	},
 	{
-		"Symbol": "MCI",
-		"Description": "Barings Corporate Investors"
+		"symbol": "MCI",
+		"description": "Barings Corporate Investors"
 	},
 	{
-		"Symbol": "MCK",
-		"Description": "McKesson Corporation"
+		"symbol": "MCK",
+		"description": "McKesson Corporation"
 	},
 	{
-		"Symbol": "MCN",
-		"Description": "Madison Covered Call & Equity Strategy Fund"
+		"symbol": "MCN",
+		"description": "Madison Covered Call & Equity Strategy Fund"
 	},
 	{
-		"Symbol": "MCO",
-		"Description": "Moodys Corporation"
+		"symbol": "MCO",
+		"description": "Moodys Corporation"
 	},
 	{
-		"Symbol": "MCQ.CL",
-		"Description": "Medley Capital Corporation"
+		"symbol": "MCQ.CL",
+		"description": "Medley Capital Corporation"
 	},
 	{
-		"Symbol": "MCR",
-		"Description": "MFS Charter Income Trust"
+		"symbol": "MCR",
+		"description": "MFS Charter Income Trust"
 	},
 	{
-		"Symbol": "MCRB",
-		"Description": "Seres Theraptc Cmn"
+		"symbol": "MCRB",
+		"description": "Seres Theraptc Cmn"
 	},
 	{
-		"Symbol": "MCRI",
-		"Description": "Monarch Casino"
+		"symbol": "MCRI",
+		"description": "Monarch Casino"
 	},
 	{
-		"Symbol": "MCRN",
-		"Description": "Milacron Holdings Corp."
+		"symbol": "MCRN",
+		"description": "Milacron Holdings Corp."
 	},
 	{
-		"Symbol": "MCS",
-		"Description": "Marcus Corporation "
+		"symbol": "MCS",
+		"description": "Marcus Corporation "
 	},
 	{
-		"Symbol": "MCUR",
-		"Description": "Macrocure Ltd. Or Sh"
+		"symbol": "MCUR",
+		"description": "Macrocure Ltd. Or Sh"
 	},
 	{
-		"Symbol": "MCV",
-		"Description": "Medley Capital Corporation"
+		"symbol": "MCV",
+		"description": "Medley Capital Corporation"
 	},
 	{
-		"Symbol": "MCX",
-		"Description": "Medley Capital Corporation"
+		"symbol": "MCX",
+		"description": "Medley Capital Corporation"
 	},
 	{
-		"Symbol": "MCY",
-		"Description": "Mercury General Corporation"
+		"symbol": "MCY",
+		"description": "Mercury General Corporation"
 	},
 	{
-		"Symbol": "MCZ",
-		"Description": "Mad Catz Interactive Inc"
+		"symbol": "MCZ",
+		"description": "Mad Catz Interactive Inc"
 	},
 	{
-		"Symbol": "MD",
-		"Description": "Mednax, Inc"
+		"symbol": "MD",
+		"description": "Mednax, Inc"
 	},
 	{
-		"Symbol": "MDC",
-		"Description": "M.D.C. Holdings, Inc."
+		"symbol": "MDC",
+		"description": "M.D.C. Holdings, Inc."
 	},
 	{
-		"Symbol": "MDCA",
-		"Description": "Mdc Partners Cl A"
+		"symbol": "MDCA",
+		"description": "Mdc Partners Cl A"
 	},
 	{
-		"Symbol": "MDCO",
-		"Description": "Medicines Co"
+		"symbol": "MDCO",
+		"description": "Medicines Co"
 	},
 	{
-		"Symbol": "MDGL",
-		"Description": "Madrigal Pharmaceuticals Inc"
+		"symbol": "MDGL",
+		"description": "Madrigal Pharmaceuticals Inc"
 	},
 	{
-		"Symbol": "MDGS",
-		"Description": "Medigus Ltd Ads"
+		"symbol": "MDGS",
+		"description": "Medigus Ltd Ads"
 	},
 	{
-		"Symbol": "MDIV",
-		"Description": "First Trust Vi Mlti"
+		"symbol": "MDIV",
+		"description": "First Trust Vi Mlti"
 	},
 	{
-		"Symbol": "MDLQ",
-		"Description": "Medley LLC"
+		"symbol": "MDLQ",
+		"description": "Medley LLC"
 	},
 	{
-		"Symbol": "MDLX",
-		"Description": "Medley LLC"
+		"symbol": "MDLX",
+		"description": "Medley LLC"
 	},
 	{
-		"Symbol": "MDLY",
-		"Description": "Medley Management Inc."
+		"symbol": "MDLY",
+		"description": "Medley Management Inc."
 	},
 	{
-		"Symbol": "MDLZ",
-		"Description": "Mondelez Intl Cmn A"
+		"symbol": "MDLZ",
+		"description": "Mondelez Intl Cmn A"
 	},
 	{
-		"Symbol": "MDP",
-		"Description": "Meredith Corporation"
+		"symbol": "MDP",
+		"description": "Meredith Corporation"
 	},
 	{
-		"Symbol": "MDR",
-		"Description": "McDermott International, Inc."
+		"symbol": "MDR",
+		"description": "McDermott International, Inc."
 	},
 	{
-		"Symbol": "MDRX",
-		"Description": "Allscripts Hlthcare"
+		"symbol": "MDRX",
+		"description": "Allscripts Hlthcare"
 	},
 	{
-		"Symbol": "MDSO",
-		"Description": "Medidata Solutions"
+		"symbol": "MDSO",
+		"description": "Medidata Solutions"
 	},
 	{
-		"Symbol": "MDSY",
-		"Description": "Modsys Int'l Ltd"
+		"symbol": "MDSY",
+		"description": "Modsys Int'l Ltd"
 	},
 	{
-		"Symbol": "MDT",
-		"Description": "Medtronic plc"
+		"symbol": "MDT",
+		"description": "Medtronic plc"
 	},
 	{
-		"Symbol": "MDU",
-		"Description": "MDU Resources Group, Inc."
+		"symbol": "MDU",
+		"description": "MDU Resources Group, Inc."
 	},
 	{
-		"Symbol": "MDVX",
-		"Description": "Medovex Corp. Cmn"
+		"symbol": "MDVX",
+		"description": "Medovex Corp. Cmn"
 	},
 	{
-		"Symbol": "MDVXW",
-		"Description": "Medovex Cp Cl A Wt"
+		"symbol": "MDVXW",
+		"description": "Medovex Cp Cl A Wt"
 	},
 	{
-		"Symbol": "MDWD",
-		"Description": "Mediwound Ltd Ord Sh"
+		"symbol": "MDWD",
+		"description": "Mediwound Ltd Ord Sh"
 	},
 	{
-		"Symbol": "MDXG",
-		"Description": "Mimedx Group Inc"
+		"symbol": "MDXG",
+		"description": "Mimedx Group Inc"
 	},
 	{
-		"Symbol": "MED",
-		"Description": "MEDIFAST INC"
+		"symbol": "MED",
+		"description": "MEDIFAST INC"
 	},
 	{
-		"Symbol": "MEDP",
-		"Description": "Medpace Holdings Inc. Common"
+		"symbol": "MEDP",
+		"description": "Medpace Holdings Inc. Common"
 	},
 	{
-		"Symbol": "MEET",
-		"Description": "Meetme Inc"
+		"symbol": "MEET",
+		"description": "Meetme Inc"
 	},
 	{
-		"Symbol": "MEI",
-		"Description": "Methode Electronics, Inc."
+		"symbol": "MEI",
+		"description": "Methode Electronics, Inc."
 	},
 	{
-		"Symbol": "MEIP",
-		"Description": "Mei Pharma Inc Cmn"
+		"symbol": "MEIP",
+		"description": "Mei Pharma Inc Cmn"
 	},
 	{
-		"Symbol": "MELI",
-		"Description": "Mercadolibre Inc"
+		"symbol": "MELI",
+		"description": "Mercadolibre Inc"
 	},
 	{
-		"Symbol": "MELR",
-		"Description": "Melrose Bancorp Cmn"
+		"symbol": "MELR",
+		"description": "Melrose Bancorp Cmn"
 	},
 	{
-		"Symbol": "MEMP",
-		"Description": "Memorial Production"
+		"symbol": "MEMP",
+		"description": "Memorial Production"
 	},
 	{
-		"Symbol": "MEN",
-		"Description": "Blackrock MuniEnhanced Fund, Inc."
+		"symbol": "MEN",
+		"description": "Blackrock MuniEnhanced Fund, Inc."
 	},
 	{
-		"Symbol": "MENT",
-		"Description": "Mentor Graphics"
+		"symbol": "MENT",
+		"description": "Mentor Graphics"
 	},
 	{
-		"Symbol": "MEOH",
-		"Description": "Methanex Cp"
+		"symbol": "MEOH",
+		"description": "Methanex Cp"
 	},
 	{
-		"Symbol": "MEP",
-		"Description": "Midcoast Energy Partners, L.P."
+		"symbol": "MEP",
+		"description": "Midcoast Energy Partners, L.P."
 	},
 	{
-		"Symbol": "MER^K",
-		"Description": "Merrill Lynch & Co., Inc."
+		"symbol": "MER^K",
+		"description": "Merrill Lynch & Co., Inc."
 	},
 	{
-		"Symbol": "MER^P",
-		"Description": "Merrill Lynch & Co., Inc."
+		"symbol": "MER^P",
+		"description": "Merrill Lynch & Co., Inc."
 	},
 	{
-		"Symbol": "MERC",
-		"Description": "Mercer Intl Inc"
+		"symbol": "MERC",
+		"description": "Mercer Intl Inc"
 	},
 	{
-		"Symbol": "MESO",
-		"Description": "Mesoblast Ltd Ads"
+		"symbol": "MESO",
+		"description": "Mesoblast Ltd Ads"
 	},
 	{
-		"Symbol": "MET",
-		"Description": "MetLife, Inc."
+		"symbol": "MET",
+		"description": "MetLife, Inc."
 	},
 	{
-		"Symbol": "MET^A",
-		"Description": "MetLife, Inc."
+		"symbol": "MET^A",
+		"description": "MetLife, Inc."
 	},
 	{
-		"Symbol": "METC",
-		"Description": "Ramaco Resources Inc."
+		"symbol": "METC",
+		"description": "Ramaco Resources Inc."
 	},
 	{
-		"Symbol": "MFA",
-		"Description": "MFA Financial, Inc."
+		"symbol": "MFA",
+		"description": "MFA Financial, Inc."
 	},
 	{
-		"Symbol": "MFA^B",
-		"Description": "MFA Financial, Inc."
+		"symbol": "MFA^B",
+		"description": "MFA Financial, Inc."
 	},
 	{
-		"Symbol": "MFC",
-		"Description": "Manulife Financial Corp"
+		"symbol": "MFC",
+		"description": "Manulife Financial Corp"
 	},
 	{
-		"Symbol": "MFCB",
-		"Description": "MFC Bancorp Ltd."
+		"symbol": "MFCB",
+		"description": "MFC Bancorp Ltd."
 	},
 	{
-		"Symbol": "MFD",
-		"Description": "Macquarie/First Trust Global"
+		"symbol": "MFD",
+		"description": "Macquarie/First Trust Global"
 	},
 	{
-		"Symbol": "MFG",
-		"Description": "Mizuho Financial Group, Inc."
+		"symbol": "MFG",
+		"description": "Mizuho Financial Group, Inc."
 	},
 	{
-		"Symbol": "MFIN",
-		"Description": "Medallion Fin Cp"
+		"symbol": "MFIN",
+		"description": "Medallion Fin Cp"
 	},
 	{
-		"Symbol": "MFINL",
-		"Description": "Medallion Fin Notes"
+		"symbol": "MFINL",
+		"description": "Medallion Fin Notes"
 	},
 	{
-		"Symbol": "MFL",
-		"Description": "Blackrock MuniHoldings Investment Quality Fund"
+		"symbol": "MFL",
+		"description": "Blackrock MuniHoldings Investment Quality Fund"
 	},
 	{
-		"Symbol": "MFM",
-		"Description": "MFS Municipal Income Trust"
+		"symbol": "MFM",
+		"description": "MFS Municipal Income Trust"
 	},
 	{
-		"Symbol": "MFNC",
-		"Description": "Mackinac Financial"
+		"symbol": "MFNC",
+		"description": "Mackinac Financial"
 	},
 	{
-		"Symbol": "MFO",
-		"Description": "MFA Financial, Inc."
+		"symbol": "MFO",
+		"description": "MFA Financial, Inc."
 	},
 	{
-		"Symbol": "MFRI",
-		"Description": "M F R I Inc"
+		"symbol": "MFRI",
+		"description": "M F R I Inc"
 	},
 	{
-		"Symbol": "MFS",
-		"Description": "Manitowoc Food Service, Inc."
+		"symbol": "MFS",
+		"description": "Manitowoc Food Service, Inc."
 	},
 	{
-		"Symbol": "MFSF",
-		"Description": "Mutualfirst Finl Inc"
+		"symbol": "MFSF",
+		"description": "Mutualfirst Finl Inc"
 	},
 	{
-		"Symbol": "MFT",
-		"Description": "Blackrock MuniYield Investment QualityFund"
+		"symbol": "MFT",
+		"description": "Blackrock MuniYield Investment QualityFund"
 	},
 	{
-		"Symbol": "MFV",
-		"Description": "MFS Special Value Trust"
+		"symbol": "MFV",
+		"description": "MFS Special Value Trust"
 	},
 	{
-		"Symbol": "MG",
-		"Description": "Mistras Group Inc"
+		"symbol": "MG",
+		"description": "Mistras Group Inc"
 	},
 	{
-		"Symbol": "MGA",
-		"Description": "Magna International, Inc."
+		"symbol": "MGA",
+		"description": "Magna International, Inc."
 	},
 	{
-		"Symbol": "MGCD",
-		"Description": "Mgc Diagnostics Corp"
+		"symbol": "MGCD",
+		"description": "Mgc Diagnostics Corp"
 	},
 	{
-		"Symbol": "MGEE",
-		"Description": "Mge Energy Inc"
+		"symbol": "MGEE",
+		"description": "Mge Energy Inc"
 	},
 	{
-		"Symbol": "MGF",
-		"Description": "MFS Government Markets Income Trust"
+		"symbol": "MGF",
+		"description": "MFS Government Markets Income Trust"
 	},
 	{
-		"Symbol": "MGI",
-		"Description": "Moneygram Intl Cmn"
+		"symbol": "MGI",
+		"description": "Moneygram Intl Cmn"
 	},
 	{
-		"Symbol": "MGIC",
-		"Description": "Magic Software Entpr"
+		"symbol": "MGIC",
+		"description": "Magic Software Entpr"
 	},
 	{
-		"Symbol": "MGLN",
-		"Description": "Magellan Health Cmn"
+		"symbol": "MGLN",
+		"description": "Magellan Health Cmn"
 	},
 	{
-		"Symbol": "MGM",
-		"Description": "MGM Resorts International"
+		"symbol": "MGM",
+		"description": "MGM Resorts International"
 	},
 	{
-		"Symbol": "MGNX",
-		"Description": "Macrogenics Cmn"
+		"symbol": "MGNX",
+		"description": "Macrogenics Cmn"
 	},
 	{
-		"Symbol": "MGP",
-		"Description": "MGM Growth Properties LLC"
+		"symbol": "MGP",
+		"description": "MGM Growth Properties LLC"
 	},
 	{
-		"Symbol": "MGPI",
-		"Description": "MGP Ingredients Inc"
+		"symbol": "MGPI",
+		"description": "MGP Ingredients Inc"
 	},
 	{
-		"Symbol": "MGR",
-		"Description": "Affiliated Managers Group, Inc."
+		"symbol": "MGR",
+		"description": "Affiliated Managers Group, Inc."
 	},
 	{
-		"Symbol": "MGRC",
-		"Description": "Mcgrath Rentcorp"
+		"symbol": "MGRC",
+		"description": "Mcgrath Rentcorp"
 	},
 	{
-		"Symbol": "MGU",
-		"Description": "Macquarie Global Infrastructure Total Return Fund Inc."
+		"symbol": "MGU",
+		"description": "Macquarie Global Infrastructure Total Return Fund Inc."
 	},
 	{
-		"Symbol": "MGYR",
-		"Description": "Magyar Bancorp Inc"
+		"symbol": "MGYR",
+		"description": "Magyar Bancorp Inc"
 	},
 	{
-		"Symbol": "MH^A",
-		"Description": "Maiden Holdings, Ltd."
+		"symbol": "MH^A",
+		"description": "Maiden Holdings, Ltd."
 	},
 	{
-		"Symbol": "MH^C",
-		"Description": "Maiden Holdings, Ltd."
+		"symbol": "MH^C",
+		"description": "Maiden Holdings, Ltd."
 	},
 	{
-		"Symbol": "MHD",
-		"Description": "Blackrock MuniHoldings Fund, Inc."
+		"symbol": "MHD",
+		"description": "Blackrock MuniHoldings Fund, Inc."
 	},
 	{
-		"Symbol": "MHE",
-		"Description": "BlackRock Massachusetts Tax-Exempt Trust"
+		"symbol": "MHE",
+		"description": "BlackRock Massachusetts Tax-Exempt Trust"
 	},
 	{
-		"Symbol": "MHF",
-		"Description": "Western Asset Municipal High Income Fund, Inc."
+		"symbol": "MHF",
+		"description": "Western Asset Municipal High Income Fund, Inc."
 	},
 	{
-		"Symbol": "MHG",
-		"Description": "Marine Harvest ASA"
+		"symbol": "MHG",
+		"description": "Marine Harvest ASA"
 	},
 	{
-		"Symbol": "MHH",
-		"Description": "Mastech Digital, Inc"
+		"symbol": "MHH",
+		"description": "Mastech Digital, Inc"
 	},
 	{
-		"Symbol": "MHI",
-		"Description": "Pioneer Municipal High Income Trust"
+		"symbol": "MHI",
+		"description": "Pioneer Municipal High Income Trust"
 	},
 	{
-		"Symbol": "MHK",
-		"Description": "Mohawk Industries, Inc."
+		"symbol": "MHK",
+		"description": "Mohawk Industries, Inc."
 	},
 	{
-		"Symbol": "MHLA",
-		"Description": "Maiden Holdings, Ltd."
+		"symbol": "MHLA",
+		"description": "Maiden Holdings, Ltd."
 	},
 	{
-		"Symbol": "MHLD",
-		"Description": "Maiden Holdings Ltd"
+		"symbol": "MHLD",
+		"description": "Maiden Holdings Ltd"
 	},
 	{
-		"Symbol": "MHN",
-		"Description": "Blackrock MuniHoldings New York Quality Fund, Inc."
+		"symbol": "MHN",
+		"description": "Blackrock MuniHoldings New York Quality Fund, Inc."
 	},
 	{
-		"Symbol": "MHNB",
-		"Description": "Maiden Holdings, Ltd."
+		"symbol": "MHNB",
+		"description": "Maiden Holdings, Ltd."
 	},
 	{
-		"Symbol": "MHNC",
-		"Description": "Maiden Holdings, Ltd."
+		"symbol": "MHNC",
+		"description": "Maiden Holdings, Ltd."
 	},
 	{
-		"Symbol": "MHO",
-		"Description": "M/I Homes, Inc."
+		"symbol": "MHO",
+		"description": "M/I Homes, Inc."
 	},
 	{
-		"Symbol": "MHO^A",
-		"Description": "M/I Homes, Inc."
+		"symbol": "MHO^A",
+		"description": "M/I Homes, Inc."
 	},
 	{
-		"Symbol": "MIC",
-		"Description": "Macquarie Infrastructure Company"
+		"symbol": "MIC",
+		"description": "Macquarie Infrastructure Company"
 	},
 	{
-		"Symbol": "MICT",
-		"Description": "Micronet Enertec Tec"
+		"symbol": "MICT",
+		"description": "Micronet Enertec Tec"
 	},
 	{
-		"Symbol": "MICTW",
-		"Description": "Micronet Enertec Wrt"
+		"symbol": "MICTW",
+		"description": "Micronet Enertec Wrt"
 	},
 	{
-		"Symbol": "MIDD",
-		"Description": "Middleby Corp"
+		"symbol": "MIDD",
+		"description": "Middleby Corp"
 	},
 	{
-		"Symbol": "MIE",
-		"Description": "Cohen & Steers MLP Income and Energy Opportunity Fund, Inc."
+		"symbol": "MIE",
+		"description": "Cohen & Steers MLP Income and Energy Opportunity Fund, Inc."
 	},
 	{
-		"Symbol": "MIII",
-		"Description": "M III Acquisition Corp"
+		"symbol": "MIII",
+		"description": "M III Acquisition Corp"
 	},
 	{
-		"Symbol": "MIIIU",
-		"Description": "M III Acquisition"
+		"symbol": "MIIIU",
+		"description": "M III Acquisition"
 	},
 	{
-		"Symbol": "MIIIW",
-		"Description": "M III Acquisition Corp. Wt"
+		"symbol": "MIIIW",
+		"description": "M III Acquisition Corp. Wt"
 	},
 	{
-		"Symbol": "MIK",
-		"Description": " Michaels Comp Cmn"
+		"symbol": "MIK",
+		"description": " Michaels Comp Cmn"
 	},
 	{
-		"Symbol": "MILN",
-		"Description": "Glbl X Mlnls Thm ETF"
+		"symbol": "MILN",
+		"description": "Glbl X Mlnls Thm ETF"
 	},
 	{
-		"Symbol": "MIME",
-		"Description": "Mimecast Limited Ord"
+		"symbol": "MIME",
+		"description": "Mimecast Limited Ord"
 	},
 	{
-		"Symbol": "MIN",
-		"Description": "MFS Intermediate Income Trust"
+		"symbol": "MIN",
+		"description": "MFS Intermediate Income Trust"
 	},
 	{
-		"Symbol": "MIND",
-		"Description": "Mitcham Inds Inc"
+		"symbol": "MIND",
+		"description": "Mitcham Inds Inc"
 	},
 	{
-		"Symbol": "MINDP",
-		"Description": "Mitcham Industries Inc"
+		"symbol": "MINDP",
+		"description": "Mitcham Industries Inc"
 	},
 	{
-		"Symbol": "MINI",
-		"Description": "Mobile Mini Inc"
+		"symbol": "MINI",
+		"description": "Mobile Mini Inc"
 	},
 	{
-		"Symbol": "MIRN",
-		"Description": "Mirna Therap Cmn Stk"
+		"symbol": "MIRN",
+		"description": "Mirna Therap Cmn Stk"
 	},
 	{
-		"Symbol": "MITK",
-		"Description": "Mitek Systems Inc"
+		"symbol": "MITK",
+		"description": "Mitek Systems Inc"
 	},
 	{
-		"Symbol": "MITL",
-		"Description": "Mitel Networks Corp"
+		"symbol": "MITL",
+		"description": "Mitel Networks Corp"
 	},
 	{
-		"Symbol": "MITT",
-		"Description": "AG Mortgage Investment Trust, Inc."
+		"symbol": "MITT",
+		"description": "AG Mortgage Investment Trust, Inc."
 	},
 	{
-		"Symbol": "MITT^A",
-		"Description": "AG Mortgage Investment Trust, Inc."
+		"symbol": "MITT^A",
+		"description": "AG Mortgage Investment Trust, Inc."
 	},
 	{
-		"Symbol": "MITT^B",
-		"Description": "AG Mortgage Investment Trust, Inc."
+		"symbol": "MITT^B",
+		"description": "AG Mortgage Investment Trust, Inc."
 	},
 	{
-		"Symbol": "MIW",
-		"Description": "Eaton Vance Michigan Municipal Bond Fund"
+		"symbol": "MIW",
+		"description": "Eaton Vance Michigan Municipal Bond Fund"
 	},
 	{
-		"Symbol": "MIXT",
-		"Description": "MiX Telematics Limited"
+		"symbol": "MIXT",
+		"description": "MiX Telematics Limited"
 	},
 	{
-		"Symbol": "MIY",
-		"Description": "Blackrock MuniYield Michigan Quality Fund, Inc."
+		"symbol": "MIY",
+		"description": "Blackrock MuniYield Michigan Quality Fund, Inc."
 	},
 	{
-		"Symbol": "MJCO",
-		"Description": "Majesco"
+		"symbol": "MJCO",
+		"description": "Majesco"
 	},
 	{
-		"Symbol": "MJN",
-		"Description": "Mead Johnson Nutrition Company"
+		"symbol": "MJN",
+		"description": "Mead Johnson Nutrition Company"
 	},
 	{
-		"Symbol": "MKC",
-		"Description": "McCormick & Company, Incorporated"
+		"symbol": "MKC",
+		"description": "McCormick & Company, Incorporated"
 	},
 	{
-		"Symbol": "MKC.V",
-		"Description": "McCormick & Company, Incorporated"
+		"symbol": "MKC.V",
+		"description": "McCormick & Company, Incorporated"
 	},
 	{
-		"Symbol": "MKL",
-		"Description": "Markel Corporation"
+		"symbol": "MKL",
+		"description": "Markel Corporation"
 	},
 	{
-		"Symbol": "MKSI",
-		"Description": "Mks Instruments Inc"
+		"symbol": "MKSI",
+		"description": "Mks Instruments Inc"
 	},
 	{
-		"Symbol": "MKTX",
-		"Description": "Marketaxess Holdings"
+		"symbol": "MKTX",
+		"description": "Marketaxess Holdings"
 	},
 	{
-		"Symbol": "MLAB",
-		"Description": "Mesa Labs Inc"
+		"symbol": "MLAB",
+		"description": "Mesa Labs Inc"
 	},
 	{
-		"Symbol": "MLHR",
-		"Description": "Miller Herman Inc"
+		"symbol": "MLHR",
+		"description": "Miller Herman Inc"
 	},
 	{
-		"Symbol": "MLI",
-		"Description": "Mueller Industries, Inc."
+		"symbol": "MLI",
+		"description": "Mueller Industries, Inc."
 	},
 	{
-		"Symbol": "MLM",
-		"Description": "Martin Marietta Materials, Inc."
+		"symbol": "MLM",
+		"description": "Martin Marietta Materials, Inc."
 	},
 	{
-		"Symbol": "MLNK",
-		"Description": "Moduslink Global Cmn"
+		"symbol": "MLNK",
+		"description": "Moduslink Global Cmn"
 	},
 	{
-		"Symbol": "MLNX",
-		"Description": "Mellanox Technologie"
+		"symbol": "MLNX",
+		"description": "Mellanox Technologie"
 	},
 	{
-		"Symbol": "MLP",
-		"Description": "Maui Land & Pineapple Company, Inc."
+		"symbol": "MLP",
+		"description": "Maui Land & Pineapple Company, Inc."
 	},
 	{
-		"Symbol": "MLR",
-		"Description": "Miller Industries, Inc."
+		"symbol": "MLR",
+		"description": "Miller Industries, Inc."
 	},
 	{
-		"Symbol": "MLSS",
-		"Description": "Milestone Scientific, Inc."
+		"symbol": "MLSS",
+		"description": "Milestone Scientific, Inc."
 	},
 	{
-		"Symbol": "MLVF",
-		"Description": "Malvern Bncp Cmn Stk"
+		"symbol": "MLVF",
+		"description": "Malvern Bncp Cmn Stk"
 	},
 	{
-		"Symbol": "MMAC",
-		"Description": "Mma Capital Mngt Cmn"
+		"symbol": "MMAC",
+		"description": "Mma Capital Mngt Cmn"
 	},
 	{
-		"Symbol": "MMC",
-		"Description": "Marsh & McLennan Companies, Inc."
+		"symbol": "MMC",
+		"description": "Marsh & McLennan Companies, Inc."
 	},
 	{
-		"Symbol": "MMD",
-		"Description": "MainStay DefinedTerm Municipal Opportunities Fund"
+		"symbol": "MMD",
+		"description": "MainStay DefinedTerm Municipal Opportunities Fund"
 	},
 	{
-		"Symbol": "MMI",
-		"Description": "Marcus & Millichap, Inc."
+		"symbol": "MMI",
+		"description": "Marcus & Millichap, Inc."
 	},
 	{
-		"Symbol": "MMLP",
-		"Description": "Martin Midstrm LP"
+		"symbol": "MMLP",
+		"description": "Martin Midstrm LP"
 	},
 	{
-		"Symbol": "MMM",
-		"Description": "3M Company"
+		"symbol": "MMM",
+		"description": "3M Company"
 	},
 	{
-		"Symbol": "MMP",
-		"Description": "Magellan Midstream Partners L.P."
+		"symbol": "MMP",
+		"description": "Magellan Midstream Partners L.P."
 	},
 	{
-		"Symbol": "MMS",
-		"Description": "Maximus, Inc."
+		"symbol": "MMS",
+		"description": "Maximus, Inc."
 	},
 	{
-		"Symbol": "MMSI",
-		"Description": "Merit Medical Sys"
+		"symbol": "MMSI",
+		"description": "Merit Medical Sys"
 	},
 	{
-		"Symbol": "MMT",
-		"Description": "MFS Multimarket Income Trust"
+		"symbol": "MMT",
+		"description": "MFS Multimarket Income Trust"
 	},
 	{
-		"Symbol": "MMU",
-		"Description": "Western Asset Managed Municipals Fund, Inc."
+		"symbol": "MMU",
+		"description": "Western Asset Managed Municipals Fund, Inc."
 	},
 	{
-		"Symbol": "MMV",
-		"Description": "Eaton Vance Massachusetts Municipal Income Trust"
+		"symbol": "MMV",
+		"description": "Eaton Vance Massachusetts Municipal Income Trust"
 	},
 	{
-		"Symbol": "MMYT",
-		"Description": "Makemytrip Limited"
+		"symbol": "MMYT",
+		"description": "Makemytrip Limited"
 	},
 	{
-		"Symbol": "MN",
-		"Description": "Manning & Napier, Inc."
+		"symbol": "MN",
+		"description": "Manning & Napier, Inc."
 	},
 	{
-		"Symbol": "MNDO",
-		"Description": "Mind C.T.I. Ltd"
+		"symbol": "MNDO",
+		"description": "Mind C.T.I. Ltd"
 	},
 	{
-		"Symbol": "MNE",
-		"Description": "Blackrock Muni New York Intermediate Duration Fund Inc"
+		"symbol": "MNE",
+		"description": "Blackrock Muni New York Intermediate Duration Fund Inc"
 	},
 	{
-		"Symbol": "MNGA",
-		"Description": "Magnegas Corporation"
+		"symbol": "MNGA",
+		"description": "Magnegas Corporation"
 	},
 	{
-		"Symbol": "MNI",
-		"Description": "McClatchy Company "
+		"symbol": "MNI",
+		"description": "McClatchy Company "
 	},
 	{
-		"Symbol": "MNK",
-		"Description": "Mallinckrodt plc"
+		"symbol": "MNK",
+		"description": "Mallinckrodt plc"
 	},
 	{
-		"Symbol": "MNKD",
-		"Description": "Mannkind Corporation"
+		"symbol": "MNKD",
+		"description": "Mannkind Corporation"
 	},
 	{
-		"Symbol": "MNOV",
-		"Description": "Medicinova Inc"
+		"symbol": "MNOV",
+		"description": "Medicinova Inc"
 	},
 	{
-		"Symbol": "MNP",
-		"Description": "Western Asset Municipal Partners Fund, Inc."
+		"symbol": "MNP",
+		"description": "Western Asset Municipal Partners Fund, Inc."
 	},
 	{
-		"Symbol": "MNR",
-		"Description": "Monmouth Real Estate Investment Corporation"
+		"symbol": "MNR",
+		"description": "Monmouth Real Estate Investment Corporation"
 	},
 	{
-		"Symbol": "MNR^B",
-		"Description": "Monmouth Real Estate Investment Corporation"
+		"symbol": "MNR^B",
+		"description": "Monmouth Real Estate Investment Corporation"
 	},
 	{
-		"Symbol": "MNR^C",
-		"Description": "Monmouth Real Estate Investment Corporation"
+		"symbol": "MNR^C",
+		"description": "Monmouth Real Estate Investment Corporation"
 	},
 	{
-		"Symbol": "MNRO",
-		"Description": "Monro Muffler Brak"
+		"symbol": "MNRO",
+		"description": "Monro Muffler Brak"
 	},
 	{
-		"Symbol": "MNST",
-		"Description": "Monster Beverage Cp"
+		"symbol": "MNST",
+		"description": "Monster Beverage Cp"
 	},
 	{
-		"Symbol": "MNTA",
-		"Description": "Momenta Pharma"
+		"symbol": "MNTA",
+		"description": "Momenta Pharma"
 	},
 	{
-		"Symbol": "MNTX",
-		"Description": "Manitex Intl Inc"
+		"symbol": "MNTX",
+		"description": "Manitex Intl Inc"
 	},
 	{
-		"Symbol": "MO",
-		"Description": "Altria Group"
+		"symbol": "MO",
+		"description": "Altria Group"
 	},
 	{
-		"Symbol": "MOBL",
-		"Description": "Mobileiron Inc Cmn"
+		"symbol": "MOBL",
+		"description": "Mobileiron Inc Cmn"
 	},
 	{
-		"Symbol": "MOC",
-		"Description": "Command Security Corporation"
+		"symbol": "MOC",
+		"description": "Command Security Corporation"
 	},
 	{
-		"Symbol": "MOCO",
-		"Description": "Mocon Inc"
+		"symbol": "MOCO",
+		"description": "Mocon Inc"
 	},
 	{
-		"Symbol": "MOD",
-		"Description": "Modine Manufacturing Company"
+		"symbol": "MOD",
+		"description": "Modine Manufacturing Company"
 	},
 	{
-		"Symbol": "MODN",
-		"Description": "Model N, Inc."
+		"symbol": "MODN",
+		"description": "Model N, Inc."
 	},
 	{
-		"Symbol": "MOFG",
-		"Description": "Midwestone Fnl Gp"
+		"symbol": "MOFG",
+		"description": "Midwestone Fnl Gp"
 	},
 	{
-		"Symbol": "MOG.A",
-		"Description": "Moog Inc."
+		"symbol": "MOG.A",
+		"description": "Moog Inc."
 	},
 	{
-		"Symbol": "MOG.B",
-		"Description": "Moog Inc."
+		"symbol": "MOG.B",
+		"description": "Moog Inc."
 	},
 	{
-		"Symbol": "MOGLC",
-		"Description": "Gabelli Media Mogul Nextshares"
+		"symbol": "MOGLC",
+		"description": "Gabelli Media Mogul Nextshares"
 	},
 	{
-		"Symbol": "MOH",
-		"Description": "Molina Healthcare Inc"
+		"symbol": "MOH",
+		"description": "Molina Healthcare Inc"
 	},
 	{
-		"Symbol": "MOMO",
-		"Description": "Momo Inc Ads"
+		"symbol": "MOMO",
+		"description": "Momo Inc Ads"
 	},
 	{
-		"Symbol": "MON",
-		"Description": "Monsanto Company"
+		"symbol": "MON",
+		"description": "Monsanto Company"
 	},
 	{
-		"Symbol": "MORE",
-		"Description": "Monogram Residential Trust, Inc."
+		"symbol": "MORE",
+		"description": "Monogram Residential Trust, Inc."
 	},
 	{
-		"Symbol": "MORN",
-		"Description": "Morningstar Inc"
+		"symbol": "MORN",
+		"description": "Morningstar Inc"
 	},
 	{
-		"Symbol": "MOS",
-		"Description": "Mosaic Company "
+		"symbol": "MOS",
+		"description": "Mosaic Company "
 	},
 	{
-		"Symbol": "MOSY",
-		"Description": "Mosys Inc"
+		"symbol": "MOSY",
+		"description": "Mosys Inc"
 	},
 	{
-		"Symbol": "MOV",
-		"Description": "Movado Group Inc."
+		"symbol": "MOV",
+		"description": "Movado Group Inc."
 	},
 	{
-		"Symbol": "MOXC",
-		"Description": "Moxian Inc."
+		"symbol": "MOXC",
+		"description": "Moxian Inc."
 	},
 	{
-		"Symbol": "MP^D",
-		"Description": "Mississippi Power Company"
+		"symbol": "MP^D",
+		"description": "Mississippi Power Company"
 	},
 	{
-		"Symbol": "MPA",
-		"Description": "Blackrock MuniYield Pennsylvania Quality Fund"
+		"symbol": "MPA",
+		"description": "Blackrock MuniYield Pennsylvania Quality Fund"
 	},
 	{
-		"Symbol": "MPAA",
-		"Description": "Motorcar Parts Amer"
+		"symbol": "MPAA",
+		"description": "Motorcar Parts Amer"
 	},
 	{
-		"Symbol": "MPB",
-		"Description": "Mid Penn Bancorp Inc"
+		"symbol": "MPB",
+		"description": "Mid Penn Bancorp Inc"
 	},
 	{
-		"Symbol": "MPC",
-		"Description": "Marathon Petroleum Corporation"
+		"symbol": "MPC",
+		"description": "Marathon Petroleum Corporation"
 	},
 	{
-		"Symbol": "MPCT",
-		"Description": "Ishrs Su MSCI Glb Im"
+		"symbol": "MPCT",
+		"description": "Ishrs Su MSCI Glb Im"
 	},
 	{
-		"Symbol": "MPEL",
-		"Description": "Melco Crown Entm Ads"
+		"symbol": "MPEL",
+		"description": "Melco Crown Entm Ads"
 	},
 	{
-		"Symbol": "MPET",
-		"Description": "Magellan Petroleum"
+		"symbol": "MPET",
+		"description": "Magellan Petroleum"
 	},
 	{
-		"Symbol": "MPG",
-		"Description": "Metaldyne Performance Group Inc."
+		"symbol": "MPG",
+		"description": "Metaldyne Performance Group Inc."
 	},
 	{
-		"Symbol": "MPLX",
-		"Description": "MPLX LP"
+		"symbol": "MPLX",
+		"description": "MPLX LP"
 	},
 	{
-		"Symbol": "MPO",
-		"Description": "MIDSTATES PETROLEUM COMPANY, INC."
+		"symbol": "MPO",
+		"description": "MIDSTATES PETROLEUM COMPANY, INC."
 	},
 	{
-		"Symbol": "MPSX",
-		"Description": "Multi Packaging Solutions International Limited"
+		"symbol": "MPSX",
+		"description": "Multi Packaging Solutions International Limited"
 	},
 	{
-		"Symbol": "MPV",
-		"Description": "Barings Participation Investors"
+		"symbol": "MPV",
+		"description": "Barings Participation Investors"
 	},
 	{
-		"Symbol": "MPVD",
-		"Description": "Mountain Prv Dmds"
+		"symbol": "MPVD",
+		"description": "Mountain Prv Dmds"
 	},
 	{
-		"Symbol": "MPW",
-		"Description": "Medical Properties Trust, Inc."
+		"symbol": "MPW",
+		"description": "Medical Properties Trust, Inc."
 	},
 	{
-		"Symbol": "MPWR",
-		"Description": "Monolithic Power Sys"
+		"symbol": "MPWR",
+		"description": "Monolithic Power Sys"
 	},
 	{
-		"Symbol": "MPX",
-		"Description": "Marine Products Corporation"
+		"symbol": "MPX",
+		"description": "Marine Products Corporation"
 	},
 	{
-		"Symbol": "MQT",
-		"Description": "Blackrock MuniYield Quality Fund II, Inc."
+		"symbol": "MQT",
+		"description": "Blackrock MuniYield Quality Fund II, Inc."
 	},
 	{
-		"Symbol": "MQY",
-		"Description": "Blackrock MuniYield Quality Fund, Inc."
+		"symbol": "MQY",
+		"description": "Blackrock MuniYield Quality Fund, Inc."
 	},
 	{
-		"Symbol": "MRAM",
-		"Description": "Everspin Technologies Inc"
+		"symbol": "MRAM",
+		"description": "Everspin Technologies Inc"
 	},
 	{
-		"Symbol": "MRC",
-		"Description": "MRC Global Inc."
+		"symbol": "MRC",
+		"description": "MRC Global Inc."
 	},
 	{
-		"Symbol": "MRCC",
-		"Description": "Monroe Capital Corpo"
+		"symbol": "MRCC",
+		"description": "Monroe Capital Corpo"
 	},
 	{
-		"Symbol": "MRCY",
-		"Description": "Mercury Sys Inc"
+		"symbol": "MRCY",
+		"description": "Mercury Sys Inc"
 	},
 	{
-		"Symbol": "MRDN",
-		"Description": "Meridian Waste Solutions Inc"
+		"symbol": "MRDN",
+		"description": "Meridian Waste Solutions Inc"
 	},
 	{
-		"Symbol": "MRDNW",
-		"Description": "Meridian Waste Solutions Inc Warrants"
+		"symbol": "MRDNW",
+		"description": "Meridian Waste Solutions Inc Warrants"
 	},
 	{
-		"Symbol": "MRIN",
-		"Description": "Marin Software Incorporated"
+		"symbol": "MRIN",
+		"description": "Marin Software Incorporated"
 	},
 	{
-		"Symbol": "MRK",
-		"Description": "Merck & Company, Inc."
+		"symbol": "MRK",
+		"description": "Merck & Company, Inc."
 	},
 	{
-		"Symbol": "MRLN",
-		"Description": "Marlin Business Serv"
+		"symbol": "MRLN",
+		"description": "Marlin Business Serv"
 	},
 	{
-		"Symbol": "MRNS",
-		"Description": "Marinus Pharma CS"
+		"symbol": "MRNS",
+		"description": "Marinus Pharma CS"
 	},
 	{
-		"Symbol": "MRO",
-		"Description": "Marathon Oil Corporation"
+		"symbol": "MRO",
+		"description": "Marathon Oil Corporation"
 	},
 	{
-		"Symbol": "MRT",
-		"Description": "MedEquities Realty Trust, Inc."
+		"symbol": "MRT",
+		"description": "MedEquities Realty Trust, Inc."
 	},
 	{
-		"Symbol": "MRTN",
-		"Description": "Marten Transport L"
+		"symbol": "MRTN",
+		"description": "Marten Transport L"
 	},
 	{
-		"Symbol": "MRTX",
-		"Description": "Mirati Therapeutics"
+		"symbol": "MRTX",
+		"description": "Mirati Therapeutics"
 	},
 	{
-		"Symbol": "MRUS",
-		"Description": "Merus N.V. CS"
+		"symbol": "MRUS",
+		"description": "Merus N.V. CS"
 	},
 	{
-		"Symbol": "MRVC",
-		"Description": "Mrv Communictns Cmn"
+		"symbol": "MRVC",
+		"description": "Mrv Communictns Cmn"
 	},
 	{
-		"Symbol": "MRVL",
-		"Description": "Marvell Tech Group"
+		"symbol": "MRVL",
+		"description": "Marvell Tech Group"
 	},
 	{
-		"Symbol": "MS",
-		"Description": "Morgan Stanley"
+		"symbol": "MS",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^A",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^A",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^E",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^E",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^F",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^F",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^G",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^G",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^I",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^I",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MS^K",
-		"Description": "Morgan Stanley"
+		"symbol": "MS^K",
+		"description": "Morgan Stanley"
 	},
 	{
-		"Symbol": "MSA",
-		"Description": "MSA Safety Incorporporated"
+		"symbol": "MSA",
+		"description": "MSA Safety Incorporporated"
 	},
 	{
-		"Symbol": "MSB",
-		"Description": "Mesabi Trust"
+		"symbol": "MSB",
+		"description": "Mesabi Trust"
 	},
 	{
-		"Symbol": "MSBF",
-		"Description": "MSB Financial Cmn"
+		"symbol": "MSBF",
+		"description": "MSB Financial Cmn"
 	},
 	{
-		"Symbol": "MSBI",
-		"Description": "Midland Sts BNC Cmn"
+		"symbol": "MSBI",
+		"description": "Midland Sts BNC Cmn"
 	},
 	{
-		"Symbol": "MSCA",
-		"Description": "Main Street Capital Corporation"
+		"symbol": "MSCA",
+		"description": "Main Street Capital Corporation"
 	},
 	{
-		"Symbol": "MSCC",
-		"Description": "Microsemi Corp"
+		"symbol": "MSCC",
+		"description": "Microsemi Corp"
 	},
 	{
-		"Symbol": "MSCI",
-		"Description": "MSCI Inc"
+		"symbol": "MSCI",
+		"description": "MSCI Inc"
 	},
 	{
-		"Symbol": "MSD",
-		"Description": "Morgan Stanley Emerging Markets Debt Fund, Inc."
+		"symbol": "MSD",
+		"description": "Morgan Stanley Emerging Markets Debt Fund, Inc."
 	},
 	{
-		"Symbol": "MSDI",
-		"Description": "Monster Digital Inc"
+		"symbol": "MSDI",
+		"description": "Monster Digital Inc"
 	},
 	{
-		"Symbol": "MSDIW",
-		"Description": "Monster Digital [Warrants]"
+		"symbol": "MSDIW",
+		"description": "Monster Digital [Warrants]"
 	},
 	{
-		"Symbol": "MSEX",
-		"Description": "Middlesex Water Co"
+		"symbol": "MSEX",
+		"description": "Middlesex Water Co"
 	},
 	{
-		"Symbol": "MSF",
-		"Description": "Morgan Stanley Emerging Markets Fund, Inc."
+		"symbol": "MSF",
+		"description": "Morgan Stanley Emerging Markets Fund, Inc."
 	},
 	{
-		"Symbol": "MSFG",
-		"Description": "Mainsource Finl Grp"
+		"symbol": "MSFG",
+		"description": "Mainsource Finl Grp"
 	},
 	{
-		"Symbol": "MSFT",
-		"Description": "Microsoft Corp"
+		"symbol": "MSFT",
+		"description": "Microsoft Corp"
 	},
 	{
-		"Symbol": "MSG",
-		"Description": "MSG Networks Inc."
+		"symbol": "MSG",
+		"description": "MSG Networks Inc."
 	},
 	{
-		"Symbol": "MSGN",
-		"Description": "MSG Networks Inc."
+		"symbol": "MSGN",
+		"description": "MSG Networks Inc."
 	},
 	{
-		"Symbol": "MSI",
-		"Description": "Motorola Solutions, Inc."
+		"symbol": "MSI",
+		"description": "Motorola Solutions, Inc."
 	},
 	{
-		"Symbol": "MSL",
-		"Description": "MidSouth Bancorp"
+		"symbol": "MSL",
+		"description": "MidSouth Bancorp"
 	},
 	{
-		"Symbol": "MSLI",
-		"Description": "Merus Labs Intl Inc"
+		"symbol": "MSLI",
+		"description": "Merus Labs Intl Inc"
 	},
 	{
-		"Symbol": "MSM",
-		"Description": "MSC Industrial Direct Company, Inc."
+		"symbol": "MSM",
+		"description": "MSC Industrial Direct Company, Inc."
 	},
 	{
-		"Symbol": "MSN",
-		"Description": "Emerson Radio Corporation"
+		"symbol": "MSN",
+		"description": "Emerson Radio Corporation"
 	},
 	{
-		"Symbol": "MSON",
-		"Description": "Misonix Inc"
+		"symbol": "MSON",
+		"description": "Misonix Inc"
 	},
 	{
-		"Symbol": "MSP",
-		"Description": "Madison Strategic Sector Premium Fund"
+		"symbol": "MSP",
+		"description": "Madison Strategic Sector Premium Fund"
 	},
 	{
-		"Symbol": "MSTR",
-		"Description": "Microstrategy Cl A"
+		"symbol": "MSTR",
+		"description": "Microstrategy Cl A"
 	},
 	{
-		"Symbol": "MSTX",
-		"Description": "Mast Therapeutics, Inc."
+		"symbol": "MSTX",
+		"description": "Mast Therapeutics, Inc."
 	},
 	{
-		"Symbol": "MT",
-		"Description": "ArcelorMittal"
+		"symbol": "MT",
+		"description": "ArcelorMittal"
 	},
 	{
-		"Symbol": "MTB",
-		"Description": "M&T Bank Corporation"
+		"symbol": "MTB",
+		"description": "M&T Bank Corporation"
 	},
 	{
-		"Symbol": "MTB.WS",
-		"Description": "M&T Bank Corporation"
+		"symbol": "MTB.WS",
+		"description": "M&T Bank Corporation"
 	},
 	{
-		"Symbol": "MTB^",
-		"Description": "M&T Bank Corporation"
+		"symbol": "MTB^",
+		"description": "M&T Bank Corporation"
 	},
 	{
-		"Symbol": "MTB^C",
-		"Description": "M&T Bank Corporation"
+		"symbol": "MTB^C",
+		"description": "M&T Bank Corporation"
 	},
 	{
-		"Symbol": "MTBC",
-		"Description": "Medical Transc Bl Cmn"
+		"symbol": "MTBC",
+		"description": "Medical Transc Bl Cmn"
 	},
 	{
-		"Symbol": "MTBCP",
-		"Description": "Mtbc 11% Sr A Prf ST"
+		"symbol": "MTBCP",
+		"description": "Mtbc 11% Sr A Prf ST"
 	},
 	{
-		"Symbol": "MTCH",
-		"Description": "Match Group Inc CS"
+		"symbol": "MTCH",
+		"description": "Match Group Inc CS"
 	},
 	{
-		"Symbol": "MTD",
-		"Description": "Mettler-Toledo International, Inc."
+		"symbol": "MTD",
+		"description": "Mettler-Toledo International, Inc."
 	},
 	{
-		"Symbol": "MTDR",
-		"Description": "Matador Resources Company"
+		"symbol": "MTDR",
+		"description": "Matador Resources Company"
 	},
 	{
-		"Symbol": "MTEX",
-		"Description": "Mannatech Inc"
+		"symbol": "MTEX",
+		"description": "Mannatech Inc"
 	},
 	{
-		"Symbol": "MTFB",
-		"Description": "Motif Bio Plc"
+		"symbol": "MTFB",
+		"description": "Motif Bio Plc"
 	},
 	{
-		"Symbol": "MTFBW",
-		"Description": "Motif Bio Plc Warrants To Purchase Adrs"
+		"symbol": "MTFBW",
+		"description": "Motif Bio Plc Warrants To Purchase Adrs"
 	},
 	{
-		"Symbol": "MTG",
-		"Description": "MGIC Investment Corporation"
+		"symbol": "MTG",
+		"description": "MGIC Investment Corporation"
 	},
 	{
-		"Symbol": "MTGE",
-		"Description": "American Cap Mtg Inv"
+		"symbol": "MTGE",
+		"description": "American Cap Mtg Inv"
 	},
 	{
-		"Symbol": "MTGEP",
-		"Description": "Amrcn Cap Mt Sr A PS"
+		"symbol": "MTGEP",
+		"description": "Amrcn Cap Mt Sr A PS"
 	},
 	{
-		"Symbol": "MTH",
-		"Description": "Meritage Corporation"
+		"symbol": "MTH",
+		"description": "Meritage Corporation"
 	},
 	{
-		"Symbol": "MTL",
-		"Description": "Mechel PAO"
+		"symbol": "MTL",
+		"description": "Mechel PAO"
 	},
 	{
-		"Symbol": "MTL^",
-		"Description": "Mechel PAO"
+		"symbol": "MTL^",
+		"description": "Mechel PAO"
 	},
 	{
-		"Symbol": "MTLS",
-		"Description": "Materialise Nv Ads"
+		"symbol": "MTLS",
+		"description": "Materialise Nv Ads"
 	},
 	{
-		"Symbol": "MTN",
-		"Description": "Vail Resorts, Inc."
+		"symbol": "MTN",
+		"description": "Vail Resorts, Inc."
 	},
 	{
-		"Symbol": "MTOR",
-		"Description": "Meritor, Inc."
+		"symbol": "MTOR",
+		"description": "Meritor, Inc."
 	},
 	{
-		"Symbol": "MTP",
-		"Description": "Midatech Pharma Ads"
+		"symbol": "MTP",
+		"description": "Midatech Pharma Ads"
 	},
 	{
-		"Symbol": "MTR",
-		"Description": "Mesa Royalty Trust"
+		"symbol": "MTR",
+		"description": "Mesa Royalty Trust"
 	},
 	{
-		"Symbol": "MTRN",
-		"Description": "Materion Corporation"
+		"symbol": "MTRN",
+		"description": "Materion Corporation"
 	},
 	{
-		"Symbol": "MTRX",
-		"Description": "Matrix Service Co"
+		"symbol": "MTRX",
+		"description": "Matrix Service Co"
 	},
 	{
-		"Symbol": "MTSC",
-		"Description": "M T S Systems Cp"
+		"symbol": "MTSC",
+		"description": "M T S Systems Cp"
 	},
 	{
-		"Symbol": "MTSI",
-		"Description": "Macom Technology S"
+		"symbol": "MTSI",
+		"description": "Macom Technology S"
 	},
 	{
-		"Symbol": "MTSL",
-		"Description": "M E R Tlmgt Sol"
+		"symbol": "MTSL",
+		"description": "M E R Tlmgt Sol"
 	},
 	{
-		"Symbol": "MTT",
-		"Description": "Western Asset Municipal Defined Opportunity Trust Inc"
+		"symbol": "MTT",
+		"description": "Western Asset Municipal Defined Opportunity Trust Inc"
 	},
 	{
-		"Symbol": "MTU",
-		"Description": "Mitsubishi UFJ Financial Group Inc"
+		"symbol": "MTU",
+		"description": "Mitsubishi UFJ Financial Group Inc"
 	},
 	{
-		"Symbol": "MTW",
-		"Description": "Manitowoc Company, Inc. "
+		"symbol": "MTW",
+		"description": "Manitowoc Company, Inc. "
 	},
 	{
-		"Symbol": "MTX",
-		"Description": "Minerals Technologies Inc."
+		"symbol": "MTX",
+		"description": "Minerals Technologies Inc."
 	},
 	{
-		"Symbol": "MTZ",
-		"Description": "MasTec, Inc."
+		"symbol": "MTZ",
+		"description": "MasTec, Inc."
 	},
 	{
-		"Symbol": "MU",
-		"Description": "Micron Technology"
+		"symbol": "MU",
+		"description": "Micron Technology"
 	},
 	{
-		"Symbol": "MUA",
-		"Description": "Blackrock MuniAssets Fund, Inc."
+		"symbol": "MUA",
+		"description": "Blackrock MuniAssets Fund, Inc."
 	},
 	{
-		"Symbol": "MUC",
-		"Description": "Blackrock MuniHoldings California Quality Fund,  Inc."
+		"symbol": "MUC",
+		"description": "Blackrock MuniHoldings California Quality Fund,  Inc."
 	},
 	{
-		"Symbol": "MUE",
-		"Description": "Blackrock MuniHoldings Quality Fund II, Inc."
+		"symbol": "MUE",
+		"description": "Blackrock MuniHoldings Quality Fund II, Inc."
 	},
 	{
-		"Symbol": "MUH",
-		"Description": "Blackrock MuniHoldings Fund II, Inc."
+		"symbol": "MUH",
+		"description": "Blackrock MuniHoldings Fund II, Inc."
 	},
 	{
-		"Symbol": "MUI",
-		"Description": "Blackrock Muni Intermediate Duration Fund Inc"
+		"symbol": "MUI",
+		"description": "Blackrock Muni Intermediate Duration Fund Inc"
 	},
 	{
-		"Symbol": "MUJ",
-		"Description": "Blackrock MuniHoldings New Jersey Insured Fund, Inc."
+		"symbol": "MUJ",
+		"description": "Blackrock MuniHoldings New Jersey Insured Fund, Inc."
 	},
 	{
-		"Symbol": "MUR",
-		"Description": "Murphy Oil Corporation"
+		"symbol": "MUR",
+		"description": "Murphy Oil Corporation"
 	},
 	{
-		"Symbol": "MUS",
-		"Description": "Blackrock MuniHoldings Quality Fund, Inc."
+		"symbol": "MUS",
+		"description": "Blackrock MuniHoldings Quality Fund, Inc."
 	},
 	{
-		"Symbol": "MUSA",
-		"Description": "Murphy USA Inc."
+		"symbol": "MUSA",
+		"description": "Murphy USA Inc."
 	},
 	{
-		"Symbol": "MUX",
-		"Description": "McEwen Mining Inc."
+		"symbol": "MUX",
+		"description": "McEwen Mining Inc."
 	},
 	{
-		"Symbol": "MVC",
-		"Description": "MVC Capital, Inc."
+		"symbol": "MVC",
+		"description": "MVC Capital, Inc."
 	},
 	{
-		"Symbol": "MVCB",
-		"Description": "MVC Capital, Inc."
+		"symbol": "MVCB",
+		"description": "MVC Capital, Inc."
 	},
 	{
-		"Symbol": "MVF",
-		"Description": "MuniVest Fund, Inc."
+		"symbol": "MVF",
+		"description": "MuniVest Fund, Inc."
 	},
 	{
-		"Symbol": "MVIS",
-		"Description": "Microvision"
+		"symbol": "MVIS",
+		"description": "Microvision"
 	},
 	{
-		"Symbol": "MVO",
-		"Description": "MV Oil Trust"
+		"symbol": "MVO",
+		"description": "MV Oil Trust"
 	},
 	{
-		"Symbol": "MVT",
-		"Description": "Blackrock MuniVest Fund II, Inc."
+		"symbol": "MVT",
+		"description": "Blackrock MuniVest Fund II, Inc."
 	},
 	{
-		"Symbol": "MWA",
-		"Description": "MUELLER WATER PRODUCTS"
+		"symbol": "MWA",
+		"description": "MUELLER WATER PRODUCTS"
 	},
 	{
-		"Symbol": "MX",
-		"Description": "MagnaChip Semiconductor Corporation"
+		"symbol": "MX",
+		"description": "MagnaChip Semiconductor Corporation"
 	},
 	{
-		"Symbol": "MXC",
-		"Description": "Mexco Energy Corporation"
+		"symbol": "MXC",
+		"description": "Mexco Energy Corporation"
 	},
 	{
-		"Symbol": "MXE",
-		"Description": "Mexico Equity and Income Fund, Inc. "
+		"symbol": "MXE",
+		"description": "Mexico Equity and Income Fund, Inc. "
 	},
 	{
-		"Symbol": "MXF",
-		"Description": "Mexico Fund, Inc. "
+		"symbol": "MXF",
+		"description": "Mexico Fund, Inc. "
 	},
 	{
-		"Symbol": "MXIM",
-		"Description": "Maxim Integrated"
+		"symbol": "MXIM",
+		"description": "Maxim Integrated"
 	},
 	{
-		"Symbol": "MXL",
-		"Description": "MaxLinear, Inc"
+		"symbol": "MXL",
+		"description": "MaxLinear, Inc"
 	},
 	{
-		"Symbol": "MXPT",
-		"Description": "Maxpoint Intrctv Cmn"
+		"symbol": "MXPT",
+		"description": "Maxpoint Intrctv Cmn"
 	},
 	{
-		"Symbol": "MXWL",
-		"Description": "Maxwell Technologies"
+		"symbol": "MXWL",
+		"description": "Maxwell Technologies"
 	},
 	{
-		"Symbol": "MYC",
-		"Description": "Blackrock MuniYield California Fund, Inc."
+		"symbol": "MYC",
+		"description": "Blackrock MuniYield California Fund, Inc."
 	},
 	{
-		"Symbol": "MYCC",
-		"Description": "ClubCorp Holdings, Inc."
+		"symbol": "MYCC",
+		"description": "ClubCorp Holdings, Inc."
 	},
 	{
-		"Symbol": "MYD",
-		"Description": "Blackrock MuniYield Fund, Inc."
+		"symbol": "MYD",
+		"description": "Blackrock MuniYield Fund, Inc."
 	},
 	{
-		"Symbol": "MYE",
-		"Description": "Myers Industries, Inc."
+		"symbol": "MYE",
+		"description": "Myers Industries, Inc."
 	},
 	{
-		"Symbol": "MYF",
-		"Description": "Blackrock MuniYield Investment Fund"
+		"symbol": "MYF",
+		"description": "Blackrock MuniYield Investment Fund"
 	},
 	{
-		"Symbol": "MYGN",
-		"Description": "Myriad Genetics Inc"
+		"symbol": "MYGN",
+		"description": "Myriad Genetics Inc"
 	},
 	{
-		"Symbol": "MYI",
-		"Description": "Blackrock MuniYield Quality Fund III, Inc."
+		"symbol": "MYI",
+		"description": "Blackrock MuniYield Quality Fund III, Inc."
 	},
 	{
-		"Symbol": "MYJ",
-		"Description": "Blackrock MuniYield New Jersey Fund, Inc."
+		"symbol": "MYJ",
+		"description": "Blackrock MuniYield New Jersey Fund, Inc."
 	},
 	{
-		"Symbol": "MYL",
-		"Description": "Mylan Nv Ord Shs"
+		"symbol": "MYL",
+		"description": "Mylan Nv Ord Shs"
 	},
 	{
-		"Symbol": "MYN",
-		"Description": "Blackrock MuniYield New York Quality Fund, Inc."
+		"symbol": "MYN",
+		"description": "Blackrock MuniYield New York Quality Fund, Inc."
 	},
 	{
-		"Symbol": "MYOK",
-		"Description": "Myokardia Inc Cm ST"
+		"symbol": "MYOK",
+		"description": "Myokardia Inc Cm ST"
 	},
 	{
-		"Symbol": "MYOS",
-		"Description": "Myos Rens Tech Cmn"
+		"symbol": "MYOS",
+		"description": "Myos Rens Tech Cmn"
 	},
 	{
-		"Symbol": "MYOV",
-		"Description": "Myovant Sciences Ltd."
+		"symbol": "MYOV",
+		"description": "Myovant Sciences Ltd."
 	},
 	{
-		"Symbol": "MYRG",
-		"Description": "Myr Group Inc"
+		"symbol": "MYRG",
+		"description": "Myr Group Inc"
 	},
 	{
-		"Symbol": "MYSZ",
-		"Description": "My Size Inc Cmn"
+		"symbol": "MYSZ",
+		"description": "My Size Inc Cmn"
 	},
 	{
-		"Symbol": "MZA",
-		"Description": "MuniYield Arizona Fund, Inc."
+		"symbol": "MZA",
+		"description": "MuniYield Arizona Fund, Inc."
 	},
 	{
-		"Symbol": "MZF",
-		"Description": "Managed Duration Investment Grade Municipal Fund"
+		"symbol": "MZF",
+		"description": "Managed Duration Investment Grade Municipal Fund"
 	},
 	{
-		"Symbol": "MZOR",
-		"Description": "Mazor Robotics Ads"
+		"symbol": "MZOR",
+		"description": "Mazor Robotics Ads"
 	},
 	{
-		"Symbol": "NAC",
-		"Description": "Nuveen California Quality Municipal Income Fund"
+		"symbol": "NAC",
+		"description": "Nuveen California Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NAD",
-		"Description": "Nuveen Quality Municipal Income Fund"
+		"symbol": "NAD",
+		"description": "Nuveen Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NADL",
-		"Description": "North Atlantic Drilling Ltd."
+		"symbol": "NADL",
+		"description": "North Atlantic Drilling Ltd."
 	},
 	{
-		"Symbol": "NAII",
-		"Description": "Natural Alternativ"
+		"symbol": "NAII",
+		"description": "Natural Alternativ"
 	},
 	{
-		"Symbol": "NAK",
-		"Description": "Northern Dynasty Minerals, Ltd."
+		"symbol": "NAK",
+		"description": "Northern Dynasty Minerals, Ltd."
 	},
 	{
-		"Symbol": "NAKD",
-		"Description": "Naked Brand Group CS"
+		"symbol": "NAKD",
+		"description": "Naked Brand Group CS"
 	},
 	{
-		"Symbol": "NAME",
-		"Description": "Rightside Group Cmn"
+		"symbol": "NAME",
+		"description": "Rightside Group Cmn"
 	},
 	{
-		"Symbol": "NAN",
-		"Description": "Nuveen New York Quality Municipal Income Fund"
+		"symbol": "NAN",
+		"description": "Nuveen New York Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NANO",
-		"Description": "Nanometrics Inc"
+		"symbol": "NANO",
+		"description": "Nanometrics Inc"
 	},
 	{
-		"Symbol": "NAO",
-		"Description": "Nordic American Offshore Ltd"
+		"symbol": "NAO",
+		"description": "Nordic American Offshore Ltd"
 	},
 	{
-		"Symbol": "NAP",
-		"Description": "Navios Maritime Midstream Partners LP"
+		"symbol": "NAP",
+		"description": "Navios Maritime Midstream Partners LP"
 	},
 	{
-		"Symbol": "NAT",
-		"Description": "Nordic American Tankers Limited"
+		"symbol": "NAT",
+		"description": "Nordic American Tankers Limited"
 	},
 	{
-		"Symbol": "NATH",
-		"Description": "Nathan's Famous In"
+		"symbol": "NATH",
+		"description": "Nathan's Famous In"
 	},
 	{
-		"Symbol": "NATI",
-		"Description": "Natl Instruments Cor"
+		"symbol": "NATI",
+		"description": "Natl Instruments Cor"
 	},
 	{
-		"Symbol": "NATR",
-		"Description": "Nature S Sunshine"
+		"symbol": "NATR",
+		"description": "Nature S Sunshine"
 	},
 	{
-		"Symbol": "NAUH",
-		"Description": "National American Un"
+		"symbol": "NAUH",
+		"description": "National American Un"
 	},
 	{
-		"Symbol": "NAV",
-		"Description": "Navistar International Corporation"
+		"symbol": "NAV",
+		"description": "Navistar International Corporation"
 	},
 	{
-		"Symbol": "NAV^D",
-		"Description": "Navistar International Corporation"
+		"symbol": "NAV^D",
+		"description": "Navistar International Corporation"
 	},
 	{
-		"Symbol": "NAVB",
-		"Description": "Navidea Biopharmaceuticals, Inc."
+		"symbol": "NAVB",
+		"description": "Navidea Biopharmaceuticals, Inc."
 	},
 	{
-		"Symbol": "NAVG",
-		"Description": "Navigators Grp Inc"
+		"symbol": "NAVG",
+		"description": "Navigators Grp Inc"
 	},
 	{
-		"Symbol": "NAVI",
-		"Description": "Navient Cp Cmn"
+		"symbol": "NAVI",
+		"description": "Navient Cp Cmn"
 	},
 	{
-		"Symbol": "NAZ",
-		"Description": "Nuveen Arizona Quality Municipal Income Fund"
+		"symbol": "NAZ",
+		"description": "Nuveen Arizona Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NBB",
-		"Description": "Nuveen Build America Bond Fund"
+		"symbol": "NBB",
+		"description": "Nuveen Build America Bond Fund"
 	},
 	{
-		"Symbol": "NBD",
-		"Description": "Nuveen Build America Bond Opportunity Fund"
+		"symbol": "NBD",
+		"description": "Nuveen Build America Bond Opportunity Fund"
 	},
 	{
-		"Symbol": "NBH",
-		"Description": "Neuberger Berman Intermediate Municipal Fund Inc."
+		"symbol": "NBH",
+		"description": "Neuberger Berman Intermediate Municipal Fund Inc."
 	},
 	{
-		"Symbol": "NBHC",
-		"Description": "National Bank Holdings Corporation"
+		"symbol": "NBHC",
+		"description": "National Bank Holdings Corporation"
 	},
 	{
-		"Symbol": "NBIX",
-		"Description": "Neurocrine Bioscienc"
+		"symbol": "NBIX",
+		"description": "Neurocrine Bioscienc"
 	},
 	{
-		"Symbol": "NBL",
-		"Description": "Noble Energy Inc."
+		"symbol": "NBL",
+		"description": "Noble Energy Inc."
 	},
 	{
-		"Symbol": "NBLX",
-		"Description": "Noble Midstream Partners LP"
+		"symbol": "NBLX",
+		"description": "Noble Midstream Partners LP"
 	},
 	{
-		"Symbol": "NBN",
-		"Description": "Northeast Bncp"
+		"symbol": "NBN",
+		"description": "Northeast Bncp"
 	},
 	{
-		"Symbol": "NBO",
-		"Description": "Neuberger Berman New York Intermediate Municipal Fund Inc."
+		"symbol": "NBO",
+		"description": "Neuberger Berman New York Intermediate Municipal Fund Inc."
 	},
 	{
-		"Symbol": "NBR",
-		"Description": "Nabors Industries Ltd."
+		"symbol": "NBR",
+		"description": "Nabors Industries Ltd."
 	},
 	{
-		"Symbol": "NBRV",
-		"Description": "Nabriva Therape Ads"
+		"symbol": "NBRV",
+		"description": "Nabriva Therape Ads"
 	},
 	{
-		"Symbol": "NBTB",
-		"Description": "NBT Bancorp Inc"
+		"symbol": "NBTB",
+		"description": "NBT Bancorp Inc"
 	},
 	{
-		"Symbol": "NBW",
-		"Description": "Neuberger Berman California Intermediate Municipal Fund Inc."
+		"symbol": "NBW",
+		"description": "Neuberger Berman California Intermediate Municipal Fund Inc."
 	},
 	{
-		"Symbol": "NBY",
-		"Description": "NovaBay Pharmaceuticals, Inc."
+		"symbol": "NBY",
+		"description": "NovaBay Pharmaceuticals, Inc."
 	},
 	{
-		"Symbol": "NC",
-		"Description": "NACCO Industries, Inc."
+		"symbol": "NC",
+		"description": "NACCO Industries, Inc."
 	},
 	{
-		"Symbol": "NCA",
-		"Description": "Nuveen California Municipal Value Fund, Inc."
+		"symbol": "NCA",
+		"description": "Nuveen California Municipal Value Fund, Inc."
 	},
 	{
-		"Symbol": "NCB",
-		"Description": "Nuveen California Municipal Value Fund 2"
+		"symbol": "NCB",
+		"description": "Nuveen California Municipal Value Fund 2"
 	},
 	{
-		"Symbol": "NCBS",
-		"Description": "Nicolet Bnkshr Cmn"
+		"symbol": "NCBS",
+		"description": "Nicolet Bnkshr Cmn"
 	},
 	{
-		"Symbol": "NCI",
-		"Description": "Navigant Consulting, Inc."
+		"symbol": "NCI",
+		"description": "Navigant Consulting, Inc."
 	},
 	{
-		"Symbol": "NCIT",
-		"Description": "NCI Inc"
+		"symbol": "NCIT",
+		"description": "NCI Inc"
 	},
 	{
-		"Symbol": "NCLH",
-		"Description": "Norwegian Cruise Ord"
+		"symbol": "NCLH",
+		"description": "Norwegian Cruise Ord"
 	},
 	{
-		"Symbol": "NCMI",
-		"Description": "National Cinemedia"
+		"symbol": "NCMI",
+		"description": "National Cinemedia"
 	},
 	{
-		"Symbol": "NCOM",
-		"Description": "National Commerce Cmn"
+		"symbol": "NCOM",
+		"description": "National Commerce Cmn"
 	},
 	{
-		"Symbol": "NCR",
-		"Description": "NCR Corporation"
+		"symbol": "NCR",
+		"description": "NCR Corporation"
 	},
 	{
-		"Symbol": "NCS",
-		"Description": "NCI Building Systems, Inc."
+		"symbol": "NCS",
+		"description": "NCI Building Systems, Inc."
 	},
 	{
-		"Symbol": "NCTY",
-		"Description": "The9 Limited"
+		"symbol": "NCTY",
+		"description": "The9 Limited"
 	},
 	{
-		"Symbol": "NCV",
-		"Description": "AllianzGI Convertible & Income Fund"
+		"symbol": "NCV",
+		"description": "AllianzGI Convertible & Income Fund"
 	},
 	{
-		"Symbol": "NCZ",
-		"Description": "AllianzGI Convertible & Income Fund II"
+		"symbol": "NCZ",
+		"description": "AllianzGI Convertible & Income Fund II"
 	},
 	{
-		"Symbol": "NDAQ",
-		"Description": "Nasdaq Inc Cmn Stk"
+		"symbol": "NDAQ",
+		"description": "Nasdaq Inc Cmn Stk"
 	},
 	{
-		"Symbol": "NDLS",
-		"Description": "Noodles & Co Cla Cmn"
+		"symbol": "NDLS",
+		"description": "Noodles & Co Cla Cmn"
 	},
 	{
-		"Symbol": "NDP",
-		"Description": "Tortoise Energy Independence Fund, Inc."
+		"symbol": "NDP",
+		"description": "Tortoise Energy Independence Fund, Inc."
 	},
 	{
-		"Symbol": "NDRM",
-		"Description": "Neuroderm Ltd Ord Sh"
+		"symbol": "NDRM",
+		"description": "Neuroderm Ltd Ord Sh"
 	},
 	{
-		"Symbol": "NDRO",
-		"Description": "Enduro Royalty Trust"
+		"symbol": "NDRO",
+		"description": "Enduro Royalty Trust"
 	},
 	{
-		"Symbol": "NDSN",
-		"Description": "Nordson Corporation"
+		"symbol": "NDSN",
+		"description": "Nordson Corporation"
 	},
 	{
-		"Symbol": "NE",
-		"Description": "Noble Corporation"
+		"symbol": "NE",
+		"description": "Noble Corporation"
 	},
 	{
-		"Symbol": "NEA",
-		"Description": "Nuveen AMT-Free Quality Municipal Income Fund"
+		"symbol": "NEA",
+		"description": "Nuveen AMT-Free Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NEE",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^C",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^C",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^G",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^G",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^H",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^H",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^I",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^I",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^J",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^J",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^K",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^K",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^Q",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^Q",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEE^R",
-		"Description": "NextEra Energy, Inc."
+		"symbol": "NEE^R",
+		"description": "NextEra Energy, Inc."
 	},
 	{
-		"Symbol": "NEFF",
-		"Description": "Neff Corporation"
+		"symbol": "NEFF",
+		"description": "Neff Corporation"
 	},
 	{
-		"Symbol": "NEM",
-		"Description": "Newmont Mining Corporation"
+		"symbol": "NEM",
+		"description": "Newmont Mining Corporation"
 	},
 	{
-		"Symbol": "NEN",
-		"Description": "New England Realty Associates Limited Partnership"
+		"symbol": "NEN",
+		"description": "New England Realty Associates Limited Partnership"
 	},
 	{
-		"Symbol": "NEO",
-		"Description": "Neogenomics Inc"
+		"symbol": "NEO",
+		"description": "Neogenomics Inc"
 	},
 	{
-		"Symbol": "NEOG",
-		"Description": "Neogen Cp"
+		"symbol": "NEOG",
+		"description": "Neogen Cp"
 	},
 	{
-		"Symbol": "NEON",
-		"Description": "Neonode Inc"
+		"symbol": "NEON",
+		"description": "Neonode Inc"
 	},
 	{
-		"Symbol": "NEOS",
-		"Description": "Neos Therapeutics Cmn"
+		"symbol": "NEOS",
+		"description": "Neos Therapeutics Cmn"
 	},
 	{
-		"Symbol": "NEOT",
-		"Description": "Neothetics Cmn"
+		"symbol": "NEOT",
+		"description": "Neothetics Cmn"
 	},
 	{
-		"Symbol": "NEP",
-		"Description": "NextEra Energy Partners, LP"
+		"symbol": "NEP",
+		"description": "NextEra Energy Partners, LP"
 	},
 	{
-		"Symbol": "NEPT",
-		"Description": "Neptune Tech"
+		"symbol": "NEPT",
+		"description": "Neptune Tech"
 	},
 	{
-		"Symbol": "NERV",
-		"Description": "Minerva Neuroscie Cmn"
+		"symbol": "NERV",
+		"description": "Minerva Neuroscie Cmn"
 	},
 	{
-		"Symbol": "NETE",
-		"Description": "Net Element Inc"
+		"symbol": "NETE",
+		"description": "Net Element Inc"
 	},
 	{
-		"Symbol": "NEU",
-		"Description": "NewMarket Corporation"
+		"symbol": "NEU",
+		"description": "NewMarket Corporation"
 	},
 	{
-		"Symbol": "NEV",
-		"Description": "Nuveen Enhanced Municipal Value Fund"
+		"symbol": "NEV",
+		"description": "Nuveen Enhanced Municipal Value Fund"
 	},
 	{
-		"Symbol": "NEWM",
-		"Description": "New Media Investment Group Inc."
+		"symbol": "NEWM",
+		"description": "New Media Investment Group Inc."
 	},
 	{
-		"Symbol": "NEWR",
-		"Description": "New Relic, Inc."
+		"symbol": "NEWR",
+		"description": "New Relic, Inc."
 	},
 	{
-		"Symbol": "NEWS",
-		"Description": "Newstar Financial"
+		"symbol": "NEWS",
+		"description": "Newstar Financial"
 	},
 	{
-		"Symbol": "NEWT",
-		"Description": "Newtek Bus Svcs Cmn"
+		"symbol": "NEWT",
+		"description": "Newtek Bus Svcs Cmn"
 	},
 	{
-		"Symbol": "NEWTL",
-		"Description": "Newtek Business 7%Nt"
+		"symbol": "NEWTL",
+		"description": "Newtek Business 7%Nt"
 	},
 	{
-		"Symbol": "NEWTZ",
-		"Description": "Newtek 7.5% NTS 2022"
+		"symbol": "NEWTZ",
+		"description": "Newtek 7.5% NTS 2022"
 	},
 	{
-		"Symbol": "NFBK",
-		"Description": "Northfield Bncrp Del"
+		"symbol": "NFBK",
+		"description": "Northfield Bncrp Del"
 	},
 	{
-		"Symbol": "NFEC",
-		"Description": "NF Energy Saving Cor"
+		"symbol": "NFEC",
+		"description": "NF Energy Saving Cor"
 	},
 	{
-		"Symbol": "NFG",
-		"Description": "National Fuel Gas Company"
+		"symbol": "NFG",
+		"description": "National Fuel Gas Company"
 	},
 	{
-		"Symbol": "NFJ",
-		"Description": "AllianzGI NFJ Dividend, Interest & Premium Strategy Fund"
+		"symbol": "NFJ",
+		"description": "AllianzGI NFJ Dividend, Interest & Premium Strategy Fund"
 	},
 	{
-		"Symbol": "NFLX",
-		"Description": "Netflix Inc"
+		"symbol": "NFLX",
+		"description": "Netflix Inc"
 	},
 	{
-		"Symbol": "NFX",
-		"Description": "Newfield Exploration Company"
+		"symbol": "NFX",
+		"description": "Newfield Exploration Company"
 	},
 	{
-		"Symbol": "NG",
-		"Description": "Novagold Resources Inc."
+		"symbol": "NG",
+		"description": "Novagold Resources Inc."
 	},
 	{
-		"Symbol": "NGD",
-		"Description": "New Gold Inc."
+		"symbol": "NGD",
+		"description": "New Gold Inc."
 	},
 	{
-		"Symbol": "NGG",
-		"Description": "National Grid Transco, PLC"
+		"symbol": "NGG",
+		"description": "National Grid Transco, PLC"
 	},
 	{
-		"Symbol": "NGHC",
-		"Description": "National General Hld"
+		"symbol": "NGHC",
+		"description": "National General Hld"
 	},
 	{
-		"Symbol": "NGHCN",
-		"Description": "National General Holdings Corp."
+		"symbol": "NGHCN",
+		"description": "National General Holdings Corp."
 	},
 	{
-		"Symbol": "NGHCO",
-		"Description": "National Gnl Hld Ds"
+		"symbol": "NGHCO",
+		"description": "National Gnl Hld Ds"
 	},
 	{
-		"Symbol": "NGHCP",
-		"Description": "National Gen Srs A"
+		"symbol": "NGHCP",
+		"description": "National Gen Srs A"
 	},
 	{
-		"Symbol": "NGHCZ",
-		"Description": "National Gen Sub NTS"
+		"symbol": "NGHCZ",
+		"description": "National Gen Sub NTS"
 	},
 	{
-		"Symbol": "NGL",
-		"Description": "NGL ENERGY PARTNERS LP"
+		"symbol": "NGL",
+		"description": "NGL ENERGY PARTNERS LP"
 	},
 	{
-		"Symbol": "NGLS^A",
-		"Description": "Targa Resources Partners LP"
+		"symbol": "NGLS^A",
+		"description": "Targa Resources Partners LP"
 	},
 	{
-		"Symbol": "NGS",
-		"Description": "Natural Gas Services Group, Inc."
+		"symbol": "NGS",
+		"description": "Natural Gas Services Group, Inc."
 	},
 	{
-		"Symbol": "NGVC",
-		"Description": "Natural Grocers by Vitamin Cottage, Inc."
+		"symbol": "NGVC",
+		"description": "Natural Grocers by Vitamin Cottage, Inc."
 	},
 	{
-		"Symbol": "NGVT",
-		"Description": "Ingevity Corporation"
+		"symbol": "NGVT",
+		"description": "Ingevity Corporation"
 	},
 	{
-		"Symbol": "NH",
-		"Description": "Nanthealth Inc Cmn"
+		"symbol": "NH",
+		"description": "Nanthealth Inc Cmn"
 	},
 	{
-		"Symbol": "NHA",
-		"Description": "Nuveen Municipal 2021 Target Term Fund"
+		"symbol": "NHA",
+		"description": "Nuveen Municipal 2021 Target Term Fund"
 	},
 	{
-		"Symbol": "NHC",
-		"Description": "National HealthCare Corporation"
+		"symbol": "NHC",
+		"description": "National HealthCare Corporation"
 	},
 	{
-		"Symbol": "NHF",
-		"Description": "Highland Funds I"
+		"symbol": "NHF",
+		"description": "Highland Funds I"
 	},
 	{
-		"Symbol": "NHI",
-		"Description": "National Health Investors, Inc."
+		"symbol": "NHI",
+		"description": "National Health Investors, Inc."
 	},
 	{
-		"Symbol": "NHLD",
-		"Description": "National Holdings"
+		"symbol": "NHLD",
+		"description": "National Holdings"
 	},
 	{
-		"Symbol": "NHLDW",
-		"Description": "National Holdings Corporation Warrants"
+		"symbol": "NHLDW",
+		"description": "National Holdings Corporation Warrants"
 	},
 	{
-		"Symbol": "NHS",
-		"Description": "Neuberger Berman High Yield Strategies Fund"
+		"symbol": "NHS",
+		"description": "Neuberger Berman High Yield Strategies Fund"
 	},
 	{
-		"Symbol": "NHTC",
-		"Description": "Natural Hlth Trd Cmn"
+		"symbol": "NHTC",
+		"description": "Natural Hlth Trd Cmn"
 	},
 	{
-		"Symbol": "NI",
-		"Description": "NiSource, Inc"
+		"symbol": "NI",
+		"description": "NiSource, Inc"
 	},
 	{
-		"Symbol": "NICE",
-		"Description": "Nice Ltd"
+		"symbol": "NICE",
+		"description": "Nice Ltd"
 	},
 	{
-		"Symbol": "NICK",
-		"Description": "Nicholas Fincl Inc"
+		"symbol": "NICK",
+		"description": "Nicholas Fincl Inc"
 	},
 	{
-		"Symbol": "NID",
-		"Description": "Nuveen Intermediate Duration Municipal Term Fund"
+		"symbol": "NID",
+		"description": "Nuveen Intermediate Duration Municipal Term Fund"
 	},
 	{
-		"Symbol": "NIE",
-		"Description": "AllianzGI Equity & Convertible Income Fund"
+		"symbol": "NIE",
+		"description": "AllianzGI Equity & Convertible Income Fund"
 	},
 	{
-		"Symbol": "NIHD",
-		"Description": "NII Holdings Cmn"
+		"symbol": "NIHD",
+		"description": "NII Holdings Cmn"
 	},
 	{
-		"Symbol": "NILE",
-		"Description": "Blue Nile Inc"
+		"symbol": "NILE",
+		"description": "Blue Nile Inc"
 	},
 	{
-		"Symbol": "NIM",
-		"Description": "Nuveen Select Maturities Municipal Fund"
+		"symbol": "NIM",
+		"description": "Nuveen Select Maturities Municipal Fund"
 	},
 	{
-		"Symbol": "NIQ",
-		"Description": "Nuveenn Intermediate Duration Quality Municipal Term Fund"
+		"symbol": "NIQ",
+		"description": "Nuveenn Intermediate Duration Quality Municipal Term Fund"
 	},
 	{
-		"Symbol": "NJR",
-		"Description": "NewJersey Resources Corporation"
+		"symbol": "NJR",
+		"description": "NewJersey Resources Corporation"
 	},
 	{
-		"Symbol": "NJV",
-		"Description": "Nuveen New Jersey Municipal Value Fund"
+		"symbol": "NJV",
+		"description": "Nuveen New Jersey Municipal Value Fund"
 	},
 	{
-		"Symbol": "NK",
-		"Description": "Nantkwest Inc CS"
+		"symbol": "NK",
+		"description": "Nantkwest Inc CS"
 	},
 	{
-		"Symbol": "NKE",
-		"Description": "Nike, Inc."
+		"symbol": "NKE",
+		"description": "Nike, Inc."
 	},
 	{
-		"Symbol": "NKG",
-		"Description": "Nuveen Georgia Quality Municipal Income Fund"
+		"symbol": "NKG",
+		"description": "Nuveen Georgia Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NKSH",
-		"Description": "Natl Bankshares Inc"
+		"symbol": "NKSH",
+		"description": "Natl Bankshares Inc"
 	},
 	{
-		"Symbol": "NKTR",
-		"Description": "Nektar Therapeutics"
+		"symbol": "NKTR",
+		"description": "Nektar Therapeutics"
 	},
 	{
-		"Symbol": "NKX",
-		"Description": "Nuveen California AMT-Free Quality Municipal Income Fund"
+		"symbol": "NKX",
+		"description": "Nuveen California AMT-Free Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NL",
-		"Description": "NL Industries, Inc."
+		"symbol": "NL",
+		"description": "NL Industries, Inc."
 	},
 	{
-		"Symbol": "NLNK",
-		"Description": "Newlink Genetics Cor"
+		"symbol": "NLNK",
+		"description": "Newlink Genetics Cor"
 	},
 	{
-		"Symbol": "NLS",
-		"Description": "Nautilus Group, Inc. "
+		"symbol": "NLS",
+		"description": "Nautilus Group, Inc. "
 	},
 	{
-		"Symbol": "NLSN",
-		"Description": "Nielsen N.V."
+		"symbol": "NLSN",
+		"description": "Nielsen N.V."
 	},
 	{
-		"Symbol": "NLST",
-		"Description": "Netlist Inc"
+		"symbol": "NLST",
+		"description": "Netlist Inc"
 	},
 	{
-		"Symbol": "NLY",
-		"Description": "Annaly Capital Management Inc"
+		"symbol": "NLY",
+		"description": "Annaly Capital Management Inc"
 	},
 	{
-		"Symbol": "NLY^A",
-		"Description": "Annaly Capital Management Inc"
+		"symbol": "NLY^A",
+		"description": "Annaly Capital Management Inc"
 	},
 	{
-		"Symbol": "NLY^C",
-		"Description": "Annaly Capital Management Inc"
+		"symbol": "NLY^C",
+		"description": "Annaly Capital Management Inc"
 	},
 	{
-		"Symbol": "NLY^D",
-		"Description": "Annaly Capital Management Inc"
+		"symbol": "NLY^D",
+		"description": "Annaly Capital Management Inc"
 	},
 	{
-		"Symbol": "NLY^E",
-		"Description": "Annaly Capital Management Inc"
+		"symbol": "NLY^E",
+		"description": "Annaly Capital Management Inc"
 	},
 	{
-		"Symbol": "NM",
-		"Description": "Navios Maritime Holdings Inc."
+		"symbol": "NM",
+		"description": "Navios Maritime Holdings Inc."
 	},
 	{
-		"Symbol": "NM^G",
-		"Description": "Navios Maritime Holdings Inc."
+		"symbol": "NM^G",
+		"description": "Navios Maritime Holdings Inc."
 	},
 	{
-		"Symbol": "NM^H",
-		"Description": "Navios Maritime Holdings Inc."
+		"symbol": "NM^H",
+		"description": "Navios Maritime Holdings Inc."
 	},
 	{
-		"Symbol": "NMBL",
-		"Description": "Nimble Storage, Inc."
+		"symbol": "NMBL",
+		"description": "Nimble Storage, Inc."
 	},
 	{
-		"Symbol": "NMFC",
-		"Description": "New Mountain Finance Corporation"
+		"symbol": "NMFC",
+		"description": "New Mountain Finance Corporation"
 	},
 	{
-		"Symbol": "NMI",
-		"Description": "Nuveen Municipal Income Fund, Inc."
+		"symbol": "NMI",
+		"description": "Nuveen Municipal Income Fund, Inc."
 	},
 	{
-		"Symbol": "NMIH",
-		"Description": "Nmi Holdings Cmn A"
+		"symbol": "NMIH",
+		"description": "Nmi Holdings Cmn A"
 	},
 	{
-		"Symbol": "NMK^B",
-		"Description": "Niagara Mohawk Holdings, Inc."
+		"symbol": "NMK^B",
+		"description": "Niagara Mohawk Holdings, Inc."
 	},
 	{
-		"Symbol": "NMK^C",
-		"Description": "Niagara Mohawk Holdings, Inc."
+		"symbol": "NMK^C",
+		"description": "Niagara Mohawk Holdings, Inc."
 	},
 	{
-		"Symbol": "NML",
-		"Description": "Neuberger Berman MLP Income Fund Inc."
+		"symbol": "NML",
+		"description": "Neuberger Berman MLP Income Fund Inc."
 	},
 	{
-		"Symbol": "NMM",
-		"Description": "Navios Maritime Partners LP"
+		"symbol": "NMM",
+		"description": "Navios Maritime Partners LP"
 	},
 	{
-		"Symbol": "NMR",
-		"Description": "Nomura Holdings Inc ADR"
+		"symbol": "NMR",
+		"description": "Nomura Holdings Inc ADR"
 	},
 	{
-		"Symbol": "NMRX",
-		"Description": "Numerex Cp Cl A [P"
+		"symbol": "NMRX",
+		"description": "Numerex Cp Cl A [P"
 	},
 	{
-		"Symbol": "NMS",
-		"Description": "Nuveen Minnesota Quality Municipal Income Fund"
+		"symbol": "NMS",
+		"description": "Nuveen Minnesota Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NMT",
-		"Description": "Nuveen Massachusetts Municipal Income Fund"
+		"symbol": "NMT",
+		"description": "Nuveen Massachusetts Municipal Income Fund"
 	},
 	{
-		"Symbol": "NMY",
-		"Description": "Nuveen Maryland Quality Municipal Income Fund"
+		"symbol": "NMY",
+		"description": "Nuveen Maryland Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NMZ",
-		"Description": "Nuveen Municipal High Income Opportunity Fund"
+		"symbol": "NMZ",
+		"description": "Nuveen Municipal High Income Opportunity Fund"
 	},
 	{
-		"Symbol": "NNA",
-		"Description": "Navios Maritime Acquisition Corporation"
+		"symbol": "NNA",
+		"description": "Navios Maritime Acquisition Corporation"
 	},
 	{
-		"Symbol": "NNBR",
-		"Description": "NN Inc"
+		"symbol": "NNBR",
+		"description": "NN Inc"
 	},
 	{
-		"Symbol": "NNC",
-		"Description": "Nuveen North Carolina Quality Municipal Income Fd"
+		"symbol": "NNC",
+		"description": "Nuveen North Carolina Quality Municipal Income Fd"
 	},
 	{
-		"Symbol": "NNDM",
-		"Description": "Nano Dimension Ads"
+		"symbol": "NNDM",
+		"description": "Nano Dimension Ads"
 	},
 	{
-		"Symbol": "NNI",
-		"Description": "Nelnet, Inc."
+		"symbol": "NNI",
+		"description": "Nelnet, Inc."
 	},
 	{
-		"Symbol": "NNN",
-		"Description": "National Retail Properties"
+		"symbol": "NNN",
+		"description": "National Retail Properties"
 	},
 	{
-		"Symbol": "NNN^D.CL",
-		"Description": "National Retail Properties"
+		"symbol": "NNN^D.CL",
+		"description": "National Retail Properties"
 	},
 	{
-		"Symbol": "NNN^E",
-		"Description": "National Retail Properties"
+		"symbol": "NNN^E",
+		"description": "National Retail Properties"
 	},
 	{
-		"Symbol": "NNN^F",
-		"Description": "National Retail Properties"
+		"symbol": "NNN^F",
+		"description": "National Retail Properties"
 	},
 	{
-		"Symbol": "NNVC",
-		"Description": "NanoViricides, Inc."
+		"symbol": "NNVC",
+		"description": "NanoViricides, Inc."
 	},
 	{
-		"Symbol": "NNY",
-		"Description": "Nuveen New York Municipal Value Fund, Inc."
+		"symbol": "NNY",
+		"description": "Nuveen New York Municipal Value Fund, Inc."
 	},
 	{
-		"Symbol": "NOA",
-		"Description": "North American Energy Partners, Inc."
+		"symbol": "NOA",
+		"description": "North American Energy Partners, Inc."
 	},
 	{
-		"Symbol": "NOAH",
-		"Description": "Noah Holdings Ltd."
+		"symbol": "NOAH",
+		"description": "Noah Holdings Ltd."
 	},
 	{
-		"Symbol": "NOC",
-		"Description": "Northrop Grumman Corporation"
+		"symbol": "NOC",
+		"description": "Northrop Grumman Corporation"
 	},
 	{
-		"Symbol": "NOG",
-		"Description": "Northern Oil and Gas, Inc."
+		"symbol": "NOG",
+		"description": "Northern Oil and Gas, Inc."
 	},
 	{
-		"Symbol": "NOK",
-		"Description": "Nokia Corporation"
+		"symbol": "NOK",
+		"description": "Nokia Corporation"
 	},
 	{
-		"Symbol": "NOM",
-		"Description": "Nuveen Missouri Quality Municipal Income Fund"
+		"symbol": "NOM",
+		"description": "Nuveen Missouri Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NOMD",
-		"Description": "Nomad Foods Limited"
+		"symbol": "NOMD",
+		"description": "Nomad Foods Limited"
 	},
 	{
-		"Symbol": "NORD",
-		"Description": "Nord Anglia Education, Inc."
+		"symbol": "NORD",
+		"description": "Nord Anglia Education, Inc."
 	},
 	{
-		"Symbol": "NOV",
-		"Description": "National Oilwell Varco, Inc."
+		"symbol": "NOV",
+		"description": "National Oilwell Varco, Inc."
 	},
 	{
-		"Symbol": "NOVN",
-		"Description": "Novan Inc"
+		"symbol": "NOVN",
+		"description": "Novan Inc"
 	},
 	{
-		"Symbol": "NOVT",
-		"Description": "Novanta Inc"
+		"symbol": "NOVT",
+		"description": "Novanta Inc"
 	},
 	{
-		"Symbol": "NOW",
-		"Description": "ServiceNow, Inc."
+		"symbol": "NOW",
+		"description": "ServiceNow, Inc."
 	},
 	{
-		"Symbol": "NP",
-		"Description": "Neenah Paper, Inc."
+		"symbol": "NP",
+		"description": "Neenah Paper, Inc."
 	},
 	{
-		"Symbol": "NPK",
-		"Description": "National Presto Industries, Inc."
+		"symbol": "NPK",
+		"description": "National Presto Industries, Inc."
 	},
 	{
-		"Symbol": "NPN",
-		"Description": "Nuveen Pennsylvania Municipal Value Fund"
+		"symbol": "NPN",
+		"description": "Nuveen Pennsylvania Municipal Value Fund"
 	},
 	{
-		"Symbol": "NPO",
-		"Description": "EnPro Industries"
+		"symbol": "NPO",
+		"description": "EnPro Industries"
 	},
 	{
-		"Symbol": "NPTN",
-		"Description": "NeoPhotonics Corporation"
+		"symbol": "NPTN",
+		"description": "NeoPhotonics Corporation"
 	},
 	{
-		"Symbol": "NPV",
-		"Description": "Nuveen Virginia Quality Municipal Income Fund"
+		"symbol": "NPV",
+		"description": "Nuveen Virginia Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NQ",
-		"Description": "NQ Mobile Inc."
+		"symbol": "NQ",
+		"description": "NQ Mobile Inc."
 	},
 	{
-		"Symbol": "NQP",
-		"Description": "Nuveen Pennsylvania Quality Municipal Income Fund"
+		"symbol": "NQP",
+		"description": "Nuveen Pennsylvania Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NR",
-		"Description": "Newpark Resources, Inc."
+		"symbol": "NR",
+		"description": "Newpark Resources, Inc."
 	},
 	{
-		"Symbol": "NRCIA",
-		"Description": "National Resh Cla Cmn"
+		"symbol": "NRCIA",
+		"description": "National Resh Cla Cmn"
 	},
 	{
-		"Symbol": "NRCIB",
-		"Description": "Natl Research Cl B"
+		"symbol": "NRCIB",
+		"description": "Natl Research Cl B"
 	},
 	{
-		"Symbol": "NRE",
-		"Description": "NorthStar Realty Europe Corp."
+		"symbol": "NRE",
+		"description": "NorthStar Realty Europe Corp."
 	},
 	{
-		"Symbol": "NRG",
-		"Description": "NRG Energy, Inc."
+		"symbol": "NRG",
+		"description": "NRG Energy, Inc."
 	},
 	{
-		"Symbol": "NRIM",
-		"Description": "Northrim Bancorp Inc"
+		"symbol": "NRIM",
+		"description": "Northrim Bancorp Inc"
 	},
 	{
-		"Symbol": "NRK",
-		"Description": "Nuveen New York AMT-Free Quality Municipal"
+		"symbol": "NRK",
+		"description": "Nuveen New York AMT-Free Quality Municipal"
 	},
 	{
-		"Symbol": "NRO",
-		"Description": "Neuberger Berman Real Estate Securities Income Fund, Inc."
+		"symbol": "NRO",
+		"description": "Neuberger Berman Real Estate Securities Income Fund, Inc."
 	},
 	{
-		"Symbol": "NRP",
-		"Description": "Natural Resource Partners LP"
+		"symbol": "NRP",
+		"description": "Natural Resource Partners LP"
 	},
 	{
-		"Symbol": "NRT",
-		"Description": "North European Oil Royality Trust"
+		"symbol": "NRT",
+		"description": "North European Oil Royality Trust"
 	},
 	{
-		"Symbol": "NRZ",
-		"Description": "New Residential Investment Corp."
+		"symbol": "NRZ",
+		"description": "New Residential Investment Corp."
 	},
 	{
-		"Symbol": "NS",
-		"Description": "Nustar Energy L.P."
+		"symbol": "NS",
+		"description": "Nustar Energy L.P."
 	},
 	{
-		"Symbol": "NS^A",
-		"Description": "Nustar Energy L.P."
+		"symbol": "NS^A",
+		"description": "Nustar Energy L.P."
 	},
 	{
-		"Symbol": "NSA",
-		"Description": "National Storage Affiliates Trust"
+		"symbol": "NSA",
+		"description": "National Storage Affiliates Trust"
 	},
 	{
-		"Symbol": "NSAT",
-		"Description": "Norsat International Inc."
+		"symbol": "NSAT",
+		"description": "Norsat International Inc."
 	},
 	{
-		"Symbol": "NSC",
-		"Description": "Norfolk Souther Corporation"
+		"symbol": "NSC",
+		"description": "Norfolk Souther Corporation"
 	},
 	{
-		"Symbol": "NSEC",
-		"Description": "Natl Security Gp I"
+		"symbol": "NSEC",
+		"description": "Natl Security Gp I"
 	},
 	{
-		"Symbol": "NSH",
-		"Description": "Nustar GP Holdings, LLC"
+		"symbol": "NSH",
+		"description": "Nustar GP Holdings, LLC"
 	},
 	{
-		"Symbol": "NSIT",
-		"Description": "Insight Enterpr"
+		"symbol": "NSIT",
+		"description": "Insight Enterpr"
 	},
 	{
-		"Symbol": "NSL",
-		"Description": "Nuveen Senior Income Fund"
+		"symbol": "NSL",
+		"description": "Nuveen Senior Income Fund"
 	},
 	{
-		"Symbol": "NSM",
-		"Description": "Nationstar Mortgage Holdings Inc."
+		"symbol": "NSM",
+		"description": "Nationstar Mortgage Holdings Inc."
 	},
 	{
-		"Symbol": "NSP",
-		"Description": "Insperity, Inc."
+		"symbol": "NSP",
+		"description": "Insperity, Inc."
 	},
 	{
-		"Symbol": "NSPR",
-		"Description": "InspireMD, Inc."
+		"symbol": "NSPR",
+		"description": "InspireMD, Inc."
 	},
 	{
-		"Symbol": "NSPR.WS",
-		"Description": "InspireMD, Inc."
+		"symbol": "NSPR.WS",
+		"description": "InspireMD, Inc."
 	},
 	{
-		"Symbol": "NSR",
-		"Description": "Neustar, Inc."
+		"symbol": "NSR",
+		"description": "Neustar, Inc."
 	},
 	{
-		"Symbol": "NSS",
-		"Description": "NuStar Logistics, L.P."
+		"symbol": "NSS",
+		"description": "NuStar Logistics, L.P."
 	},
 	{
-		"Symbol": "NSSC",
-		"Description": "Napco Sec Tech Inc"
+		"symbol": "NSSC",
+		"description": "Napco Sec Tech Inc"
 	},
 	{
-		"Symbol": "NSTG",
-		"Description": "Nanostring Tech Cmn"
+		"symbol": "NSTG",
+		"description": "Nanostring Tech Cmn"
 	},
 	{
-		"Symbol": "NSU",
-		"Description": "Nevsun Resources Ltd"
+		"symbol": "NSU",
+		"description": "Nevsun Resources Ltd"
 	},
 	{
-		"Symbol": "NSYS",
-		"Description": "Nortech Systems In"
+		"symbol": "NSYS",
+		"description": "Nortech Systems In"
 	},
 	{
-		"Symbol": "NTAP",
-		"Description": "Netapp Inc"
+		"symbol": "NTAP",
+		"description": "Netapp Inc"
 	},
 	{
-		"Symbol": "NTB",
-		"Description": "Bank of N.T. Butterfield & Son Limited "
+		"symbol": "NTB",
+		"description": "Bank of N.T. Butterfield & Son Limited "
 	},
 	{
-		"Symbol": "NTC",
-		"Description": "Nuveen Connecticut Quality Municipal Income Fund"
+		"symbol": "NTC",
+		"description": "Nuveen Connecticut Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NTCT",
-		"Description": "Netscout Systems I"
+		"symbol": "NTCT",
+		"description": "Netscout Systems I"
 	},
 	{
-		"Symbol": "NTEC",
-		"Description": "Intec Pharma Ord Shr"
+		"symbol": "NTEC",
+		"description": "Intec Pharma Ord Shr"
 	},
 	{
-		"Symbol": "NTES",
-		"Description": "Netease Inc Ads"
+		"symbol": "NTES",
+		"description": "Netease Inc Ads"
 	},
 	{
-		"Symbol": "NTEST",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "NTEST",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "NTEST.A",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "NTEST.A",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "NTEST.B",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "NTEST.B",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "NTEST.C",
-		"Description": "NASDAQ TEST STOCK"
+		"symbol": "NTEST.C",
+		"description": "NASDAQ TEST STOCK"
 	},
 	{
-		"Symbol": "NTG",
-		"Description": "Tortoise MLP Fund, Inc."
+		"symbol": "NTG",
+		"description": "Tortoise MLP Fund, Inc."
 	},
 	{
-		"Symbol": "NTGR",
-		"Description": "Netgear Inc"
+		"symbol": "NTGR",
+		"description": "Netgear Inc"
 	},
 	{
-		"Symbol": "NTIC",
-		"Description": "Northern Tech Inc"
+		"symbol": "NTIC",
+		"description": "Northern Tech Inc"
 	},
 	{
-		"Symbol": "NTIP",
-		"Description": "Network-1 Technologies, Inc."
+		"symbol": "NTIP",
+		"description": "Network-1 Technologies, Inc."
 	},
 	{
-		"Symbol": "NTL",
-		"Description": "Nortel Inversora SA"
+		"symbol": "NTL",
+		"description": "Nortel Inversora SA"
 	},
 	{
-		"Symbol": "NTLA",
-		"Description": "Intellia Thera CS"
+		"symbol": "NTLA",
+		"description": "Intellia Thera CS"
 	},
 	{
-		"Symbol": "NTN",
-		"Description": "NTN Buzztime, Inc."
+		"symbol": "NTN",
+		"description": "NTN Buzztime, Inc."
 	},
 	{
-		"Symbol": "NTNX",
-		"Description": "Nutanix Inc"
+		"symbol": "NTNX",
+		"description": "Nutanix Inc"
 	},
 	{
-		"Symbol": "NTP",
-		"Description": "Nam Tai Property Inc."
+		"symbol": "NTP",
+		"description": "Nam Tai Property Inc."
 	},
 	{
-		"Symbol": "NTRA",
-		"Description": "Natera Inc Common ST"
+		"symbol": "NTRA",
+		"description": "Natera Inc Common ST"
 	},
 	{
-		"Symbol": "NTRI",
-		"Description": "Nutrisystem Inc"
+		"symbol": "NTRI",
+		"description": "Nutrisystem Inc"
 	},
 	{
-		"Symbol": "NTRS",
-		"Description": "Northern Trust Corp"
+		"symbol": "NTRS",
+		"description": "Northern Trust Corp"
 	},
 	{
-		"Symbol": "NTRSP",
-		"Description": "Northern TR Dep Shs"
+		"symbol": "NTRSP",
+		"description": "Northern TR Dep Shs"
 	},
 	{
-		"Symbol": "NTT",
-		"Description": "Nippon Telegraph and Telephone Corporation"
+		"symbol": "NTT",
+		"description": "Nippon Telegraph and Telephone Corporation"
 	},
 	{
-		"Symbol": "NTWK",
-		"Description": "Netsol Tech Inc"
+		"symbol": "NTWK",
+		"description": "Netsol Tech Inc"
 	},
 	{
-		"Symbol": "NTX",
-		"Description": "Nuveen Texas Quality Municipal Income Fund"
+		"symbol": "NTX",
+		"description": "Nuveen Texas Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NTZ",
-		"Description": "Natuzzi, S.p.A."
+		"symbol": "NTZ",
+		"description": "Natuzzi, S.p.A."
 	},
 	{
-		"Symbol": "NUAN",
-		"Description": "Nuance Communicatns"
+		"symbol": "NUAN",
+		"description": "Nuance Communicatns"
 	},
 	{
-		"Symbol": "NUE",
-		"Description": "Nucor Corporation"
+		"symbol": "NUE",
+		"description": "Nucor Corporation"
 	},
 	{
-		"Symbol": "NUM",
-		"Description": "Nuveen Michigan Quality Municipal Income Fund"
+		"symbol": "NUM",
+		"description": "Nuveen Michigan Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NUO",
-		"Description": "Nuveen Ohio Quality Municipal Income Fund"
+		"symbol": "NUO",
+		"description": "Nuveen Ohio Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NURO",
-		"Description": "Neurometrix Inc"
+		"symbol": "NURO",
+		"description": "Neurometrix Inc"
 	},
 	{
-		"Symbol": "NUROW",
-		"Description": "Neurometrix Inc Wt"
+		"symbol": "NUROW",
+		"description": "Neurometrix Inc Wt"
 	},
 	{
-		"Symbol": "NUS",
-		"Description": "Nu Skin Enterprises, Inc."
+		"symbol": "NUS",
+		"description": "Nu Skin Enterprises, Inc."
 	},
 	{
-		"Symbol": "NUTR",
-		"Description": "Nutraceutical Intl"
+		"symbol": "NUTR",
+		"description": "Nutraceutical Intl"
 	},
 	{
-		"Symbol": "NUV",
-		"Description": "Nuveen AMT-Free Municipal Value Fund"
+		"symbol": "NUV",
+		"description": "Nuveen AMT-Free Municipal Value Fund"
 	},
 	{
-		"Symbol": "NUVA",
-		"Description": "Nuvasive Inc"
+		"symbol": "NUVA",
+		"description": "Nuvasive Inc"
 	},
 	{
-		"Symbol": "NUW",
-		"Description": "Nuveen AMT-Free Municipal Value Fund"
+		"symbol": "NUW",
+		"description": "Nuveen AMT-Free Municipal Value Fund"
 	},
 	{
-		"Symbol": "NVAX",
-		"Description": "Novavax Inc"
+		"symbol": "NVAX",
+		"description": "Novavax Inc"
 	},
 	{
-		"Symbol": "NVCN",
-		"Description": "Neovasc Inc"
+		"symbol": "NVCN",
+		"description": "Neovasc Inc"
 	},
 	{
-		"Symbol": "NVCR",
-		"Description": "Novocure Ltd Ord Sh"
+		"symbol": "NVCR",
+		"description": "Novocure Ltd Ord Sh"
 	},
 	{
-		"Symbol": "NVDA",
-		"Description": "Nvidia Corporation"
+		"symbol": "NVDA",
+		"description": "Nvidia Corporation"
 	},
 	{
-		"Symbol": "NVDQ",
-		"Description": "Novadaq Technologies"
+		"symbol": "NVDQ",
+		"description": "Novadaq Technologies"
 	},
 	{
-		"Symbol": "NVEC",
-		"Description": "Nve Corp"
+		"symbol": "NVEC",
+		"description": "Nve Corp"
 	},
 	{
-		"Symbol": "NVEE",
-		"Description": "Nv5 Global Cmn"
+		"symbol": "NVEE",
+		"description": "Nv5 Global Cmn"
 	},
 	{
-		"Symbol": "NVET",
-		"Description": "Nexvet Biopharma Ord"
+		"symbol": "NVET",
+		"description": "Nexvet Biopharma Ord"
 	},
 	{
-		"Symbol": "NVFY",
-		"Description": "Nova Lifestyle Inc"
+		"symbol": "NVFY",
+		"description": "Nova Lifestyle Inc"
 	},
 	{
-		"Symbol": "NVG",
-		"Description": "Nuveen AMT-Free Municipal Credit Income Fund"
+		"symbol": "NVG",
+		"description": "Nuveen AMT-Free Municipal Credit Income Fund"
 	},
 	{
-		"Symbol": "NVGN",
-		"Description": "Novogen Ltd Ads"
+		"symbol": "NVGN",
+		"description": "Novogen Ltd Ads"
 	},
 	{
-		"Symbol": "NVGS",
-		"Description": "Navigator Holdings Ltd."
+		"symbol": "NVGS",
+		"description": "Navigator Holdings Ltd."
 	},
 	{
-		"Symbol": "NVIV",
-		"Description": "Invivo Theraptc Cmn"
+		"symbol": "NVIV",
+		"description": "Invivo Theraptc Cmn"
 	},
 	{
-		"Symbol": "NVLN",
-		"Description": "Novelion Therapeutics Inc."
+		"symbol": "NVLN",
+		"description": "Novelion Therapeutics Inc."
 	},
 	{
-		"Symbol": "NVLS",
-		"Description": "Nivalis Thera Cmn ST"
+		"symbol": "NVLS",
+		"description": "Nivalis Thera Cmn ST"
 	},
 	{
-		"Symbol": "NVMI",
-		"Description": "Nova Measuring Instr"
+		"symbol": "NVMI",
+		"description": "Nova Measuring Instr"
 	},
 	{
-		"Symbol": "NVO",
-		"Description": "Novo Nordisk A/S"
+		"symbol": "NVO",
+		"description": "Novo Nordisk A/S"
 	},
 	{
-		"Symbol": "NVR",
-		"Description": "NVR, Inc."
+		"symbol": "NVR",
+		"description": "NVR, Inc."
 	},
 	{
-		"Symbol": "NVRO",
-		"Description": "Nevro Corp."
+		"symbol": "NVRO",
+		"description": "Nevro Corp."
 	},
 	{
-		"Symbol": "NVS",
-		"Description": "Novartis AG"
+		"symbol": "NVS",
+		"description": "Novartis AG"
 	},
 	{
-		"Symbol": "NVTA",
-		"Description": "Invitae Corporation"
+		"symbol": "NVTA",
+		"description": "Invitae Corporation"
 	},
 	{
-		"Symbol": "NVTR",
-		"Description": "Nuvectra Corp Cmn ST"
+		"symbol": "NVTR",
+		"description": "Nuvectra Corp Cmn ST"
 	},
 	{
-		"Symbol": "NW^C",
-		"Description": "Natl Westminster Pfd"
+		"symbol": "NW^C",
+		"description": "Natl Westminster Pfd"
 	},
 	{
-		"Symbol": "NWBI",
-		"Description": "Northwest Bancshares"
+		"symbol": "NWBI",
+		"description": "Northwest Bancshares"
 	},
 	{
-		"Symbol": "NWE",
-		"Description": "NorthWestern Corporation"
+		"symbol": "NWE",
+		"description": "NorthWestern Corporation"
 	},
 	{
-		"Symbol": "NWFL",
-		"Description": "Norwood Financial Cp"
+		"symbol": "NWFL",
+		"description": "Norwood Financial Cp"
 	},
 	{
-		"Symbol": "NWHM",
-		"Description": "New Home Company Inc. "
+		"symbol": "NWHM",
+		"description": "New Home Company Inc. "
 	},
 	{
-		"Symbol": "NWL",
-		"Description": "Newell Brands Inc."
+		"symbol": "NWL",
+		"description": "Newell Brands Inc."
 	},
 	{
-		"Symbol": "NWLI",
-		"Description": "Natl Wstrn Life Gp A"
+		"symbol": "NWLI",
+		"description": "Natl Wstrn Life Gp A"
 	},
 	{
-		"Symbol": "NWN",
-		"Description": "Northwest Natural Gas Company"
+		"symbol": "NWN",
+		"description": "Northwest Natural Gas Company"
 	},
 	{
-		"Symbol": "NWPX",
-		"Description": "Northwest Pipe Co"
+		"symbol": "NWPX",
+		"description": "Northwest Pipe Co"
 	},
 	{
-		"Symbol": "NWS",
-		"Description": "News Cp Cl B Cmn ST"
+		"symbol": "NWS",
+		"description": "News Cp Cl B Cmn ST"
 	},
 	{
-		"Symbol": "NWSA",
-		"Description": "News Cp Cl A Cmn ST"
+		"symbol": "NWSA",
+		"description": "News Cp Cl A Cmn ST"
 	},
 	{
-		"Symbol": "NWY",
-		"Description": "New York & Company, Inc."
+		"symbol": "NWY",
+		"description": "New York & Company, Inc."
 	},
 	{
-		"Symbol": "NX",
-		"Description": "Quanex Building Products Corporation"
+		"symbol": "NX",
+		"description": "Quanex Building Products Corporation"
 	},
 	{
-		"Symbol": "NXC",
-		"Description": "Nuveen Insured California Select Tax-Free Income Portfolio"
+		"symbol": "NXC",
+		"description": "Nuveen Insured California Select Tax-Free Income Portfolio"
 	},
 	{
-		"Symbol": "NXEO",
-		"Description": "Nexeo Solutions Inc"
+		"symbol": "NXEO",
+		"description": "Nexeo Solutions Inc"
 	},
 	{
-		"Symbol": "NXEOU",
-		"Description": "Nexeo Solutions Inc"
+		"symbol": "NXEOU",
+		"description": "Nexeo Solutions Inc"
 	},
 	{
-		"Symbol": "NXEOW",
-		"Description": "Nexeo Solutions Inc"
+		"symbol": "NXEOW",
+		"description": "Nexeo Solutions Inc"
 	},
 	{
-		"Symbol": "NXJ",
-		"Description": "Nuveen New Jersey Quality Municipal Income Fund"
+		"symbol": "NXJ",
+		"description": "Nuveen New Jersey Quality Municipal Income Fund"
 	},
 	{
-		"Symbol": "NXN",
-		"Description": "Nuveen Insured New York Select Tax-Free Income Portfolio"
+		"symbol": "NXN",
+		"description": "Nuveen Insured New York Select Tax-Free Income Portfolio"
 	},
 	{
-		"Symbol": "NXP",
-		"Description": "Nuveen Select Tax Free Income Portfolio"
+		"symbol": "NXP",
+		"description": "Nuveen Select Tax Free Income Portfolio"
 	},
 	{
-		"Symbol": "NXPI",
-		"Description": "Nxp Semiconductors"
+		"symbol": "NXPI",
+		"description": "Nxp Semiconductors"
 	},
 	{
-		"Symbol": "NXQ",
-		"Description": "Nuveen Select Tax Free Income Portfolio II"
+		"symbol": "NXQ",
+		"description": "Nuveen Select Tax Free Income Portfolio II"
 	},
 	{
-		"Symbol": "NXR",
-		"Description": "Nuveen Select Tax Free Income Portfolio III"
+		"symbol": "NXR",
+		"description": "Nuveen Select Tax Free Income Portfolio III"
 	},
 	{
-		"Symbol": "NXRT",
-		"Description": "NexPoint Residential Trust, Inc."
+		"symbol": "NXRT",
+		"description": "NexPoint Residential Trust, Inc."
 	},
 	{
-		"Symbol": "NXST",
-		"Description": "Nexstar Broadcasting"
+		"symbol": "NXST",
+		"description": "Nexstar Broadcasting"
 	},
 	{
-		"Symbol": "NXTD",
-		"Description": "Nxt-Id Inc Cmn Stk"
+		"symbol": "NXTD",
+		"description": "Nxt-Id Inc Cmn Stk"
 	},
 	{
-		"Symbol": "NXTDW",
-		"Description": "Nxt-Id Inc Warrant"
+		"symbol": "NXTDW",
+		"description": "Nxt-Id Inc Warrant"
 	},
 	{
-		"Symbol": "NXTM",
-		"Description": "Nxstage Medical Inc"
+		"symbol": "NXTM",
+		"description": "Nxstage Medical Inc"
 	},
 	{
-		"Symbol": "NYCB",
-		"Description": "New York Community Bancorp, Inc."
+		"symbol": "NYCB",
+		"description": "New York Community Bancorp, Inc."
 	},
 	{
-		"Symbol": "NYCB^U",
-		"Description": "New York Community Bancorp, Inc."
+		"symbol": "NYCB^U",
+		"description": "New York Community Bancorp, Inc."
 	},
 	{
-		"Symbol": "NYH",
-		"Description": "Eaton Vance New York Municipal Bond Fund II"
+		"symbol": "NYH",
+		"description": "Eaton Vance New York Municipal Bond Fund II"
 	},
 	{
-		"Symbol": "NYLD",
-		"Description": "NRG Yield, Inc."
+		"symbol": "NYLD",
+		"description": "NRG Yield, Inc."
 	},
 	{
-		"Symbol": "NYLD.A",
-		"Description": "NRG Yield, Inc."
+		"symbol": "NYLD.A",
+		"description": "NRG Yield, Inc."
 	},
 	{
-		"Symbol": "NYMT",
-		"Description": "New York Mtge Trust"
+		"symbol": "NYMT",
+		"description": "New York Mtge Trust"
 	},
 	{
-		"Symbol": "NYMTO",
-		"Description": "New York Mort 7.875"
+		"symbol": "NYMTO",
+		"description": "New York Mort 7.875"
 	},
 	{
-		"Symbol": "NYMTP",
-		"Description": "New York Mrtg 7.75 B"
+		"symbol": "NYMTP",
+		"description": "New York Mrtg 7.75 B"
 	},
 	{
-		"Symbol": "NYMX",
-		"Description": "Nymox Pharm Corp"
+		"symbol": "NYMX",
+		"description": "Nymox Pharm Corp"
 	},
 	{
-		"Symbol": "NYNY",
-		"Description": "Empire Resorts Inc"
+		"symbol": "NYNY",
+		"description": "Empire Resorts Inc"
 	},
 	{
-		"Symbol": "NYRT",
-		"Description": "New York REIT, Inc."
+		"symbol": "NYRT",
+		"description": "New York REIT, Inc."
 	},
 	{
-		"Symbol": "NYT",
-		"Description": "New York Times Company "
+		"symbol": "NYT",
+		"description": "New York Times Company "
 	},
 	{
-		"Symbol": "NYV",
-		"Description": "Nuveen New York Municipal Value Fund 2"
+		"symbol": "NYV",
+		"description": "Nuveen New York Municipal Value Fund 2"
 	},
 	{
-		"Symbol": "NZF",
-		"Description": "Nuveen Municipal Credit Income Fund"
+		"symbol": "NZF",
+		"description": "Nuveen Municipal Credit Income Fund"
 	},
 	{
-		"Symbol": "O",
-		"Description": "Realty Income Corporation"
+		"symbol": "O",
+		"description": "Realty Income Corporation"
 	},
 	{
-		"Symbol": "O^F",
-		"Description": "Realty Income Corporation"
+		"symbol": "O^F",
+		"description": "Realty Income Corporation"
 	},
 	{
-		"Symbol": "OA",
-		"Description": "Orbital ATK, Inc."
+		"symbol": "OA",
+		"description": "Orbital ATK, Inc."
 	},
 	{
-		"Symbol": "OACQR",
-		"Description": "Origo Acquisition Corp."
+		"symbol": "OACQR",
+		"description": "Origo Acquisition Corp."
 	},
 	{
-		"Symbol": "OACQW",
-		"Description": "Origo Acquisition Corp."
+		"symbol": "OACQW",
+		"description": "Origo Acquisition Corp."
 	},
 	{
-		"Symbol": "OAK",
-		"Description": "Oaktree Capital Group, LLC"
+		"symbol": "OAK",
+		"description": "Oaktree Capital Group, LLC"
 	},
 	{
-		"Symbol": "OAKS",
-		"Description": "Five Oaks Investment Corp."
+		"symbol": "OAKS",
+		"description": "Five Oaks Investment Corp."
 	},
 	{
-		"Symbol": "OAKS^A",
-		"Description": "Five Oaks Investment Corp."
+		"symbol": "OAKS^A",
+		"description": "Five Oaks Investment Corp."
 	},
 	{
-		"Symbol": "OAS",
-		"Description": "Oasis Petroleum Inc."
+		"symbol": "OAS",
+		"description": "Oasis Petroleum Inc."
 	},
 	{
-		"Symbol": "OASM",
-		"Description": "Oasmia Pharmaceu Ads"
+		"symbol": "OASM",
+		"description": "Oasmia Pharmaceu Ads"
 	},
 	{
-		"Symbol": "OB",
-		"Description": "OneBeacon Insurance Group, Ltd."
+		"symbol": "OB",
+		"description": "OneBeacon Insurance Group, Ltd."
 	},
 	{
-		"Symbol": "OBAS",
-		"Description": "Optibase Ltd"
+		"symbol": "OBAS",
+		"description": "Optibase Ltd"
 	},
 	{
-		"Symbol": "OBCI",
-		"Description": "Ocean Bio Chem Inc"
+		"symbol": "OBCI",
+		"description": "Ocean Bio Chem Inc"
 	},
 	{
-		"Symbol": "OBLN",
-		"Description": "Obalon Therapeutics Inc"
+		"symbol": "OBLN",
+		"description": "Obalon Therapeutics Inc"
 	},
 	{
-		"Symbol": "OBSV",
-		"Description": "Obseva Sa Ordinary Shares"
+		"symbol": "OBSV",
+		"description": "Obseva Sa Ordinary Shares"
 	},
 	{
-		"Symbol": "OC",
-		"Description": "Owens Corning Inc"
+		"symbol": "OC",
+		"description": "Owens Corning Inc"
 	},
 	{
-		"Symbol": "OCC",
-		"Description": "Optical Cable Corp"
+		"symbol": "OCC",
+		"description": "Optical Cable Corp"
 	},
 	{
-		"Symbol": "OCFC",
-		"Description": "Oceanfirst Finl Corp"
+		"symbol": "OCFC",
+		"description": "Oceanfirst Finl Corp"
 	},
 	{
-		"Symbol": "OCIP",
-		"Description": "OCI Partners LP"
+		"symbol": "OCIP",
+		"description": "OCI Partners LP"
 	},
 	{
-		"Symbol": "OCLR",
-		"Description": "Oclaro Inc"
+		"symbol": "OCLR",
+		"description": "Oclaro Inc"
 	},
 	{
-		"Symbol": "OCN",
-		"Description": "Ocwen Financial Corporation"
+		"symbol": "OCN",
+		"description": "Ocwen Financial Corporation"
 	},
 	{
-		"Symbol": "OCRX",
-		"Description": "Ocera Therapeutics"
+		"symbol": "OCRX",
+		"description": "Ocera Therapeutics"
 	},
 	{
-		"Symbol": "OCUL",
-		"Description": "Ocular Therapeut Cmn"
+		"symbol": "OCUL",
+		"description": "Ocular Therapeut Cmn"
 	},
 	{
-		"Symbol": "OCX",
-		"Description": "OncoCyte Corporation"
+		"symbol": "OCX",
+		"description": "OncoCyte Corporation"
 	},
 	{
-		"Symbol": "ODC",
-		"Description": "Oil-Dri Corporation Of America"
+		"symbol": "ODC",
+		"description": "Oil-Dri Corporation Of America"
 	},
 	{
-		"Symbol": "ODFL",
-		"Description": "Old Dominion Freig"
+		"symbol": "ODFL",
+		"description": "Old Dominion Freig"
 	},
 	{
-		"Symbol": "ODP",
-		"Description": "Office Depot Cmn"
+		"symbol": "ODP",
+		"description": "Office Depot Cmn"
 	},
 	{
-		"Symbol": "OEC",
-		"Description": "Orion Engineered Carbons S.A"
+		"symbol": "OEC",
+		"description": "Orion Engineered Carbons S.A"
 	},
 	{
-		"Symbol": "OESX",
-		"Description": "Orion Energy Syst Cmn"
+		"symbol": "OESX",
+		"description": "Orion Energy Syst Cmn"
 	},
 	{
-		"Symbol": "OFC",
-		"Description": "Corporate Office Properties Trust"
+		"symbol": "OFC",
+		"description": "Corporate Office Properties Trust"
 	},
 	{
-		"Symbol": "OFC^L",
-		"Description": "Corporate Office Properties Trust"
+		"symbol": "OFC^L",
+		"description": "Corporate Office Properties Trust"
 	},
 	{
-		"Symbol": "OFED",
-		"Description": "Oconee Fed Fin Corp"
+		"symbol": "OFED",
+		"description": "Oconee Fed Fin Corp"
 	},
 	{
-		"Symbol": "OFG",
-		"Description": "OFG Bancorp"
+		"symbol": "OFG",
+		"description": "OFG Bancorp"
 	},
 	{
-		"Symbol": "OFG^A",
-		"Description": "OFG Bancorp"
+		"symbol": "OFG^A",
+		"description": "OFG Bancorp"
 	},
 	{
-		"Symbol": "OFG^B",
-		"Description": "OFG Bancorp"
+		"symbol": "OFG^B",
+		"description": "OFG Bancorp"
 	},
 	{
-		"Symbol": "OFG^D",
-		"Description": "OFG Bancorp"
+		"symbol": "OFG^D",
+		"description": "OFG Bancorp"
 	},
 	{
-		"Symbol": "OFIX",
-		"Description": "Orthofix Intl Nv"
+		"symbol": "OFIX",
+		"description": "Orthofix Intl Nv"
 	},
 	{
-		"Symbol": "OFLX",
-		"Description": "Omega Flex Inc"
+		"symbol": "OFLX",
+		"description": "Omega Flex Inc"
 	},
 	{
-		"Symbol": "OFS",
-		"Description": "Ofs Capital Corporat"
+		"symbol": "OFS",
+		"description": "Ofs Capital Corporat"
 	},
 	{
-		"Symbol": "OGE",
-		"Description": "OGE Energy Corporation"
+		"symbol": "OGE",
+		"description": "OGE Energy Corporation"
 	},
 	{
-		"Symbol": "OGEN",
-		"Description": "Oragenics, Inc."
+		"symbol": "OGEN",
+		"description": "Oragenics, Inc."
 	},
 	{
-		"Symbol": "OGS",
-		"Description": "ONE Gas, Inc."
+		"symbol": "OGS",
+		"description": "ONE Gas, Inc."
 	},
 	{
-		"Symbol": "OGXI",
-		"Description": "Oncogenex Pharma"
+		"symbol": "OGXI",
+		"description": "Oncogenex Pharma"
 	},
 	{
-		"Symbol": "OHAI",
-		"Description": "Oha Investmnt Cp Cmn"
+		"symbol": "OHAI",
+		"description": "Oha Investmnt Cp Cmn"
 	},
 	{
-		"Symbol": "OHGI",
-		"Description": "One Horizon Grp Cmn"
+		"symbol": "OHGI",
+		"description": "One Horizon Grp Cmn"
 	},
 	{
-		"Symbol": "OHI",
-		"Description": "Omega Healthcare Investors, Inc."
+		"symbol": "OHI",
+		"description": "Omega Healthcare Investors, Inc."
 	},
 	{
-		"Symbol": "OHRP",
-		"Description": "Ohr Pharmceutial Cmn"
+		"symbol": "OHRP",
+		"description": "Ohr Pharmceutial Cmn"
 	},
 	{
-		"Symbol": "OI",
-		"Description": "Owens-Illinois, Inc."
+		"symbol": "OI",
+		"description": "Owens-Illinois, Inc."
 	},
 	{
-		"Symbol": "OIA",
-		"Description": "Invesco Municipal Income Opportunities Trust"
+		"symbol": "OIA",
+		"description": "Invesco Municipal Income Opportunities Trust"
 	},
 	{
-		"Symbol": "OIBR.C",
-		"Description": "Oi S.A."
+		"symbol": "OIBR.C",
+		"description": "Oi S.A."
 	},
 	{
-		"Symbol": "OII",
-		"Description": "Oceaneering International, Inc."
+		"symbol": "OII",
+		"description": "Oceaneering International, Inc."
 	},
 	{
-		"Symbol": "OIIM",
-		"Description": "O2Micro Intl Ltd"
+		"symbol": "OIIM",
+		"description": "O2Micro Intl Ltd"
 	},
 	{
-		"Symbol": "OIS",
-		"Description": "Oil States International, Inc."
+		"symbol": "OIS",
+		"description": "Oil States International, Inc."
 	},
 	{
-		"Symbol": "OKE",
-		"Description": "ONEOK, Inc."
+		"symbol": "OKE",
+		"description": "ONEOK, Inc."
 	},
 	{
-		"Symbol": "OKS",
-		"Description": "ONEOK Partners, L.P."
+		"symbol": "OKS",
+		"description": "ONEOK Partners, L.P."
 	},
 	{
-		"Symbol": "OKSB",
-		"Description": "Southwest Bncp Inc"
+		"symbol": "OKSB",
+		"description": "Southwest Bncp Inc"
 	},
 	{
-		"Symbol": "OLBK",
-		"Description": "Old Line Bancshs MD"
+		"symbol": "OLBK",
+		"description": "Old Line Bancshs MD"
 	},
 	{
-		"Symbol": "OLD",
-		"Description": " Long-Term Care ETF"
+		"symbol": "OLD",
+		"description": " Long-Term Care ETF"
 	},
 	{
-		"Symbol": "OLED",
-		"Description": "Universal Display"
+		"symbol": "OLED",
+		"description": "Universal Display"
 	},
 	{
-		"Symbol": "OLLI",
-		"Description": "Ollies Bargain CS"
+		"symbol": "OLLI",
+		"description": "Ollies Bargain CS"
 	},
 	{
-		"Symbol": "OLN",
-		"Description": "Olin Corporation"
+		"symbol": "OLN",
+		"description": "Olin Corporation"
 	},
 	{
-		"Symbol": "OLP",
-		"Description": "One Liberty Properties, Inc."
+		"symbol": "OLP",
+		"description": "One Liberty Properties, Inc."
 	},
 	{
-		"Symbol": "OMAA",
-		"Description": "OM Asset Management plc"
+		"symbol": "OMAA",
+		"description": "OM Asset Management plc"
 	},
 	{
-		"Symbol": "OMAB",
-		"Description": "Grupo Aeroportuario"
+		"symbol": "OMAB",
+		"description": "Grupo Aeroportuario"
 	},
 	{
-		"Symbol": "OMAM",
-		"Description": "OM Asset Management plc"
+		"symbol": "OMAM",
+		"description": "OM Asset Management plc"
 	},
 	{
-		"Symbol": "OMC",
-		"Description": "Omnicom Group Inc."
+		"symbol": "OMC",
+		"description": "Omnicom Group Inc."
 	},
 	{
-		"Symbol": "OMCL",
-		"Description": "Omnicell Inc"
+		"symbol": "OMCL",
+		"description": "Omnicell Inc"
 	},
 	{
-		"Symbol": "OME",
-		"Description": "Omega Protein Corporation"
+		"symbol": "OME",
+		"description": "Omega Protein Corporation"
 	},
 	{
-		"Symbol": "OMED",
-		"Description": "Oncomed Pharma"
+		"symbol": "OMED",
+		"description": "Oncomed Pharma"
 	},
 	{
-		"Symbol": "OMER",
-		"Description": "Omeros Corporation"
+		"symbol": "OMER",
+		"description": "Omeros Corporation"
 	},
 	{
-		"Symbol": "OMEX",
-		"Description": "Odyssey Marine Expl"
+		"symbol": "OMEX",
+		"description": "Odyssey Marine Expl"
 	},
 	{
-		"Symbol": "OMF",
-		"Description": "OneMain Holdings, Inc."
+		"symbol": "OMF",
+		"description": "OneMain Holdings, Inc."
 	},
 	{
-		"Symbol": "OMI",
-		"Description": "Owens & Minor, Inc."
+		"symbol": "OMI",
+		"description": "Owens & Minor, Inc."
 	},
 	{
-		"Symbol": "OMN",
-		"Description": "OMNOVA Solutions Inc."
+		"symbol": "OMN",
+		"description": "OMNOVA Solutions Inc."
 	},
 	{
-		"Symbol": "ON",
-		"Description": "On Semiconductor"
+		"symbol": "ON",
+		"description": "On Semiconductor"
 	},
 	{
-		"Symbol": "ONB",
-		"Description": "Old National Bncp Cmn"
+		"symbol": "ONB",
+		"description": "Old National Bncp Cmn"
 	},
 	{
-		"Symbol": "ONCE",
-		"Description": "Spark Therap Cmn"
+		"symbol": "ONCE",
+		"description": "Spark Therap Cmn"
 	},
 	{
-		"Symbol": "ONCS",
-		"Description": "Oncosec Medical Cmn"
+		"symbol": "ONCS",
+		"description": "Oncosec Medical Cmn"
 	},
 	{
-		"Symbol": "ONDK",
-		"Description": "On Deck Capital, Inc."
+		"symbol": "ONDK",
+		"description": "On Deck Capital, Inc."
 	},
 	{
-		"Symbol": "ONEQ",
-		"Description": "Nasdaq Comp Ndx Fund"
+		"symbol": "ONEQ",
+		"description": "Nasdaq Comp Ndx Fund"
 	},
 	{
-		"Symbol": "ONP",
-		"Description": "Orient Paper, Inc."
+		"symbol": "ONP",
+		"description": "Orient Paper, Inc."
 	},
 	{
-		"Symbol": "ONS",
-		"Description": "Oncobiologics Inc"
+		"symbol": "ONS",
+		"description": "Oncobiologics Inc"
 	},
 	{
-		"Symbol": "ONSIW",
-		"Description": "Oncobiologics Inc"
+		"symbol": "ONSIW",
+		"description": "Oncobiologics Inc"
 	},
 	{
-		"Symbol": "ONSIZ",
-		"Description": "Oncobiologics Inc"
+		"symbol": "ONSIZ",
+		"description": "Oncobiologics Inc"
 	},
 	{
-		"Symbol": "ONTX",
-		"Description": "Onconova Therapeutic"
+		"symbol": "ONTX",
+		"description": "Onconova Therapeutic"
 	},
 	{
-		"Symbol": "ONTXW",
-		"Description": "Onconova Therapeutics Inc"
+		"symbol": "ONTXW",
+		"description": "Onconova Therapeutics Inc"
 	},
 	{
-		"Symbol": "ONVI",
-		"Description": "Onvia Inc"
+		"symbol": "ONVI",
+		"description": "Onvia Inc"
 	},
 	{
-		"Symbol": "ONVO",
-		"Description": "Organovo Holdings"
+		"symbol": "ONVO",
+		"description": "Organovo Holdings"
 	},
 	{
-		"Symbol": "OOMA",
-		"Description": "Ooma, Inc."
+		"symbol": "OOMA",
+		"description": "Ooma, Inc."
 	},
 	{
-		"Symbol": "OPB",
-		"Description": "Opus Bank Cmn Stk"
+		"symbol": "OPB",
+		"description": "Opus Bank Cmn Stk"
 	},
 	{
-		"Symbol": "OPGN",
-		"Description": "Opgen Inc Cmn Stk"
+		"symbol": "OPGN",
+		"description": "Opgen Inc Cmn Stk"
 	},
 	{
-		"Symbol": "OPGNW",
-		"Description": "Opgen Inc Warrant"
+		"symbol": "OPGNW",
+		"description": "Opgen Inc Warrant"
 	},
 	{
-		"Symbol": "OPHC",
-		"Description": "Optimumbank Hldgs"
+		"symbol": "OPHC",
+		"description": "Optimumbank Hldgs"
 	},
 	{
-		"Symbol": "OPHT",
-		"Description": "Ophthotech Corp Cmn"
+		"symbol": "OPHT",
+		"description": "Ophthotech Corp Cmn"
 	},
 	{
-		"Symbol": "OPK",
-		"Description": "Opko Health Inc"
+		"symbol": "OPK",
+		"description": "Opko Health Inc"
 	},
 	{
-		"Symbol": "OPOF",
-		"Description": "Old Point Finl Cp"
+		"symbol": "OPOF",
+		"description": "Old Point Finl Cp"
 	},
 	{
-		"Symbol": "OPP",
-		"Description": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
+		"symbol": "OPP",
+		"description": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
 	},
 	{
-		"Symbol": "OPTT",
-		"Description": "Ocean Power Tech Inc"
+		"symbol": "OPTT",
+		"description": "Ocean Power Tech Inc"
 	},
 	{
-		"Symbol": "OPXA",
-		"Description": "Opexa Therapeutics"
+		"symbol": "OPXA",
+		"description": "Opexa Therapeutics"
 	},
 	{
-		"Symbol": "OPXAW",
-		"Description": "Opexa Therap Warrant"
+		"symbol": "OPXAW",
+		"description": "Opexa Therap Warrant"
 	},
 	{
-		"Symbol": "OPY",
-		"Description": "Oppenheimer Holdings, Inc."
+		"symbol": "OPY",
+		"description": "Oppenheimer Holdings, Inc."
 	},
 	{
-		"Symbol": "OR",
-		"Description": "Osisko Gold Royalties Ltd"
+		"symbol": "OR",
+		"description": "Osisko Gold Royalties Ltd"
 	},
 	{
-		"Symbol": "ORA",
-		"Description": "Ormat Technologies, Inc."
+		"symbol": "ORA",
+		"description": "Ormat Technologies, Inc."
 	},
 	{
-		"Symbol": "ORAN",
-		"Description": "Orange"
+		"symbol": "ORAN",
+		"description": "Orange"
 	},
 	{
-		"Symbol": "ORBC",
-		"Description": "Orbcomm Inc"
+		"symbol": "ORBC",
+		"description": "Orbcomm Inc"
 	},
 	{
-		"Symbol": "ORBK",
-		"Description": "Orbotech Ltd"
+		"symbol": "ORBK",
+		"description": "Orbotech Ltd"
 	},
 	{
-		"Symbol": "ORC",
-		"Description": "Orchid Island Capital, Inc."
+		"symbol": "ORC",
+		"description": "Orchid Island Capital, Inc."
 	},
 	{
-		"Symbol": "ORCL",
-		"Description": "Oracle Corporation"
+		"symbol": "ORCL",
+		"description": "Oracle Corporation"
 	},
 	{
-		"Symbol": "OREX",
-		"Description": "Orexigen Therapeutic"
+		"symbol": "OREX",
+		"description": "Orexigen Therapeutic"
 	},
 	{
-		"Symbol": "ORG",
-		"Description": " Organics ETF"
+		"symbol": "ORG",
+		"description": " Organics ETF"
 	},
 	{
-		"Symbol": "ORI",
-		"Description": "Old Republic International Corporation"
+		"symbol": "ORI",
+		"description": "Old Republic International Corporation"
 	},
 	{
-		"Symbol": "ORIG",
-		"Description": "Ocean Rig Udw Inc"
+		"symbol": "ORIG",
+		"description": "Ocean Rig Udw Inc"
 	},
 	{
-		"Symbol": "ORIT",
-		"Description": "Oritani Financial"
+		"symbol": "ORIT",
+		"description": "Oritani Financial"
 	},
 	{
-		"Symbol": "ORLY",
-		"Description": "O'Reilly Automotive"
+		"symbol": "ORLY",
+		"description": "O'Reilly Automotive"
 	},
 	{
-		"Symbol": "ORM",
-		"Description": "Owens Realty Mortgage, Inc."
+		"symbol": "ORM",
+		"description": "Owens Realty Mortgage, Inc."
 	},
 	{
-		"Symbol": "ORMP",
-		"Description": "Oramed Pharma Cmn"
+		"symbol": "ORMP",
+		"description": "Oramed Pharma Cmn"
 	},
 	{
-		"Symbol": "ORN",
-		"Description": "Orion Group Holdings, Inc."
+		"symbol": "ORN",
+		"description": "Orion Group Holdings, Inc."
 	},
 	{
-		"Symbol": "ORPN",
-		"Description": "Bio Blast Pharma Ltd"
+		"symbol": "ORPN",
+		"description": "Bio Blast Pharma Ltd"
 	},
 	{
-		"Symbol": "ORRF",
-		"Description": "Orrstown Finl Svcs"
+		"symbol": "ORRF",
+		"description": "Orrstown Finl Svcs"
 	},
 	{
-		"Symbol": "OSB",
-		"Description": "Norbord Inc."
+		"symbol": "OSB",
+		"description": "Norbord Inc."
 	},
 	{
-		"Symbol": "OSBC",
-		"Description": "Old Second Bancorp"
+		"symbol": "OSBC",
+		"description": "Old Second Bancorp"
 	},
 	{
-		"Symbol": "OSBCP",
-		"Description": "Old Second Bncp"
+		"symbol": "OSBCP",
+		"description": "Old Second Bncp"
 	},
 	{
-		"Symbol": "OSG",
-		"Description": "Overseas Shipholding Group, Inc."
+		"symbol": "OSG",
+		"description": "Overseas Shipholding Group, Inc."
 	},
 	{
-		"Symbol": "OSIR",
-		"Description": "Osiris Therapeutics"
+		"symbol": "OSIR",
+		"description": "Osiris Therapeutics"
 	},
 	{
-		"Symbol": "OSIS",
-		"Description": "O S I Systems Inc"
+		"symbol": "OSIS",
+		"description": "O S I Systems Inc"
 	},
 	{
-		"Symbol": "OSK",
-		"Description": "Oshkosh Corporation"
+		"symbol": "OSK",
+		"description": "Oshkosh Corporation"
 	},
 	{
-		"Symbol": "OSM",
-		"Description": "SLM Cp NTS Srs A"
+		"symbol": "OSM",
+		"description": "SLM Cp NTS Srs A"
 	},
 	{
-		"Symbol": "OSN",
-		"Description": "Ossen Innovation Co"
+		"symbol": "OSN",
+		"description": "Ossen Innovation Co"
 	},
 	{
-		"Symbol": "OSTK",
-		"Description": "Overstock.Com Inc"
+		"symbol": "OSTK",
+		"description": "Overstock.Com Inc"
 	},
 	{
-		"Symbol": "OSUR",
-		"Description": "Orasure Tech Inc"
+		"symbol": "OSUR",
+		"description": "Orasure Tech Inc"
 	},
 	{
-		"Symbol": "OTEL",
-		"Description": "Otelco Cl A Cmn"
+		"symbol": "OTEL",
+		"description": "Otelco Cl A Cmn"
 	},
 	{
-		"Symbol": "OTEX",
-		"Description": "Open Text Cp"
+		"symbol": "OTEX",
+		"description": "Open Text Cp"
 	},
 	{
-		"Symbol": "OTIC",
-		"Description": "Otonomy Inc"
+		"symbol": "OTIC",
+		"description": "Otonomy Inc"
 	},
 	{
-		"Symbol": "OTIV",
-		"Description": "On Track Innovations"
+		"symbol": "OTIV",
+		"description": "On Track Innovations"
 	},
 	{
-		"Symbol": "OTTR",
-		"Description": "Otter Tail Corp"
+		"symbol": "OTTR",
+		"description": "Otter Tail Corp"
 	},
 	{
-		"Symbol": "OTTW",
-		"Description": "Ottawa Saving Bcp Il"
+		"symbol": "OTTW",
+		"description": "Ottawa Saving Bcp Il"
 	},
 	{
-		"Symbol": "OUT",
-		"Description": "OUTFRONT Media Inc."
+		"symbol": "OUT",
+		"description": "OUTFRONT Media Inc."
 	},
 	{
-		"Symbol": "OVAS",
-		"Description": "Ovascience Cmn Stk"
+		"symbol": "OVAS",
+		"description": "Ovascience Cmn Stk"
 	},
 	{
-		"Symbol": "OVBC",
-		"Description": "Ohio Valley Banc Cp"
+		"symbol": "OVBC",
+		"description": "Ohio Valley Banc Cp"
 	},
 	{
-		"Symbol": "OVLY",
-		"Description": "Oak Valley Bancp CA"
+		"symbol": "OVLY",
+		"description": "Oak Valley Bancp CA"
 	},
 	{
-		"Symbol": "OXBR",
-		"Description": "Oxbridge Ord Shrs"
+		"symbol": "OXBR",
+		"description": "Oxbridge Ord Shrs"
 	},
 	{
-		"Symbol": "OXBRW",
-		"Description": "Oxbridge Warrants"
+		"symbol": "OXBRW",
+		"description": "Oxbridge Warrants"
 	},
 	{
-		"Symbol": "OXFD",
-		"Description": "Oxford Immunotec"
+		"symbol": "OXFD",
+		"description": "Oxford Immunotec"
 	},
 	{
-		"Symbol": "OXLC",
-		"Description": "Oxford Lane Capital"
+		"symbol": "OXLC",
+		"description": "Oxford Lane Capital"
 	},
 	{
-		"Symbol": "OXLCN",
-		"Description": "Oxford Lane 8.125 Pf"
+		"symbol": "OXLCN",
+		"description": "Oxford Lane 8.125 Pf"
 	},
 	{
-		"Symbol": "OXLCO",
-		"Description": "Oxford Lane Cap 7.5"
+		"symbol": "OXLCO",
+		"description": "Oxford Lane Cap 7.5"
 	},
 	{
-		"Symbol": "OXM",
-		"Description": "Oxford Industries, Inc."
+		"symbol": "OXM",
+		"description": "Oxford Industries, Inc."
 	},
 	{
-		"Symbol": "OXY",
-		"Description": "Occidental Petroleum Corporation"
+		"symbol": "OXY",
+		"description": "Occidental Petroleum Corporation"
 	},
 	{
-		"Symbol": "OZM",
-		"Description": "Och-Ziff Capital Management Group LLC"
+		"symbol": "OZM",
+		"description": "Och-Ziff Capital Management Group LLC"
 	},
 	{
-		"Symbol": "OZRK",
-		"Description": "Bank of  Ozarks"
+		"symbol": "OZRK",
+		"description": "Bank of  Ozarks"
 	},
 	{
-		"Symbol": "P",
-		"Description": "Pandora Media, Inc."
+		"symbol": "P",
+		"description": "Pandora Media, Inc."
 	},
 	{
-		"Symbol": "PAA",
-		"Description": "Plains All American Pipeline, L.P."
+		"symbol": "PAA",
+		"description": "Plains All American Pipeline, L.P."
 	},
 	{
-		"Symbol": "PAAC",
-		"Description": "Pacific Spec Acq Ord"
+		"symbol": "PAAC",
+		"description": "Pacific Spec Acq Ord"
 	},
 	{
-		"Symbol": "PAACR",
-		"Description": "Pacific Spc Aq Right"
+		"symbol": "PAACR",
+		"description": "Pacific Spc Aq Right"
 	},
 	{
-		"Symbol": "PAACU",
-		"Description": "Pacific Spc Acq Unit"
+		"symbol": "PAACU",
+		"description": "Pacific Spc Acq Unit"
 	},
 	{
-		"Symbol": "PAACW",
-		"Description": "Pacific Spc Acq Wrnt"
+		"symbol": "PAACW",
+		"description": "Pacific Spc Acq Wrnt"
 	},
 	{
-		"Symbol": "PAAS",
-		"Description": "Pan Amer Silver Corp"
+		"symbol": "PAAS",
+		"description": "Pan Amer Silver Corp"
 	},
 	{
-		"Symbol": "PAC",
-		"Description": "Grupo Aeroportuario Del Pacifico, S.A. de C.V."
+		"symbol": "PAC",
+		"description": "Grupo Aeroportuario Del Pacifico, S.A. de C.V."
 	},
 	{
-		"Symbol": "PACB",
-		"Description": "Pacific Biosciences"
+		"symbol": "PACB",
+		"description": "Pacific Biosciences"
 	},
 	{
-		"Symbol": "PACD",
-		"Description": "Pacific Drilling S.A."
+		"symbol": "PACD",
+		"description": "Pacific Drilling S.A."
 	},
 	{
-		"Symbol": "PACE",
-		"Description": "Pace Hlds Cl A Ord"
+		"symbol": "PACE",
+		"description": "Pace Hlds Cl A Ord"
 	},
 	{
-		"Symbol": "PACEU",
-		"Description": "Pace Holdings Co Un"
+		"symbol": "PACEU",
+		"description": "Pace Holdings Co Un"
 	},
 	{
-		"Symbol": "PACEW",
-		"Description": "Pace Holdings Cor Wt"
+		"symbol": "PACEW",
+		"description": "Pace Holdings Cor Wt"
 	},
 	{
-		"Symbol": "PACW",
-		"Description": "Pacwest Bancorp"
+		"symbol": "PACW",
+		"description": "Pacwest Bancorp"
 	},
 	{
-		"Symbol": "PAG",
-		"Description": "Penske Automotive Group, Inc."
+		"symbol": "PAG",
+		"description": "Penske Automotive Group, Inc."
 	},
 	{
-		"Symbol": "PAGG",
-		"Description": "Powershares Global A"
+		"symbol": "PAGG",
+		"description": "Powershares Global A"
 	},
 	{
-		"Symbol": "PAGP",
-		"Description": "Plains Group Holdings, L.P."
+		"symbol": "PAGP",
+		"description": "Plains Group Holdings, L.P."
 	},
 	{
-		"Symbol": "PAH",
-		"Description": "Platform Specialty Products Corporation"
+		"symbol": "PAH",
+		"description": "Platform Specialty Products Corporation"
 	},
 	{
-		"Symbol": "PAHC",
-		"Description": "Phibro Anl Htlh A Cmn"
+		"symbol": "PAHC",
+		"description": "Phibro Anl Htlh A Cmn"
 	},
 	{
-		"Symbol": "PAI",
-		"Description": "Pacific American Income Shares, Inc."
+		"symbol": "PAI",
+		"description": "Pacific American Income Shares, Inc."
 	},
 	{
-		"Symbol": "PAM",
-		"Description": "Pampa Energia S.A."
+		"symbol": "PAM",
+		"description": "Pampa Energia S.A."
 	},
 	{
-		"Symbol": "PANL",
-		"Description": "Pangaea Logistics So"
+		"symbol": "PANL",
+		"description": "Pangaea Logistics So"
 	},
 	{
-		"Symbol": "PANW",
-		"Description": "Palo Alto Networks, Inc."
+		"symbol": "PANW",
+		"description": "Palo Alto Networks, Inc."
 	},
 	{
-		"Symbol": "PAR",
-		"Description": "PAR Technology Corporation"
+		"symbol": "PAR",
+		"description": "PAR Technology Corporation"
 	},
 	{
-		"Symbol": "PARR",
-		"Description": "Par Pacific Holdings, Inc."
+		"symbol": "PARR",
+		"description": "Par Pacific Holdings, Inc."
 	},
 	{
-		"Symbol": "PATI",
-		"Description": "Patriot TR HD Cmn"
+		"symbol": "PATI",
+		"description": "Patriot TR HD Cmn"
 	},
 	{
-		"Symbol": "PATK",
-		"Description": "Patrick Inds Inc"
+		"symbol": "PATK",
+		"description": "Patrick Inds Inc"
 	},
 	{
-		"Symbol": "PAVM",
-		"Description": "Pavmed Inc Cmn"
+		"symbol": "PAVM",
+		"description": "Pavmed Inc Cmn"
 	},
 	{
-		"Symbol": "PAVMW",
-		"Description": "Pavmed Inc Wt"
+		"symbol": "PAVMW",
+		"description": "Pavmed Inc Wt"
 	},
 	{
-		"Symbol": "PAY",
-		"Description": "Verifone Systems, Inc."
+		"symbol": "PAY",
+		"description": "Verifone Systems, Inc."
 	},
 	{
-		"Symbol": "PAYC",
-		"Description": "Paycom Software, Inc."
+		"symbol": "PAYC",
+		"description": "Paycom Software, Inc."
 	},
 	{
-		"Symbol": "PAYX",
-		"Description": "Paychex Inc"
+		"symbol": "PAYX",
+		"description": "Paychex Inc"
 	},
 	{
-		"Symbol": "PB",
-		"Description": "Prosperity Bancshares, Inc."
+		"symbol": "PB",
+		"description": "Prosperity Bancshares, Inc."
 	},
 	{
-		"Symbol": "PBA",
-		"Description": "Pembina Pipeline Corp."
+		"symbol": "PBA",
+		"description": "Pembina Pipeline Corp."
 	},
 	{
-		"Symbol": "PBB",
-		"Description": "Prospect Capital Corporation"
+		"symbol": "PBB",
+		"description": "Prospect Capital Corporation"
 	},
 	{
-		"Symbol": "PBBI",
-		"Description": "Pb Bancorp Inc"
+		"symbol": "PBBI",
+		"description": "Pb Bancorp Inc"
 	},
 	{
-		"Symbol": "PBCT",
-		"Description": "People's United Finl"
+		"symbol": "PBCT",
+		"description": "People's United Finl"
 	},
 	{
-		"Symbol": "PBCTP",
-		"Description": "Peoples Utd Finl Inc."
+		"symbol": "PBCTP",
+		"description": "Peoples Utd Finl Inc."
 	},
 	{
-		"Symbol": "PBF",
-		"Description": "PBF Energy Inc."
+		"symbol": "PBF",
+		"description": "PBF Energy Inc."
 	},
 	{
-		"Symbol": "PBFX",
-		"Description": "PBF Logistics LP"
+		"symbol": "PBFX",
+		"description": "PBF Logistics LP"
 	},
 	{
-		"Symbol": "PBH",
-		"Description": "Prestige Brand Holdings, Inc."
+		"symbol": "PBH",
+		"description": "Prestige Brand Holdings, Inc."
 	},
 	{
-		"Symbol": "PBHC",
-		"Description": "Pathfinder Bcp MD"
+		"symbol": "PBHC",
+		"description": "Pathfinder Bcp MD"
 	},
 	{
-		"Symbol": "PBI",
-		"Description": "Pitney Bowes Inc."
+		"symbol": "PBI",
+		"description": "Pitney Bowes Inc."
 	},
 	{
-		"Symbol": "PBI^B",
-		"Description": "Pitney Bowes Inc."
+		"symbol": "PBI^B",
+		"description": "Pitney Bowes Inc."
 	},
 	{
-		"Symbol": "PBIB",
-		"Description": "Porter Bancorp Inc"
+		"symbol": "PBIB",
+		"description": "Porter Bancorp Inc"
 	},
 	{
-		"Symbol": "PBIP",
-		"Description": "Prudential Bancorp"
+		"symbol": "PBIP",
+		"description": "Prudential Bancorp"
 	},
 	{
-		"Symbol": "PBMD",
-		"Description": "Prima Biomed Ltd"
+		"symbol": "PBMD",
+		"description": "Prima Biomed Ltd"
 	},
 	{
-		"Symbol": "PBNC",
-		"Description": "Paragon Commercial Corporation"
+		"symbol": "PBNC",
+		"description": "Paragon Commercial Corporation"
 	},
 	{
-		"Symbol": "PBPB",
-		"Description": "Potbelly Corp Cmn"
+		"symbol": "PBPB",
+		"description": "Potbelly Corp Cmn"
 	},
 	{
-		"Symbol": "PBR",
-		"Description": "Petroleo Brasileiro S.A.- Petrobras"
+		"symbol": "PBR",
+		"description": "Petroleo Brasileiro S.A.- Petrobras"
 	},
 	{
-		"Symbol": "PBR.A",
-		"Description": "Petroleo Brasileiro S.A.- Petrobras"
+		"symbol": "PBR.A",
+		"description": "Petroleo Brasileiro S.A.- Petrobras"
 	},
 	{
-		"Symbol": "PBSK",
-		"Description": "Poage Bankshares Inc"
+		"symbol": "PBSK",
+		"description": "Poage Bankshares Inc"
 	},
 	{
-		"Symbol": "PBT",
-		"Description": "Permian Basin Royalty Trust"
+		"symbol": "PBT",
+		"description": "Permian Basin Royalty Trust"
 	},
 	{
-		"Symbol": "PBYI",
-		"Description": "Puma Biotechnology"
+		"symbol": "PBYI",
+		"description": "Puma Biotechnology"
 	},
 	{
-		"Symbol": "PCAR",
-		"Description": "Paccar Inc"
+		"symbol": "PCAR",
+		"description": "Paccar Inc"
 	},
 	{
-		"Symbol": "PCBK",
-		"Description": "Pacific Continental"
+		"symbol": "PCBK",
+		"description": "Pacific Continental"
 	},
 	{
-		"Symbol": "PCF",
-		"Description": "Putnam High Income Bond Fund"
+		"symbol": "PCF",
+		"description": "Putnam High Income Bond Fund"
 	},
 	{
-		"Symbol": "PCG",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^A",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^A",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^B",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^B",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^C",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^C",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^D",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^D",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^E",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^E",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^G",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^G",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^H",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^H",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCG^I",
-		"Description": "Pacific Gas & Electric Co."
+		"symbol": "PCG^I",
+		"description": "Pacific Gas & Electric Co."
 	},
 	{
-		"Symbol": "PCH",
-		"Description": "Potlatch Cp"
+		"symbol": "PCH",
+		"description": "Potlatch Cp"
 	},
 	{
-		"Symbol": "PCI",
-		"Description": "PIMCO Dynamic Credit and Mortgage Income Fund"
+		"symbol": "PCI",
+		"description": "PIMCO Dynamic Credit and Mortgage Income Fund"
 	},
 	{
-		"Symbol": "PCK",
-		"Description": "Pimco California Municipal Income Fund II"
+		"symbol": "PCK",
+		"description": "Pimco California Municipal Income Fund II"
 	},
 	{
-		"Symbol": "PCLN",
-		"Description": "Priceline Group"
+		"symbol": "PCLN",
+		"description": "Priceline Group"
 	},
 	{
-		"Symbol": "PCM",
-		"Description": "PIMCO Commercial Mortgage Securities Trust, Inc."
+		"symbol": "PCM",
+		"description": "PIMCO Commercial Mortgage Securities Trust, Inc."
 	},
 	{
-		"Symbol": "PCMI",
-		"Description": "PCM Inc"
+		"symbol": "PCMI",
+		"description": "PCM Inc"
 	},
 	{
-		"Symbol": "PCN",
-		"Description": "Pimco Corporate & Income Stategy Fund"
+		"symbol": "PCN",
+		"description": "Pimco Corporate & Income Stategy Fund"
 	},
 	{
-		"Symbol": "PCO",
-		"Description": "Pendrell Corporation"
+		"symbol": "PCO",
+		"description": "Pendrell Corporation"
 	},
 	{
-		"Symbol": "PCOM",
-		"Description": "Points Intl Ltd"
+		"symbol": "PCOM",
+		"description": "Points Intl Ltd"
 	},
 	{
-		"Symbol": "PCQ",
-		"Description": "PIMCO California Municipal Income Fund"
+		"symbol": "PCQ",
+		"description": "PIMCO California Municipal Income Fund"
 	},
 	{
-		"Symbol": "PCRX",
-		"Description": "Pacira Pharm Inc"
+		"symbol": "PCRX",
+		"description": "Pacira Pharm Inc"
 	},
 	{
-		"Symbol": "PCTI",
-		"Description": "Pc-Tel Inc"
+		"symbol": "PCTI",
+		"description": "Pc-Tel Inc"
 	},
 	{
-		"Symbol": "PCTY",
-		"Description": "Paylocity Hldng Corp"
+		"symbol": "PCTY",
+		"description": "Paylocity Hldng Corp"
 	},
 	{
-		"Symbol": "PCYG",
-		"Description": "Park City Group Cmn"
+		"symbol": "PCYG",
+		"description": "Park City Group Cmn"
 	},
 	{
-		"Symbol": "PCYO",
-		"Description": "Pure Cycle Corp"
+		"symbol": "PCYO",
+		"description": "Pure Cycle Corp"
 	},
 	{
-		"Symbol": "PDBC",
-		"Description": "PS DB Optimum Yield Diversified Commodity Strate"
+		"symbol": "PDBC",
+		"description": "PS DB Optimum Yield Diversified Commodity Strate"
 	},
 	{
-		"Symbol": "PDCE",
-		"Description": "Pdc Energy Inc"
+		"symbol": "PDCE",
+		"description": "Pdc Energy Inc"
 	},
 	{
-		"Symbol": "PDCO",
-		"Description": "Patterson Companies"
+		"symbol": "PDCO",
+		"description": "Patterson Companies"
 	},
 	{
-		"Symbol": "PDEX",
-		"Description": "Pro-Dex Inc New"
+		"symbol": "PDEX",
+		"description": "Pro-Dex Inc New"
 	},
 	{
-		"Symbol": "PDFS",
-		"Description": "Pdf Solutions Inc"
+		"symbol": "PDFS",
+		"description": "Pdf Solutions Inc"
 	},
 	{
-		"Symbol": "PDI",
-		"Description": "PIMCO Dynamic Income Fund"
+		"symbol": "PDI",
+		"description": "PIMCO Dynamic Income Fund"
 	},
 	{
-		"Symbol": "PDLI",
-		"Description": "Pdl Biopharma Inc"
+		"symbol": "PDLI",
+		"description": "Pdl Biopharma Inc"
 	},
 	{
-		"Symbol": "PDM",
-		"Description": "Piedmont Office Realty Trust, Inc."
+		"symbol": "PDM",
+		"description": "Piedmont Office Realty Trust, Inc."
 	},
 	{
-		"Symbol": "PDP",
-		"Description": "Powershares DWA Momentum Portfolio"
+		"symbol": "PDP",
+		"description": "Powershares DWA Momentum Portfolio"
 	},
 	{
-		"Symbol": "PDS",
-		"Description": "Precision Drilling Corporation"
+		"symbol": "PDS",
+		"description": "Precision Drilling Corporation"
 	},
 	{
-		"Symbol": "PDT",
-		"Description": "John Hancock Premium Dividend Fund"
+		"symbol": "PDT",
+		"description": "John Hancock Premium Dividend Fund"
 	},
 	{
-		"Symbol": "PDVW",
-		"Description": "Pdvwireless Cmn Stk"
+		"symbol": "PDVW",
+		"description": "Pdvwireless Cmn Stk"
 	},
 	{
-		"Symbol": "PE",
-		"Description": "Parsley Energy, Inc."
+		"symbol": "PE",
+		"description": "Parsley Energy, Inc."
 	},
 	{
-		"Symbol": "PEB",
-		"Description": "Pebblebrook Hotel Trust"
+		"symbol": "PEB",
+		"description": "Pebblebrook Hotel Trust"
 	},
 	{
-		"Symbol": "PEB^C",
-		"Description": "Pebblebrook Hotel Trust"
+		"symbol": "PEB^C",
+		"description": "Pebblebrook Hotel Trust"
 	},
 	{
-		"Symbol": "PEB^D",
-		"Description": "Pebblebrook Hotel Trust"
+		"symbol": "PEB^D",
+		"description": "Pebblebrook Hotel Trust"
 	},
 	{
-		"Symbol": "PEBK",
-		"Description": "Peoples Bancorp Nc"
+		"symbol": "PEBK",
+		"description": "Peoples Bancorp Nc"
 	},
 	{
-		"Symbol": "PEBO",
-		"Description": "Peoples Bancorp Inc"
+		"symbol": "PEBO",
+		"description": "Peoples Bancorp Inc"
 	},
 	{
-		"Symbol": "PED",
-		"Description": "Pedevco Corp."
+		"symbol": "PED",
+		"description": "Pedevco Corp."
 	},
 	{
-		"Symbol": "PEG",
-		"Description": "Public Service Enterprise Group Incorporated"
+		"symbol": "PEG",
+		"description": "Public Service Enterprise Group Incorporated"
 	},
 	{
-		"Symbol": "PEGA",
-		"Description": "Pegasystems Inc"
+		"symbol": "PEGA",
+		"description": "Pegasystems Inc"
 	},
 	{
-		"Symbol": "PEGI",
-		"Description": "Pattern Energy Cl A"
+		"symbol": "PEGI",
+		"description": "Pattern Energy Cl A"
 	},
 	{
-		"Symbol": "PEI",
-		"Description": "Pennsylvania Real Estate Investment Trust"
+		"symbol": "PEI",
+		"description": "Pennsylvania Real Estate Investment Trust"
 	},
 	{
-		"Symbol": "PEI^A",
-		"Description": "Pennsylvania Real Estate Investment Trust"
+		"symbol": "PEI^A",
+		"description": "Pennsylvania Real Estate Investment Trust"
 	},
 	{
-		"Symbol": "PEI^B",
-		"Description": "Pennsylvania Real Estate Investment Trust"
+		"symbol": "PEI^B",
+		"description": "Pennsylvania Real Estate Investment Trust"
 	},
 	{
-		"Symbol": "PEI^C",
-		"Description": "Pennsylvania Real Estate Investment Trust"
+		"symbol": "PEI^C",
+		"description": "Pennsylvania Real Estate Investment Trust"
 	},
 	{
-		"Symbol": "PEIX",
-		"Description": "Pacific Ethanol Inc"
+		"symbol": "PEIX",
+		"description": "Pacific Ethanol Inc"
 	},
 	{
-		"Symbol": "PEN",
-		"Description": "Penumbra, Inc."
+		"symbol": "PEN",
+		"description": "Penumbra, Inc."
 	},
 	{
-		"Symbol": "PENN",
-		"Description": "Penn Natl Gaming Inc"
+		"symbol": "PENN",
+		"description": "Penn Natl Gaming Inc"
 	},
 	{
-		"Symbol": "PEO",
-		"Description": "Adams Natural Resources Fund, Inc."
+		"symbol": "PEO",
+		"description": "Adams Natural Resources Fund, Inc."
 	},
 	{
-		"Symbol": "PEP",
-		"Description": "Pepsico, Inc."
+		"symbol": "PEP",
+		"description": "Pepsico, Inc."
 	},
 	{
-		"Symbol": "PER",
-		"Description": "SandRidge Permian Trust"
+		"symbol": "PER",
+		"description": "SandRidge Permian Trust"
 	},
 	{
-		"Symbol": "PERF",
-		"Description": "Perfumania Hld Inc"
+		"symbol": "PERF",
+		"description": "Perfumania Hld Inc"
 	},
 	{
-		"Symbol": "PERI",
-		"Description": "Perion Network Ltd"
+		"symbol": "PERI",
+		"description": "Perion Network Ltd"
 	},
 	{
-		"Symbol": "PERY",
-		"Description": "Perry Ellis Int"
+		"symbol": "PERY",
+		"description": "Perry Ellis Int"
 	},
 	{
-		"Symbol": "PES",
-		"Description": "Pioneer Energy Services Corp."
+		"symbol": "PES",
+		"description": "Pioneer Energy Services Corp."
 	},
 	{
-		"Symbol": "PESI",
-		"Description": "Perma-Fix Envir"
+		"symbol": "PESI",
+		"description": "Perma-Fix Envir"
 	},
 	{
-		"Symbol": "PETS",
-		"Description": "Petmed Express Inc"
+		"symbol": "PETS",
+		"description": "Petmed Express Inc"
 	},
 	{
-		"Symbol": "PETX",
-		"Description": "Aratana Theraptcs Cmn"
+		"symbol": "PETX",
+		"description": "Aratana Theraptcs Cmn"
 	},
 	{
-		"Symbol": "PEY",
-		"Description": "High-Yield Eq Div Achievers Powershares"
+		"symbol": "PEY",
+		"description": "High-Yield Eq Div Achievers Powershares"
 	},
 	{
-		"Symbol": "PEZ",
-		"Description": "Dynamic Consumer Disc Powershares"
+		"symbol": "PEZ",
+		"description": "Dynamic Consumer Disc Powershares"
 	},
 	{
-		"Symbol": "PF",
-		"Description": "Pinnacle Foods, Inc."
+		"symbol": "PF",
+		"description": "Pinnacle Foods, Inc."
 	},
 	{
-		"Symbol": "PFBC",
-		"Description": "Preferred Bank La"
+		"symbol": "PFBC",
+		"description": "Preferred Bank La"
 	},
 	{
-		"Symbol": "PFBI",
-		"Description": "Premier Finl Bncp"
+		"symbol": "PFBI",
+		"description": "Premier Finl Bncp"
 	},
 	{
-		"Symbol": "PFBX",
-		"Description": "Peoples Finl Corp"
+		"symbol": "PFBX",
+		"description": "Peoples Finl Corp"
 	},
 	{
-		"Symbol": "PFD",
-		"Description": "Flaherty & Crumrine Preferred Income Fund Incorporated"
+		"symbol": "PFD",
+		"description": "Flaherty & Crumrine Preferred Income Fund Incorporated"
 	},
 	{
-		"Symbol": "PFE",
-		"Description": "Pfizer, Inc."
+		"symbol": "PFE",
+		"description": "Pfizer, Inc."
 	},
 	{
-		"Symbol": "PFG",
-		"Description": "Principal Financial Group Inc"
+		"symbol": "PFG",
+		"description": "Principal Financial Group Inc"
 	},
 	{
-		"Symbol": "PFGC",
-		"Description": "Performance Food Group Company"
+		"symbol": "PFGC",
+		"description": "Performance Food Group Company"
 	},
 	{
-		"Symbol": "PFH",
-		"Description": "CABCO Series 2004-101 Trust"
+		"symbol": "PFH",
+		"description": "CABCO Series 2004-101 Trust"
 	},
 	{
-		"Symbol": "PFI",
-		"Description": "Dynamic Financials Powershares"
+		"symbol": "PFI",
+		"description": "Dynamic Financials Powershares"
 	},
 	{
-		"Symbol": "PFIE",
-		"Description": "Profire Energy Cmn"
+		"symbol": "PFIE",
+		"description": "Profire Energy Cmn"
 	},
 	{
-		"Symbol": "PFIN",
-		"Description": "P F Inds Inc A"
+		"symbol": "PFIN",
+		"description": "P F Inds Inc A"
 	},
 	{
-		"Symbol": "PFIS",
-		"Description": "Peoples Finl Svcs Co"
+		"symbol": "PFIS",
+		"description": "Peoples Finl Svcs Co"
 	},
 	{
-		"Symbol": "PFK",
-		"Description": "Prudential Financial, Inc."
+		"symbol": "PFK",
+		"description": "Prudential Financial, Inc."
 	},
 	{
-		"Symbol": "PFL",
-		"Description": "PIMCO Income Strategy Fund"
+		"symbol": "PFL",
+		"description": "PIMCO Income Strategy Fund"
 	},
 	{
-		"Symbol": "PFLT",
-		"Description": "Pennantpark Fltng Rt"
+		"symbol": "PFLT",
+		"description": "Pennantpark Fltng Rt"
 	},
 	{
-		"Symbol": "PFM",
-		"Description": "Dividend Achievers Powershares"
+		"symbol": "PFM",
+		"description": "Dividend Achievers Powershares"
 	},
 	{
-		"Symbol": "PFMT",
-		"Description": "Performant Financial"
+		"symbol": "PFMT",
+		"description": "Performant Financial"
 	},
 	{
-		"Symbol": "PFN",
-		"Description": "PIMCO Income Strategy Fund II"
+		"symbol": "PFN",
+		"description": "PIMCO Income Strategy Fund II"
 	},
 	{
-		"Symbol": "PFNX",
-		"Description": "Pfenex Inc."
+		"symbol": "PFNX",
+		"description": "Pfenex Inc."
 	},
 	{
-		"Symbol": "PFO",
-		"Description": "Flaherty & Crumrine Preferred Income Opportunity Fund Inc"
+		"symbol": "PFO",
+		"description": "Flaherty & Crumrine Preferred Income Opportunity Fund Inc"
 	},
 	{
-		"Symbol": "PFPT",
-		"Description": "Proofpoint Inc"
+		"symbol": "PFPT",
+		"description": "Proofpoint Inc"
 	},
 	{
-		"Symbol": "PFS",
-		"Description": "Provident Financial Services, Inc"
+		"symbol": "PFS",
+		"description": "Provident Financial Services, Inc"
 	},
 	{
-		"Symbol": "PFSI",
-		"Description": "PennyMac Financial Services, Inc."
+		"symbol": "PFSI",
+		"description": "PennyMac Financial Services, Inc."
 	},
 	{
-		"Symbol": "PFSW",
-		"Description": "Pfsweb Inc"
+		"symbol": "PFSW",
+		"description": "Pfsweb Inc"
 	},
 	{
-		"Symbol": "PG",
-		"Description": "Procter & Gamble Company "
+		"symbol": "PG",
+		"description": "Procter & Gamble Company "
 	},
 	{
-		"Symbol": "PGC",
-		"Description": "Peapack Gladstone Fi"
+		"symbol": "PGC",
+		"description": "Peapack Gladstone Fi"
 	},
 	{
-		"Symbol": "PGEM",
-		"Description": "Ply Gem Holdings, Inc."
+		"symbol": "PGEM",
+		"description": "Ply Gem Holdings, Inc."
 	},
 	{
-		"Symbol": "PGH",
-		"Description": "Pengrowth Energy Corporation"
+		"symbol": "PGH",
+		"description": "Pengrowth Energy Corporation"
 	},
 	{
-		"Symbol": "PGJ",
-		"Description": "Golden Dragon China Powershares"
+		"symbol": "PGJ",
+		"description": "Golden Dragon China Powershares"
 	},
 	{
-		"Symbol": "PGLC",
-		"Description": "Pershing Gold Cmn"
+		"symbol": "PGLC",
+		"description": "Pershing Gold Cmn"
 	},
 	{
-		"Symbol": "PGNX",
-		"Description": "Progenics Pharmaceut"
+		"symbol": "PGNX",
+		"description": "Progenics Pharmaceut"
 	},
 	{
-		"Symbol": "PGP",
-		"Description": "Pimco Global Stocksplus & Income Fund"
+		"symbol": "PGP",
+		"description": "Pimco Global Stocksplus & Income Fund"
 	},
 	{
-		"Symbol": "PGR",
-		"Description": "Progressive Corporation "
+		"symbol": "PGR",
+		"description": "Progressive Corporation "
 	},
 	{
-		"Symbol": "PGRE",
-		"Description": "Paramount Group, Inc."
+		"symbol": "PGRE",
+		"description": "Paramount Group, Inc."
 	},
 	{
-		"Symbol": "PGTI",
-		"Description": "PGT Innovations, Inc."
+		"symbol": "PGTI",
+		"description": "PGT Innovations, Inc."
 	},
 	{
-		"Symbol": "PGZ",
-		"Description": "Principal Real Estate Income Fund"
+		"symbol": "PGZ",
+		"description": "Principal Real Estate Income Fund"
 	},
 	{
-		"Symbol": "PH",
-		"Description": "Parker-Hannifin Corporation"
+		"symbol": "PH",
+		"description": "Parker-Hannifin Corporation"
 	},
 	{
-		"Symbol": "PHD",
-		"Description": "Pioneer Floating Rate Trust"
+		"symbol": "PHD",
+		"description": "Pioneer Floating Rate Trust"
 	},
 	{
-		"Symbol": "PHF",
-		"Description": "Pacholder High Yield Fund, Inc."
+		"symbol": "PHF",
+		"description": "Pacholder High Yield Fund, Inc."
 	},
 	{
-		"Symbol": "PHG",
-		"Description": "Koninklijke Philips N.V."
+		"symbol": "PHG",
+		"description": "Koninklijke Philips N.V."
 	},
 	{
-		"Symbol": "PHH",
-		"Description": "PHH Corp"
+		"symbol": "PHH",
+		"description": "PHH Corp"
 	},
 	{
-		"Symbol": "PHI",
-		"Description": "PLDT Inc."
+		"symbol": "PHI",
+		"description": "PLDT Inc."
 	},
 	{
-		"Symbol": "PHII",
-		"Description": "PHI Inc"
+		"symbol": "PHII",
+		"description": "PHI Inc"
 	},
 	{
-		"Symbol": "PHIIK",
-		"Description": "PHI Inc Non-Voting"
+		"symbol": "PHIIK",
+		"description": "PHI Inc Non-Voting"
 	},
 	{
-		"Symbol": "PHK",
-		"Description": "Pimco High Income Fund"
+		"symbol": "PHK",
+		"description": "Pimco High Income Fund"
 	},
 	{
-		"Symbol": "PHM",
-		"Description": "PulteGroup, Inc."
+		"symbol": "PHM",
+		"description": "PulteGroup, Inc."
 	},
 	{
-		"Symbol": "PHMD",
-		"Description": "Photomedex Inc"
+		"symbol": "PHMD",
+		"description": "Photomedex Inc"
 	},
 	{
-		"Symbol": "PHO",
-		"Description": "Water Resources Powershares"
+		"symbol": "PHO",
+		"description": "Water Resources Powershares"
 	},
 	{
-		"Symbol": "PHT",
-		"Description": "Pioneer High Income Trust"
+		"symbol": "PHT",
+		"description": "Pioneer High Income Trust"
 	},
 	{
-		"Symbol": "PHX",
-		"Description": "Panhandle Royalty Company"
+		"symbol": "PHX",
+		"description": "Panhandle Royalty Company"
 	},
 	{
-		"Symbol": "PI",
-		"Description": "Impinj Inc Cmn"
+		"symbol": "PI",
+		"description": "Impinj Inc Cmn"
 	},
 	{
-		"Symbol": "PICO",
-		"Description": "Pico Holdings Inc"
+		"symbol": "PICO",
+		"description": "Pico Holdings Inc"
 	},
 	{
-		"Symbol": "PID",
-		"Description": "Intl Dividend Achievers Powershares"
+		"symbol": "PID",
+		"description": "Intl Dividend Achievers Powershares"
 	},
 	{
-		"Symbol": "PIE",
-		"Description": "Powershares DWA Emerging Markets Momentum Portfo"
+		"symbol": "PIE",
+		"description": "Powershares DWA Emerging Markets Momentum Portfo"
 	},
 	{
-		"Symbol": "PIH",
-		"Description": "1347 Property Ins Cmn"
+		"symbol": "PIH",
+		"description": "1347 Property Ins Cmn"
 	},
 	{
-		"Symbol": "PII",
-		"Description": "Polaris Industries Inc."
+		"symbol": "PII",
+		"description": "Polaris Industries Inc."
 	},
 	{
-		"Symbol": "PIM",
-		"Description": "Putnam Master Intermediate Income Trust"
+		"symbol": "PIM",
+		"description": "Putnam Master Intermediate Income Trust"
 	},
 	{
-		"Symbol": "PINC",
-		"Description": "Premier Inc Cl A Cmn"
+		"symbol": "PINC",
+		"description": "Premier Inc Cl A Cmn"
 	},
 	{
-		"Symbol": "PIO",
-		"Description": "Global Water Powershares"
+		"symbol": "PIO",
+		"description": "Global Water Powershares"
 	},
 	{
-		"Symbol": "PIP",
-		"Description": "PharmAthene, Inc"
+		"symbol": "PIP",
+		"description": "PharmAthene, Inc"
 	},
 	{
-		"Symbol": "PIR",
-		"Description": "Pier 1 Imports, Inc."
+		"symbol": "PIR",
+		"description": "Pier 1 Imports, Inc."
 	},
 	{
-		"Symbol": "PIRS",
-		"Description": "Pieris Pharma Cmn"
+		"symbol": "PIRS",
+		"description": "Pieris Pharma Cmn"
 	},
 	{
-		"Symbol": "PIY",
-		"Description": "Merrill Lynch Depositor, Inc."
+		"symbol": "PIY",
+		"description": "Merrill Lynch Depositor, Inc."
 	},
 	{
-		"Symbol": "PIZ",
-		"Description": "Powershares DWA Developed Markets Momentum Portf"
+		"symbol": "PIZ",
+		"description": "Powershares DWA Developed Markets Momentum Portf"
 	},
 	{
-		"Symbol": "PJC",
-		"Description": "Piper Jaffray Companies"
+		"symbol": "PJC",
+		"description": "Piper Jaffray Companies"
 	},
 	{
-		"Symbol": "PJH",
-		"Description": "Prudential Financial, Inc."
+		"symbol": "PJH",
+		"description": "Prudential Financial, Inc."
 	},
 	{
-		"Symbol": "PJT",
-		"Description": "PJT Partners Inc."
+		"symbol": "PJT",
+		"description": "PJT Partners Inc."
 	},
 	{
-		"Symbol": "PK",
-		"Description": "Park Hotels & Resorts Inc."
+		"symbol": "PK",
+		"description": "Park Hotels & Resorts Inc."
 	},
 	{
-		"Symbol": "PKBK",
-		"Description": "Parke Bancorp Inc"
+		"symbol": "PKBK",
+		"description": "Parke Bancorp Inc"
 	},
 	{
-		"Symbol": "PKD",
-		"Description": "Parker Drilling Company"
+		"symbol": "PKD",
+		"description": "Parker Drilling Company"
 	},
 	{
-		"Symbol": "PKE",
-		"Description": "Park Electrochemical Corporation"
+		"symbol": "PKE",
+		"description": "Park Electrochemical Corporation"
 	},
 	{
-		"Symbol": "PKG",
-		"Description": "Packaging Corporation of America"
+		"symbol": "PKG",
+		"description": "Packaging Corporation of America"
 	},
 	{
-		"Symbol": "PKI",
-		"Description": "PerkinElmer, Inc."
+		"symbol": "PKI",
+		"description": "PerkinElmer, Inc."
 	},
 	{
-		"Symbol": "PKO",
-		"Description": "Pimco Income Opportunity Fund"
+		"symbol": "PKO",
+		"description": "Pimco Income Opportunity Fund"
 	},
 	{
-		"Symbol": "PKOH",
-		"Description": "Park Ohio Hldg Cp"
+		"symbol": "PKOH",
+		"description": "Park Ohio Hldg Cp"
 	},
 	{
-		"Symbol": "PKW",
-		"Description": "Buyback Achievers Powershares"
+		"symbol": "PKW",
+		"description": "Buyback Achievers Powershares"
 	},
 	{
-		"Symbol": "PKX",
-		"Description": "POSCO"
+		"symbol": "PKX",
+		"description": "POSCO"
 	},
 	{
-		"Symbol": "PKY",
-		"Description": "Parkway, Inc."
+		"symbol": "PKY",
+		"description": "Parkway, Inc."
 	},
 	{
-		"Symbol": "PL^C",
-		"Description": "Protective Life Corporation"
+		"symbol": "PL^C",
+		"description": "Protective Life Corporation"
 	},
 	{
-		"Symbol": "PL^E",
-		"Description": "Protective Life Corporation"
+		"symbol": "PL^E",
+		"description": "Protective Life Corporation"
 	},
 	{
-		"Symbol": "PLAB",
-		"Description": "Photronics Inc"
+		"symbol": "PLAB",
+		"description": "Photronics Inc"
 	},
 	{
-		"Symbol": "PLAY",
-		"Description": "Dave & Buster's Ente"
+		"symbol": "PLAY",
+		"description": "Dave & Buster's Ente"
 	},
 	{
-		"Symbol": "PLBC",
-		"Description": "Plumas Bancorp"
+		"symbol": "PLBC",
+		"description": "Plumas Bancorp"
 	},
 	{
-		"Symbol": "PLCE",
-		"Description": "Children's Place Inc"
+		"symbol": "PLCE",
+		"description": "Children's Place Inc"
 	},
 	{
-		"Symbol": "PLD",
-		"Description": "Prologis, Inc."
+		"symbol": "PLD",
+		"description": "Prologis, Inc."
 	},
 	{
-		"Symbol": "PLG",
-		"Description": "Platinum Group Metals Ltd."
+		"symbol": "PLG",
+		"description": "Platinum Group Metals Ltd."
 	},
 	{
-		"Symbol": "PLKI",
-		"Description": "Popeyes Louisiana"
+		"symbol": "PLKI",
+		"description": "Popeyes Louisiana"
 	},
 	{
-		"Symbol": "PLM",
-		"Description": "Polymet Mining Corp."
+		"symbol": "PLM",
+		"description": "Polymet Mining Corp."
 	},
 	{
-		"Symbol": "PLNT",
-		"Description": "Planet Fitness, Inc."
+		"symbol": "PLNT",
+		"description": "Planet Fitness, Inc."
 	},
 	{
-		"Symbol": "PLOW",
-		"Description": "Douglas Dynamics, Inc."
+		"symbol": "PLOW",
+		"description": "Douglas Dynamics, Inc."
 	},
 	{
-		"Symbol": "PLPC",
-		"Description": "Preformed Line Prd"
+		"symbol": "PLPC",
+		"description": "Preformed Line Prd"
 	},
 	{
-		"Symbol": "PLPM",
-		"Description": "Planet Payment"
+		"symbol": "PLPM",
+		"description": "Planet Payment"
 	},
 	{
-		"Symbol": "PLSE",
-		"Description": "Pulse Biosciences CS"
+		"symbol": "PLSE",
+		"description": "Pulse Biosciences CS"
 	},
 	{
-		"Symbol": "PLT",
-		"Description": "Plantronics, Inc."
+		"symbol": "PLT",
+		"description": "Plantronics, Inc."
 	},
 	{
-		"Symbol": "PLUG",
-		"Description": "Plug Power Inc"
+		"symbol": "PLUG",
+		"description": "Plug Power Inc"
 	},
 	{
-		"Symbol": "PLUS",
-		"Description": "Eplus Inc"
+		"symbol": "PLUS",
+		"description": "Eplus Inc"
 	},
 	{
-		"Symbol": "PLW",
-		"Description": "1-30 Laddered Treasury Powershares"
+		"symbol": "PLW",
+		"description": "1-30 Laddered Treasury Powershares"
 	},
 	{
-		"Symbol": "PLX",
-		"Description": "Protalix BioTherapeutics, Inc."
+		"symbol": "PLX",
+		"description": "Protalix BioTherapeutics, Inc."
 	},
 	{
-		"Symbol": "PLXS",
-		"Description": "Plexus Cp"
+		"symbol": "PLXS",
+		"description": "Plexus Cp"
 	},
 	{
-		"Symbol": "PM",
-		"Description": "Philip Morris International Inc"
+		"symbol": "PM",
+		"description": "Philip Morris International Inc"
 	},
 	{
-		"Symbol": "PMBC",
-		"Description": "Pacific Mercantile"
+		"symbol": "PMBC",
+		"description": "Pacific Mercantile"
 	},
 	{
-		"Symbol": "PMC",
-		"Description": "Pharmerica Corporation"
+		"symbol": "PMC",
+		"description": "Pharmerica Corporation"
 	},
 	{
-		"Symbol": "PMD",
-		"Description": "Psychemedics"
+		"symbol": "PMD",
+		"description": "Psychemedics"
 	},
 	{
-		"Symbol": "PME",
-		"Description": "Pingtan Marine"
+		"symbol": "PME",
+		"description": "Pingtan Marine"
 	},
 	{
-		"Symbol": "PMF",
-		"Description": "PIMCO Municipal Income Fund"
+		"symbol": "PMF",
+		"description": "PIMCO Municipal Income Fund"
 	},
 	{
-		"Symbol": "PML",
-		"Description": "Pimco Municipal Income Fund II"
+		"symbol": "PML",
+		"description": "Pimco Municipal Income Fund II"
 	},
 	{
-		"Symbol": "PMM",
-		"Description": "Putnam Managed Municipal Income Trust"
+		"symbol": "PMM",
+		"description": "Putnam Managed Municipal Income Trust"
 	},
 	{
-		"Symbol": "PMO",
-		"Description": "Putnam Municipal Opportunities Trust"
+		"symbol": "PMO",
+		"description": "Putnam Municipal Opportunities Trust"
 	},
 	{
-		"Symbol": "PMPT",
-		"Description": "Etfis Isectors Post-Mpt Growth ETF"
+		"symbol": "PMPT",
+		"description": "Etfis Isectors Post-Mpt Growth ETF"
 	},
 	{
-		"Symbol": "PMT",
-		"Description": "PennyMac Mortgage Investment Trust"
+		"symbol": "PMT",
+		"description": "PennyMac Mortgage Investment Trust"
 	},
 	{
-		"Symbol": "PMTS",
-		"Description": "CPI Card Group Cmn"
+		"symbol": "PMTS",
+		"description": "CPI Card Group Cmn"
 	},
 	{
-		"Symbol": "PMX",
-		"Description": "PIMCO Municipal Income Fund III"
+		"symbol": "PMX",
+		"description": "PIMCO Municipal Income Fund III"
 	},
 	{
-		"Symbol": "PN",
-		"Description": "Patriot National, Inc."
+		"symbol": "PN",
+		"description": "Patriot National, Inc."
 	},
 	{
-		"Symbol": "PNBK",
-		"Description": "Patriot Natl Bncp"
+		"symbol": "PNBK",
+		"description": "Patriot Natl Bncp"
 	},
 	{
-		"Symbol": "PNC",
-		"Description": "PNC Financial Services Group, Inc. "
+		"symbol": "PNC",
+		"description": "PNC Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "PNC.WS",
-		"Description": "PNC Financial Services Group, Inc. "
+		"symbol": "PNC.WS",
+		"description": "PNC Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "PNC^P",
-		"Description": "PNC Financial Services Group, Inc. "
+		"symbol": "PNC^P",
+		"description": "PNC Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "PNC^Q",
-		"Description": "PNC Financial Services Group, Inc. "
+		"symbol": "PNC^Q",
+		"description": "PNC Financial Services Group, Inc. "
 	},
 	{
-		"Symbol": "PNF",
-		"Description": "PIMCO New York Municipal Income Fund"
+		"symbol": "PNF",
+		"description": "PIMCO New York Municipal Income Fund"
 	},
 	{
-		"Symbol": "PNFP",
-		"Description": "Pinnacle Finl Ptnrs"
+		"symbol": "PNFP",
+		"description": "Pinnacle Finl Ptnrs"
 	},
 	{
-		"Symbol": "PNI",
-		"Description": "Pimco New York Municipal Income Fund II"
+		"symbol": "PNI",
+		"description": "Pimco New York Municipal Income Fund II"
 	},
 	{
-		"Symbol": "PNK",
-		"Description": "Pinnacle Entmt Cmn"
+		"symbol": "PNK",
+		"description": "Pinnacle Entmt Cmn"
 	},
 	{
-		"Symbol": "PNM",
-		"Description": "PNM Resources, Inc. Holding Co."
+		"symbol": "PNM",
+		"description": "PNM Resources, Inc. Holding Co."
 	},
 	{
-		"Symbol": "PNNT",
-		"Description": "Pennantpark Investme"
+		"symbol": "PNNT",
+		"description": "Pennantpark Investme"
 	},
 	{
-		"Symbol": "PNQI",
-		"Description": "PS Nasdaq Internet"
+		"symbol": "PNQI",
+		"description": "PS Nasdaq Internet"
 	},
 	{
-		"Symbol": "PNR",
-		"Description": "Pentair plc."
+		"symbol": "PNR",
+		"description": "Pentair plc."
 	},
 	{
-		"Symbol": "PNRA",
-		"Description": "Panera Bread A"
+		"symbol": "PNRA",
+		"description": "Panera Bread A"
 	},
 	{
-		"Symbol": "PNRG",
-		"Description": "Primeenergy Cp"
+		"symbol": "PNRG",
+		"description": "Primeenergy Cp"
 	},
 	{
-		"Symbol": "PNTA",
-		"Description": "PennantPark Investment Corporation"
+		"symbol": "PNTA",
+		"description": "PennantPark Investment Corporation"
 	},
 	{
-		"Symbol": "PNTR",
-		"Description": "Pointer Telocation"
+		"symbol": "PNTR",
+		"description": "Pointer Telocation"
 	},
 	{
-		"Symbol": "PNW",
-		"Description": "Pinnacle West Capital Corporation"
+		"symbol": "PNW",
+		"description": "Pinnacle West Capital Corporation"
 	},
 	{
-		"Symbol": "PODD",
-		"Description": "Insulet Corporation"
+		"symbol": "PODD",
+		"description": "Insulet Corporation"
 	},
 	{
-		"Symbol": "POL",
-		"Description": "PolyOne Corporation"
+		"symbol": "POL",
+		"description": "PolyOne Corporation"
 	},
 	{
-		"Symbol": "POLA",
-		"Description": "Polar Power Inc. Common Stock"
+		"symbol": "POLA",
+		"description": "Polar Power Inc. Common Stock"
 	},
 	{
-		"Symbol": "POOL",
-		"Description": "Pool Corporation"
+		"symbol": "POOL",
+		"description": "Pool Corporation"
 	},
 	{
-		"Symbol": "POPE",
-		"Description": "Pope Resource Uts"
+		"symbol": "POPE",
+		"description": "Pope Resource Uts"
 	},
 	{
-		"Symbol": "POR",
-		"Description": "Portland General Electric Company"
+		"symbol": "POR",
+		"description": "Portland General Electric Company"
 	},
 	{
-		"Symbol": "POST",
-		"Description": "Post Holdings, Inc."
+		"symbol": "POST",
+		"description": "Post Holdings, Inc."
 	},
 	{
-		"Symbol": "POT",
-		"Description": "Potash Corporation of Saskatchewan Inc."
+		"symbol": "POT",
+		"description": "Potash Corporation of Saskatchewan Inc."
 	},
 	{
-		"Symbol": "POWI",
-		"Description": "Power Integratn"
+		"symbol": "POWI",
+		"description": "Power Integratn"
 	},
 	{
-		"Symbol": "POWL",
-		"Description": "Powell Inds Inc"
+		"symbol": "POWL",
+		"description": "Powell Inds Inc"
 	},
 	{
-		"Symbol": "PPBI",
-		"Description": "Pacific Premier Bncp"
+		"symbol": "PPBI",
+		"description": "Pacific Premier Bncp"
 	},
 	{
-		"Symbol": "PPC",
-		"Description": "Pilgrim's Pride Cmn"
+		"symbol": "PPC",
+		"description": "Pilgrim's Pride Cmn"
 	},
 	{
-		"Symbol": "PPG",
-		"Description": "PPG Industries, Inc."
+		"symbol": "PPG",
+		"description": "PPG Industries, Inc."
 	},
 	{
-		"Symbol": "PPH",
-		"Description": "Vaneck Vectors Pharm"
+		"symbol": "PPH",
+		"description": "Vaneck Vectors Pharm"
 	},
 	{
-		"Symbol": "PPHM",
-		"Description": "Peregrine Pharma New"
+		"symbol": "PPHM",
+		"description": "Peregrine Pharma New"
 	},
 	{
-		"Symbol": "PPHMP",
-		"Description": "Peregrine Pharmaceut"
+		"symbol": "PPHMP",
+		"description": "Peregrine Pharmaceut"
 	},
 	{
-		"Symbol": "PPL",
-		"Description": "PPL Corporation"
+		"symbol": "PPL",
+		"description": "PPL Corporation"
 	},
 	{
-		"Symbol": "PPP",
-		"Description": "Primero Mining Corp"
+		"symbol": "PPP",
+		"description": "Primero Mining Corp"
 	},
 	{
-		"Symbol": "PPR",
-		"Description": "Voya Prime Rate Trust"
+		"symbol": "PPR",
+		"description": "Voya Prime Rate Trust"
 	},
 	{
-		"Symbol": "PPSI",
-		"Description": "Pioneer Pwr Sol Cmn"
+		"symbol": "PPSI",
+		"description": "Pioneer Pwr Sol Cmn"
 	},
 	{
-		"Symbol": "PPT",
-		"Description": "Putnam Premier Income Trust"
+		"symbol": "PPT",
+		"description": "Putnam Premier Income Trust"
 	},
 	{
-		"Symbol": "PPX",
-		"Description": "PPL Capital Funding, Inc."
+		"symbol": "PPX",
+		"description": "PPL Capital Funding, Inc."
 	},
 	{
-		"Symbol": "PQ",
-		"Description": "Petroquest Energy Inc"
+		"symbol": "PQ",
+		"description": "Petroquest Energy Inc"
 	},
 	{
-		"Symbol": "PRA",
-		"Description": "ProAssurance Corporation"
+		"symbol": "PRA",
+		"description": "ProAssurance Corporation"
 	},
 	{
-		"Symbol": "PRAA",
-		"Description": "Pra Group Inc Cmn"
+		"symbol": "PRAA",
+		"description": "Pra Group Inc Cmn"
 	},
 	{
-		"Symbol": "PRAH",
-		"Description": "Pra Health Cmn Stk"
+		"symbol": "PRAH",
+		"description": "Pra Health Cmn Stk"
 	},
 	{
-		"Symbol": "PRAN",
-		"Description": "Prana Bio Ltd Ads S1"
+		"symbol": "PRAN",
+		"description": "Prana Bio Ltd Ads S1"
 	},
 	{
-		"Symbol": "PRCP",
-		"Description": "Perceptron Inc"
+		"symbol": "PRCP",
+		"description": "Perceptron Inc"
 	},
 	{
-		"Symbol": "PRE^F",
-		"Description": "PartnerRe Ltd."
+		"symbol": "PRE^F",
+		"description": "PartnerRe Ltd."
 	},
 	{
-		"Symbol": "PRE^G",
-		"Description": "PartnerRe Ltd."
+		"symbol": "PRE^G",
+		"description": "PartnerRe Ltd."
 	},
 	{
-		"Symbol": "PRE^H",
-		"Description": "PartnerRe Ltd."
+		"symbol": "PRE^H",
+		"description": "PartnerRe Ltd."
 	},
 	{
-		"Symbol": "PRE^I",
-		"Description": "PartnerRe Ltd."
+		"symbol": "PRE^I",
+		"description": "PartnerRe Ltd."
 	},
 	{
-		"Symbol": "PRFT",
-		"Description": "Perficient Inc"
+		"symbol": "PRFT",
+		"description": "Perficient Inc"
 	},
 	{
-		"Symbol": "PRFZ",
-		"Description": "US 1500 Powershares"
+		"symbol": "PRFZ",
+		"description": "US 1500 Powershares"
 	},
 	{
-		"Symbol": "PRGO",
-		"Description": "Perrigo Company"
+		"symbol": "PRGO",
+		"description": "Perrigo Company"
 	},
 	{
-		"Symbol": "PRGS",
-		"Description": "Progress Software"
+		"symbol": "PRGS",
+		"description": "Progress Software"
 	},
 	{
-		"Symbol": "PRGX",
-		"Description": "Prgx Global Inc"
+		"symbol": "PRGX",
+		"description": "Prgx Global Inc"
 	},
 	{
-		"Symbol": "PRH",
-		"Description": "Prudential Financial, Inc."
+		"symbol": "PRH",
+		"description": "Prudential Financial, Inc."
 	},
 	{
-		"Symbol": "PRI",
-		"Description": "Primerica, Inc."
+		"symbol": "PRI",
+		"description": "Primerica, Inc."
 	},
 	{
-		"Symbol": "PRIM",
-		"Description": "Primoris Services Cp"
+		"symbol": "PRIM",
+		"description": "Primoris Services Cp"
 	},
 	{
-		"Symbol": "PRK",
-		"Description": "Park National Corporation"
+		"symbol": "PRK",
+		"description": "Park National Corporation"
 	},
 	{
-		"Symbol": "PRKR",
-		"Description": "Parkervision Inc"
+		"symbol": "PRKR",
+		"description": "Parkervision Inc"
 	},
 	{
-		"Symbol": "PRLB",
-		"Description": "Proto Labs, Inc."
+		"symbol": "PRLB",
+		"description": "Proto Labs, Inc."
 	},
 	{
-		"Symbol": "PRMW",
-		"Description": "Primo Water Corporat"
+		"symbol": "PRMW",
+		"description": "Primo Water Corporat"
 	},
 	{
-		"Symbol": "PRN",
-		"Description": "Powershares Dynamic Industrials"
+		"symbol": "PRN",
+		"description": "Powershares Dynamic Industrials"
 	},
 	{
-		"Symbol": "PRO",
-		"Description": "PROS Holdings, Inc."
+		"symbol": "PRO",
+		"description": "PROS Holdings, Inc."
 	},
 	{
-		"Symbol": "PROV",
-		"Description": "Provident Financial"
+		"symbol": "PROV",
+		"description": "Provident Financial"
 	},
 	{
-		"Symbol": "PRPH",
-		"Description": "Prophase Labs Inc"
+		"symbol": "PRPH",
+		"description": "Prophase Labs Inc"
 	},
 	{
-		"Symbol": "PRQR",
-		"Description": "Proqr Therapeutics"
+		"symbol": "PRQR",
+		"description": "Proqr Therapeutics"
 	},
 	{
-		"Symbol": "PRSC",
-		"Description": "Providence Svc Cp"
+		"symbol": "PRSC",
+		"description": "Providence Svc Cp"
 	},
 	{
-		"Symbol": "PRSS",
-		"Description": "Cafepress Inc"
+		"symbol": "PRSS",
+		"description": "Cafepress Inc"
 	},
 	{
-		"Symbol": "PRTA",
-		"Description": "Prothena Corp"
+		"symbol": "PRTA",
+		"description": "Prothena Corp"
 	},
 	{
-		"Symbol": "PRTK",
-		"Description": "Paratek Pharma Inc"
+		"symbol": "PRTK",
+		"description": "Paratek Pharma Inc"
 	},
 	{
-		"Symbol": "PRTO",
-		"Description": "Proteon Thera Com ST"
+		"symbol": "PRTO",
+		"description": "Proteon Thera Com ST"
 	},
 	{
-		"Symbol": "PRTS",
-		"Description": "U.S. Auto Parts Netw"
+		"symbol": "PRTS",
+		"description": "U.S. Auto Parts Netw"
 	},
 	{
-		"Symbol": "PRTY",
-		"Description": "Party City Holdco Inc."
+		"symbol": "PRTY",
+		"description": "Party City Holdco Inc."
 	},
 	{
-		"Symbol": "PRU",
-		"Description": "Prudential Financial, Inc."
+		"symbol": "PRU",
+		"description": "Prudential Financial, Inc."
 	},
 	{
-		"Symbol": "PRXL",
-		"Description": "Parexel Intl Cp"
+		"symbol": "PRXL",
+		"description": "Parexel Intl Cp"
 	},
 	{
-		"Symbol": "PRZM",
-		"Description": "Prism Tech Grp Cmn"
+		"symbol": "PRZM",
+		"description": "Prism Tech Grp Cmn"
 	},
 	{
-		"Symbol": "PSA",
-		"Description": "Public Storage"
+		"symbol": "PSA",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^A",
-		"Description": "Public Storage"
+		"symbol": "PSA^A",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^B",
-		"Description": "Public Storage"
+		"symbol": "PSA^B",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^C",
-		"Description": "Public Storage"
+		"symbol": "PSA^C",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^D",
-		"Description": "Public Storage"
+		"symbol": "PSA^D",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^E",
-		"Description": "Public Storage"
+		"symbol": "PSA^E",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^S",
-		"Description": "Public Storage"
+		"symbol": "PSA^S",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^T",
-		"Description": "Public Storage"
+		"symbol": "PSA^T",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^U",
-		"Description": "Public Storage"
+		"symbol": "PSA^U",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^V",
-		"Description": "Public Storage"
+		"symbol": "PSA^V",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^W",
-		"Description": "Public Storage"
+		"symbol": "PSA^W",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^X",
-		"Description": "Public Storage"
+		"symbol": "PSA^X",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^Y",
-		"Description": "Public Storage"
+		"symbol": "PSA^Y",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSA^Z",
-		"Description": "Public Storage"
+		"symbol": "PSA^Z",
+		"description": "Public Storage"
 	},
 	{
-		"Symbol": "PSAU",
-		"Description": "Pshs Gbl Gld & Prc M"
+		"symbol": "PSAU",
+		"description": "Pshs Gbl Gld & Prc M"
 	},
 	{
-		"Symbol": "PSB",
-		"Description": "PS Business Parks, Inc."
+		"symbol": "PSB",
+		"description": "PS Business Parks, Inc."
 	},
 	{
-		"Symbol": "PSB^T",
-		"Description": "PS Business Parks, Inc."
+		"symbol": "PSB^T",
+		"description": "PS Business Parks, Inc."
 	},
 	{
-		"Symbol": "PSB^U",
-		"Description": "PS Business Parks, Inc."
+		"symbol": "PSB^U",
+		"description": "PS Business Parks, Inc."
 	},
 	{
-		"Symbol": "PSB^V",
-		"Description": "PS Business Parks, Inc."
+		"symbol": "PSB^V",
+		"description": "PS Business Parks, Inc."
 	},
 	{
-		"Symbol": "PSB^W",
-		"Description": "PS Business Parks, Inc."
+		"symbol": "PSB^W",
+		"description": "PS Business Parks, Inc."
 	},
 	{
-		"Symbol": "PSC",
-		"Description": "Prospect Resources Ltd"
+		"symbol": "PSC",
+		"description": "Prospect Resources Ltd"
 	},
 	{
-		"Symbol": "PSCC",
-		"Description": "PS S&P Smallcap Consumer Staples"
+		"symbol": "PSCC",
+		"description": "PS S&P Smallcap Consumer Staples"
 	},
 	{
-		"Symbol": "PSCD",
-		"Description": "PS S&P Smallcap Consumer Discretionary"
+		"symbol": "PSCD",
+		"description": "PS S&P Smallcap Consumer Discretionary"
 	},
 	{
-		"Symbol": "PSCE",
-		"Description": "PS S&P Smallcap Energy"
+		"symbol": "PSCE",
+		"description": "PS S&P Smallcap Energy"
 	},
 	{
-		"Symbol": "PSCF",
-		"Description": "PS S&P Smallcap Financials"
+		"symbol": "PSCF",
+		"description": "PS S&P Smallcap Financials"
 	},
 	{
-		"Symbol": "PSCH",
-		"Description": "PS S&P Smallcap Health Care"
+		"symbol": "PSCH",
+		"description": "PS S&P Smallcap Health Care"
 	},
 	{
-		"Symbol": "PSCI",
-		"Description": "PS S&P Smallcap Industrials"
+		"symbol": "PSCI",
+		"description": "PS S&P Smallcap Industrials"
 	},
 	{
-		"Symbol": "PSCM",
-		"Description": "PS S&P Smallcap Materials"
+		"symbol": "PSCM",
+		"description": "PS S&P Smallcap Materials"
 	},
 	{
-		"Symbol": "PSCT",
-		"Description": "PS S&P Smallcap Information Technology"
+		"symbol": "PSCT",
+		"description": "PS S&P Smallcap Information Technology"
 	},
 	{
-		"Symbol": "PSCU",
-		"Description": "PS S&P Smallcap Utilities"
+		"symbol": "PSCU",
+		"description": "PS S&P Smallcap Utilities"
 	},
 	{
-		"Symbol": "PSDV",
-		"Description": "Psivida Corp Com"
+		"symbol": "PSDV",
+		"description": "Psivida Corp Com"
 	},
 	{
-		"Symbol": "PSEC",
-		"Description": "Prospect Capital Cp"
+		"symbol": "PSEC",
+		"description": "Prospect Capital Cp"
 	},
 	{
-		"Symbol": "PSET",
-		"Description": "Prncpl Prce Sttr ETF"
+		"symbol": "PSET",
+		"description": "Prncpl Prce Sttr ETF"
 	},
 	{
-		"Symbol": "PSF",
-		"Description": "Cohen & Steers Select Preferred and Income Fund, Inc."
+		"symbol": "PSF",
+		"description": "Cohen & Steers Select Preferred and Income Fund, Inc."
 	},
 	{
-		"Symbol": "PSIX",
-		"Description": "Power Solutns Itl Cmn"
+		"symbol": "PSIX",
+		"description": "Power Solutns Itl Cmn"
 	},
 	{
-		"Symbol": "PSL",
-		"Description": "Dynamic Consumer Staples Powershares"
+		"symbol": "PSL",
+		"description": "Dynamic Consumer Staples Powershares"
 	},
 	{
-		"Symbol": "PSMT",
-		"Description": "Pricesmart Inc"
+		"symbol": "PSMT",
+		"description": "Pricesmart Inc"
 	},
 	{
-		"Symbol": "PSO",
-		"Description": "Pearson, Plc"
+		"symbol": "PSO",
+		"description": "Pearson, Plc"
 	},
 	{
-		"Symbol": "PSTB",
-		"Description": "Park Sterling Corpor"
+		"symbol": "PSTB",
+		"description": "Park Sterling Corpor"
 	},
 	{
-		"Symbol": "PSTG",
-		"Description": "Pure Storage, Inc."
+		"symbol": "PSTG",
+		"description": "Pure Storage, Inc."
 	},
 	{
-		"Symbol": "PSTI",
-		"Description": "Pluristem Therapeutc"
+		"symbol": "PSTI",
+		"description": "Pluristem Therapeutc"
 	},
 	{
-		"Symbol": "PSX",
-		"Description": "Phillips 66"
+		"symbol": "PSX",
+		"description": "Phillips 66"
 	},
 	{
-		"Symbol": "PSXP",
-		"Description": "Phillips 66 Partners LP"
+		"symbol": "PSXP",
+		"description": "Phillips 66 Partners LP"
 	},
 	{
-		"Symbol": "PTC",
-		"Description": "Ptc Inc"
+		"symbol": "PTC",
+		"description": "Ptc Inc"
 	},
 	{
-		"Symbol": "PTCT",
-		"Description": "Ptc Therapeutics Cmn"
+		"symbol": "PTCT",
+		"description": "Ptc Therapeutics Cmn"
 	},
 	{
-		"Symbol": "PTEN",
-		"Description": "Patterson-Uti Energy"
+		"symbol": "PTEN",
+		"description": "Patterson-Uti Energy"
 	},
 	{
-		"Symbol": "PTF",
-		"Description": "Dynamic Technology Powershares"
+		"symbol": "PTF",
+		"description": "Dynamic Technology Powershares"
 	},
 	{
-		"Symbol": "PTGX",
-		"Description": "Protagonist Therapeutics Inc"
+		"symbol": "PTGX",
+		"description": "Protagonist Therapeutics Inc"
 	},
 	{
-		"Symbol": "PTH",
-		"Description": "Dynamic Healthcare Powershares"
+		"symbol": "PTH",
+		"description": "Dynamic Healthcare Powershares"
 	},
 	{
-		"Symbol": "PTHN",
-		"Description": "Patheon N.V."
+		"symbol": "PTHN",
+		"description": "Patheon N.V."
 	},
 	{
-		"Symbol": "PTI",
-		"Description": "Proteostasis Ther Cmn"
+		"symbol": "PTI",
+		"description": "Proteostasis Ther Cmn"
 	},
 	{
-		"Symbol": "PTIE",
-		"Description": "Pain Therapeutics"
+		"symbol": "PTIE",
+		"description": "Pain Therapeutics"
 	},
 	{
-		"Symbol": "PTLA",
-		"Description": "Portola Pharma Cmn"
+		"symbol": "PTLA",
+		"description": "Portola Pharma Cmn"
 	},
 	{
-		"Symbol": "PTN",
-		"Description": "Palatin Technologies, Inc."
+		"symbol": "PTN",
+		"description": "Palatin Technologies, Inc."
 	},
 	{
-		"Symbol": "PTNR",
-		"Description": "Partner Comm Co Ltd"
+		"symbol": "PTNR",
+		"description": "Partner Comm Co Ltd"
 	},
 	{
-		"Symbol": "PTR",
-		"Description": "PetroChina Company Limited"
+		"symbol": "PTR",
+		"description": "PetroChina Company Limited"
 	},
 	{
-		"Symbol": "PTSI",
-		"Description": "P A M Transport Sv"
+		"symbol": "PTSI",
+		"description": "P A M Transport Sv"
 	},
 	{
-		"Symbol": "PTX",
-		"Description": "Pernix Theraptcs Cmn"
+		"symbol": "PTX",
+		"description": "Pernix Theraptcs Cmn"
 	},
 	{
-		"Symbol": "PTXP",
-		"Description": "Penntex Midstream"
+		"symbol": "PTXP",
+		"description": "Penntex Midstream"
 	},
 	{
-		"Symbol": "PTY",
-		"Description": "Pimco Corporate & Income Opportunity Fund"
+		"symbol": "PTY",
+		"description": "Pimco Corporate & Income Opportunity Fund"
 	},
 	{
-		"Symbol": "PUB",
-		"Description": "Peoples Utah Cmn Stk"
+		"symbol": "PUB",
+		"description": "Peoples Utah Cmn Stk"
 	},
 	{
-		"Symbol": "PUI",
-		"Description": "Dynamic Utilities Powershares"
+		"symbol": "PUI",
+		"description": "Dynamic Utilities Powershares"
 	},
 	{
-		"Symbol": "PUK",
-		"Description": "Prudential Public Limited Company"
+		"symbol": "PUK",
+		"description": "Prudential Public Limited Company"
 	},
 	{
-		"Symbol": "PUK^",
-		"Description": "Prudential Public Limited Company"
+		"symbol": "PUK^",
+		"description": "Prudential Public Limited Company"
 	},
 	{
-		"Symbol": "PUK^A",
-		"Description": "Prudential Public Limited Company"
+		"symbol": "PUK^A",
+		"description": "Prudential Public Limited Company"
 	},
 	{
-		"Symbol": "PULM",
-		"Description": "Pulmatrix Inc"
+		"symbol": "PULM",
+		"description": "Pulmatrix Inc"
 	},
 	{
-		"Symbol": "PVAC",
-		"Description": "Penn Va Corp"
+		"symbol": "PVAC",
+		"description": "Penn Va Corp"
 	},
 	{
-		"Symbol": "PVBC",
-		"Description": "Provident Bancorp CS"
+		"symbol": "PVBC",
+		"description": "Provident Bancorp CS"
 	},
 	{
-		"Symbol": "PVG",
-		"Description": "Pretium Resources, Inc."
+		"symbol": "PVG",
+		"description": "Pretium Resources, Inc."
 	},
 	{
-		"Symbol": "PVH",
-		"Description": "PVH Corp."
+		"symbol": "PVH",
+		"description": "PVH Corp."
 	},
 	{
-		"Symbol": "PVTB",
-		"Description": "Privatebancorp Inc"
+		"symbol": "PVTB",
+		"description": "Privatebancorp Inc"
 	},
 	{
-		"Symbol": "PVTBP",
-		"Description": "Privatebncrp Trst IV"
+		"symbol": "PVTBP",
+		"description": "Privatebncrp Trst IV"
 	},
 	{
-		"Symbol": "PVTD",
-		"Description": "PrivateBancorp, Inc."
+		"symbol": "PVTD",
+		"description": "PrivateBancorp, Inc."
 	},
 	{
-		"Symbol": "PW",
-		"Description": "Power REIT"
+		"symbol": "PW",
+		"description": "Power REIT"
 	},
 	{
-		"Symbol": "PW^A",
-		"Description": "Power REIT"
+		"symbol": "PW^A",
+		"description": "Power REIT"
 	},
 	{
-		"Symbol": "PWE",
-		"Description": "Penn West Petroleum Ltd"
+		"symbol": "PWE",
+		"description": "Penn West Petroleum Ltd"
 	},
 	{
-		"Symbol": "PWOD",
-		"Description": "Penns Woods Bancorp"
+		"symbol": "PWOD",
+		"description": "Penns Woods Bancorp"
 	},
 	{
-		"Symbol": "PWR",
-		"Description": "Quanta Services, Inc."
+		"symbol": "PWR",
+		"description": "Quanta Services, Inc."
 	},
 	{
-		"Symbol": "PX",
-		"Description": "Praxair, Inc."
+		"symbol": "PX",
+		"description": "Praxair, Inc."
 	},
 	{
-		"Symbol": "PXD",
-		"Description": "Pioneer Natural Resources Company"
+		"symbol": "PXD",
+		"description": "Pioneer Natural Resources Company"
 	},
 	{
-		"Symbol": "PXI",
-		"Description": "Dynamic Energy Powershares"
+		"symbol": "PXI",
+		"description": "Dynamic Energy Powershares"
 	},
 	{
-		"Symbol": "PXLW",
-		"Description": "Pixelworks Inc"
+		"symbol": "PXLW",
+		"description": "Pixelworks Inc"
 	},
 	{
-		"Symbol": "PXS",
-		"Description": "Pyxis Tankers Cmn"
+		"symbol": "PXS",
+		"description": "Pyxis Tankers Cmn"
 	},
 	{
-		"Symbol": "PY",
-		"Description": "Prncpl Shrhl Yld ETF"
+		"symbol": "PY",
+		"description": "Prncpl Shrhl Yld ETF"
 	},
 	{
-		"Symbol": "PYDS",
-		"Description": "Payment Data Syst Cmn"
+		"symbol": "PYDS",
+		"description": "Payment Data Syst Cmn"
 	},
 	{
-		"Symbol": "PYN",
-		"Description": "PIMCO New York Municipal Income Fund III"
+		"symbol": "PYN",
+		"description": "PIMCO New York Municipal Income Fund III"
 	},
 	{
-		"Symbol": "PYPL",
-		"Description": "Paypal Holdings"
+		"symbol": "PYPL",
+		"description": "Paypal Holdings"
 	},
 	{
-		"Symbol": "PYS",
-		"Description": "PPlus Trust"
+		"symbol": "PYS",
+		"description": "PPlus Trust"
 	},
 	{
-		"Symbol": "PYT",
-		"Description": "PPlus Trust"
+		"symbol": "PYT",
+		"description": "PPlus Trust"
 	},
 	{
-		"Symbol": "PYZ",
-		"Description": "Dynamic Basic Materials Powershares"
+		"symbol": "PYZ",
+		"description": "Dynamic Basic Materials Powershares"
 	},
 	{
-		"Symbol": "PZC",
-		"Description": "PIMCO California Municipal Income Fund III"
+		"symbol": "PZC",
+		"description": "PIMCO California Municipal Income Fund III"
 	},
 	{
-		"Symbol": "PZE",
-		"Description": "Petrobras Argentina S.A."
+		"symbol": "PZE",
+		"description": "Petrobras Argentina S.A."
 	},
 	{
-		"Symbol": "PZG",
-		"Description": "Paramount Gold Nevada Corp."
+		"symbol": "PZG",
+		"description": "Paramount Gold Nevada Corp."
 	},
 	{
-		"Symbol": "PZN",
-		"Description": "Pzena Investment Management Inc"
+		"symbol": "PZN",
+		"description": "Pzena Investment Management Inc"
 	},
 	{
-		"Symbol": "PZRX",
-		"Description": "Phaserx Inc Cmn"
+		"symbol": "PZRX",
+		"description": "Phaserx Inc Cmn"
 	},
 	{
-		"Symbol": "PZZA",
-		"Description": "Papa John's Intl"
+		"symbol": "PZZA",
+		"description": "Papa John's Intl"
 	},
 	{
-		"Symbol": "Q",
-		"Description": "Quintiles IMS Holdings, Inc."
+		"symbol": "Q",
+		"description": "Quintiles IMS Holdings, Inc."
 	},
 	{
-		"Symbol": "QABA",
-		"Description": "Qtec First Trust ETF"
+		"symbol": "QABA",
+		"description": "Qtec First Trust ETF"
 	},
 	{
-		"Symbol": "QADA",
-		"Description": "Qad Inc"
+		"symbol": "QADA",
+		"description": "Qad Inc"
 	},
 	{
-		"Symbol": "QADB",
-		"Description": "Q A D Inc Cl B"
+		"symbol": "QADB",
+		"description": "Q A D Inc Cl B"
 	},
 	{
-		"Symbol": "QAT",
-		"Description": "Ishrs MSCI Qatar Cp"
+		"symbol": "QAT",
+		"description": "Ishrs MSCI Qatar Cp"
 	},
 	{
-		"Symbol": "QBAK",
-		"Description": "Qualstar Corp"
+		"symbol": "QBAK",
+		"description": "Qualstar Corp"
 	},
 	{
-		"Symbol": "QCLN",
-		"Description": "First Trust Cl Edg Grn"
+		"symbol": "QCLN",
+		"description": "First Trust Cl Edg Grn"
 	},
 	{
-		"Symbol": "QCOM",
-		"Description": "Qualcomm Inc"
+		"symbol": "QCOM",
+		"description": "Qualcomm Inc"
 	},
 	{
-		"Symbol": "QCP",
-		"Description": "Quality Care Properties, Inc."
+		"symbol": "QCP",
+		"description": "Quality Care Properties, Inc."
 	},
 	{
-		"Symbol": "QCRH",
-		"Description": "Qcr Holdings Inc"
+		"symbol": "QCRH",
+		"description": "Qcr Holdings Inc"
 	},
 	{
-		"Symbol": "QDEL",
-		"Description": "Quidel Cp"
+		"symbol": "QDEL",
+		"description": "Quidel Cp"
 	},
 	{
-		"Symbol": "QEP",
-		"Description": "QEP Resources, Inc."
+		"symbol": "QEP",
+		"description": "QEP Resources, Inc."
 	},
 	{
-		"Symbol": "QGEN",
-		"Description": "Qiagen N.V."
+		"symbol": "QGEN",
+		"description": "Qiagen N.V."
 	},
 	{
-		"Symbol": "QHC",
-		"Description": "Quorum Health Corporation"
+		"symbol": "QHC",
+		"description": "Quorum Health Corporation"
 	},
 	{
-		"Symbol": "QINC",
-		"Description": "First TR Rba Ql ETF"
+		"symbol": "QINC",
+		"description": "First TR Rba Ql ETF"
 	},
 	{
-		"Symbol": "QIWI",
-		"Description": "Qiwi Plc ADR"
+		"symbol": "QIWI",
+		"description": "Qiwi Plc ADR"
 	},
 	{
-		"Symbol": "QLC",
-		"Description": "Flxshrs US Ql Lg Cap"
+		"symbol": "QLC",
+		"description": "Flxshrs US Ql Lg Cap"
 	},
 	{
-		"Symbol": "QLYS",
-		"Description": "Qualys Inc"
+		"symbol": "QLYS",
+		"description": "Qualys Inc"
 	},
 	{
-		"Symbol": "QNST",
-		"Description": "Quinstreet Inc"
+		"symbol": "QNST",
+		"description": "Quinstreet Inc"
 	},
 	{
-		"Symbol": "QPAC",
-		"Description": "Quinpario Acq2 Com"
+		"symbol": "QPAC",
+		"description": "Quinpario Acq2 Com"
 	},
 	{
-		"Symbol": "QPACU",
-		"Description": "Quinpario Acq 2 Unit"
+		"symbol": "QPACU",
+		"description": "Quinpario Acq 2 Unit"
 	},
 	{
-		"Symbol": "QPACW",
-		"Description": "Quinpario Acq2 Wrnt"
+		"symbol": "QPACW",
+		"description": "Quinpario Acq2 Wrnt"
 	},
 	{
-		"Symbol": "QQEW",
-		"Description": "First Trust Nasdaq-1"
+		"symbol": "QQEW",
+		"description": "First Trust Nasdaq-1"
 	},
 	{
-		"Symbol": "QQQ",
-		"Description": "Powershares QQQ"
+		"symbol": "QQQ",
+		"description": "Powershares QQQ"
 	},
 	{
-		"Symbol": "QQQC",
-		"Description": "Global X Nasdaq Chin"
+		"symbol": "QQQC",
+		"description": "Global X Nasdaq Chin"
 	},
 	{
-		"Symbol": "QQQX",
-		"Description": "Nuveen Nasdaq 100"
+		"symbol": "QQQX",
+		"description": "Nuveen Nasdaq 100"
 	},
 	{
-		"Symbol": "QQXT",
-		"Description": "First Trust Ex Tech"
+		"symbol": "QQXT",
+		"description": "First Trust Ex Tech"
 	},
 	{
-		"Symbol": "QRHC",
-		"Description": "Quest Resource Cmn"
+		"symbol": "QRHC",
+		"description": "Quest Resource Cmn"
 	},
 	{
-		"Symbol": "QRVO",
-		"Description": "Qorvo Inc Cmn"
+		"symbol": "QRVO",
+		"description": "Qorvo Inc Cmn"
 	},
 	{
-		"Symbol": "QSII",
-		"Description": "Quality Systems Inc"
+		"symbol": "QSII",
+		"description": "Quality Systems Inc"
 	},
 	{
-		"Symbol": "QSR",
-		"Description": "Restaurant Brands International Inc."
+		"symbol": "QSR",
+		"description": "Restaurant Brands International Inc."
 	},
 	{
-		"Symbol": "QTEC",
-		"Description": "First Trust Nasdaq-1"
+		"symbol": "QTEC",
+		"description": "First Trust Nasdaq-1"
 	},
 	{
-		"Symbol": "QTM",
-		"Description": "Quantum Corporation"
+		"symbol": "QTM",
+		"description": "Quantum Corporation"
 	},
 	{
-		"Symbol": "QTNA",
-		"Description": "Quantenna Communications Inc"
+		"symbol": "QTNA",
+		"description": "Quantenna Communications Inc"
 	},
 	{
-		"Symbol": "QTNT",
-		"Description": "Quotient Limited Ord"
+		"symbol": "QTNT",
+		"description": "Quotient Limited Ord"
 	},
 	{
-		"Symbol": "QTS",
-		"Description": "QTS Realty Trust, Inc."
+		"symbol": "QTS",
+		"description": "QTS Realty Trust, Inc."
 	},
 	{
-		"Symbol": "QTWO",
-		"Description": "Q2 Holdings, Inc."
+		"symbol": "QTWO",
+		"description": "Q2 Holdings, Inc."
 	},
 	{
-		"Symbol": "QUAD",
-		"Description": "Quad Graphics, Inc"
+		"symbol": "QUAD",
+		"description": "Quad Graphics, Inc"
 	},
 	{
-		"Symbol": "QUIK",
-		"Description": "Quicklogic Corp"
+		"symbol": "QUIK",
+		"description": "Quicklogic Corp"
 	},
 	{
-		"Symbol": "QUMU",
-		"Description": "Qumu Corporation"
+		"symbol": "QUMU",
+		"description": "Qumu Corporation"
 	},
 	{
-		"Symbol": "QUNR",
-		"Description": "Qunar Cayman Isl Ads"
+		"symbol": "QUNR",
+		"description": "Qunar Cayman Isl Ads"
 	},
 	{
-		"Symbol": "QUOT",
-		"Description": "Quotient Technology Inc."
+		"symbol": "QUOT",
+		"description": "Quotient Technology Inc."
 	},
 	{
-		"Symbol": "QURE",
-		"Description": "Uniqure N.V."
+		"symbol": "QURE",
+		"description": "Uniqure N.V."
 	},
 	{
-		"Symbol": "QVCA",
-		"Description": "Liberty Int Qvc Sr A"
+		"symbol": "QVCA",
+		"description": "Liberty Int Qvc Sr A"
 	},
 	{
-		"Symbol": "QVCB",
-		"Description": "Liberty Int Qvc Sr B"
+		"symbol": "QVCB",
+		"description": "Liberty Int Qvc Sr B"
 	},
 	{
-		"Symbol": "QYLD",
-		"Description": "Recon Nq100 Cv Call"
+		"symbol": "QYLD",
+		"description": "Recon Nq100 Cv Call"
 	},
 	{
-		"Symbol": "R",
-		"Description": "Ryder System, Inc."
+		"symbol": "R",
+		"description": "Ryder System, Inc."
 	},
 	{
-		"Symbol": "RA",
-		"Description": "Brookfield Real Assets Income Fund Inc."
+		"symbol": "RA",
+		"description": "Brookfield Real Assets Income Fund Inc."
 	},
 	{
-		"Symbol": "RACE",
-		"Description": "Ferrari N.V."
+		"symbol": "RACE",
+		"description": "Ferrari N.V."
 	},
 	{
-		"Symbol": "RAD",
-		"Description": "Rite Aid Corporation"
+		"symbol": "RAD",
+		"description": "Rite Aid Corporation"
 	},
 	{
-		"Symbol": "RADA",
-		"Description": "Rada Electr Inds Ltd"
+		"symbol": "RADA",
+		"description": "Rada Electr Inds Ltd"
 	},
 	{
-		"Symbol": "RAI",
-		"Description": "Reynolds American Inc"
+		"symbol": "RAI",
+		"description": "Reynolds American Inc"
 	},
 	{
-		"Symbol": "RAIL",
-		"Description": "Freightcar America"
+		"symbol": "RAIL",
+		"description": "Freightcar America"
 	},
 	{
-		"Symbol": "RAND",
-		"Description": "Rand Capital Cp"
+		"symbol": "RAND",
+		"description": "Rand Capital Cp"
 	},
 	{
-		"Symbol": "RARE",
-		"Description": "Ultragenyx Pharmaceu"
+		"symbol": "RARE",
+		"description": "Ultragenyx Pharmaceu"
 	},
 	{
-		"Symbol": "RARX",
-		"Description": "Ra Pharmaceuticals Inc"
+		"symbol": "RARX",
+		"description": "Ra Pharmaceuticals Inc"
 	},
 	{
-		"Symbol": "RAS",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RAS",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RAS^A",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RAS^A",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RAS^B",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RAS^B",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RAS^C",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RAS^C",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RATE",
-		"Description": "Bankrate, Inc."
+		"symbol": "RATE",
+		"description": "Bankrate, Inc."
 	},
 	{
-		"Symbol": "RAVE",
-		"Description": "Rave Restaurant Grp"
+		"symbol": "RAVE",
+		"description": "Rave Restaurant Grp"
 	},
 	{
-		"Symbol": "RAVN",
-		"Description": "Raven Industries Inc"
+		"symbol": "RAVN",
+		"description": "Raven Industries Inc"
 	},
 	{
-		"Symbol": "RBA",
-		"Description": "Ritchie Bros. Auctioneers Incorporated"
+		"symbol": "RBA",
+		"description": "Ritchie Bros. Auctioneers Incorporated"
 	},
 	{
-		"Symbol": "RBC",
-		"Description": "Regal Beloit Corporation"
+		"symbol": "RBC",
+		"description": "Regal Beloit Corporation"
 	},
 	{
-		"Symbol": "RBCAA",
-		"Description": "Republic Bancorp Inc"
+		"symbol": "RBCAA",
+		"description": "Republic Bancorp Inc"
 	},
 	{
-		"Symbol": "RBCN",
-		"Description": "Rubicon Technology"
+		"symbol": "RBCN",
+		"description": "Rubicon Technology"
 	},
 	{
-		"Symbol": "RBPAA",
-		"Description": "Royal Bncsh of Pa"
+		"symbol": "RBPAA",
+		"description": "Royal Bncsh of Pa"
 	},
 	{
-		"Symbol": "RBS",
-		"Description": "Royal Bank Scotland plc "
+		"symbol": "RBS",
+		"description": "Royal Bank Scotland plc "
 	},
 	{
-		"Symbol": "RBS^F",
-		"Description": "Royal Bank Scotland plc "
+		"symbol": "RBS^F",
+		"description": "Royal Bank Scotland plc "
 	},
 	{
-		"Symbol": "RBS^H",
-		"Description": "Royal Bank Scotland plc "
+		"symbol": "RBS^H",
+		"description": "Royal Bank Scotland plc "
 	},
 	{
-		"Symbol": "RBS^L",
-		"Description": "Royal Bank Scotland plc "
+		"symbol": "RBS^L",
+		"description": "Royal Bank Scotland plc "
 	},
 	{
-		"Symbol": "RBS^S",
-		"Description": "Royal Bank Scotland plc "
+		"symbol": "RBS^S",
+		"description": "Royal Bank Scotland plc "
 	},
 	{
-		"Symbol": "RCG",
-		"Description": "RENN Fund, Inc."
+		"symbol": "RCG",
+		"description": "RENN Fund, Inc."
 	},
 	{
-		"Symbol": "RCI",
-		"Description": "Rogers Communication, Inc."
+		"symbol": "RCI",
+		"description": "Rogers Communication, Inc."
 	},
 	{
-		"Symbol": "RCII",
-		"Description": "Rent-A-Center Inc"
+		"symbol": "RCII",
+		"description": "Rent-A-Center Inc"
 	},
 	{
-		"Symbol": "RCKY",
-		"Description": "Rocky Brands Inc"
+		"symbol": "RCKY",
+		"description": "Rocky Brands Inc"
 	},
 	{
-		"Symbol": "RCL",
-		"Description": "Royal Caribbean Cruises Ltd."
+		"symbol": "RCL",
+		"description": "Royal Caribbean Cruises Ltd."
 	},
 	{
-		"Symbol": "RCMT",
-		"Description": "R C M Tech Inc"
+		"symbol": "RCMT",
+		"description": "R C M Tech Inc"
 	},
 	{
-		"Symbol": "RCON",
-		"Description": "Recon Technology Lt"
+		"symbol": "RCON",
+		"description": "Recon Technology Lt"
 	},
 	{
-		"Symbol": "RCS",
-		"Description": "PIMCO Strategic Income Fund, Inc."
+		"symbol": "RCS",
+		"description": "PIMCO Strategic Income Fund, Inc."
 	},
 	{
-		"Symbol": "RDC",
-		"Description": "Rowan Companies plc"
+		"symbol": "RDC",
+		"description": "Rowan Companies plc"
 	},
 	{
-		"Symbol": "RDCM",
-		"Description": "Radcom Ltd"
+		"symbol": "RDCM",
+		"description": "Radcom Ltd"
 	},
 	{
-		"Symbol": "RDHL",
-		"Description": "Redhill Biophrma ADR"
+		"symbol": "RDHL",
+		"description": "Redhill Biophrma ADR"
 	},
 	{
-		"Symbol": "RDI",
-		"Description": "Reading Intl Cl A"
+		"symbol": "RDI",
+		"description": "Reading Intl Cl A"
 	},
 	{
-		"Symbol": "RDIB",
-		"Description": "Reading Intl Cl B"
+		"symbol": "RDIB",
+		"description": "Reading Intl Cl B"
 	},
 	{
-		"Symbol": "RDN",
-		"Description": "Radian Group Inc."
+		"symbol": "RDN",
+		"description": "Radian Group Inc."
 	},
 	{
-		"Symbol": "RDNT",
-		"Description": "Radnet Inc"
+		"symbol": "RDNT",
+		"description": "Radnet Inc"
 	},
 	{
-		"Symbol": "RDS.A",
-		"Description": "Royal Dutch Shell PLC"
+		"symbol": "RDS.A",
+		"description": "Royal Dutch Shell PLC"
 	},
 	{
-		"Symbol": "RDS.B",
-		"Description": "Royal Dutch Shell PLC"
+		"symbol": "RDS.B",
+		"description": "Royal Dutch Shell PLC"
 	},
 	{
-		"Symbol": "RDUS",
-		"Description": "Radius Health Cmn"
+		"symbol": "RDUS",
+		"description": "Radius Health Cmn"
 	},
 	{
-		"Symbol": "RDVY",
-		"Description": "First Trust ETF Vi"
+		"symbol": "RDVY",
+		"description": "First Trust ETF Vi"
 	},
 	{
-		"Symbol": "RDWR",
-		"Description": "Radware Ltd"
+		"symbol": "RDWR",
+		"description": "Radware Ltd"
 	},
 	{
-		"Symbol": "RDY",
-		"Description": "Dr. Reddys Laboratories Ltd"
+		"symbol": "RDY",
+		"description": "Dr. Reddys Laboratories Ltd"
 	},
 	{
-		"Symbol": "RE",
-		"Description": "Everest Re Group, Ltd."
+		"symbol": "RE",
+		"description": "Everest Re Group, Ltd."
 	},
 	{
-		"Symbol": "RECN",
-		"Description": "Resources Connect"
+		"symbol": "RECN",
+		"description": "Resources Connect"
 	},
 	{
-		"Symbol": "REED",
-		"Description": "Reeds, Inc."
+		"symbol": "REED",
+		"description": "Reeds, Inc."
 	},
 	{
-		"Symbol": "REFR",
-		"Description": "Research Frontiers"
+		"symbol": "REFR",
+		"description": "Research Frontiers"
 	},
 	{
-		"Symbol": "REG",
-		"Description": "Regency Centers Corporation"
+		"symbol": "REG",
+		"description": "Regency Centers Corporation"
 	},
 	{
-		"Symbol": "REG^F.CL",
-		"Description": "Regency Centers Corporation"
+		"symbol": "REG^F.CL",
+		"description": "Regency Centers Corporation"
 	},
 	{
-		"Symbol": "REG^G",
-		"Description": "Regency Centers Corporation"
+		"symbol": "REG^G",
+		"description": "Regency Centers Corporation"
 	},
 	{
-		"Symbol": "REGI",
-		"Description": "Renewable Energy"
+		"symbol": "REGI",
+		"description": "Renewable Energy"
 	},
 	{
-		"Symbol": "REGN",
-		"Description": "Regeneron Pharmaceutical"
+		"symbol": "REGN",
+		"description": "Regeneron Pharmaceutical"
 	},
 	{
-		"Symbol": "REI",
-		"Description": "Ring Energy, Inc."
+		"symbol": "REI",
+		"description": "Ring Energy, Inc."
 	},
 	{
-		"Symbol": "REIS",
-		"Description": "Reis Inc"
+		"symbol": "REIS",
+		"description": "Reis Inc"
 	},
 	{
-		"Symbol": "RELL",
-		"Description": "Richardson Electrncs"
+		"symbol": "RELL",
+		"description": "Richardson Electrncs"
 	},
 	{
-		"Symbol": "RELV",
-		"Description": "Reliv Intl Inc"
+		"symbol": "RELV",
+		"description": "Reliv Intl Inc"
 	},
 	{
-		"Symbol": "RELX",
-		"Description": "RELX PLC"
+		"symbol": "RELX",
+		"description": "RELX PLC"
 	},
 	{
-		"Symbol": "RELY",
-		"Description": "Real Industry Cmn"
+		"symbol": "RELY",
+		"description": "Real Industry Cmn"
 	},
 	{
-		"Symbol": "REN",
-		"Description": "Resolute Energy Corporation"
+		"symbol": "REN",
+		"description": "Resolute Energy Corporation"
 	},
 	{
-		"Symbol": "RENN",
-		"Description": "Renren Inc."
+		"symbol": "RENN",
+		"description": "Renren Inc."
 	},
 	{
-		"Symbol": "RENX",
-		"Description": "RELX N.V."
+		"symbol": "RENX",
+		"description": "RELX N.V."
 	},
 	{
-		"Symbol": "REPH",
-		"Description": "Recro Pharma Inc"
+		"symbol": "REPH",
+		"description": "Recro Pharma Inc"
 	},
 	{
-		"Symbol": "RES",
-		"Description": "RPC, Inc."
+		"symbol": "RES",
+		"description": "RPC, Inc."
 	},
 	{
-		"Symbol": "RESI",
-		"Description": "Altisource Residential Corporation"
+		"symbol": "RESI",
+		"description": "Altisource Residential Corporation"
 	},
 	{
-		"Symbol": "RESN",
-		"Description": "Resonant Inc Cmn Stk"
+		"symbol": "RESN",
+		"description": "Resonant Inc Cmn Stk"
 	},
 	{
-		"Symbol": "RETA",
-		"Description": "Reata Pharma Cla  Cmn"
+		"symbol": "RETA",
+		"description": "Reata Pharma Cla  Cmn"
 	},
 	{
-		"Symbol": "REV",
-		"Description": "Revlon, Inc."
+		"symbol": "REV",
+		"description": "Revlon, Inc."
 	},
 	{
-		"Symbol": "REVG",
-		"Description": "REV Group, Inc."
+		"symbol": "REVG",
+		"description": "REV Group, Inc."
 	},
 	{
-		"Symbol": "REX",
-		"Description": "REX American Resources Corporation"
+		"symbol": "REX",
+		"description": "REX American Resources Corporation"
 	},
 	{
-		"Symbol": "REXR",
-		"Description": "Rexford Industrial Realty, Inc."
+		"symbol": "REXR",
+		"description": "Rexford Industrial Realty, Inc."
 	},
 	{
-		"Symbol": "REXR^A",
-		"Description": "Rexford Industrial Realty, Inc."
+		"symbol": "REXR^A",
+		"description": "Rexford Industrial Realty, Inc."
 	},
 	{
-		"Symbol": "REXX",
-		"Description": "Rex Energy Corporati"
+		"symbol": "REXX",
+		"description": "Rex Energy Corporati"
 	},
 	{
-		"Symbol": "RF",
-		"Description": "Regions Financial Corporation"
+		"symbol": "RF",
+		"description": "Regions Financial Corporation"
 	},
 	{
-		"Symbol": "RF^A",
-		"Description": "Regions Financial Corporation"
+		"symbol": "RF^A",
+		"description": "Regions Financial Corporation"
 	},
 	{
-		"Symbol": "RF^B",
-		"Description": "Regions Financial Corporation"
+		"symbol": "RF^B",
+		"description": "Regions Financial Corporation"
 	},
 	{
-		"Symbol": "RFAP",
-		"Description": "Fst Tst Rvrfrt Dy Ap"
+		"symbol": "RFAP",
+		"description": "Fst Tst Rvrfrt Dy Ap"
 	},
 	{
-		"Symbol": "RFDI",
-		"Description": "First Trust Rvfrnt Ddi"
+		"symbol": "RFDI",
+		"description": "First Trust Rvfrnt Ddi"
 	},
 	{
-		"Symbol": "RFEM",
-		"Description": "First Trust Riverfront Dynamic"
+		"symbol": "RFEM",
+		"description": "First Trust Riverfront Dynamic"
 	},
 	{
-		"Symbol": "RFEU",
-		"Description": "First Trust Rvrfr Dy EU"
+		"symbol": "RFEU",
+		"description": "First Trust Rvrfr Dy EU"
 	},
 	{
-		"Symbol": "RFI",
-		"Description": "Cohen & Steers Total Return Realty Fund, Inc."
+		"symbol": "RFI",
+		"description": "Cohen & Steers Total Return Realty Fund, Inc."
 	},
 	{
-		"Symbol": "RFIL",
-		"Description": "RF Industries Ltd"
+		"symbol": "RFIL",
+		"description": "RF Industries Ltd"
 	},
 	{
-		"Symbol": "RFP",
-		"Description": "Resolute Forest Products Inc."
+		"symbol": "RFP",
+		"description": "Resolute Forest Products Inc."
 	},
 	{
-		"Symbol": "RFT",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RFT",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RFTA",
-		"Description": "RAIT Financial Trust"
+		"symbol": "RFTA",
+		"description": "RAIT Financial Trust"
 	},
 	{
-		"Symbol": "RGA",
-		"Description": "Reinsurance Group of America, Incorporated"
+		"symbol": "RGA",
+		"description": "Reinsurance Group of America, Incorporated"
 	},
 	{
-		"Symbol": "RGC",
-		"Description": "Regal Entertainment Group"
+		"symbol": "RGC",
+		"description": "Regal Entertainment Group"
 	},
 	{
-		"Symbol": "RGCO",
-		"Description": "Rgc Resources Inc"
+		"symbol": "RGCO",
+		"description": "Rgc Resources Inc"
 	},
 	{
-		"Symbol": "RGEN",
-		"Description": "Repligen Cp"
+		"symbol": "RGEN",
+		"description": "Repligen Cp"
 	},
 	{
-		"Symbol": "RGLD",
-		"Description": "Royal Gold Inc"
+		"symbol": "RGLD",
+		"description": "Royal Gold Inc"
 	},
 	{
-		"Symbol": "RGLS",
-		"Description": "Regulus Therapeutics"
+		"symbol": "RGLS",
+		"description": "Regulus Therapeutics"
 	},
 	{
-		"Symbol": "RGNX",
-		"Description": "Regenxbio Inc Cmn"
+		"symbol": "RGNX",
+		"description": "Regenxbio Inc Cmn"
 	},
 	{
-		"Symbol": "RGR",
-		"Description": "Sturm, Ruger & Company, Inc."
+		"symbol": "RGR",
+		"description": "Sturm, Ruger & Company, Inc."
 	},
 	{
-		"Symbol": "RGS",
-		"Description": "Regis Corporation"
+		"symbol": "RGS",
+		"description": "Regis Corporation"
 	},
 	{
-		"Symbol": "RGSE",
-		"Description": "Real Goods Solar Inc"
+		"symbol": "RGSE",
+		"description": "Real Goods Solar Inc"
 	},
 	{
-		"Symbol": "RGT",
-		"Description": "Royce Global Value Trust, Inc."
+		"symbol": "RGT",
+		"description": "Royce Global Value Trust, Inc."
 	},
 	{
-		"Symbol": "RH",
-		"Description": "RH"
+		"symbol": "RH",
+		"description": "RH"
 	},
 	{
-		"Symbol": "RHI",
-		"Description": "Robert Half International Inc."
+		"symbol": "RHI",
+		"description": "Robert Half International Inc."
 	},
 	{
-		"Symbol": "RHP",
-		"Description": "Ryman Hospitality Properties, Inc."
+		"symbol": "RHP",
+		"description": "Ryman Hospitality Properties, Inc."
 	},
 	{
-		"Symbol": "RHT",
-		"Description": "Red Hat, Inc."
+		"symbol": "RHT",
+		"description": "Red Hat, Inc."
 	},
 	{
-		"Symbol": "RIBT",
-		"Description": "Ricebran Technologie"
+		"symbol": "RIBT",
+		"description": "Ricebran Technologie"
 	},
 	{
-		"Symbol": "RIBTW",
-		"Description": "Ricebrantech Warrant"
+		"symbol": "RIBTW",
+		"description": "Ricebrantech Warrant"
 	},
 	{
-		"Symbol": "RIC",
-		"Description": "Richmont Mines, Inc."
+		"symbol": "RIC",
+		"description": "Richmont Mines, Inc."
 	},
 	{
-		"Symbol": "RICE",
-		"Description": "Rice Energy Inc."
+		"symbol": "RICE",
+		"description": "Rice Energy Inc."
 	},
 	{
-		"Symbol": "RICK",
-		"Description": "RCI Hospitality Hold"
+		"symbol": "RICK",
+		"description": "RCI Hospitality Hold"
 	},
 	{
-		"Symbol": "RIF",
-		"Description": "RMR Real Estate Income Fund"
+		"symbol": "RIF",
+		"description": "RMR Real Estate Income Fund"
 	},
 	{
-		"Symbol": "RIG",
-		"Description": "Transocean Ltd."
+		"symbol": "RIG",
+		"description": "Transocean Ltd."
 	},
 	{
-		"Symbol": "RIGL",
-		"Description": "Rigel Pharmaceutical"
+		"symbol": "RIGL",
+		"description": "Rigel Pharmaceutical"
 	},
 	{
-		"Symbol": "RILY",
-		"Description": "B. Riley Financl Cmn"
+		"symbol": "RILY",
+		"description": "B. Riley Financl Cmn"
 	},
 	{
-		"Symbol": "RILYL",
-		"Description": "B. Riley Financial Inc"
+		"symbol": "RILYL",
+		"description": "B. Riley Financial Inc"
 	},
 	{
-		"Symbol": "RIO",
-		"Description": "Rio Tinto Plc"
+		"symbol": "RIO",
+		"description": "Rio Tinto Plc"
 	},
 	{
-		"Symbol": "RIV",
-		"Description": "RiverNorth Opportunities Fund, Inc."
+		"symbol": "RIV",
+		"description": "RiverNorth Opportunities Fund, Inc."
 	},
 	{
-		"Symbol": "RJD.CL",
-		"Description": "Raymond James Financial, Inc."
+		"symbol": "RJD.CL",
+		"description": "Raymond James Financial, Inc."
 	},
 	{
-		"Symbol": "RJF",
-		"Description": "Raymond James Financial, Inc."
+		"symbol": "RJF",
+		"description": "Raymond James Financial, Inc."
 	},
 	{
-		"Symbol": "RKDA",
-		"Description": "Arcadia Bio Cmn Stk"
+		"symbol": "RKDA",
+		"description": "Arcadia Bio Cmn Stk"
 	},
 	{
-		"Symbol": "RL",
-		"Description": "Ralph Lauren Corporation"
+		"symbol": "RL",
+		"description": "Ralph Lauren Corporation"
 	},
 	{
-		"Symbol": "RLGT",
-		"Description": "Radiant Logistics, Inc."
+		"symbol": "RLGT",
+		"description": "Radiant Logistics, Inc."
 	},
 	{
-		"Symbol": "RLGT^A",
-		"Description": "Radiant Logistics, Inc."
+		"symbol": "RLGT^A",
+		"description": "Radiant Logistics, Inc."
 	},
 	{
-		"Symbol": "RLGY",
-		"Description": "Realogy Holdings Corp."
+		"symbol": "RLGY",
+		"description": "Realogy Holdings Corp."
 	},
 	{
-		"Symbol": "RLH",
-		"Description": "Red Lion Hotels Corporation"
+		"symbol": "RLH",
+		"description": "Red Lion Hotels Corporation"
 	},
 	{
-		"Symbol": "RLI",
-		"Description": "RLI Corp."
+		"symbol": "RLI",
+		"description": "RLI Corp."
 	},
 	{
-		"Symbol": "RLJ",
-		"Description": "RLJ Lodging Trust"
+		"symbol": "RLJ",
+		"description": "RLJ Lodging Trust"
 	},
 	{
-		"Symbol": "RLJE",
-		"Description": "Rlj Entertainment"
+		"symbol": "RLJE",
+		"description": "Rlj Entertainment"
 	},
 	{
-		"Symbol": "RLOG",
-		"Description": "Rand Logistics Inc"
+		"symbol": "RLOG",
+		"description": "Rand Logistics Inc"
 	},
 	{
-		"Symbol": "RM",
-		"Description": "Regional Management Corp."
+		"symbol": "RM",
+		"description": "Regional Management Corp."
 	},
 	{
-		"Symbol": "RMAX",
-		"Description": "RE/MAX Holdings, Inc."
+		"symbol": "RMAX",
+		"description": "RE/MAX Holdings, Inc."
 	},
 	{
-		"Symbol": "RMBS",
-		"Description": "Rambus Inc"
+		"symbol": "RMBS",
+		"description": "Rambus Inc"
 	},
 	{
-		"Symbol": "RMCF",
-		"Description": "Rocky Mt Chocolate"
+		"symbol": "RMCF",
+		"description": "Rocky Mt Chocolate"
 	},
 	{
-		"Symbol": "RMD",
-		"Description": "ResMed Inc."
+		"symbol": "RMD",
+		"description": "ResMed Inc."
 	},
 	{
-		"Symbol": "RMGN",
-		"Description": "Rmg Networks Holding"
+		"symbol": "RMGN",
+		"description": "Rmg Networks Holding"
 	},
 	{
-		"Symbol": "RMP",
-		"Description": "Rice Midstream Partners LP"
+		"symbol": "RMP",
+		"description": "Rice Midstream Partners LP"
 	},
 	{
-		"Symbol": "RMR",
-		"Description": " Rmr Grp A Cmn"
+		"symbol": "RMR",
+		"description": " Rmr Grp A Cmn"
 	},
 	{
-		"Symbol": "RMT",
-		"Description": "Royce Micro-Cap Trust, Inc."
+		"symbol": "RMT",
+		"description": "Royce Micro-Cap Trust, Inc."
 	},
 	{
-		"Symbol": "RMTI",
-		"Description": "Rockwell Medical In"
+		"symbol": "RMTI",
+		"description": "Rockwell Medical In"
 	},
 	{
-		"Symbol": "RNDB",
-		"Description": "Randolph Bancorp Inc"
+		"symbol": "RNDB",
+		"description": "Randolph Bancorp Inc"
 	},
 	{
-		"Symbol": "RNET",
-		"Description": "Rignet Inc"
+		"symbol": "RNET",
+		"description": "Rignet Inc"
 	},
 	{
-		"Symbol": "RNG",
-		"Description": "Ringcentral, Inc."
+		"symbol": "RNG",
+		"description": "Ringcentral, Inc."
 	},
 	{
-		"Symbol": "RNN",
-		"Description": "Rexahn Pharmaceuticals, Inc."
+		"symbol": "RNN",
+		"description": "Rexahn Pharmaceuticals, Inc."
 	},
 	{
-		"Symbol": "RNP",
-		"Description": "Cohen & Steers Reit and Preferred Income Fund Inc"
+		"symbol": "RNP",
+		"description": "Cohen & Steers Reit and Preferred Income Fund Inc"
 	},
 	{
-		"Symbol": "RNR",
-		"Description": "RenaissanceRe Holdings Ltd."
+		"symbol": "RNR",
+		"description": "RenaissanceRe Holdings Ltd."
 	},
 	{
-		"Symbol": "RNR^C",
-		"Description": "RenaissanceRe Holdings Ltd."
+		"symbol": "RNR^C",
+		"description": "RenaissanceRe Holdings Ltd."
 	},
 	{
-		"Symbol": "RNR^E",
-		"Description": "RenaissanceRe Holdings Ltd."
+		"symbol": "RNR^E",
+		"description": "RenaissanceRe Holdings Ltd."
 	},
 	{
-		"Symbol": "RNST",
-		"Description": "Renasant Corporation"
+		"symbol": "RNST",
+		"description": "Renasant Corporation"
 	},
 	{
-		"Symbol": "RNVA",
-		"Description": "Rennova Health Inc"
+		"symbol": "RNVA",
+		"description": "Rennova Health Inc"
 	},
 	{
-		"Symbol": "RNVAZ",
-		"Description": "Rennova Health Inc Wt"
+		"symbol": "RNVAZ",
+		"description": "Rennova Health Inc Wt"
 	},
 	{
-		"Symbol": "RNWK",
-		"Description": "Realnetworks Inc"
+		"symbol": "RNWK",
+		"description": "Realnetworks Inc"
 	},
 	{
-		"Symbol": "ROBO",
-		"Description": "Robo Glb Rob"
+		"symbol": "ROBO",
+		"description": "Robo Glb Rob"
 	},
 	{
-		"Symbol": "ROCK",
-		"Description": "Gibraltar Ind Inc"
+		"symbol": "ROCK",
+		"description": "Gibraltar Ind Inc"
 	},
 	{
-		"Symbol": "ROG",
-		"Description": "Rogers Corporation"
+		"symbol": "ROG",
+		"description": "Rogers Corporation"
 	},
 	{
-		"Symbol": "ROIA",
-		"Description": "Radio One Inc"
+		"symbol": "ROIA",
+		"description": "Radio One Inc"
 	},
 	{
-		"Symbol": "ROIAK",
-		"Description": "Radio One Inc Cl D"
+		"symbol": "ROIAK",
+		"description": "Radio One Inc Cl D"
 	},
 	{
-		"Symbol": "ROIC",
-		"Description": "Retail Opp Invts Cp"
+		"symbol": "ROIC",
+		"description": "Retail Opp Invts Cp"
 	},
 	{
-		"Symbol": "ROK",
-		"Description": "Rockwell Automation, Inc."
+		"symbol": "ROK",
+		"description": "Rockwell Automation, Inc."
 	},
 	{
-		"Symbol": "ROKA",
-		"Description": "Roka Bioscience Inc"
+		"symbol": "ROKA",
+		"description": "Roka Bioscience Inc"
 	},
 	{
-		"Symbol": "ROL",
-		"Description": "Rollins, Inc."
+		"symbol": "ROL",
+		"description": "Rollins, Inc."
 	},
 	{
-		"Symbol": "ROLL",
-		"Description": "RBC Bearings Incorp"
+		"symbol": "ROLL",
+		"description": "RBC Bearings Incorp"
 	},
 	{
-		"Symbol": "ROP",
-		"Description": "Roper Technologies, Inc."
+		"symbol": "ROP",
+		"description": "Roper Technologies, Inc."
 	},
 	{
-		"Symbol": "ROSG",
-		"Description": "Rosetta Genomics Ltd"
+		"symbol": "ROSG",
+		"description": "Rosetta Genomics Ltd"
 	},
 	{
-		"Symbol": "ROST",
-		"Description": "Ross Stores Inc"
+		"symbol": "ROST",
+		"description": "Ross Stores Inc"
 	},
 	{
-		"Symbol": "ROX",
-		"Description": "Castle Brands, Inc."
+		"symbol": "ROX",
+		"description": "Castle Brands, Inc."
 	},
 	{
-		"Symbol": "ROYT",
-		"Description": "Pacific Coast Oil Trust"
+		"symbol": "ROYT",
+		"description": "Pacific Coast Oil Trust"
 	},
 	{
-		"Symbol": "RP",
-		"Description": "Realpage Inc"
+		"symbol": "RP",
+		"description": "Realpage Inc"
 	},
 	{
-		"Symbol": "RPAI",
-		"Description": "Retail Properties of America, Inc."
+		"symbol": "RPAI",
+		"description": "Retail Properties of America, Inc."
 	},
 	{
-		"Symbol": "RPAI^A",
-		"Description": "Retail Properties of America, Inc."
+		"symbol": "RPAI^A",
+		"description": "Retail Properties of America, Inc."
 	},
 	{
-		"Symbol": "RPD",
-		"Description": "Rapid7 Inc Cmn Stk"
+		"symbol": "RPD",
+		"description": "Rapid7 Inc Cmn Stk"
 	},
 	{
-		"Symbol": "RPM",
-		"Description": "RPM International Inc."
+		"symbol": "RPM",
+		"description": "RPM International Inc."
 	},
 	{
-		"Symbol": "RPRX",
-		"Description": "Repros Therapeutics"
+		"symbol": "RPRX",
+		"description": "Repros Therapeutics"
 	},
 	{
-		"Symbol": "RPT",
-		"Description": "Ramco-Gershenson Properties Trust"
+		"symbol": "RPT",
+		"description": "Ramco-Gershenson Properties Trust"
 	},
 	{
-		"Symbol": "RPT^D",
-		"Description": "Ramco-Gershenson Properties Trust"
+		"symbol": "RPT^D",
+		"description": "Ramco-Gershenson Properties Trust"
 	},
 	{
-		"Symbol": "RPXC",
-		"Description": "Rpx Corporation"
+		"symbol": "RPXC",
+		"description": "Rpx Corporation"
 	},
 	{
-		"Symbol": "RQI",
-		"Description": "Cohen & Steers Quality Income Realty Fund Inc"
+		"symbol": "RQI",
+		"description": "Cohen & Steers Quality Income Realty Fund Inc"
 	},
 	{
-		"Symbol": "RRC",
-		"Description": "Range Resources Corporation"
+		"symbol": "RRC",
+		"description": "Range Resources Corporation"
 	},
 	{
-		"Symbol": "RRD",
-		"Description": "R.R. Donnelley & Sons Company"
+		"symbol": "RRD",
+		"description": "R.R. Donnelley & Sons Company"
 	},
 	{
-		"Symbol": "RRGB",
-		"Description": "Red Robin Gourm"
+		"symbol": "RRGB",
+		"description": "Red Robin Gourm"
 	},
 	{
-		"Symbol": "RRR",
-		"Description": "Rd Rock Rsrts Cla Cmn"
+		"symbol": "RRR",
+		"description": "Rd Rock Rsrts Cla Cmn"
 	},
 	{
-		"Symbol": "RRTS",
-		"Description": "Roadrunner Transportation Systems, Inc"
+		"symbol": "RRTS",
+		"description": "Roadrunner Transportation Systems, Inc"
 	},
 	{
-		"Symbol": "RS",
-		"Description": "Reliance Steel & Aluminum Co."
+		"symbol": "RS",
+		"description": "Reliance Steel & Aluminum Co."
 	},
 	{
-		"Symbol": "RSG",
-		"Description": "Republic Services, Inc."
+		"symbol": "RSG",
+		"description": "Republic Services, Inc."
 	},
 	{
-		"Symbol": "RSO",
-		"Description": "Resource Capital Corp."
+		"symbol": "RSO",
+		"description": "Resource Capital Corp."
 	},
 	{
-		"Symbol": "RSO^A",
-		"Description": "Resource Capital Corp."
+		"symbol": "RSO^A",
+		"description": "Resource Capital Corp."
 	},
 	{
-		"Symbol": "RSO^B",
-		"Description": "Resource Capital Corp."
+		"symbol": "RSO^B",
+		"description": "Resource Capital Corp."
 	},
 	{
-		"Symbol": "RSO^C",
-		"Description": "Resource Capital Corp."
+		"symbol": "RSO^C",
+		"description": "Resource Capital Corp."
 	},
 	{
-		"Symbol": "RSPP",
-		"Description": "RSP Permian, Inc."
+		"symbol": "RSPP",
+		"description": "RSP Permian, Inc."
 	},
 	{
-		"Symbol": "RST",
-		"Description": "Rosetta Stone"
+		"symbol": "RST",
+		"description": "Rosetta Stone"
 	},
 	{
-		"Symbol": "RSYS",
-		"Description": "Radisys Cp"
+		"symbol": "RSYS",
+		"description": "Radisys Cp"
 	},
 	{
-		"Symbol": "RT",
-		"Description": "Ruby Tuesday, Inc."
+		"symbol": "RT",
+		"description": "Ruby Tuesday, Inc."
 	},
 	{
-		"Symbol": "RTEC",
-		"Description": "Rudolph Technologies, Inc."
+		"symbol": "RTEC",
+		"description": "Rudolph Technologies, Inc."
 	},
 	{
-		"Symbol": "RTIX",
-		"Description": "Rti Surgical Inc"
+		"symbol": "RTIX",
+		"description": "Rti Surgical Inc"
 	},
 	{
-		"Symbol": "RTK",
-		"Description": "Rentech Cmn Stk"
+		"symbol": "RTK",
+		"description": "Rentech Cmn Stk"
 	},
 	{
-		"Symbol": "RTN",
-		"Description": "Raytheon Company"
+		"symbol": "RTN",
+		"description": "Raytheon Company"
 	},
 	{
-		"Symbol": "RTNB",
-		"Description": "Root9B Technologies Inc"
+		"symbol": "RTNB",
+		"description": "Root9B Technologies Inc"
 	},
 	{
-		"Symbol": "RTRX",
-		"Description": "Retrophin Inc Cmn"
+		"symbol": "RTRX",
+		"description": "Retrophin Inc Cmn"
 	},
 	{
-		"Symbol": "RTTR",
-		"Description": "Ritter Pharmac. Com"
+		"symbol": "RTTR",
+		"description": "Ritter Pharmac. Com"
 	},
 	{
-		"Symbol": "RUBI",
-		"Description": " Rubicon Project, Inc."
+		"symbol": "RUBI",
+		"description": " Rubicon Project, Inc."
 	},
 	{
-		"Symbol": "RUN",
-		"Description": "Sunrun Inc Cmn Stk"
+		"symbol": "RUN",
+		"description": "Sunrun Inc Cmn Stk"
 	},
 	{
-		"Symbol": "RUSHA",
-		"Description": "Rush Entpr Cl A"
+		"symbol": "RUSHA",
+		"description": "Rush Entpr Cl A"
 	},
 	{
-		"Symbol": "RUSHB",
-		"Description": "Rush Entpr Cl B"
+		"symbol": "RUSHB",
+		"description": "Rush Entpr Cl B"
 	},
 	{
-		"Symbol": "RUTH",
-		"Description": "Ruth's Hospitality"
+		"symbol": "RUTH",
+		"description": "Ruth's Hospitality"
 	},
 	{
-		"Symbol": "RVEN",
-		"Description": "Reven Housing REIT"
+		"symbol": "RVEN",
+		"description": "Reven Housing REIT"
 	},
 	{
-		"Symbol": "RVLT",
-		"Description": "Revolution Lgt Tc"
+		"symbol": "RVLT",
+		"description": "Revolution Lgt Tc"
 	},
 	{
-		"Symbol": "RVNC",
-		"Description": "Revance Therapeutics"
+		"symbol": "RVNC",
+		"description": "Revance Therapeutics"
 	},
 	{
-		"Symbol": "RVP",
-		"Description": "Retractable Technologies, Inc."
+		"symbol": "RVP",
+		"description": "Retractable Technologies, Inc."
 	},
 	{
-		"Symbol": "RVSB",
-		"Description": "Riverview Bancorp"
+		"symbol": "RVSB",
+		"description": "Riverview Bancorp"
 	},
 	{
-		"Symbol": "RVT",
-		"Description": "Royce Value Trust, Inc."
+		"symbol": "RVT",
+		"description": "Royce Value Trust, Inc."
 	},
 	{
-		"Symbol": "RWC",
-		"Description": "RELM Wireless Corporation"
+		"symbol": "RWC",
+		"description": "RELM Wireless Corporation"
 	},
 	{
-		"Symbol": "RWLK",
-		"Description": "Rewalk Roboti Ord Sh"
+		"symbol": "RWLK",
+		"description": "Rewalk Roboti Ord Sh"
 	},
 	{
-		"Symbol": "RWT",
-		"Description": "Redwood Trust, Inc."
+		"symbol": "RWT",
+		"description": "Redwood Trust, Inc."
 	},
 	{
-		"Symbol": "RXDX",
-		"Description": "Ignyta Inc Cmn"
+		"symbol": "RXDX",
+		"description": "Ignyta Inc Cmn"
 	},
 	{
-		"Symbol": "RXII",
-		"Description": "Rxi Pharmaceuticals"
+		"symbol": "RXII",
+		"description": "Rxi Pharmaceuticals"
 	},
 	{
-		"Symbol": "RXIIW",
-		"Description": "Rxi Pharmaceuticals Corporation Warrants Expirin"
+		"symbol": "RXIIW",
+		"description": "Rxi Pharmaceuticals Corporation Warrants Expirin"
 	},
 	{
-		"Symbol": "RXN",
-		"Description": "Rexnord Corporation"
+		"symbol": "RXN",
+		"description": "Rexnord Corporation"
 	},
 	{
-		"Symbol": "RXN^A",
-		"Description": "Rexnord Corporation"
+		"symbol": "RXN^A",
+		"description": "Rexnord Corporation"
 	},
 	{
-		"Symbol": "RY",
-		"Description": "Royal Bank Of Canada"
+		"symbol": "RY",
+		"description": "Royal Bank Of Canada"
 	},
 	{
-		"Symbol": "RY^S",
-		"Description": "Royal Bank Of Canada"
+		"symbol": "RY^S",
+		"description": "Royal Bank Of Canada"
 	},
 	{
-		"Symbol": "RY^T",
-		"Description": "Royal Bank Of Canada"
+		"symbol": "RY^T",
+		"description": "Royal Bank Of Canada"
 	},
 	{
-		"Symbol": "RYAAY",
-		"Description": "Ryanair Hldgs Plc"
+		"symbol": "RYAAY",
+		"description": "Ryanair Hldgs Plc"
 	},
 	{
-		"Symbol": "RYAM",
-		"Description": "Rayonier Advanced Materials Inc."
+		"symbol": "RYAM",
+		"description": "Rayonier Advanced Materials Inc."
 	},
 	{
-		"Symbol": "RYAM^A",
-		"Description": "Rayonier Advanced Materials Inc."
+		"symbol": "RYAM^A",
+		"description": "Rayonier Advanced Materials Inc."
 	},
 	{
-		"Symbol": "RYI",
-		"Description": "Ryerson Holding Corporation"
+		"symbol": "RYI",
+		"description": "Ryerson Holding Corporation"
 	},
 	{
-		"Symbol": "RYN",
-		"Description": "Rayonier Inc."
+		"symbol": "RYN",
+		"description": "Rayonier Inc."
 	},
 	{
-		"Symbol": "RZA",
-		"Description": "Reinsurance Group of America, Incorporated"
+		"symbol": "RZA",
+		"description": "Reinsurance Group of America, Incorporated"
 	},
 	{
-		"Symbol": "RZB",
-		"Description": "Reinsurance Group of America, Incorporated"
+		"symbol": "RZB",
+		"description": "Reinsurance Group of America, Incorporated"
 	},
 	{
-		"Symbol": "S",
-		"Description": "Sprint Corporation"
+		"symbol": "S",
+		"description": "Sprint Corporation"
 	},
 	{
-		"Symbol": "SA",
-		"Description": "Seabridge Gold, Inc."
+		"symbol": "SA",
+		"description": "Seabridge Gold, Inc."
 	},
 	{
-		"Symbol": "SAB",
-		"Description": "Saratoga Investment Corp"
+		"symbol": "SAB",
+		"description": "Saratoga Investment Corp"
 	},
 	{
-		"Symbol": "SABR",
-		"Description": "Sabre Corporation Cmn"
+		"symbol": "SABR",
+		"description": "Sabre Corporation Cmn"
 	},
 	{
-		"Symbol": "SACH",
-		"Description": "Sachem Capital Corp."
+		"symbol": "SACH",
+		"description": "Sachem Capital Corp."
 	},
 	{
-		"Symbol": "SAEX",
-		"Description": "Saexploration Hldgs"
+		"symbol": "SAEX",
+		"description": "Saexploration Hldgs"
 	},
 	{
-		"Symbol": "SAFM",
-		"Description": "Sanderson Farms In"
+		"symbol": "SAFM",
+		"description": "Sanderson Farms In"
 	},
 	{
-		"Symbol": "SAFT",
-		"Description": "Safety Ins Group Inc"
+		"symbol": "SAFT",
+		"description": "Safety Ins Group Inc"
 	},
 	{
-		"Symbol": "SAGE",
-		"Description": "Sage Therapeutic Com"
+		"symbol": "SAGE",
+		"description": "Sage Therapeutic Com"
 	},
 	{
-		"Symbol": "SAH",
-		"Description": "Sonic Automotive, Inc."
+		"symbol": "SAH",
+		"description": "Sonic Automotive, Inc."
 	},
 	{
-		"Symbol": "SAIA",
-		"Description": "Saia Inc"
+		"symbol": "SAIA",
+		"description": "Saia Inc"
 	},
 	{
-		"Symbol": "SAIC",
-		"Description": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"
+		"symbol": "SAIC",
+		"description": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"
 	},
 	{
-		"Symbol": "SAJA",
-		"Description": "Sajan Cmn Stk"
+		"symbol": "SAJA",
+		"description": "Sajan Cmn Stk"
 	},
 	{
-		"Symbol": "SAL",
-		"Description": "Salisbury Bancorp"
+		"symbol": "SAL",
+		"description": "Salisbury Bancorp"
 	},
 	{
-		"Symbol": "SALE",
-		"Description": "Retailmenot Inc"
+		"symbol": "SALE",
+		"description": "Retailmenot Inc"
 	},
 	{
-		"Symbol": "SALM",
-		"Description": "Salem Media Grp Inc"
+		"symbol": "SALM",
+		"description": "Salem Media Grp Inc"
 	},
 	{
-		"Symbol": "SALT",
-		"Description": "Scorpio Bulkers Inc."
+		"symbol": "SALT",
+		"description": "Scorpio Bulkers Inc."
 	},
 	{
-		"Symbol": "SAM",
-		"Description": "Boston Beer Company, Inc. "
+		"symbol": "SAM",
+		"description": "Boston Beer Company, Inc. "
 	},
 	{
-		"Symbol": "SAMG",
-		"Description": "Silvercrest Ast Cm A"
+		"symbol": "SAMG",
+		"description": "Silvercrest Ast Cm A"
 	},
 	{
-		"Symbol": "SAN",
-		"Description": "Banco Santander, S.A."
+		"symbol": "SAN",
+		"description": "Banco Santander, S.A."
 	},
 	{
-		"Symbol": "SAN^A",
-		"Description": "Banco Santander, S.A."
+		"symbol": "SAN^A",
+		"description": "Banco Santander, S.A."
 	},
 	{
-		"Symbol": "SAN^B",
-		"Description": "Banco Santander, S.A."
+		"symbol": "SAN^B",
+		"description": "Banco Santander, S.A."
 	},
 	{
-		"Symbol": "SAN^C",
-		"Description": "Banco Santander, S.A."
+		"symbol": "SAN^C",
+		"description": "Banco Santander, S.A."
 	},
 	{
-		"Symbol": "SAN^I",
-		"Description": "Banco Santander, S.A."
+		"symbol": "SAN^I",
+		"description": "Banco Santander, S.A."
 	},
 	{
-		"Symbol": "SAND",
-		"Description": "Sandstorm Gold Ltd"
+		"symbol": "SAND",
+		"description": "Sandstorm Gold Ltd"
 	},
 	{
-		"Symbol": "SANM",
-		"Description": "Sanmina Corp"
+		"symbol": "SANM",
+		"description": "Sanmina Corp"
 	},
 	{
-		"Symbol": "SANW",
-		"Description": "S&W Seed Company"
+		"symbol": "SANW",
+		"description": "S&W Seed Company"
 	},
 	{
-		"Symbol": "SAP",
-		"Description": "SAP SE"
+		"symbol": "SAP",
+		"description": "SAP SE"
 	},
 	{
-		"Symbol": "SAR",
-		"Description": "Saratoga Investment Corp"
+		"symbol": "SAR",
+		"description": "Saratoga Investment Corp"
 	},
 	{
-		"Symbol": "SASR",
-		"Description": "Sandy Spring Bancorp"
+		"symbol": "SASR",
+		"description": "Sandy Spring Bancorp"
 	},
 	{
-		"Symbol": "SATS",
-		"Description": "Echostar Corp"
+		"symbol": "SATS",
+		"description": "Echostar Corp"
 	},
 	{
-		"Symbol": "SAUC",
-		"Description": "Diversified Rstrt HD"
+		"symbol": "SAUC",
+		"description": "Diversified Rstrt HD"
 	},
 	{
-		"Symbol": "SAVE",
-		"Description": "Spirit Airlines Inc"
+		"symbol": "SAVE",
+		"description": "Spirit Airlines Inc"
 	},
 	{
-		"Symbol": "SB",
-		"Description": "Safe Bulkers, Inc"
+		"symbol": "SB",
+		"description": "Safe Bulkers, Inc"
 	},
 	{
-		"Symbol": "SB^B",
-		"Description": "Safe Bulkers, Inc"
+		"symbol": "SB^B",
+		"description": "Safe Bulkers, Inc"
 	},
 	{
-		"Symbol": "SB^C",
-		"Description": "Safe Bulkers, Inc"
+		"symbol": "SB^C",
+		"description": "Safe Bulkers, Inc"
 	},
 	{
-		"Symbol": "SB^D",
-		"Description": "Safe Bulkers, Inc"
+		"symbol": "SB^D",
+		"description": "Safe Bulkers, Inc"
 	},
 	{
-		"Symbol": "SBAC",
-		"Description": "SBA Communications"
+		"symbol": "SBAC",
+		"description": "SBA Communications"
 	},
 	{
-		"Symbol": "SBBP",
-		"Description": "Strongbridge Bio Ord"
+		"symbol": "SBBP",
+		"description": "Strongbridge Bio Ord"
 	},
 	{
-		"Symbol": "SBBX",
-		"Description": "Sussex Bancorp"
+		"symbol": "SBBX",
+		"description": "Sussex Bancorp"
 	},
 	{
-		"Symbol": "SBCF",
-		"Description": "Seacoast Banking Cp"
+		"symbol": "SBCF",
+		"description": "Seacoast Banking Cp"
 	},
 	{
-		"Symbol": "SBCP",
-		"Description": "Sunshine Bancorp Cmn"
+		"symbol": "SBCP",
+		"description": "Sunshine Bancorp Cmn"
 	},
 	{
-		"Symbol": "SBFG",
-		"Description": "Sb Financial Group"
+		"symbol": "SBFG",
+		"description": "Sb Financial Group"
 	},
 	{
-		"Symbol": "SBFGP",
-		"Description": "Sb Fin Grp Dep Shs"
+		"symbol": "SBFGP",
+		"description": "Sb Fin Grp Dep Shs"
 	},
 	{
-		"Symbol": "SBGI",
-		"Description": "Sinclair Brdcst A"
+		"symbol": "SBGI",
+		"description": "Sinclair Brdcst A"
 	},
 	{
-		"Symbol": "SBGL",
-		"Description": "Sibanye Gold Limited"
+		"symbol": "SBGL",
+		"description": "Sibanye Gold Limited"
 	},
 	{
-		"Symbol": "SBH",
-		"Description": "Sally Beauty Holdings, Inc."
+		"symbol": "SBH",
+		"description": "Sally Beauty Holdings, Inc."
 	},
 	{
-		"Symbol": "SBI",
-		"Description": "Western Asset Intermediate Muni Fund Inc"
+		"symbol": "SBI",
+		"description": "Western Asset Intermediate Muni Fund Inc"
 	},
 	{
-		"Symbol": "SBLK",
-		"Description": "Star Bulk Carriers"
+		"symbol": "SBLK",
+		"description": "Star Bulk Carriers"
 	},
 	{
-		"Symbol": "SBLKL",
-		"Description": "Strblk 8% Sr Nt 2019"
+		"symbol": "SBLKL",
+		"description": "Strblk 8% Sr Nt 2019"
 	},
 	{
-		"Symbol": "SBNA",
-		"Description": "Scorpio Tankers Inc."
+		"symbol": "SBNA",
+		"description": "Scorpio Tankers Inc."
 	},
 	{
-		"Symbol": "SBNB",
-		"Description": "Scorpio Tankers Inc."
+		"symbol": "SBNB",
+		"description": "Scorpio Tankers Inc."
 	},
 	{
-		"Symbol": "SBNY",
-		"Description": "Signature Bank"
+		"symbol": "SBNY",
+		"description": "Signature Bank"
 	},
 	{
-		"Symbol": "SBOT",
-		"Description": "Stellar Biotch Cm ST"
+		"symbol": "SBOT",
+		"description": "Stellar Biotch Cm ST"
 	},
 	{
-		"Symbol": "SBPH",
-		"Description": "Spring Bank Ph CS"
+		"symbol": "SBPH",
+		"description": "Spring Bank Ph CS"
 	},
 	{
-		"Symbol": "SBR",
-		"Description": "Sabine Royalty Trust"
+		"symbol": "SBR",
+		"description": "Sabine Royalty Trust"
 	},
 	{
-		"Symbol": "SBRA",
-		"Description": "Sabra REIT"
+		"symbol": "SBRA",
+		"description": "Sabra REIT"
 	},
 	{
-		"Symbol": "SBRAP",
-		"Description": "Sabra Hlthcare REIT"
+		"symbol": "SBRAP",
+		"description": "Sabra Hlthcare REIT"
 	},
 	{
-		"Symbol": "SBS",
-		"Description": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp"
+		"symbol": "SBS",
+		"description": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp"
 	},
 	{
-		"Symbol": "SBSA",
-		"Description": "Spanish Brdcstng"
+		"symbol": "SBSA",
+		"description": "Spanish Brdcstng"
 	},
 	{
-		"Symbol": "SBSI",
-		"Description": "Southside Bancshares"
+		"symbol": "SBSI",
+		"description": "Southside Bancshares"
 	},
 	{
-		"Symbol": "SBUX",
-		"Description": "Starbucks Corp"
+		"symbol": "SBUX",
+		"description": "Starbucks Corp"
 	},
 	{
-		"Symbol": "SBY",
-		"Description": "Silver Bay Realty Trust Corp."
+		"symbol": "SBY",
+		"description": "Silver Bay Realty Trust Corp."
 	},
 	{
-		"Symbol": "SC",
-		"Description": "Santander Consumer USA Holdings Inc."
+		"symbol": "SC",
+		"description": "Santander Consumer USA Holdings Inc."
 	},
 	{
-		"Symbol": "SCAC",
-		"Description": "Saban Capital Acquisition Corp"
+		"symbol": "SCAC",
+		"description": "Saban Capital Acquisition Corp"
 	},
 	{
-		"Symbol": "SCACU",
-		"Description": "Saban Capital Acquisition Corp. Un"
+		"symbol": "SCACU",
+		"description": "Saban Capital Acquisition Corp. Un"
 	},
 	{
-		"Symbol": "SCACW",
-		"Description": "Saban Capital Acquisition Corp. Warrants"
+		"symbol": "SCACW",
+		"description": "Saban Capital Acquisition Corp. Warrants"
 	},
 	{
-		"Symbol": "SCAI",
-		"Description": "Surgical Care Affili"
+		"symbol": "SCAI",
+		"description": "Surgical Care Affili"
 	},
 	{
-		"Symbol": "SCCO",
-		"Description": "Southern Copper Corporation"
+		"symbol": "SCCO",
+		"description": "Southern Copper Corporation"
 	},
 	{
-		"Symbol": "SCD",
-		"Description": "LMP Capital and Income Fund Inc."
+		"symbol": "SCD",
+		"description": "LMP Capital and Income Fund Inc."
 	},
 	{
-		"Symbol": "SCE^B",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^B",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^C",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^C",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^D",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^D",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^E",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^E",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^F",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^F",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^G",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^G",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^H",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^H",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^J",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^J",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCE^K",
-		"Description": "Southern California Edison Company"
+		"symbol": "SCE^K",
+		"description": "Southern California Edison Company"
 	},
 	{
-		"Symbol": "SCG",
-		"Description": "Scana Corporation"
+		"symbol": "SCG",
+		"description": "Scana Corporation"
 	},
 	{
-		"Symbol": "SCHL",
-		"Description": "Scholastic Cp"
+		"symbol": "SCHL",
+		"description": "Scholastic Cp"
 	},
 	{
-		"Symbol": "SCHN",
-		"Description": "Schnitzer Steel A"
+		"symbol": "SCHN",
+		"description": "Schnitzer Steel A"
 	},
 	{
-		"Symbol": "SCHW",
-		"Description": " Charles Schwab Corporation"
+		"symbol": "SCHW",
+		"description": " Charles Schwab Corporation"
 	},
 	{
-		"Symbol": "SCHW^B",
-		"Description": " Charles Schwab Corporation"
+		"symbol": "SCHW^B",
+		"description": " Charles Schwab Corporation"
 	},
 	{
-		"Symbol": "SCHW^C",
-		"Description": " Charles Schwab Corporation"
+		"symbol": "SCHW^C",
+		"description": " Charles Schwab Corporation"
 	},
 	{
-		"Symbol": "SCHW^D",
-		"Description": " Charles Schwab Corporation"
+		"symbol": "SCHW^D",
+		"description": " Charles Schwab Corporation"
 	},
 	{
-		"Symbol": "SCI",
-		"Description": "Service Corporation International"
+		"symbol": "SCI",
+		"description": "Service Corporation International"
 	},
 	{
-		"Symbol": "SCKT",
-		"Description": "Socket Mobile"
+		"symbol": "SCKT",
+		"description": "Socket Mobile"
 	},
 	{
-		"Symbol": "SCL",
-		"Description": "Stepan Company"
+		"symbol": "SCL",
+		"description": "Stepan Company"
 	},
 	{
-		"Symbol": "SCLN",
-		"Description": "Sciclone Pharmaceut"
+		"symbol": "SCLN",
+		"description": "Sciclone Pharmaceut"
 	},
 	{
-		"Symbol": "SCM",
-		"Description": "Stellus Capital Investment Corporation"
+		"symbol": "SCM",
+		"description": "Stellus Capital Investment Corporation"
 	},
 	{
-		"Symbol": "SCMP",
-		"Description": "Sucampo Pharma Inc"
+		"symbol": "SCMP",
+		"description": "Sucampo Pharma Inc"
 	},
 	{
-		"Symbol": "SCNB",
-		"Description": "Suffolk Bancorp"
+		"symbol": "SCNB",
+		"description": "Suffolk Bancorp"
 	},
 	{
-		"Symbol": "SCON",
-		"Description": "Superconductor Tech"
+		"symbol": "SCON",
+		"description": "Superconductor Tech"
 	},
 	{
-		"Symbol": "SCOR",
-		"Description": "Comscore Inc"
+		"symbol": "SCOR",
+		"description": "Comscore Inc"
 	},
 	{
-		"Symbol": "SCQ",
-		"Description": "Stellus Capital Investment Corporation"
+		"symbol": "SCQ",
+		"description": "Stellus Capital Investment Corporation"
 	},
 	{
-		"Symbol": "SCS",
-		"Description": "Steelcase Inc."
+		"symbol": "SCS",
+		"description": "Steelcase Inc."
 	},
 	{
-		"Symbol": "SCSC",
-		"Description": "Scansource Inc"
+		"symbol": "SCSC",
+		"description": "Scansource Inc"
 	},
 	{
-		"Symbol": "SCSS",
-		"Description": "Select Comfort Cp"
+		"symbol": "SCSS",
+		"description": "Select Comfort Cp"
 	},
 	{
-		"Symbol": "SCVL",
-		"Description": "Shoe Carnival Inc"
+		"symbol": "SCVL",
+		"description": "Shoe Carnival Inc"
 	},
 	{
-		"Symbol": "SCWX",
-		"Description": "Secureworks Corp CS"
+		"symbol": "SCWX",
+		"description": "Secureworks Corp CS"
 	},
 	{
-		"Symbol": "SCX",
-		"Description": "L.S. Starrett Company "
+		"symbol": "SCX",
+		"description": "L.S. Starrett Company "
 	},
 	{
-		"Symbol": "SCYX",
-		"Description": "Scynexis Inc Cmn"
+		"symbol": "SCYX",
+		"description": "Scynexis Inc Cmn"
 	},
 	{
-		"Symbol": "SCZ",
-		"Description": "Ishares MSCI EAFE Sm"
+		"symbol": "SCZ",
+		"description": "Ishares MSCI EAFE Sm"
 	},
 	{
-		"Symbol": "SD",
-		"Description": "SandRidge Energy, Inc."
+		"symbol": "SD",
+		"description": "SandRidge Energy, Inc."
 	},
 	{
-		"Symbol": "SDLP",
-		"Description": "Seadrill Partners LLC"
+		"symbol": "SDLP",
+		"description": "Seadrill Partners LLC"
 	},
 	{
-		"Symbol": "SDPI",
-		"Description": "Superior Drilling Products, Inc."
+		"symbol": "SDPI",
+		"description": "Superior Drilling Products, Inc."
 	},
 	{
-		"Symbol": "SDR",
-		"Description": "SandRidge Mississippian Trust II"
+		"symbol": "SDR",
+		"description": "SandRidge Mississippian Trust II"
 	},
 	{
-		"Symbol": "SDRL",
-		"Description": "Seadrill Limited"
+		"symbol": "SDRL",
+		"description": "Seadrill Limited"
 	},
 	{
-		"Symbol": "SDT",
-		"Description": "SandRidge Mississippian Trust I"
+		"symbol": "SDT",
+		"description": "SandRidge Mississippian Trust I"
 	},
 	{
-		"Symbol": "SE",
-		"Description": "Spectra Energy Corp"
+		"symbol": "SE",
+		"description": "Spectra Energy Corp"
 	},
 	{
-		"Symbol": "SEAC",
-		"Description": "Sea Change Intl In"
+		"symbol": "SEAC",
+		"description": "Sea Change Intl In"
 	},
 	{
-		"Symbol": "SEAS",
-		"Description": "SeaWorld Entertainment, Inc."
+		"symbol": "SEAS",
+		"description": "SeaWorld Entertainment, Inc."
 	},
 	{
-		"Symbol": "SEB",
-		"Description": "Seaboard Corporation"
+		"symbol": "SEB",
+		"description": "Seaboard Corporation"
 	},
 	{
-		"Symbol": "SEDG",
-		"Description": "Solaredge Tech Cmn"
+		"symbol": "SEDG",
+		"description": "Solaredge Tech Cmn"
 	},
 	{
-		"Symbol": "SEE",
-		"Description": "Sealed Air Corporation"
+		"symbol": "SEE",
+		"description": "Sealed Air Corporation"
 	},
 	{
-		"Symbol": "SEED",
-		"Description": "Origin Agritech Limi"
+		"symbol": "SEED",
+		"description": "Origin Agritech Limi"
 	},
 	{
-		"Symbol": "SEIC",
-		"Description": "Sei Investments Co"
+		"symbol": "SEIC",
+		"description": "Sei Investments Co"
 	},
 	{
-		"Symbol": "SELB",
-		"Description": "Selecta Biosciences"
+		"symbol": "SELB",
+		"description": "Selecta Biosciences"
 	},
 	{
-		"Symbol": "SELF",
-		"Description": "Global Self Storage"
+		"symbol": "SELF",
+		"description": "Global Self Storage"
 	},
 	{
-		"Symbol": "SEM",
-		"Description": "Select Medical Holdings Corporation"
+		"symbol": "SEM",
+		"description": "Select Medical Holdings Corporation"
 	},
 	{
-		"Symbol": "SEMG",
-		"Description": "Semgroup Corporation"
+		"symbol": "SEMG",
+		"description": "Semgroup Corporation"
 	},
 	{
-		"Symbol": "SENEA",
-		"Description": "Seneca Foods Cp A"
+		"symbol": "SENEA",
+		"description": "Seneca Foods Cp A"
 	},
 	{
-		"Symbol": "SENEB",
-		"Description": "Seneca Foods Cp B"
+		"symbol": "SENEB",
+		"description": "Seneca Foods Cp B"
 	},
 	{
-		"Symbol": "SENS",
-		"Description": "Senseonics Holdings, Inc."
+		"symbol": "SENS",
+		"description": "Senseonics Holdings, Inc."
 	},
 	{
-		"Symbol": "SEP",
-		"Description": "Spectra Energy Partners, LP"
+		"symbol": "SEP",
+		"description": "Spectra Energy Partners, LP"
 	},
 	{
-		"Symbol": "SERV",
-		"Description": "ServiceMaster Global Holdings, Inc."
+		"symbol": "SERV",
+		"description": "ServiceMaster Global Holdings, Inc."
 	},
 	{
-		"Symbol": "SEV",
-		"Description": "Sevcon Inc"
+		"symbol": "SEV",
+		"description": "Sevcon Inc"
 	},
 	{
-		"Symbol": "SF",
-		"Description": "Stifel Financial Corporation"
+		"symbol": "SF",
+		"description": "Stifel Financial Corporation"
 	},
 	{
-		"Symbol": "SF^A",
-		"Description": "Stifel Financial Corporation"
+		"symbol": "SF^A",
+		"description": "Stifel Financial Corporation"
 	},
 	{
-		"Symbol": "SFBC",
-		"Description": "Sound Financial Cmn"
+		"symbol": "SFBC",
+		"description": "Sound Financial Cmn"
 	},
 	{
-		"Symbol": "SFBS",
-		"Description": "Servisfirst Bancs Cmn"
+		"symbol": "SFBS",
+		"description": "Servisfirst Bancs Cmn"
 	},
 	{
-		"Symbol": "SFE",
-		"Description": "Safeguard Scientifics, Inc."
+		"symbol": "SFE",
+		"description": "Safeguard Scientifics, Inc."
 	},
 	{
-		"Symbol": "SFL",
-		"Description": "Ship Finance International Limited"
+		"symbol": "SFL",
+		"description": "Ship Finance International Limited"
 	},
 	{
-		"Symbol": "SFLY",
-		"Description": "Shutterfly Inc"
+		"symbol": "SFLY",
+		"description": "Shutterfly Inc"
 	},
 	{
-		"Symbol": "SFM",
-		"Description": "Sprouts Farmers Mark"
+		"symbol": "SFM",
+		"description": "Sprouts Farmers Mark"
 	},
 	{
-		"Symbol": "SFNC",
-		"Description": "Simmons First Natl"
+		"symbol": "SFNC",
+		"description": "Simmons First Natl"
 	},
 	{
-		"Symbol": "SFR",
-		"Description": "Colony Starwood Homes"
+		"symbol": "SFR",
+		"description": "Colony Starwood Homes"
 	},
 	{
-		"Symbol": "SFS",
-		"Description": "Smart"
+		"symbol": "SFS",
+		"description": "Smart"
 	},
 	{
-		"Symbol": "SFST",
-		"Description": "Southern First Bancs"
+		"symbol": "SFST",
+		"description": "Southern First Bancs"
 	},
 	{
-		"Symbol": "SFUN",
-		"Description": "Fanf Holdings Limited"
+		"symbol": "SFUN",
+		"description": "Fanf Holdings Limited"
 	},
 	{
-		"Symbol": "SGA",
-		"Description": "Saga Communications, Inc."
+		"symbol": "SGA",
+		"description": "Saga Communications, Inc."
 	},
 	{
-		"Symbol": "SGB",
-		"Description": "Southwest Georgia Financial Corporation"
+		"symbol": "SGB",
+		"description": "Southwest Georgia Financial Corporation"
 	},
 	{
-		"Symbol": "SGBK",
-		"Description": "Stonegate Bk Cmn Stk"
+		"symbol": "SGBK",
+		"description": "Stonegate Bk Cmn Stk"
 	},
 	{
-		"Symbol": "SGC",
-		"Description": "Superior Uniform Grp"
+		"symbol": "SGC",
+		"description": "Superior Uniform Grp"
 	},
 	{
-		"Symbol": "SGEN",
-		"Description": "Seattle Genetics Inc"
+		"symbol": "SGEN",
+		"description": "Seattle Genetics Inc"
 	},
 	{
-		"Symbol": "SGF",
-		"Description": "Aberdeen Singapore Fund, Inc."
+		"symbol": "SGF",
+		"description": "Aberdeen Singapore Fund, Inc."
 	},
 	{
-		"Symbol": "SGM",
-		"Description": "Stonegate Mortgage Corporation"
+		"symbol": "SGM",
+		"description": "Stonegate Mortgage Corporation"
 	},
 	{
-		"Symbol": "SGMA",
-		"Description": "Sigmatron Intl Inc"
+		"symbol": "SGMA",
+		"description": "Sigmatron Intl Inc"
 	},
 	{
-		"Symbol": "SGMO",
-		"Description": "Sangamo Therapeutics"
+		"symbol": "SGMO",
+		"description": "Sangamo Therapeutics"
 	},
 	{
-		"Symbol": "SGMS",
-		"Description": "Scientific Games"
+		"symbol": "SGMS",
+		"description": "Scientific Games"
 	},
 	{
-		"Symbol": "SGNL",
-		"Description": "Signal Genetics Cmn"
+		"symbol": "SGNL",
+		"description": "Signal Genetics Cmn"
 	},
 	{
-		"Symbol": "SGOC",
-		"Description": "Sgoco Group Ltd"
+		"symbol": "SGOC",
+		"description": "Sgoco Group Ltd"
 	},
 	{
-		"Symbol": "SGQI",
-		"Description": "Janus Detroit Street Trust Janus Sg Global Quali"
+		"symbol": "SGQI",
+		"description": "Janus Detroit Street Trust Janus Sg Global Quali"
 	},
 	{
-		"Symbol": "SGRP",
-		"Description": "Spar Group Inc"
+		"symbol": "SGRP",
+		"description": "Spar Group Inc"
 	},
 	{
-		"Symbol": "SGRY",
-		"Description": "Surgery Partners CS"
+		"symbol": "SGRY",
+		"description": "Surgery Partners CS"
 	},
 	{
-		"Symbol": "SGU",
-		"Description": "Star Gas Partners, L.P."
+		"symbol": "SGU",
+		"description": "Star Gas Partners, L.P."
 	},
 	{
-		"Symbol": "SGY",
-		"Description": "Stone Energy Corporation"
+		"symbol": "SGY",
+		"description": "Stone Energy Corporation"
 	},
 	{
-		"Symbol": "SGYP",
-		"Description": "Synergy Pharma Cmn"
+		"symbol": "SGYP",
+		"description": "Synergy Pharma Cmn"
 	},
 	{
-		"Symbol": "SGZA",
-		"Description": "Selective Insurance Group, Inc."
+		"symbol": "SGZA",
+		"description": "Selective Insurance Group, Inc."
 	},
 	{
-		"Symbol": "SHAK",
-		"Description": "Shake Shack, Inc."
+		"symbol": "SHAK",
+		"description": "Shake Shack, Inc."
 	},
 	{
-		"Symbol": "SHBI",
-		"Description": "Shore Bancshares Inc"
+		"symbol": "SHBI",
+		"description": "Shore Bancshares Inc"
 	},
 	{
-		"Symbol": "SHEN",
-		"Description": "Shenandoah Telecom"
+		"symbol": "SHEN",
+		"description": "Shenandoah Telecom"
 	},
 	{
-		"Symbol": "SHG",
-		"Description": "Shinhan Financial Group Co Ltd"
+		"symbol": "SHG",
+		"description": "Shinhan Financial Group Co Ltd"
 	},
 	{
-		"Symbol": "SHI",
-		"Description": "SINOPEC Shangai Petrochemical Company, Ltd."
+		"symbol": "SHI",
+		"description": "SINOPEC Shangai Petrochemical Company, Ltd."
 	},
 	{
-		"Symbol": "SHIP",
-		"Description": "Seanergy Maritime Hl"
+		"symbol": "SHIP",
+		"description": "Seanergy Maritime Hl"
 	},
 	{
-		"Symbol": "SHIPW",
-		"Description": "Seanergy Maritime Holdings Corp Class A Warrants"
+		"symbol": "SHIPW",
+		"description": "Seanergy Maritime Holdings Corp Class A Warrants"
 	},
 	{
-		"Symbol": "SHLD",
-		"Description": "Sears Hldgs Corp"
+		"symbol": "SHLD",
+		"description": "Sears Hldgs Corp"
 	},
 	{
-		"Symbol": "SHLDW",
-		"Description": "Sears Holdings C Wt"
+		"symbol": "SHLDW",
+		"description": "Sears Holdings C Wt"
 	},
 	{
-		"Symbol": "SHLM",
-		"Description": "Schulman A Inc"
+		"symbol": "SHLM",
+		"description": "Schulman A Inc"
 	},
 	{
-		"Symbol": "SHLO",
-		"Description": "Shiloh Inds Inc"
+		"symbol": "SHLO",
+		"description": "Shiloh Inds Inc"
 	},
 	{
-		"Symbol": "SHLX",
-		"Description": "Shell Midstream Partners, L.P."
+		"symbol": "SHLX",
+		"description": "Shell Midstream Partners, L.P."
 	},
 	{
-		"Symbol": "SHO",
-		"Description": "Sunstone Hotel Investors, Inc."
+		"symbol": "SHO",
+		"description": "Sunstone Hotel Investors, Inc."
 	},
 	{
-		"Symbol": "SHO^E",
-		"Description": "Sunstone Hotel Investors, Inc."
+		"symbol": "SHO^E",
+		"description": "Sunstone Hotel Investors, Inc."
 	},
 	{
-		"Symbol": "SHO^F",
-		"Description": "Sunstone Hotel Investors, Inc."
+		"symbol": "SHO^F",
+		"description": "Sunstone Hotel Investors, Inc."
 	},
 	{
-		"Symbol": "SHOO",
-		"Description": "Steven Maddens Ltd"
+		"symbol": "SHOO",
+		"description": "Steven Maddens Ltd"
 	},
 	{
-		"Symbol": "SHOP",
-		"Description": "Shopify Inc."
+		"symbol": "SHOP",
+		"description": "Shopify Inc."
 	},
 	{
-		"Symbol": "SHOR",
-		"Description": "Shoretel Inc"
+		"symbol": "SHOR",
+		"description": "Shoretel Inc"
 	},
 	{
-		"Symbol": "SHOS",
-		"Description": "Sears Hometown"
+		"symbol": "SHOS",
+		"description": "Sears Hometown"
 	},
 	{
-		"Symbol": "SHPG",
-		"Description": "Shire Plc Ads"
+		"symbol": "SHPG",
+		"description": "Shire Plc Ads"
 	},
 	{
-		"Symbol": "SHSP",
-		"Description": "Sharpspring Inc"
+		"symbol": "SHSP",
+		"description": "Sharpspring Inc"
 	},
 	{
-		"Symbol": "SHW",
-		"Description": "Sherwin-Williams Company "
+		"symbol": "SHW",
+		"description": "Sherwin-Williams Company "
 	},
 	{
-		"Symbol": "SID",
-		"Description": "National Steel Company"
+		"symbol": "SID",
+		"description": "National Steel Company"
 	},
 	{
-		"Symbol": "SIEB",
-		"Description": "Siebert Fin Cp"
+		"symbol": "SIEB",
+		"description": "Siebert Fin Cp"
 	},
 	{
-		"Symbol": "SIEN",
-		"Description": "Sientra Inc Cmn"
+		"symbol": "SIEN",
+		"description": "Sientra Inc Cmn"
 	},
 	{
-		"Symbol": "SIF",
-		"Description": "SIFCO Industries, Inc."
+		"symbol": "SIF",
+		"description": "SIFCO Industries, Inc."
 	},
 	{
-		"Symbol": "SIFI",
-		"Description": "Si Financial Grp MD"
+		"symbol": "SIFI",
+		"description": "Si Financial Grp MD"
 	},
 	{
-		"Symbol": "SIFY",
-		"Description": "Sify Techs Ltd Ads"
+		"symbol": "SIFY",
+		"description": "Sify Techs Ltd Ads"
 	},
 	{
-		"Symbol": "SIG",
-		"Description": "Signet Jewelers Limited"
+		"symbol": "SIG",
+		"description": "Signet Jewelers Limited"
 	},
 	{
-		"Symbol": "SIGI",
-		"Description": "Selective Ins Group"
+		"symbol": "SIGI",
+		"description": "Selective Ins Group"
 	},
 	{
-		"Symbol": "SIGM",
-		"Description": "Sigma Designs Inc"
+		"symbol": "SIGM",
+		"description": "Sigma Designs Inc"
 	},
 	{
-		"Symbol": "SILC",
-		"Description": "Silicom Limited"
+		"symbol": "SILC",
+		"description": "Silicom Limited"
 	},
 	{
-		"Symbol": "SIM",
-		"Description": "Grupo Simec, S.A. de C.V."
+		"symbol": "SIM",
+		"description": "Grupo Simec, S.A. de C.V."
 	},
 	{
-		"Symbol": "SIMO",
-		"Description": "Silicon Motion Techn"
+		"symbol": "SIMO",
+		"description": "Silicon Motion Techn"
 	},
 	{
-		"Symbol": "SINA",
-		"Description": "Sina Corporation"
+		"symbol": "SINA",
+		"description": "Sina Corporation"
 	},
 	{
-		"Symbol": "SINO",
-		"Description": "Sino-Global Shipping"
+		"symbol": "SINO",
+		"description": "Sino-Global Shipping"
 	},
 	{
-		"Symbol": "SIR",
-		"Description": "Select Income REIT Common Share"
+		"symbol": "SIR",
+		"description": "Select Income REIT Common Share"
 	},
 	{
-		"Symbol": "SIRI",
-		"Description": "Sirius XM Holdings I"
+		"symbol": "SIRI",
+		"description": "Sirius XM Holdings I"
 	},
 	{
-		"Symbol": "SITE",
-		"Description": "SiteOne Landscape Supply, Inc."
+		"symbol": "SITE",
+		"description": "SiteOne Landscape Supply, Inc."
 	},
 	{
-		"Symbol": "SITO",
-		"Description": "Sito Mobile Cmn"
+		"symbol": "SITO",
+		"description": "Sito Mobile Cmn"
 	},
 	{
-		"Symbol": "SIVB",
-		"Description": "Svb Financial Grp"
+		"symbol": "SIVB",
+		"description": "Svb Financial Grp"
 	},
 	{
-		"Symbol": "SIVBO",
-		"Description": "Svb Capital II"
+		"symbol": "SIVBO",
+		"description": "Svb Capital II"
 	},
 	{
-		"Symbol": "SIX",
-		"Description": "Six Flags Entertainment Corporation New"
+		"symbol": "SIX",
+		"description": "Six Flags Entertainment Corporation New"
 	},
 	{
-		"Symbol": "SJI",
-		"Description": "South Jersey Industries, Inc."
+		"symbol": "SJI",
+		"description": "South Jersey Industries, Inc."
 	},
 	{
-		"Symbol": "SJM",
-		"Description": "J.M. Smucker Company "
+		"symbol": "SJM",
+		"description": "J.M. Smucker Company "
 	},
 	{
-		"Symbol": "SJR",
-		"Description": "Shaw Communications Inc."
+		"symbol": "SJR",
+		"description": "Shaw Communications Inc."
 	},
 	{
-		"Symbol": "SJT",
-		"Description": "San Juan Basin Royalty Trust"
+		"symbol": "SJT",
+		"description": "San Juan Basin Royalty Trust"
 	},
 	{
-		"Symbol": "SJW",
-		"Description": "SJW Group"
+		"symbol": "SJW",
+		"description": "SJW Group"
 	},
 	{
-		"Symbol": "SKIS",
-		"Description": "Peak Resorts Cmn"
+		"symbol": "SKIS",
+		"description": "Peak Resorts Cmn"
 	},
 	{
-		"Symbol": "SKLN",
-		"Description": "Skyline Medical Cmn"
+		"symbol": "SKLN",
+		"description": "Skyline Medical Cmn"
 	},
 	{
-		"Symbol": "SKM",
-		"Description": "SK Telecom Co., Ltd."
+		"symbol": "SKM",
+		"description": "SK Telecom Co., Ltd."
 	},
 	{
-		"Symbol": "SKOR",
-		"Description": "Flxshrs Crscr US Cor"
+		"symbol": "SKOR",
+		"description": "Flxshrs Crscr US Cor"
 	},
 	{
-		"Symbol": "SKT",
-		"Description": "Tanger Factory Outlet Centers, Inc."
+		"symbol": "SKT",
+		"description": "Tanger Factory Outlet Centers, Inc."
 	},
 	{
-		"Symbol": "SKX",
-		"Description": "Skechers U.S.A., Inc."
+		"symbol": "SKX",
+		"description": "Skechers U.S.A., Inc."
 	},
 	{
-		"Symbol": "SKY",
-		"Description": "Skyline Corporation"
+		"symbol": "SKY",
+		"description": "Skyline Corporation"
 	},
 	{
-		"Symbol": "SKYS",
-		"Description": "Sky Solar Hold Ads"
+		"symbol": "SKYS",
+		"description": "Sky Solar Hold Ads"
 	},
 	{
-		"Symbol": "SKYW",
-		"Description": "Skywest Inc"
+		"symbol": "SKYW",
+		"description": "Skywest Inc"
 	},
 	{
-		"Symbol": "SKYY",
-		"Description": "First Trust ISE Clou"
+		"symbol": "SKYY",
+		"description": "First Trust ISE Clou"
 	},
 	{
-		"Symbol": "SLAB",
-		"Description": "Silicon Labs Inc"
+		"symbol": "SLAB",
+		"description": "Silicon Labs Inc"
 	},
 	{
-		"Symbol": "SLB",
-		"Description": "Schlumberger N.V."
+		"symbol": "SLB",
+		"description": "Schlumberger N.V."
 	},
 	{
-		"Symbol": "SLCA",
-		"Description": "U.S. Silica Holdings, Inc."
+		"symbol": "SLCA",
+		"description": "U.S. Silica Holdings, Inc."
 	},
 	{
-		"Symbol": "SLCT",
-		"Description": "Select Bancorp Inc"
+		"symbol": "SLCT",
+		"description": "Select Bancorp Inc"
 	},
 	{
-		"Symbol": "SLD",
-		"Description": "Sutherland Asset Management Corporation"
+		"symbol": "SLD",
+		"description": "Sutherland Asset Management Corporation"
 	},
 	{
-		"Symbol": "SLF",
-		"Description": "Sun Life Financial Inc."
+		"symbol": "SLF",
+		"description": "Sun Life Financial Inc."
 	},
 	{
-		"Symbol": "SLG",
-		"Description": "SL Green Realty Corporation"
+		"symbol": "SLG",
+		"description": "SL Green Realty Corporation"
 	},
 	{
-		"Symbol": "SLG^I",
-		"Description": "SL Green Realty Corporation"
+		"symbol": "SLG^I",
+		"description": "SL Green Realty Corporation"
 	},
 	{
-		"Symbol": "SLGN",
-		"Description": "Silgan Holdings"
+		"symbol": "SLGN",
+		"description": "Silgan Holdings"
 	},
 	{
-		"Symbol": "SLIM",
-		"Description": " Obesity ETF"
+		"symbol": "SLIM",
+		"description": " Obesity ETF"
 	},
 	{
-		"Symbol": "SLM",
-		"Description": "SLM Corporation"
+		"symbol": "SLM",
+		"description": "SLM Corporation"
 	},
 	{
-		"Symbol": "SLMAP",
-		"Description": "SLM Cp Srs A Pfd"
+		"symbol": "SLMAP",
+		"description": "SLM Cp Srs A Pfd"
 	},
 	{
-		"Symbol": "SLMBP",
-		"Description": "SLM Cp Srs B Pfd"
+		"symbol": "SLMBP",
+		"description": "SLM Cp Srs B Pfd"
 	},
 	{
-		"Symbol": "SLP",
-		"Description": "Simulations Plus Inc"
+		"symbol": "SLP",
+		"description": "Simulations Plus Inc"
 	},
 	{
-		"Symbol": "SLQD",
-		"Description": "Ishares 0-5 Ig Corp"
+		"symbol": "SLQD",
+		"description": "Ishares 0-5 Ig Corp"
 	},
 	{
-		"Symbol": "SLRA",
-		"Description": "Solar Capital Ltd."
+		"symbol": "SLRA",
+		"description": "Solar Capital Ltd."
 	},
 	{
-		"Symbol": "SLRC",
-		"Description": "Solar Capital Cmn"
+		"symbol": "SLRC",
+		"description": "Solar Capital Cmn"
 	},
 	{
-		"Symbol": "SLTB",
-		"Description": "Scorpio Bulkers Inc."
+		"symbol": "SLTB",
+		"description": "Scorpio Bulkers Inc."
 	},
 	{
-		"Symbol": "SLVO",
-		"Description": "CS X-Links Silver Sh"
+		"symbol": "SLVO",
+		"description": "CS X-Links Silver Sh"
 	},
 	{
-		"Symbol": "SLW",
-		"Description": "Silver Wheaton Corp"
+		"symbol": "SLW",
+		"description": "Silver Wheaton Corp"
 	},
 	{
-		"Symbol": "SM",
-		"Description": "SM Energy Company"
+		"symbol": "SM",
+		"description": "SM Energy Company"
 	},
 	{
-		"Symbol": "SMBC",
-		"Description": "Southern Mo Bancorp"
+		"symbol": "SMBC",
+		"description": "Southern Mo Bancorp"
 	},
 	{
-		"Symbol": "SMBK",
-		"Description": "Smartfinancial Cm ST"
+		"symbol": "SMBK",
+		"description": "Smartfinancial Cm ST"
 	},
 	{
-		"Symbol": "SMCI",
-		"Description": "Super Micro Computer"
+		"symbol": "SMCI",
+		"description": "Super Micro Computer"
 	},
 	{
-		"Symbol": "SMCP",
-		"Description": "Alphamark Actmg Smcp"
+		"symbol": "SMCP",
+		"description": "Alphamark Actmg Smcp"
 	},
 	{
-		"Symbol": "SMED",
-		"Description": "Sharps Compliance"
+		"symbol": "SMED",
+		"description": "Sharps Compliance"
 	},
 	{
-		"Symbol": "SMFG",
-		"Description": "Sumitomo Mitsui Financial Group Inc"
+		"symbol": "SMFG",
+		"description": "Sumitomo Mitsui Financial Group Inc"
 	},
 	{
-		"Symbol": "SMG",
-		"Description": "Scotts Miracle-Gro Company "
+		"symbol": "SMG",
+		"description": "Scotts Miracle-Gro Company "
 	},
 	{
-		"Symbol": "SMI",
-		"Description": "Semiconductor  Manufacturing International Corporation"
+		"symbol": "SMI",
+		"description": "Semiconductor  Manufacturing International Corporation"
 	},
 	{
-		"Symbol": "SMIT",
-		"Description": "Schmitt Inds Inc"
+		"symbol": "SMIT",
+		"description": "Schmitt Inds Inc"
 	},
 	{
-		"Symbol": "SMLP",
-		"Description": "Summit Midstream Partners, LP"
+		"symbol": "SMLP",
+		"description": "Summit Midstream Partners, LP"
 	},
 	{
-		"Symbol": "SMM",
-		"Description": "Salient Midstream & MLP Fund"
+		"symbol": "SMM",
+		"description": "Salient Midstream & MLP Fund"
 	},
 	{
-		"Symbol": "SMMF",
-		"Description": "Summit Financial Gp"
+		"symbol": "SMMF",
+		"description": "Summit Financial Gp"
 	},
 	{
-		"Symbol": "SMMT",
-		"Description": "Summit Therapeu ADR"
+		"symbol": "SMMT",
+		"description": "Summit Therapeu ADR"
 	},
 	{
-		"Symbol": "SMP",
-		"Description": "Standard Motor Products, Inc."
+		"symbol": "SMP",
+		"description": "Standard Motor Products, Inc."
 	},
 	{
-		"Symbol": "SMRT",
-		"Description": "Stein Mart Inc"
+		"symbol": "SMRT",
+		"description": "Stein Mart Inc"
 	},
 	{
-		"Symbol": "SMSI",
-		"Description": "Smith Micro Software"
+		"symbol": "SMSI",
+		"description": "Smith Micro Software"
 	},
 	{
-		"Symbol": "SMTC",
-		"Description": "Semtech Corp"
+		"symbol": "SMTC",
+		"description": "Semtech Corp"
 	},
 	{
-		"Symbol": "SMTX",
-		"Description": "Smtc Corp"
+		"symbol": "SMTX",
+		"description": "Smtc Corp"
 	},
 	{
-		"Symbol": "SN",
-		"Description": "Sanchez Energy Corporation"
+		"symbol": "SN",
+		"description": "Sanchez Energy Corporation"
 	},
 	{
-		"Symbol": "SNA",
-		"Description": "Snap-On Incorporated"
+		"symbol": "SNA",
+		"description": "Snap-On Incorporated"
 	},
 	{
-		"Symbol": "SNAK",
-		"Description": "Inventure Foods Inc"
+		"symbol": "SNAK",
+		"description": "Inventure Foods Inc"
 	},
 	{
-		"Symbol": "SNBC",
-		"Description": "Sun Bancorp Inc"
+		"symbol": "SNBC",
+		"description": "Sun Bancorp Inc"
 	},
 	{
-		"Symbol": "SNC",
-		"Description": "State Natl Co Cmn"
+		"symbol": "SNC",
+		"description": "State Natl Co Cmn"
 	},
 	{
-		"Symbol": "SNCR",
-		"Description": "Synchronoss Technolo"
+		"symbol": "SNCR",
+		"description": "Synchronoss Technolo"
 	},
 	{
-		"Symbol": "SND",
-		"Description": "Smart Sand Inc"
+		"symbol": "SND",
+		"description": "Smart Sand Inc"
 	},
 	{
-		"Symbol": "SNDE",
-		"Description": "Sundance Energy Australia Ltd."
+		"symbol": "SNDE",
+		"description": "Sundance Energy Australia Ltd."
 	},
 	{
-		"Symbol": "SNDX",
-		"Description": "Syndax Pharma Cmn"
+		"symbol": "SNDX",
+		"description": "Syndax Pharma Cmn"
 	},
 	{
-		"Symbol": "SNE",
-		"Description": "Sony Corp Ord"
+		"symbol": "SNE",
+		"description": "Sony Corp Ord"
 	},
 	{
-		"Symbol": "SNES",
-		"Description": "Senestech Inc."
+		"symbol": "SNES",
+		"description": "Senestech Inc."
 	},
 	{
-		"Symbol": "SNFCA",
-		"Description": "Security Natl Finl"
+		"symbol": "SNFCA",
+		"description": "Security Natl Finl"
 	},
 	{
-		"Symbol": "SNGX",
-		"Description": "Soligenix Inc"
+		"symbol": "SNGX",
+		"description": "Soligenix Inc"
 	},
 	{
-		"Symbol": "SNGXW",
-		"Description": "Soligenix Inc. Warrant"
+		"symbol": "SNGXW",
+		"description": "Soligenix Inc. Warrant"
 	},
 	{
-		"Symbol": "SNH",
-		"Description": "Senior Housing Properties Trust"
+		"symbol": "SNH",
+		"description": "Senior Housing Properties Trust"
 	},
 	{
-		"Symbol": "SNHNI",
-		"Description": "Senior Housing Properties Trust"
+		"symbol": "SNHNI",
+		"description": "Senior Housing Properties Trust"
 	},
 	{
-		"Symbol": "SNHNL",
-		"Description": "Senior Housing Properties Trust"
+		"symbol": "SNHNL",
+		"description": "Senior Housing Properties Trust"
 	},
 	{
-		"Symbol": "SNHY",
-		"Description": "Sun Hydraulics Cor"
+		"symbol": "SNHY",
+		"description": "Sun Hydraulics Cor"
 	},
 	{
-		"Symbol": "SNI",
-		"Description": "Scripps Ntwrks Int A"
+		"symbol": "SNI",
+		"description": "Scripps Ntwrks Int A"
 	},
 	{
-		"Symbol": "SNLN",
-		"Description": "Pyxis/Iboxx Senior Loan ETF"
+		"symbol": "SNLN",
+		"description": "Pyxis/Iboxx Senior Loan ETF"
 	},
 	{
-		"Symbol": "SNMX",
-		"Description": "Senomyx Inc"
+		"symbol": "SNMX",
+		"description": "Senomyx Inc"
 	},
 	{
-		"Symbol": "SNN",
-		"Description": "Smith & Nephew SNATS, Inc."
+		"symbol": "SNN",
+		"description": "Smith & Nephew SNATS, Inc."
 	},
 	{
-		"Symbol": "SNOA",
-		"Description": "Sonoma Pharmaceuticals Inc."
+		"symbol": "SNOA",
+		"description": "Sonoma Pharmaceuticals Inc."
 	},
 	{
-		"Symbol": "SNOAW",
-		"Description": "Sonoma Pharmaceuticals Inc."
+		"symbol": "SNOAW",
+		"description": "Sonoma Pharmaceuticals Inc."
 	},
 	{
-		"Symbol": "SNOW",
-		"Description": "Intrawest Resorts Holdings, Inc."
+		"symbol": "SNOW",
+		"description": "Intrawest Resorts Holdings, Inc."
 	},
 	{
-		"Symbol": "SNP",
-		"Description": "China Petroleum & Chemical Corporation"
+		"symbol": "SNP",
+		"description": "China Petroleum & Chemical Corporation"
 	},
 	{
-		"Symbol": "SNPS",
-		"Description": "Synopsys Inc"
+		"symbol": "SNPS",
+		"description": "Synopsys Inc"
 	},
 	{
-		"Symbol": "SNR",
-		"Description": "New Senior Investment Group Inc."
+		"symbol": "SNR",
+		"description": "New Senior Investment Group Inc."
 	},
 	{
-		"Symbol": "SNSR",
-		"Description": "Global X Internet of Things Thematic ETF"
+		"symbol": "SNSR",
+		"description": "Global X Internet of Things Thematic ETF"
 	},
 	{
-		"Symbol": "SNSS",
-		"Description": "Sunesis Pharmaceutic"
+		"symbol": "SNSS",
+		"description": "Sunesis Pharmaceutic"
 	},
 	{
-		"Symbol": "SNV",
-		"Description": "Synovus Financial Corp."
+		"symbol": "SNV",
+		"description": "Synovus Financial Corp."
 	},
 	{
-		"Symbol": "SNV^C",
-		"Description": "Synovus Financial Corp."
+		"symbol": "SNV^C",
+		"description": "Synovus Financial Corp."
 	},
 	{
-		"Symbol": "SNX",
-		"Description": "Synnex Corporation"
+		"symbol": "SNX",
+		"description": "Synnex Corporation"
 	},
 	{
-		"Symbol": "SNY",
-		"Description": "Sanofi"
+		"symbol": "SNY",
+		"description": "Sanofi"
 	},
 	{
-		"Symbol": "SO",
-		"Description": "Southern Company "
+		"symbol": "SO",
+		"description": "Southern Company "
 	},
 	{
-		"Symbol": "SOCL",
-		"Description": "Glbl X Social Med ETF"
+		"symbol": "SOCL",
+		"description": "Glbl X Social Med ETF"
 	},
 	{
-		"Symbol": "SODA",
-		"Description": "Sodastream Int Ltd"
+		"symbol": "SODA",
+		"description": "Sodastream Int Ltd"
 	},
 	{
-		"Symbol": "SOFO",
-		"Description": "Sonic Foundry Inc"
+		"symbol": "SOFO",
+		"description": "Sonic Foundry Inc"
 	},
 	{
-		"Symbol": "SOHO",
-		"Description": "Sotherly Hotels Cmn"
+		"symbol": "SOHO",
+		"description": "Sotherly Hotels Cmn"
 	},
 	{
-		"Symbol": "SOHOB",
-		"Description": "Sotherly Hotels Inc. 8.0% Series B Cumulative Re"
+		"symbol": "SOHOB",
+		"description": "Sotherly Hotels Inc. 8.0% Series B Cumulative Re"
 	},
 	{
-		"Symbol": "SOHOM",
-		"Description": "Sotherly Htl 7 Sr Nt"
+		"symbol": "SOHOM",
+		"description": "Sotherly Htl 7 Sr Nt"
 	},
 	{
-		"Symbol": "SOHU",
-		"Description": "Sohu.Com Inc"
+		"symbol": "SOHU",
+		"description": "Sohu.Com Inc"
 	},
 	{
-		"Symbol": "SOJA",
-		"Description": "Southern Company "
+		"symbol": "SOJA",
+		"description": "Southern Company "
 	},
 	{
-		"Symbol": "SOJB",
-		"Description": "Southern Company "
+		"symbol": "SOJB",
+		"description": "Southern Company "
 	},
 	{
-		"Symbol": "SOL",
-		"Description": "Renesola Ltd."
+		"symbol": "SOL",
+		"description": "Renesola Ltd."
 	},
 	{
-		"Symbol": "SON",
-		"Description": "Sonoco Products Company"
+		"symbol": "SON",
+		"description": "Sonoco Products Company"
 	},
 	{
-		"Symbol": "SONA",
-		"Description": "Southern National Bk"
+		"symbol": "SONA",
+		"description": "Southern National Bk"
 	},
 	{
-		"Symbol": "SONC",
-		"Description": "Sonic Cp"
+		"symbol": "SONC",
+		"description": "Sonic Cp"
 	},
 	{
-		"Symbol": "SONS",
-		"Description": "Sonus Networks Inc"
+		"symbol": "SONS",
+		"description": "Sonus Networks Inc"
 	},
 	{
-		"Symbol": "SOR",
-		"Description": "Source Capital, Inc."
+		"symbol": "SOR",
+		"description": "Source Capital, Inc."
 	},
 	{
-		"Symbol": "SORL",
-		"Description": "Sorl Auto Parts Inc"
+		"symbol": "SORL",
+		"description": "Sorl Auto Parts Inc"
 	},
 	{
-		"Symbol": "SOV^C",
-		"Description": "Santander Holdings USA, Inc."
+		"symbol": "SOV^C",
+		"description": "Santander Holdings USA, Inc."
 	},
 	{
-		"Symbol": "SOXX",
-		"Description": "Ishares PHLX SC ETF"
+		"symbol": "SOXX",
+		"description": "Ishares PHLX SC ETF"
 	},
 	{
-		"Symbol": "SP",
-		"Description": "SP Plus Corporation"
+		"symbol": "SP",
+		"description": "SP Plus Corporation"
 	},
 	{
-		"Symbol": "SPA",
-		"Description": "Sparton Corporation"
+		"symbol": "SPA",
+		"description": "Sparton Corporation"
 	},
 	{
-		"Symbol": "SPAN",
-		"Description": "Span America Med S"
+		"symbol": "SPAN",
+		"description": "Span America Med S"
 	},
 	{
-		"Symbol": "SPAR",
-		"Description": "Spartan Motors Inc"
+		"symbol": "SPAR",
+		"description": "Spartan Motors Inc"
 	},
 	{
-		"Symbol": "SPB",
-		"Description": "Spectrum Brands Holdings, Inc."
+		"symbol": "SPB",
+		"description": "Spectrum Brands Holdings, Inc."
 	},
 	{
-		"Symbol": "SPCB",
-		"Description": "Supercom Ltd"
+		"symbol": "SPCB",
+		"description": "Supercom Ltd"
 	},
 	{
-		"Symbol": "SPE",
-		"Description": "Special Opportunities Fund Inc."
+		"symbol": "SPE",
+		"description": "Special Opportunities Fund Inc."
 	},
 	{
-		"Symbol": "SPE^B",
-		"Description": "Special Opportunities Fund Inc."
+		"symbol": "SPE^B",
+		"description": "Special Opportunities Fund Inc."
 	},
 	{
-		"Symbol": "SPEX",
-		"Description": "Spherix Inc"
+		"symbol": "SPEX",
+		"description": "Spherix Inc"
 	},
 	{
-		"Symbol": "SPG",
-		"Description": "Simon Property Group, Inc."
+		"symbol": "SPG",
+		"description": "Simon Property Group, Inc."
 	},
 	{
-		"Symbol": "SPG^J",
-		"Description": "Simon Property Group, Inc."
+		"symbol": "SPG^J",
+		"description": "Simon Property Group, Inc."
 	},
 	{
-		"Symbol": "SPGI",
-		"Description": "S&P Global Inc."
+		"symbol": "SPGI",
+		"description": "S&P Global Inc."
 	},
 	{
-		"Symbol": "SPH",
-		"Description": "Suburban Propane Partners, L.P."
+		"symbol": "SPH",
+		"description": "Suburban Propane Partners, L.P."
 	},
 	{
-		"Symbol": "SPHS",
-		"Description": "Sophiris Bio Cmn"
+		"symbol": "SPHS",
+		"description": "Sophiris Bio Cmn"
 	},
 	{
-		"Symbol": "SPI",
-		"Description": "Spi Energy Co Ads"
+		"symbol": "SPI",
+		"description": "Spi Energy Co Ads"
 	},
 	{
-		"Symbol": "SPIL",
-		"Description": "Siliconware Pr Ads"
+		"symbol": "SPIL",
+		"description": "Siliconware Pr Ads"
 	},
 	{
-		"Symbol": "SPKE",
-		"Description": "Spark Energy Cmn"
+		"symbol": "SPKE",
+		"description": "Spark Energy Cmn"
 	},
 	{
-		"Symbol": "SPLK",
-		"Description": "Splunk Inc"
+		"symbol": "SPLK",
+		"description": "Splunk Inc"
 	},
 	{
-		"Symbol": "SPLP",
-		"Description": "Steel Partners Holdings LP"
+		"symbol": "SPLP",
+		"description": "Steel Partners Holdings LP"
 	},
 	{
-		"Symbol": "SPLS",
-		"Description": "Staples Inc"
+		"symbol": "SPLS",
+		"description": "Staples Inc"
 	},
 	{
-		"Symbol": "SPN",
-		"Description": "Superior Energy Services, Inc."
+		"symbol": "SPN",
+		"description": "Superior Energy Services, Inc."
 	},
 	{
-		"Symbol": "SPNC",
-		"Description": "Spectranetics Cp T"
+		"symbol": "SPNC",
+		"description": "Spectranetics Cp T"
 	},
 	{
-		"Symbol": "SPNE",
-		"Description": "Seaspine Holdings Cmn"
+		"symbol": "SPNE",
+		"description": "Seaspine Holdings Cmn"
 	},
 	{
-		"Symbol": "SPNS",
-		"Description": "Sapiens Intl Cp Nv"
+		"symbol": "SPNS",
+		"description": "Sapiens Intl Cp Nv"
 	},
 	{
-		"Symbol": "SPOK",
-		"Description": "Spok Holdings Inc"
+		"symbol": "SPOK",
+		"description": "Spok Holdings Inc"
 	},
 	{
-		"Symbol": "SPP",
-		"Description": "Sanchez Production Partners LP"
+		"symbol": "SPP",
+		"description": "Sanchez Production Partners LP"
 	},
 	{
-		"Symbol": "SPPI",
-		"Description": "Spectrum Pharma Inc"
+		"symbol": "SPPI",
+		"description": "Spectrum Pharma Inc"
 	},
 	{
-		"Symbol": "SPR",
-		"Description": "Spirit Aerosystems Holdings, Inc."
+		"symbol": "SPR",
+		"description": "Spirit Aerosystems Holdings, Inc."
 	},
 	{
-		"Symbol": "SPRT",
-		"Description": "Support.Com Inc"
+		"symbol": "SPRT",
+		"description": "Support.Com Inc"
 	},
 	{
-		"Symbol": "SPSC",
-		"Description": "Sps Commerce Inc"
+		"symbol": "SPSC",
+		"description": "Sps Commerce Inc"
 	},
 	{
-		"Symbol": "SPTN",
-		"Description": "Spartannash Company"
+		"symbol": "SPTN",
+		"description": "Spartannash Company"
 	},
 	{
-		"Symbol": "SPU",
-		"Description": "Skypeople Fruit Juic"
+		"symbol": "SPU",
+		"description": "Skypeople Fruit Juic"
 	},
 	{
-		"Symbol": "SPWH",
-		"Description": "Sportsman's Wareh Cmn"
+		"symbol": "SPWH",
+		"description": "Sportsman's Wareh Cmn"
 	},
 	{
-		"Symbol": "SPWR",
-		"Description": "Sunpower Corporation"
+		"symbol": "SPWR",
+		"description": "Sunpower Corporation"
 	},
 	{
-		"Symbol": "SPXC",
-		"Description": "SPX Corporation"
+		"symbol": "SPXC",
+		"description": "SPX Corporation"
 	},
 	{
-		"Symbol": "SPXX",
-		"Description": "Nuveen S&P 500 Dynamic Overwrite Fund"
+		"symbol": "SPXX",
+		"description": "Nuveen S&P 500 Dynamic Overwrite Fund"
 	},
 	{
-		"Symbol": "SQ",
-		"Description": "Square, Inc."
+		"symbol": "SQ",
+		"description": "Square, Inc."
 	},
 	{
-		"Symbol": "SQBG",
-		"Description": "Sequential Brands Cmn"
+		"symbol": "SQBG",
+		"description": "Sequential Brands Cmn"
 	},
 	{
-		"Symbol": "SQM",
-		"Description": "Sociedad Quimica y Minera S.A."
+		"symbol": "SQM",
+		"description": "Sociedad Quimica y Minera S.A."
 	},
 	{
-		"Symbol": "SQNS",
-		"Description": "Sequans Communications S.A."
+		"symbol": "SQNS",
+		"description": "Sequans Communications S.A."
 	},
 	{
-		"Symbol": "SQQQ",
-		"Description": "Ultrapro Short QQQ Proshares"
+		"symbol": "SQQQ",
+		"description": "Ultrapro Short QQQ Proshares"
 	},
 	{
-		"Symbol": "SR",
-		"Description": "Spire Inc."
+		"symbol": "SR",
+		"description": "Spire Inc."
 	},
 	{
-		"Symbol": "SRAX",
-		"Description": "Social Reality Inc"
+		"symbol": "SRAX",
+		"description": "Social Reality Inc"
 	},
 	{
-		"Symbol": "SRC",
-		"Description": "Spirit Realty Capital, Inc."
+		"symbol": "SRC",
+		"description": "Spirit Realty Capital, Inc."
 	},
 	{
-		"Symbol": "SRCE",
-		"Description": "1St Source Corp"
+		"symbol": "SRCE",
+		"description": "1St Source Corp"
 	},
 	{
-		"Symbol": "SRCL",
-		"Description": "Stericycle Inc"
+		"symbol": "SRCL",
+		"description": "Stericycle Inc"
 	},
 	{
-		"Symbol": "SRCLP",
-		"Description": "Stericycle Inc Deps"
+		"symbol": "SRCLP",
+		"description": "Stericycle Inc Deps"
 	},
 	{
-		"Symbol": "SRDX",
-		"Description": "Surmodics Inc"
+		"symbol": "SRDX",
+		"description": "Surmodics Inc"
 	},
 	{
-		"Symbol": "SRE",
-		"Description": "Sempra Energy"
+		"symbol": "SRE",
+		"description": "Sempra Energy"
 	},
 	{
-		"Symbol": "SRET",
-		"Description": "Global X Superdivide"
+		"symbol": "SRET",
+		"description": "Global X Superdivide"
 	},
 	{
-		"Symbol": "SREV",
-		"Description": "Servicesrce Intl Inc"
+		"symbol": "SREV",
+		"description": "Servicesrce Intl Inc"
 	},
 	{
-		"Symbol": "SRF",
-		"Description": "Cushing Energy Income Fund "
+		"symbol": "SRF",
+		"description": "Cushing Energy Income Fund "
 	},
 	{
-		"Symbol": "SRG",
-		"Description": "Seritage Growth Properties"
+		"symbol": "SRG",
+		"description": "Seritage Growth Properties"
 	},
 	{
-		"Symbol": "SRI",
-		"Description": "Stoneridge, Inc."
+		"symbol": "SRI",
+		"description": "Stoneridge, Inc."
 	},
 	{
-		"Symbol": "SRLP",
-		"Description": "Sprague Resources LP"
+		"symbol": "SRLP",
+		"description": "Sprague Resources LP"
 	},
 	{
-		"Symbol": "SRNE",
-		"Description": "Sorrento Therpt Cmn"
+		"symbol": "SRNE",
+		"description": "Sorrento Therpt Cmn"
 	},
 	{
-		"Symbol": "SRPT",
-		"Description": "Sarepta Therapeutics"
+		"symbol": "SRPT",
+		"description": "Sarepta Therapeutics"
 	},
 	{
-		"Symbol": "SRRA",
-		"Description": "Sierra Oncology Inc."
+		"symbol": "SRRA",
+		"description": "Sierra Oncology Inc."
 	},
 	{
-		"Symbol": "SRSC",
-		"Description": "Sears Canada Inc"
+		"symbol": "SRSC",
+		"description": "Sears Canada Inc"
 	},
 	{
-		"Symbol": "SRT",
-		"Description": "StarTek, Inc."
+		"symbol": "SRT",
+		"description": "StarTek, Inc."
 	},
 	{
-		"Symbol": "SRTS",
-		"Description": "Sensus Healthcare Inc Cmn"
+		"symbol": "SRTS",
+		"description": "Sensus Healthcare Inc Cmn"
 	},
 	{
-		"Symbol": "SRTSW",
-		"Description": "Sensus Healthcare Inc Wt"
+		"symbol": "SRTSW",
+		"description": "Sensus Healthcare Inc Wt"
 	},
 	{
-		"Symbol": "SRV",
-		"Description": " Cushing MLP Total Return Fund"
+		"symbol": "SRV",
+		"description": " Cushing MLP Total Return Fund"
 	},
 	{
-		"Symbol": "SSB",
-		"Description": "South State Cp Cmn"
+		"symbol": "SSB",
+		"description": "South State Cp Cmn"
 	},
 	{
-		"Symbol": "SSBI",
-		"Description": "Summit State Bank"
+		"symbol": "SSBI",
+		"description": "Summit State Bank"
 	},
 	{
-		"Symbol": "SSD",
-		"Description": "Simpson Manufacturing Company, Inc."
+		"symbol": "SSD",
+		"description": "Simpson Manufacturing Company, Inc."
 	},
 	{
-		"Symbol": "SSFN",
-		"Description": "Stewardship"
+		"symbol": "SSFN",
+		"description": "Stewardship"
 	},
 	{
-		"Symbol": "SSH",
-		"Description": "Sunshine Heart Inc"
+		"symbol": "SSH",
+		"description": "Sunshine Heart Inc"
 	},
 	{
-		"Symbol": "SSI",
-		"Description": "Stage Stores, Inc."
+		"symbol": "SSI",
+		"description": "Stage Stores, Inc."
 	},
 	{
-		"Symbol": "SSKN",
-		"Description": "Strata Skin Scien Cmn"
+		"symbol": "SSKN",
+		"description": "Strata Skin Scien Cmn"
 	},
 	{
-		"Symbol": "SSL",
-		"Description": "Sasol Ltd."
+		"symbol": "SSL",
+		"description": "Sasol Ltd."
 	},
 	{
-		"Symbol": "SSN",
-		"Description": "Samson Oil & Gas Limited"
+		"symbol": "SSN",
+		"description": "Samson Oil & Gas Limited"
 	},
 	{
-		"Symbol": "SSNC",
-		"Description": "SS&C Technologies"
+		"symbol": "SSNC",
+		"description": "SS&C Technologies"
 	},
 	{
-		"Symbol": "SSNI",
-		"Description": "Silver Spring Networks, Inc."
+		"symbol": "SSNI",
+		"description": "Silver Spring Networks, Inc."
 	},
 	{
-		"Symbol": "SSP",
-		"Description": "E.W. Scripps Company "
+		"symbol": "SSP",
+		"description": "E.W. Scripps Company "
 	},
 	{
-		"Symbol": "SSRI",
-		"Description": "Silver Stand Res"
+		"symbol": "SSRI",
+		"description": "Silver Stand Res"
 	},
 	{
-		"Symbol": "SSTK",
-		"Description": "Shutterstock, Inc."
+		"symbol": "SSTK",
+		"description": "Shutterstock, Inc."
 	},
 	{
-		"Symbol": "SSW",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSW",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSW^D",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSW^D",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSW^E",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSW^E",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSW^G",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSW^G",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSW^H",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSW^H",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSWN",
-		"Description": "Seaspan Corporation"
+		"symbol": "SSWN",
+		"description": "Seaspan Corporation"
 	},
 	{
-		"Symbol": "SSY",
-		"Description": "SunLink Health Systems, Inc."
+		"symbol": "SSY",
+		"description": "SunLink Health Systems, Inc."
 	},
 	{
-		"Symbol": "SSYS",
-		"Description": "Stratasys Ltd"
+		"symbol": "SSYS",
+		"description": "Stratasys Ltd"
 	},
 	{
-		"Symbol": "ST",
-		"Description": "Sensata Technologies Holding N.V."
+		"symbol": "ST",
+		"description": "Sensata Technologies Holding N.V."
 	},
 	{
-		"Symbol": "STAA",
-		"Description": "Staar Surgical Co"
+		"symbol": "STAA",
+		"description": "Staar Surgical Co"
 	},
 	{
-		"Symbol": "STAF",
-		"Description": "Staffing 360"
+		"symbol": "STAF",
+		"description": "Staffing 360"
 	},
 	{
-		"Symbol": "STAG",
-		"Description": "Stag Industrial, Inc."
+		"symbol": "STAG",
+		"description": "Stag Industrial, Inc."
 	},
 	{
-		"Symbol": "STAG^B",
-		"Description": "Stag Industrial, Inc."
+		"symbol": "STAG^B",
+		"description": "Stag Industrial, Inc."
 	},
 	{
-		"Symbol": "STAG^C",
-		"Description": "Stag Industrial, Inc."
+		"symbol": "STAG^C",
+		"description": "Stag Industrial, Inc."
 	},
 	{
-		"Symbol": "STAR",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAR^D",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR^D",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAR^E",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR^E",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAR^F",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR^F",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAR^G",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR^G",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAR^I",
-		"Description": "iStar Financial Inc."
+		"symbol": "STAR^I",
+		"description": "iStar Financial Inc."
 	},
 	{
-		"Symbol": "STAY",
-		"Description": "Extended Stay America, Inc."
+		"symbol": "STAY",
+		"description": "Extended Stay America, Inc."
 	},
 	{
-		"Symbol": "STB",
-		"Description": "Student Trnspt Inc"
+		"symbol": "STB",
+		"description": "Student Trnspt Inc"
 	},
 	{
-		"Symbol": "STBA",
-		"Description": "S&T Bancorp Inc"
+		"symbol": "STBA",
+		"description": "S&T Bancorp Inc"
 	},
 	{
-		"Symbol": "STBZ",
-		"Description": "State Bank Finl Corp"
+		"symbol": "STBZ",
+		"description": "State Bank Finl Corp"
 	},
 	{
-		"Symbol": "STC",
-		"Description": "Stewart Information Services Corporation"
+		"symbol": "STC",
+		"description": "Stewart Information Services Corporation"
 	},
 	{
-		"Symbol": "STDY",
-		"Description": "Steadymed Ltd Ord Sh"
+		"symbol": "STDY",
+		"description": "Steadymed Ltd Ord Sh"
 	},
 	{
-		"Symbol": "STE",
-		"Description": "STERIS plc"
+		"symbol": "STE",
+		"description": "STERIS plc"
 	},
 	{
-		"Symbol": "STFC",
-		"Description": "State Auto Finl Corp"
+		"symbol": "STFC",
+		"description": "State Auto Finl Corp"
 	},
 	{
-		"Symbol": "STI",
-		"Description": "SunTrust Banks, Inc."
+		"symbol": "STI",
+		"description": "SunTrust Banks, Inc."
 	},
 	{
-		"Symbol": "STI.WS.A",
-		"Description": "SunTrust Banks, Inc."
+		"symbol": "STI.WS.A",
+		"description": "SunTrust Banks, Inc."
 	},
 	{
-		"Symbol": "STI.WS.B",
-		"Description": "SunTrust Banks, Inc."
+		"symbol": "STI.WS.B",
+		"description": "SunTrust Banks, Inc."
 	},
 	{
-		"Symbol": "STI^A",
-		"Description": "SunTrust Banks, Inc."
+		"symbol": "STI^A",
+		"description": "SunTrust Banks, Inc."
 	},
 	{
-		"Symbol": "STI^E",
-		"Description": "SunTrust Banks, Inc."
+		"symbol": "STI^E",
+		"description": "SunTrust Banks, Inc."
 	},
 	{
-		"Symbol": "STK",
-		"Description": "Columbia Seligman Premium Technology Growth Fund, Inc"
+		"symbol": "STK",
+		"description": "Columbia Seligman Premium Technology Growth Fund, Inc"
 	},
 	{
-		"Symbol": "STKL",
-		"Description": "Sunopta Inc"
+		"symbol": "STKL",
+		"description": "Sunopta Inc"
 	},
 	{
-		"Symbol": "STKS",
-		"Description": " One Group Cmn"
+		"symbol": "STKS",
+		"description": " One Group Cmn"
 	},
 	{
-		"Symbol": "STL",
-		"Description": "Sterling Bancorp"
+		"symbol": "STL",
+		"description": "Sterling Bancorp"
 	},
 	{
-		"Symbol": "STLD",
-		"Description": "Steel Dynamics Inc"
+		"symbol": "STLD",
+		"description": "Steel Dynamics Inc"
 	},
 	{
-		"Symbol": "STLR",
-		"Description": "Stellar Acquisition III Inc"
+		"symbol": "STLR",
+		"description": "Stellar Acquisition III Inc"
 	},
 	{
-		"Symbol": "STLRU",
-		"Description": "Stellar Acquisition III Inc"
+		"symbol": "STLRU",
+		"description": "Stellar Acquisition III Inc"
 	},
 	{
-		"Symbol": "STLRW",
-		"Description": "Stellar Acquisition III Inc. Warrants"
+		"symbol": "STLRW",
+		"description": "Stellar Acquisition III Inc. Warrants"
 	},
 	{
-		"Symbol": "STLY",
-		"Description": "Stanley Furniture"
+		"symbol": "STLY",
+		"description": "Stanley Furniture"
 	},
 	{
-		"Symbol": "STM",
-		"Description": "STMicroelectronics N.V."
+		"symbol": "STM",
+		"description": "STMicroelectronics N.V."
 	},
 	{
-		"Symbol": "STML",
-		"Description": "Stemline Therapeutic"
+		"symbol": "STML",
+		"description": "Stemline Therapeutic"
 	},
 	{
-		"Symbol": "STMP",
-		"Description": "Stamps.Com Inc"
+		"symbol": "STMP",
+		"description": "Stamps.Com Inc"
 	},
 	{
-		"Symbol": "STN",
-		"Description": "SPDR MSCI Europe Energy UCITS ETF"
+		"symbol": "STN",
+		"description": "SPDR MSCI Europe Energy UCITS ETF"
 	},
 	{
-		"Symbol": "STNG",
-		"Description": "Scorpio Tankers Inc."
+		"symbol": "STNG",
+		"description": "Scorpio Tankers Inc."
 	},
 	{
-		"Symbol": "STO",
-		"Description": "Statoil ASA"
+		"symbol": "STO",
+		"description": "Statoil ASA"
 	},
 	{
-		"Symbol": "STON",
-		"Description": "StoneMor Partners L.P."
+		"symbol": "STON",
+		"description": "StoneMor Partners L.P."
 	},
 	{
-		"Symbol": "STOR",
-		"Description": "STORE Capital Corporation"
+		"symbol": "STOR",
+		"description": "STORE Capital Corporation"
 	},
 	{
-		"Symbol": "STPP",
-		"Description": "Ipath Steepener"
+		"symbol": "STPP",
+		"description": "Ipath Steepener"
 	},
 	{
-		"Symbol": "STRA",
-		"Description": "Strayer Education"
+		"symbol": "STRA",
+		"description": "Strayer Education"
 	},
 	{
-		"Symbol": "STRL",
-		"Description": "Sterling Constructio"
+		"symbol": "STRL",
+		"description": "Sterling Constructio"
 	},
 	{
-		"Symbol": "STRM",
-		"Description": "Streamline Health So"
+		"symbol": "STRM",
+		"description": "Streamline Health So"
 	},
 	{
-		"Symbol": "STRP",
-		"Description": "Straight Path Communications Inc."
+		"symbol": "STRP",
+		"description": "Straight Path Communications Inc."
 	},
 	{
-		"Symbol": "STRS",
-		"Description": "Stratus Pptys Inc"
+		"symbol": "STRS",
+		"description": "Stratus Pptys Inc"
 	},
 	{
-		"Symbol": "STRT",
-		"Description": "Strattec Security"
+		"symbol": "STRT",
+		"description": "Strattec Security"
 	},
 	{
-		"Symbol": "STS",
-		"Description": "Supreme Industries, Inc."
+		"symbol": "STS",
+		"description": "Supreme Industries, Inc."
 	},
 	{
-		"Symbol": "STT",
-		"Description": "State Street Corporation"
+		"symbol": "STT",
+		"description": "State Street Corporation"
 	},
 	{
-		"Symbol": "STT^C",
-		"Description": "State Street Corporation"
+		"symbol": "STT^C",
+		"description": "State Street Corporation"
 	},
 	{
-		"Symbol": "STT^D",
-		"Description": "State Street Corporation"
+		"symbol": "STT^D",
+		"description": "State Street Corporation"
 	},
 	{
-		"Symbol": "STT^E",
-		"Description": "State Street Corporation"
+		"symbol": "STT^E",
+		"description": "State Street Corporation"
 	},
 	{
-		"Symbol": "STT^G",
-		"Description": "State Street Corporation"
+		"symbol": "STT^G",
+		"description": "State Street Corporation"
 	},
 	{
-		"Symbol": "STV",
-		"Description": "China Digital TV Holding Co., Ltd."
+		"symbol": "STV",
+		"description": "China Digital TV Holding Co., Ltd."
 	},
 	{
-		"Symbol": "STWD",
-		"Description": "STARWOOD PROPERTY TRUST, INC."
+		"symbol": "STWD",
+		"description": "STARWOOD PROPERTY TRUST, INC."
 	},
 	{
-		"Symbol": "STX",
-		"Description": "Seagate Tech Ord Shs"
+		"symbol": "STX",
+		"description": "Seagate Tech Ord Shs"
 	},
 	{
-		"Symbol": "STZ",
-		"Description": "Constellation Brands Inc"
+		"symbol": "STZ",
+		"description": "Constellation Brands Inc"
 	},
 	{
-		"Symbol": "STZ.B",
-		"Description": "Constellation Brands Inc"
+		"symbol": "STZ.B",
+		"description": "Constellation Brands Inc"
 	},
 	{
-		"Symbol": "SU",
-		"Description": "Suncor Energy  Inc."
+		"symbol": "SU",
+		"description": "Suncor Energy  Inc."
 	},
 	{
-		"Symbol": "SUI",
-		"Description": "Sun Communities, Inc."
+		"symbol": "SUI",
+		"description": "Sun Communities, Inc."
 	},
 	{
-		"Symbol": "SUI^A",
-		"Description": "Sun Communities, Inc."
+		"symbol": "SUI^A",
+		"description": "Sun Communities, Inc."
 	},
 	{
-		"Symbol": "SUM",
-		"Description": "Summit Materials, Inc."
+		"symbol": "SUM",
+		"description": "Summit Materials, Inc."
 	},
 	{
-		"Symbol": "SUMR",
-		"Description": "Summer Infant Inc"
+		"symbol": "SUMR",
+		"description": "Summer Infant Inc"
 	},
 	{
-		"Symbol": "SUN",
-		"Description": "Sunoco LP"
+		"symbol": "SUN",
+		"description": "Sunoco LP"
 	},
 	{
-		"Symbol": "SUNS",
-		"Description": "Solar Senior Capital"
+		"symbol": "SUNS",
+		"description": "Solar Senior Capital"
 	},
 	{
-		"Symbol": "SUNW",
-		"Description": "Sunworks Inc Cmn"
+		"symbol": "SUNW",
+		"description": "Sunworks Inc Cmn"
 	},
 	{
-		"Symbol": "SUP",
-		"Description": "Superior Industries International, Inc."
+		"symbol": "SUP",
+		"description": "Superior Industries International, Inc."
 	},
 	{
-		"Symbol": "SUPN",
-		"Description": "Supernus Pharm"
+		"symbol": "SUPN",
+		"description": "Supernus Pharm"
 	},
 	{
-		"Symbol": "SUPV",
-		"Description": "Grupo Supervielle S.A."
+		"symbol": "SUPV",
+		"description": "Grupo Supervielle S.A."
 	},
 	{
-		"Symbol": "SVA",
-		"Description": "Sinovac Biotech Ltd"
+		"symbol": "SVA",
+		"description": "Sinovac Biotech Ltd"
 	},
 	{
-		"Symbol": "SVBI",
-		"Description": "Severn Bancorp Inc"
+		"symbol": "SVBI",
+		"description": "Severn Bancorp Inc"
 	},
 	{
-		"Symbol": "SVT",
-		"Description": "Servotronics, Inc."
+		"symbol": "SVT",
+		"description": "Servotronics, Inc."
 	},
 	{
-		"Symbol": "SVU",
-		"Description": "SuperValu Inc."
+		"symbol": "SVU",
+		"description": "SuperValu Inc."
 	},
 	{
-		"Symbol": "SVVC",
-		"Description": "Firsthand Technology"
+		"symbol": "SVVC",
+		"description": "Firsthand Technology"
 	},
 	{
-		"Symbol": "SWC",
-		"Description": "Stillwater Mining Company"
+		"symbol": "SWC",
+		"description": "Stillwater Mining Company"
 	},
 	{
-		"Symbol": "SWFT",
-		"Description": "Swift Transportation Company"
+		"symbol": "SWFT",
+		"description": "Swift Transportation Company"
 	},
 	{
-		"Symbol": "SWIN",
-		"Description": "Alps ETF Trust Alps/Dorsey Wright Sector Momentu"
+		"symbol": "SWIN",
+		"description": "Alps ETF Trust Alps/Dorsey Wright Sector Momentu"
 	},
 	{
-		"Symbol": "SWIR",
-		"Description": "Sierra Wireless In"
+		"symbol": "SWIR",
+		"description": "Sierra Wireless In"
 	},
 	{
-		"Symbol": "SWJ",
-		"Description": "Stanley Black & Decker, Inc."
+		"symbol": "SWJ",
+		"description": "Stanley Black & Decker, Inc."
 	},
 	{
-		"Symbol": "SWK",
-		"Description": "Stanley Black & Decker, Inc."
+		"symbol": "SWK",
+		"description": "Stanley Black & Decker, Inc."
 	},
 	{
-		"Symbol": "SWKS",
-		"Description": "Skyworks Solutions"
+		"symbol": "SWKS",
+		"description": "Skyworks Solutions"
 	},
 	{
-		"Symbol": "SWM",
-		"Description": "Schweitzer-Mauduit International, Inc."
+		"symbol": "SWM",
+		"description": "Schweitzer-Mauduit International, Inc."
 	},
 	{
-		"Symbol": "SWN",
-		"Description": "Southwestern Energy Company"
+		"symbol": "SWN",
+		"description": "Southwestern Energy Company"
 	},
 	{
-		"Symbol": "SWNC",
-		"Description": "Southwestern Energy Company"
+		"symbol": "SWNC",
+		"description": "Southwestern Energy Company"
 	},
 	{
-		"Symbol": "SWX",
-		"Description": "Southwest Gas Holdings, Inc."
+		"symbol": "SWX",
+		"description": "Southwest Gas Holdings, Inc."
 	},
 	{
-		"Symbol": "SWZ",
-		"Description": "Swiss Helvetia Fund, Inc. "
+		"symbol": "SWZ",
+		"description": "Swiss Helvetia Fund, Inc. "
 	},
 	{
-		"Symbol": "SXC",
-		"Description": "SunCoke Energy, Inc."
+		"symbol": "SXC",
+		"description": "SunCoke Energy, Inc."
 	},
 	{
-		"Symbol": "SXCP",
-		"Description": "SunCoke Energy Partners, L.P."
+		"symbol": "SXCP",
+		"description": "SunCoke Energy Partners, L.P."
 	},
 	{
-		"Symbol": "SXE",
-		"Description": "Southcross Energy Partners, L.P."
+		"symbol": "SXE",
+		"description": "Southcross Energy Partners, L.P."
 	},
 	{
-		"Symbol": "SXI",
-		"Description": "Standex International Corporation"
+		"symbol": "SXI",
+		"description": "Standex International Corporation"
 	},
 	{
-		"Symbol": "SXL",
-		"Description": "Sunoco Logistics Partners LP"
+		"symbol": "SXL",
+		"description": "Sunoco Logistics Partners LP"
 	},
 	{
-		"Symbol": "SXT",
-		"Description": "Sensient Technologies Corporation"
+		"symbol": "SXT",
+		"description": "Sensient Technologies Corporation"
 	},
 	{
-		"Symbol": "SYBT",
-		"Description": "Stock Yards Bancorp"
+		"symbol": "SYBT",
+		"description": "Stock Yards Bancorp"
 	},
 	{
-		"Symbol": "SYF",
-		"Description": "Synchrony Financial"
+		"symbol": "SYF",
+		"description": "Synchrony Financial"
 	},
 	{
-		"Symbol": "SYK",
-		"Description": "Stryker Corporation"
+		"symbol": "SYK",
+		"description": "Stryker Corporation"
 	},
 	{
-		"Symbol": "SYKE",
-		"Description": "Sykes Enterprises"
+		"symbol": "SYKE",
+		"description": "Sykes Enterprises"
 	},
 	{
-		"Symbol": "SYMC",
-		"Description": "Symantec Corporation"
+		"symbol": "SYMC",
+		"description": "Symantec Corporation"
 	},
 	{
-		"Symbol": "SYMX",
-		"Description": "Synthesis Energy Sys"
+		"symbol": "SYMX",
+		"description": "Synthesis Energy Sys"
 	},
 	{
-		"Symbol": "SYN",
-		"Description": "Synthetic Biologics, Inc"
+		"symbol": "SYN",
+		"description": "Synthetic Biologics, Inc"
 	},
 	{
-		"Symbol": "SYNA",
-		"Description": "Synaptics Inc"
+		"symbol": "SYNA",
+		"description": "Synaptics Inc"
 	},
 	{
-		"Symbol": "SYNC",
-		"Description": "Synacor Inc"
+		"symbol": "SYNC",
+		"description": "Synacor Inc"
 	},
 	{
-		"Symbol": "SYNL",
-		"Description": "Synalloy Cp"
+		"symbol": "SYNL",
+		"description": "Synalloy Cp"
 	},
 	{
-		"Symbol": "SYNT",
-		"Description": "Syntel Inc"
+		"symbol": "SYNT",
+		"description": "Syntel Inc"
 	},
 	{
-		"Symbol": "SYPR",
-		"Description": "Sypris Solutions"
+		"symbol": "SYPR",
+		"description": "Sypris Solutions"
 	},
 	{
-		"Symbol": "SYRG",
-		"Description": "Synergy Resources Corporation"
+		"symbol": "SYRG",
+		"description": "Synergy Resources Corporation"
 	},
 	{
-		"Symbol": "SYRS",
-		"Description": "Syros Pharmaceuticals"
+		"symbol": "SYRS",
+		"description": "Syros Pharmaceuticals"
 	},
 	{
-		"Symbol": "SYRX",
-		"Description": "Sysorex Global Cmn"
+		"symbol": "SYRX",
+		"description": "Sysorex Global Cmn"
 	},
 	{
-		"Symbol": "SYT",
-		"Description": "Syngenta AG"
+		"symbol": "SYT",
+		"description": "Syngenta AG"
 	},
 	{
-		"Symbol": "SYUT",
-		"Description": "Synutra Internationa"
+		"symbol": "SYUT",
+		"description": "Synutra Internationa"
 	},
 	{
-		"Symbol": "SYX",
-		"Description": "Systemax Inc."
+		"symbol": "SYX",
+		"description": "Systemax Inc."
 	},
 	{
-		"Symbol": "SYY",
-		"Description": "Sysco Corporation"
+		"symbol": "SYY",
+		"description": "Sysco Corporation"
 	},
 	{
-		"Symbol": "SZC",
-		"Description": "Cushing Renaissance Fund "
+		"symbol": "SZC",
+		"description": "Cushing Renaissance Fund "
 	},
 	{
-		"Symbol": "T",
-		"Description": "AT&T Inc."
+		"symbol": "T",
+		"description": "AT&T Inc."
 	},
 	{
-		"Symbol": "TA",
-		"Description": "Travelcenters of America Llc"
+		"symbol": "TA",
+		"description": "Travelcenters of America Llc"
 	},
 	{
-		"Symbol": "TAC",
-		"Description": "TransAlta Corporation"
+		"symbol": "TAC",
+		"description": "TransAlta Corporation"
 	},
 	{
-		"Symbol": "TACO",
-		"Description": "Del Taco Rest Cmn"
+		"symbol": "TACO",
+		"description": "Del Taco Rest Cmn"
 	},
 	{
-		"Symbol": "TACOW",
-		"Description": "Del Taco Rest Wts"
+		"symbol": "TACOW",
+		"description": "Del Taco Rest Wts"
 	},
 	{
-		"Symbol": "TACT",
-		"Description": "Transact Tech Inc"
+		"symbol": "TACT",
+		"description": "Transact Tech Inc"
 	},
 	{
-		"Symbol": "TAHO",
-		"Description": "Tahoe Resources, Inc."
+		"symbol": "TAHO",
+		"description": "Tahoe Resources, Inc."
 	},
 	{
-		"Symbol": "TAIT",
-		"Description": "Taitron Components"
+		"symbol": "TAIT",
+		"description": "Taitron Components"
 	},
 	{
-		"Symbol": "TAL",
-		"Description": "TAL Education Group"
+		"symbol": "TAL",
+		"description": "TAL Education Group"
 	},
 	{
-		"Symbol": "TALL",
-		"Description": "Royal Bank of Canada ETN Linked S&P 500 Trend Al"
+		"symbol": "TALL",
+		"description": "Royal Bank of Canada ETN Linked S&P 500 Trend Al"
 	},
 	{
-		"Symbol": "TANH",
-		"Description": "Tantech Holdings Cmn"
+		"symbol": "TANH",
+		"description": "Tantech Holdings Cmn"
 	},
 	{
-		"Symbol": "TANNI",
-		"Description": "Travelcenters of America Llc"
+		"symbol": "TANNI",
+		"description": "Travelcenters of America Llc"
 	},
 	{
-		"Symbol": "TANNL",
-		"Description": "Travelcenters of America Llc"
+		"symbol": "TANNL",
+		"description": "Travelcenters of America Llc"
 	},
 	{
-		"Symbol": "TANNZ",
-		"Description": "Travelcenters of America Llc"
+		"symbol": "TANNZ",
+		"description": "Travelcenters of America Llc"
 	},
 	{
-		"Symbol": "TAP",
-		"Description": "Molson Coors Brewing  Company"
+		"symbol": "TAP",
+		"description": "Molson Coors Brewing  Company"
 	},
 	{
-		"Symbol": "TAP.A",
-		"Description": "Molson Coors Brewing  Company"
+		"symbol": "TAP.A",
+		"description": "Molson Coors Brewing  Company"
 	},
 	{
-		"Symbol": "TAPR",
-		"Description": "Barclays Plc ETN"
+		"symbol": "TAPR",
+		"description": "Barclays Plc ETN"
 	},
 	{
-		"Symbol": "TARO",
-		"Description": "Taro Pharmaceutical Industries Ltd."
+		"symbol": "TARO",
+		"description": "Taro Pharmaceutical Industries Ltd."
 	},
 	{
-		"Symbol": "TASR",
-		"Description": "Taser Intl Inc"
+		"symbol": "TASR",
+		"description": "Taser Intl Inc"
 	},
 	{
-		"Symbol": "TAST",
-		"Description": "Carrols Rstrnt Group"
+		"symbol": "TAST",
+		"description": "Carrols Rstrnt Group"
 	},
 	{
-		"Symbol": "TAT",
-		"Description": "Transatlantic Petroleum Ltd"
+		"symbol": "TAT",
+		"description": "Transatlantic Petroleum Ltd"
 	},
 	{
-		"Symbol": "TATT",
-		"Description": "T A T Tech Ltd"
+		"symbol": "TATT",
+		"description": "T A T Tech Ltd"
 	},
 	{
-		"Symbol": "TAX",
-		"Description": "Liberty Tax Cl A Cmn"
+		"symbol": "TAX",
+		"description": "Liberty Tax Cl A Cmn"
 	},
 	{
-		"Symbol": "TAYD",
-		"Description": "Taylor Devices Inc"
+		"symbol": "TAYD",
+		"description": "Taylor Devices Inc"
 	},
 	{
-		"Symbol": "TBBK",
-		"Description": " Bancorp Inc"
+		"symbol": "TBBK",
+		"description": " Bancorp Inc"
 	},
 	{
-		"Symbol": "TBI",
-		"Description": "TrueBlue, Inc."
+		"symbol": "TBI",
+		"description": "TrueBlue, Inc."
 	},
 	{
-		"Symbol": "TBIO",
-		"Description": "Transgenomic Cmn"
+		"symbol": "TBIO",
+		"description": "Transgenomic Cmn"
 	},
 	{
-		"Symbol": "TBK",
-		"Description": "Triumph Bancorp Cmn"
+		"symbol": "TBK",
+		"description": "Triumph Bancorp Cmn"
 	},
 	{
-		"Symbol": "TBNK",
-		"Description": "Territorial Bancorp"
+		"symbol": "TBNK",
+		"description": "Territorial Bancorp"
 	},
 	{
-		"Symbol": "TBPH",
-		"Description": "Theravance Bio Ord"
+		"symbol": "TBPH",
+		"description": "Theravance Bio Ord"
 	},
 	{
-		"Symbol": "TCAP",
-		"Description": "Triangle Capital Corporation"
+		"symbol": "TCAP",
+		"description": "Triangle Capital Corporation"
 	},
 	{
-		"Symbol": "TCB",
-		"Description": "TCF Financial Corporation"
+		"symbol": "TCB",
+		"description": "TCF Financial Corporation"
 	},
 	{
-		"Symbol": "TCB.WS",
-		"Description": "TCF Financial Corporation"
+		"symbol": "TCB.WS",
+		"description": "TCF Financial Corporation"
 	},
 	{
-		"Symbol": "TCB^B",
-		"Description": "TCF Financial Corporation"
+		"symbol": "TCB^B",
+		"description": "TCF Financial Corporation"
 	},
 	{
-		"Symbol": "TCB^C",
-		"Description": "TCF Financial Corporation"
+		"symbol": "TCB^C",
+		"description": "TCF Financial Corporation"
 	},
 	{
-		"Symbol": "TCBI",
-		"Description": "Texas Capital Bncsh"
+		"symbol": "TCBI",
+		"description": "Texas Capital Bncsh"
 	},
 	{
-		"Symbol": "TCBIL",
-		"Description": "Texas Cap 6.5 Sr NTS"
+		"symbol": "TCBIL",
+		"description": "Texas Cap 6.5 Sr NTS"
 	},
 	{
-		"Symbol": "TCBIP",
-		"Description": "Texas Capital"
+		"symbol": "TCBIP",
+		"description": "Texas Capital"
 	},
 	{
-		"Symbol": "TCBK",
-		"Description": "Trico Bancshares"
+		"symbol": "TCBK",
+		"description": "Trico Bancshares"
 	},
 	{
-		"Symbol": "TCCA",
-		"Description": "Triangle Capital Corporation"
+		"symbol": "TCCA",
+		"description": "Triangle Capital Corporation"
 	},
 	{
-		"Symbol": "TCCB",
-		"Description": "Triangle Capital Corporation"
+		"symbol": "TCCB",
+		"description": "Triangle Capital Corporation"
 	},
 	{
-		"Symbol": "TCCO",
-		"Description": "Technical Commctn Cp"
+		"symbol": "TCCO",
+		"description": "Technical Commctn Cp"
 	},
 	{
-		"Symbol": "TCFC",
-		"Description": " Community Fin Cp"
+		"symbol": "TCFC",
+		"description": " Community Fin Cp"
 	},
 	{
-		"Symbol": "TCI",
-		"Description": "Transcontinental Realty Investors, Inc."
+		"symbol": "TCI",
+		"description": "Transcontinental Realty Investors, Inc."
 	},
 	{
-		"Symbol": "TCMD",
-		"Description": "Tactile Systems Technology Inc Cmn"
+		"symbol": "TCMD",
+		"description": "Tactile Systems Technology Inc Cmn"
 	},
 	{
-		"Symbol": "TCO",
-		"Description": "Taubman Centers, Inc."
+		"symbol": "TCO",
+		"description": "Taubman Centers, Inc."
 	},
 	{
-		"Symbol": "TCO^J",
-		"Description": "Taubman Centers, Inc."
+		"symbol": "TCO^J",
+		"description": "Taubman Centers, Inc."
 	},
 	{
-		"Symbol": "TCO^K",
-		"Description": "Taubman Centers, Inc."
+		"symbol": "TCO^K",
+		"description": "Taubman Centers, Inc."
 	},
 	{
-		"Symbol": "TCON",
-		"Description": "Tracon Pharma Cmn"
+		"symbol": "TCON",
+		"description": "Tracon Pharma Cmn"
 	},
 	{
-		"Symbol": "TCP",
-		"Description": "TC PipeLines, LP"
+		"symbol": "TCP",
+		"description": "TC PipeLines, LP"
 	},
 	{
-		"Symbol": "TCPC",
-		"Description": "TCP Capital Corp"
+		"symbol": "TCPC",
+		"description": "TCP Capital Corp"
 	},
 	{
-		"Symbol": "TCRD",
-		"Description": "THL Credit Inc"
+		"symbol": "TCRD",
+		"description": "THL Credit Inc"
 	},
 	{
-		"Symbol": "TCRX",
-		"Description": "THL Credit, Inc."
+		"symbol": "TCRX",
+		"description": "THL Credit, Inc."
 	},
 	{
-		"Symbol": "TCRZ",
-		"Description": "THL Credit, Inc."
+		"symbol": "TCRZ",
+		"description": "THL Credit, Inc."
 	},
 	{
-		"Symbol": "TCS",
-		"Description": "Container Store "
+		"symbol": "TCS",
+		"description": "Container Store "
 	},
 	{
-		"Symbol": "TCX",
-		"Description": "Tucows Inc Cl A Cmn"
+		"symbol": "TCX",
+		"description": "Tucows Inc Cl A Cmn"
 	},
 	{
-		"Symbol": "TD",
-		"Description": "Toronto Dominion Bank "
+		"symbol": "TD",
+		"description": "Toronto Dominion Bank "
 	},
 	{
-		"Symbol": "TDA",
-		"Description": "Telephone and Data Systems, Inc."
+		"symbol": "TDA",
+		"description": "Telephone and Data Systems, Inc."
 	},
 	{
-		"Symbol": "TDC",
-		"Description": "Teradata Corporation"
+		"symbol": "TDC",
+		"description": "Teradata Corporation"
 	},
 	{
-		"Symbol": "TDE",
-		"Description": "Telephone and Data Systems, Inc."
+		"symbol": "TDE",
+		"description": "Telephone and Data Systems, Inc."
 	},
 	{
-		"Symbol": "TDF",
-		"Description": "Templeton Dragon Fund, Inc."
+		"symbol": "TDF",
+		"description": "Templeton Dragon Fund, Inc."
 	},
 	{
-		"Symbol": "TDG",
-		"Description": "Transdigm Group Incorporated"
+		"symbol": "TDG",
+		"description": "Transdigm Group Incorporated"
 	},
 	{
-		"Symbol": "TDI",
-		"Description": "Telephone and Data Systems, Inc."
+		"symbol": "TDI",
+		"description": "Telephone and Data Systems, Inc."
 	},
 	{
-		"Symbol": "TDIV",
-		"Description": "First Trs Vi Nasdaq"
+		"symbol": "TDIV",
+		"description": "First Trs Vi Nasdaq"
 	},
 	{
-		"Symbol": "TDJ",
-		"Description": "Telephone and Data Systems, Inc."
+		"symbol": "TDJ",
+		"description": "Telephone and Data Systems, Inc."
 	},
 	{
-		"Symbol": "TDOC",
-		"Description": "Teladoc, Inc."
+		"symbol": "TDOC",
+		"description": "Teladoc, Inc."
 	},
 	{
-		"Symbol": "TDS",
-		"Description": "Telephone and Data Systems, Inc."
+		"symbol": "TDS",
+		"description": "Telephone and Data Systems, Inc."
 	},
 	{
-		"Symbol": "TDW",
-		"Description": "Tidewater Inc."
+		"symbol": "TDW",
+		"description": "Tidewater Inc."
 	},
 	{
-		"Symbol": "TDY",
-		"Description": "Teledyne Technologies Incorporated"
+		"symbol": "TDY",
+		"description": "Teledyne Technologies Incorporated"
 	},
 	{
-		"Symbol": "TEAM",
-		"Description": "Atlassian Cls A Ord"
+		"symbol": "TEAM",
+		"description": "Atlassian Cls A Ord"
 	},
 	{
-		"Symbol": "TEAR",
-		"Description": "Tearlab Corporation"
+		"symbol": "TEAR",
+		"description": "Tearlab Corporation"
 	},
 	{
-		"Symbol": "TECD",
-		"Description": "Tech Data Cp"
+		"symbol": "TECD",
+		"description": "Tech Data Cp"
 	},
 	{
-		"Symbol": "TECH",
-		"Description": "Bio-Techne Cp Cmn"
+		"symbol": "TECH",
+		"description": "Bio-Techne Cp Cmn"
 	},
 	{
-		"Symbol": "TECK",
-		"Description": "Teck Resources Ltd"
+		"symbol": "TECK",
+		"description": "Teck Resources Ltd"
 	},
 	{
-		"Symbol": "TEDU",
-		"Description": "Tarena Intl ADR"
+		"symbol": "TEDU",
+		"description": "Tarena Intl ADR"
 	},
 	{
-		"Symbol": "TEF",
-		"Description": "Telefonica SA"
+		"symbol": "TEF",
+		"description": "Telefonica SA"
 	},
 	{
-		"Symbol": "TEGP",
-		"Description": "Tallgrass Energy GP, LP"
+		"symbol": "TEGP",
+		"description": "Tallgrass Energy GP, LP"
 	},
 	{
-		"Symbol": "TEI",
-		"Description": "Templeton Emerging Markets Income Fund, Inc."
+		"symbol": "TEI",
+		"description": "Templeton Emerging Markets Income Fund, Inc."
 	},
 	{
-		"Symbol": "TEL",
-		"Description": "TE Connectivity Ltd."
+		"symbol": "TEL",
+		"description": "TE Connectivity Ltd."
 	},
 	{
-		"Symbol": "TEN",
-		"Description": "Tenneco Inc."
+		"symbol": "TEN",
+		"description": "Tenneco Inc."
 	},
 	{
-		"Symbol": "TENX",
-		"Description": "Tenax Therapeutics"
+		"symbol": "TENX",
+		"description": "Tenax Therapeutics"
 	},
 	{
-		"Symbol": "TEO",
-		"Description": "Telecom Argentina Stet - France Telecom S.A."
+		"symbol": "TEO",
+		"description": "Telecom Argentina Stet - France Telecom S.A."
 	},
 	{
-		"Symbol": "TEP",
-		"Description": "Tallgrass Energy Partners, LP"
+		"symbol": "TEP",
+		"description": "Tallgrass Energy Partners, LP"
 	},
 	{
-		"Symbol": "TER",
-		"Description": "Teradyne, Inc."
+		"symbol": "TER",
+		"description": "Teradyne, Inc."
 	},
 	{
-		"Symbol": "TERP",
-		"Description": "Terraform Pwr Cla Cmn"
+		"symbol": "TERP",
+		"description": "Terraform Pwr Cla Cmn"
 	},
 	{
-		"Symbol": "TESO",
-		"Description": "Tesco Corp"
+		"symbol": "TESO",
+		"description": "Tesco Corp"
 	},
 	{
-		"Symbol": "TESS",
-		"Description": "Tessco Tech Inc"
+		"symbol": "TESS",
+		"description": "Tessco Tech Inc"
 	},
 	{
-		"Symbol": "TEUM",
-		"Description": "Pareteum Corporation"
+		"symbol": "TEUM",
+		"description": "Pareteum Corporation"
 	},
 	{
-		"Symbol": "TEVA",
-		"Description": "Teva Pharmaceutical Industries Limited"
+		"symbol": "TEVA",
+		"description": "Teva Pharmaceutical Industries Limited"
 	},
 	{
-		"Symbol": "TEX",
-		"Description": "Terex Corporation"
+		"symbol": "TEX",
+		"description": "Terex Corporation"
 	},
 	{
-		"Symbol": "TFSL",
-		"Description": "Tfs Financial Corp."
+		"symbol": "TFSL",
+		"description": "Tfs Financial Corp."
 	},
 	{
-		"Symbol": "TFX",
-		"Description": "Teleflex Incorporated"
+		"symbol": "TFX",
+		"description": "Teleflex Incorporated"
 	},
 	{
-		"Symbol": "TG",
-		"Description": "Tredegar Corporation"
+		"symbol": "TG",
+		"description": "Tredegar Corporation"
 	},
 	{
-		"Symbol": "TGA",
-		"Description": "Transglobe Energy Cp"
+		"symbol": "TGA",
+		"description": "Transglobe Energy Cp"
 	},
 	{
-		"Symbol": "TGB",
-		"Description": "Taseko Mines Limited"
+		"symbol": "TGB",
+		"description": "Taseko Mines Limited"
 	},
 	{
-		"Symbol": "TGC",
-		"Description": "Tengasco, Inc."
+		"symbol": "TGC",
+		"description": "Tengasco, Inc."
 	},
 	{
-		"Symbol": "TGD",
-		"Description": "Timmons Gold Corp"
+		"symbol": "TGD",
+		"description": "Timmons Gold Corp"
 	},
 	{
-		"Symbol": "TGEN",
-		"Description": "Tecogen Inc Cmn"
+		"symbol": "TGEN",
+		"description": "Tecogen Inc Cmn"
 	},
 	{
-		"Symbol": "TGH",
-		"Description": "Textainer Group Holdings Limited"
+		"symbol": "TGH",
+		"description": "Textainer Group Holdings Limited"
 	},
 	{
-		"Symbol": "TGI",
-		"Description": "Triumph Group, Inc."
+		"symbol": "TGI",
+		"description": "Triumph Group, Inc."
 	},
 	{
-		"Symbol": "TGLS",
-		"Description": "Tecnoglass Inc"
+		"symbol": "TGLS",
+		"description": "Tecnoglass Inc"
 	},
 	{
-		"Symbol": "TGNA",
-		"Description": "TEGNA Inc."
+		"symbol": "TGNA",
+		"description": "TEGNA Inc."
 	},
 	{
-		"Symbol": "TGP",
-		"Description": "Teekay LNG Partners L.P."
+		"symbol": "TGP",
+		"description": "Teekay LNG Partners L.P."
 	},
 	{
-		"Symbol": "TGP^A",
-		"Description": "Teekay LNG Partners L.P."
+		"symbol": "TGP^A",
+		"description": "Teekay LNG Partners L.P."
 	},
 	{
-		"Symbol": "TGS",
-		"Description": "Transportadora De Gas Sa Ord B"
+		"symbol": "TGS",
+		"description": "Transportadora De Gas Sa Ord B"
 	},
 	{
-		"Symbol": "TGT",
-		"Description": "Target Corporation"
+		"symbol": "TGT",
+		"description": "Target Corporation"
 	},
 	{
-		"Symbol": "TGTX",
-		"Description": "Tg Therapeuticscmn"
+		"symbol": "TGTX",
+		"description": "Tg Therapeuticscmn"
 	},
 	{
-		"Symbol": "THC",
-		"Description": "Tenet Healthcare Corporation"
+		"symbol": "THC",
+		"description": "Tenet Healthcare Corporation"
 	},
 	{
-		"Symbol": "THFF",
-		"Description": "First Finl Corp [In]"
+		"symbol": "THFF",
+		"description": "First Finl Corp [In]"
 	},
 	{
-		"Symbol": "THG",
-		"Description": " Hanover Insurance Group, Inc."
+		"symbol": "THG",
+		"description": " Hanover Insurance Group, Inc."
 	},
 	{
-		"Symbol": "THGA",
-		"Description": " Hanover Insurance Group, Inc."
+		"symbol": "THGA",
+		"description": " Hanover Insurance Group, Inc."
 	},
 	{
-		"Symbol": "THLD",
-		"Description": "Threshold Pharmactl"
+		"symbol": "THLD",
+		"description": "Threshold Pharmactl"
 	},
 	{
-		"Symbol": "THM",
-		"Description": "International Tower Hill Mines Ltd"
+		"symbol": "THM",
+		"description": "International Tower Hill Mines Ltd"
 	},
 	{
-		"Symbol": "THO",
-		"Description": "Thor Industries, Inc."
+		"symbol": "THO",
+		"description": "Thor Industries, Inc."
 	},
 	{
-		"Symbol": "THQ",
-		"Description": "Tekla Healthcare Opportunies Fund"
+		"symbol": "THQ",
+		"description": "Tekla Healthcare Opportunies Fund"
 	},
 	{
-		"Symbol": "THR",
-		"Description": "Thermon Group Holdings, Inc."
+		"symbol": "THR",
+		"description": "Thermon Group Holdings, Inc."
 	},
 	{
-		"Symbol": "THRM",
-		"Description": "Gentherm Inc Cmn"
+		"symbol": "THRM",
+		"description": "Gentherm Inc Cmn"
 	},
 	{
-		"Symbol": "THS",
-		"Description": "Treehouse Foods, Inc."
+		"symbol": "THS",
+		"description": "Treehouse Foods, Inc."
 	},
 	{
-		"Symbol": "THST",
-		"Description": "Truett Hurst Cl A Co"
+		"symbol": "THST",
+		"description": "Truett Hurst Cl A Co"
 	},
 	{
-		"Symbol": "THW",
-		"Description": "Tekla World Healthcare Fund"
+		"symbol": "THW",
+		"description": "Tekla World Healthcare Fund"
 	},
 	{
-		"Symbol": "TI",
-		"Description": "Telecom Italia S.P.A."
+		"symbol": "TI",
+		"description": "Telecom Italia S.P.A."
 	},
 	{
-		"Symbol": "TI.A",
-		"Description": "Telecom Italia S.P.A."
+		"symbol": "TI.A",
+		"description": "Telecom Italia S.P.A."
 	},
 	{
-		"Symbol": "TICC",
-		"Description": "Ticc Capital Corp"
+		"symbol": "TICC",
+		"description": "Ticc Capital Corp"
 	},
 	{
-		"Symbol": "TIER",
-		"Description": "TIER REIT, Inc."
+		"symbol": "TIER",
+		"description": "TIER REIT, Inc."
 	},
 	{
-		"Symbol": "TIF",
-		"Description": "Tiffany & Co."
+		"symbol": "TIF",
+		"description": "Tiffany & Co."
 	},
 	{
-		"Symbol": "TIG",
-		"Description": "Tigenix Nv"
+		"symbol": "TIG",
+		"description": "Tigenix Nv"
 	},
 	{
-		"Symbol": "TIK",
-		"Description": "Tel-Instrument Electronics Corp."
+		"symbol": "TIK",
+		"description": "Tel-Instrument Electronics Corp."
 	},
 	{
-		"Symbol": "TIL",
-		"Description": "Till Cap Res Vt Shrs"
+		"symbol": "TIL",
+		"description": "Till Cap Res Vt Shrs"
 	},
 	{
-		"Symbol": "TILE",
-		"Description": "Interface Inc Cmn"
+		"symbol": "TILE",
+		"description": "Interface Inc Cmn"
 	},
 	{
-		"Symbol": "TIME",
-		"Description": "Time Inc."
+		"symbol": "TIME",
+		"description": "Time Inc."
 	},
 	{
-		"Symbol": "TINY",
-		"Description": "Harris & Harris"
+		"symbol": "TINY",
+		"description": "Harris & Harris"
 	},
 	{
-		"Symbol": "TIPT",
-		"Description": "Tiptree Fncl Cl A Cmn"
+		"symbol": "TIPT",
+		"description": "Tiptree Fncl Cl A Cmn"
 	},
 	{
-		"Symbol": "TIS",
-		"Description": "Orchids Paper Products Company"
+		"symbol": "TIS",
+		"description": "Orchids Paper Products Company"
 	},
 	{
-		"Symbol": "TISA",
-		"Description": "Top Image Systems"
+		"symbol": "TISA",
+		"description": "Top Image Systems"
 	},
 	{
-		"Symbol": "TISI",
-		"Description": "Team, Inc."
+		"symbol": "TISI",
+		"description": "Team, Inc."
 	},
 	{
-		"Symbol": "TITN",
-		"Description": "Titan Machinery Inc"
+		"symbol": "TITN",
+		"description": "Titan Machinery Inc"
 	},
 	{
-		"Symbol": "TIVO",
-		"Description": "Tivo Corp."
+		"symbol": "TIVO",
+		"description": "Tivo Corp."
 	},
 	{
-		"Symbol": "TJX",
-		"Description": "TJX Companies, Inc. "
+		"symbol": "TJX",
+		"description": "TJX Companies, Inc. "
 	},
 	{
-		"Symbol": "TK",
-		"Description": "Teekay Corporation"
+		"symbol": "TK",
+		"description": "Teekay Corporation"
 	},
 	{
-		"Symbol": "TKAI",
-		"Description": "Tokai Pharma Cmn"
+		"symbol": "TKAI",
+		"description": "Tokai Pharma Cmn"
 	},
 	{
-		"Symbol": "TKC",
-		"Description": "Turkcell Iletisim Hizmetleri AS"
+		"symbol": "TKC",
+		"description": "Turkcell Iletisim Hizmetleri AS"
 	},
 	{
-		"Symbol": "TKF",
-		"Description": "Turkish Investment Fund, Inc. "
+		"symbol": "TKF",
+		"description": "Turkish Investment Fund, Inc. "
 	},
 	{
-		"Symbol": "TKR",
-		"Description": "Timken Company "
+		"symbol": "TKR",
+		"description": "Timken Company "
 	},
 	{
-		"Symbol": "TLF",
-		"Description": "Tandy  Leather Fctry"
+		"symbol": "TLF",
+		"description": "Tandy  Leather Fctry"
 	},
 	{
-		"Symbol": "TLGT",
-		"Description": "Teligent Cmn Stk"
+		"symbol": "TLGT",
+		"description": "Teligent Cmn Stk"
 	},
 	{
-		"Symbol": "TLI",
-		"Description": "Western Asset Corporate Loan Fund Inc"
+		"symbol": "TLI",
+		"description": "Western Asset Corporate Loan Fund Inc"
 	},
 	{
-		"Symbol": "TLK",
-		"Description": "PT Telekomunikasi Indonesia, Tbk"
+		"symbol": "TLK",
+		"description": "PT Telekomunikasi Indonesia, Tbk"
 	},
 	{
-		"Symbol": "TLLP",
-		"Description": "Tesoro Logistics LP"
+		"symbol": "TLLP",
+		"description": "Tesoro Logistics LP"
 	},
 	{
-		"Symbol": "TLND",
-		"Description": "Talend Sa"
+		"symbol": "TLND",
+		"description": "Talend Sa"
 	},
 	{
-		"Symbol": "TLP",
-		"Description": "TransMontaigne Partners L.P."
+		"symbol": "TLP",
+		"description": "TransMontaigne Partners L.P."
 	},
 	{
-		"Symbol": "TLRD",
-		"Description": "Tailored Brands, Inc."
+		"symbol": "TLRD",
+		"description": "Tailored Brands, Inc."
 	},
 	{
-		"Symbol": "TLT",
-		"Description": "Ishares  20-Year Bond"
+		"symbol": "TLT",
+		"description": "Ishares  20-Year Bond"
 	},
 	{
-		"Symbol": "TLYS",
-		"Description": "Tillys, Inc."
+		"symbol": "TLYS",
+		"description": "Tillys, Inc."
 	},
 	{
-		"Symbol": "TM",
-		"Description": "Toyota Motor Corp Ltd Ord"
+		"symbol": "TM",
+		"description": "Toyota Motor Corp Ltd Ord"
 	},
 	{
-		"Symbol": "TMHC",
-		"Description": "Taylor Morrison Home Corporation"
+		"symbol": "TMHC",
+		"description": "Taylor Morrison Home Corporation"
 	},
 	{
-		"Symbol": "TMK",
-		"Description": "Torchmark Corporation"
+		"symbol": "TMK",
+		"description": "Torchmark Corporation"
 	},
 	{
-		"Symbol": "TMK^B",
-		"Description": "Torchmark Corporation"
+		"symbol": "TMK^B",
+		"description": "Torchmark Corporation"
 	},
 	{
-		"Symbol": "TMK^C",
-		"Description": "Torchmark Corporation"
+		"symbol": "TMK^C",
+		"description": "Torchmark Corporation"
 	},
 	{
-		"Symbol": "TMO",
-		"Description": "Thermo Fisher Scientific Inc"
+		"symbol": "TMO",
+		"description": "Thermo Fisher Scientific Inc"
 	},
 	{
-		"Symbol": "TMP",
-		"Description": "Tompkins Financial Corporation"
+		"symbol": "TMP",
+		"description": "Tompkins Financial Corporation"
 	},
 	{
-		"Symbol": "TMQ",
-		"Description": "Trilogy Metals Inc."
+		"symbol": "TMQ",
+		"description": "Trilogy Metals Inc."
 	},
 	{
-		"Symbol": "TMST",
-		"Description": "Timken Steel Corporation"
+		"symbol": "TMST",
+		"description": "Timken Steel Corporation"
 	},
 	{
-		"Symbol": "TMUS",
-		"Description": "T-Mobile US Cmn"
+		"symbol": "TMUS",
+		"description": "T-Mobile US Cmn"
 	},
 	{
-		"Symbol": "TMUSP",
-		"Description": "T-Mobile 5.5 Pfd A"
+		"symbol": "TMUSP",
+		"description": "T-Mobile 5.5 Pfd A"
 	},
 	{
-		"Symbol": "TNAV",
-		"Description": "Telenav Inc"
+		"symbol": "TNAV",
+		"description": "Telenav Inc"
 	},
 	{
-		"Symbol": "TNC",
-		"Description": "Tennant Company"
+		"symbol": "TNC",
+		"description": "Tennant Company"
 	},
 	{
-		"Symbol": "TNDM",
-		"Description": "Tandem Diabetes Care"
+		"symbol": "TNDM",
+		"description": "Tandem Diabetes Care"
 	},
 	{
-		"Symbol": "TNET",
-		"Description": "TriNet Group, Inc."
+		"symbol": "TNET",
+		"description": "TriNet Group, Inc."
 	},
 	{
-		"Symbol": "TNGO",
-		"Description": "Tangoe Inc"
+		"symbol": "TNGO",
+		"description": "Tangoe Inc"
 	},
 	{
-		"Symbol": "TNH",
-		"Description": "Terra Nitrogen Company, L.P."
+		"symbol": "TNH",
+		"description": "Terra Nitrogen Company, L.P."
 	},
 	{
-		"Symbol": "TNK",
-		"Description": "Teekay Tankers Ltd."
+		"symbol": "TNK",
+		"description": "Teekay Tankers Ltd."
 	},
 	{
-		"Symbol": "TNP",
-		"Description": "Tsakos Energy Navigation Ltd"
+		"symbol": "TNP",
+		"description": "Tsakos Energy Navigation Ltd"
 	},
 	{
-		"Symbol": "TNP^B",
-		"Description": "Tsakos Energy Navigation Ltd"
+		"symbol": "TNP^B",
+		"description": "Tsakos Energy Navigation Ltd"
 	},
 	{
-		"Symbol": "TNP^C",
-		"Description": "Tsakos Energy Navigation Ltd"
+		"symbol": "TNP^C",
+		"description": "Tsakos Energy Navigation Ltd"
 	},
 	{
-		"Symbol": "TNP^D",
-		"Description": "Tsakos Energy Navigation Ltd"
+		"symbol": "TNP^D",
+		"description": "Tsakos Energy Navigation Ltd"
 	},
 	{
-		"Symbol": "TNXP",
-		"Description": "Tonix Pharm Hldg Cmn"
+		"symbol": "TNXP",
+		"description": "Tonix Pharm Hldg Cmn"
 	},
 	{
-		"Symbol": "TOL",
-		"Description": "Toll Brothers Inc."
+		"symbol": "TOL",
+		"description": "Toll Brothers Inc."
 	},
 	{
-		"Symbol": "TOO",
-		"Description": "Teekay Offshore Partners L.P."
+		"symbol": "TOO",
+		"description": "Teekay Offshore Partners L.P."
 	},
 	{
-		"Symbol": "TOO^A",
-		"Description": "Teekay Offshore Partners L.P."
+		"symbol": "TOO^A",
+		"description": "Teekay Offshore Partners L.P."
 	},
 	{
-		"Symbol": "TOO^B",
-		"Description": "Teekay Offshore Partners L.P."
+		"symbol": "TOO^B",
+		"description": "Teekay Offshore Partners L.P."
 	},
 	{
-		"Symbol": "TOPS",
-		"Description": "Top Ships Inc"
+		"symbol": "TOPS",
+		"description": "Top Ships Inc"
 	},
 	{
-		"Symbol": "TORM",
-		"Description": "Tor Minerals Intl"
+		"symbol": "TORM",
+		"description": "Tor Minerals Intl"
 	},
 	{
-		"Symbol": "TOT",
-		"Description": "Total S.A."
+		"symbol": "TOT",
+		"description": "Total S.A."
 	},
 	{
-		"Symbol": "TOUR",
-		"Description": "Tuniu Corporatio Ads"
+		"symbol": "TOUR",
+		"description": "Tuniu Corporatio Ads"
 	},
 	{
-		"Symbol": "TOWN",
-		"Description": "Towne Bank"
+		"symbol": "TOWN",
+		"description": "Towne Bank"
 	},
 	{
-		"Symbol": "TOWR",
-		"Description": "Tower International, Inc."
+		"symbol": "TOWR",
+		"description": "Tower International, Inc."
 	},
 	{
-		"Symbol": "TPB",
-		"Description": "Turning Point Brands, Inc."
+		"symbol": "TPB",
+		"description": "Turning Point Brands, Inc."
 	},
 	{
-		"Symbol": "TPC",
-		"Description": "Tutor Perini Corporation"
+		"symbol": "TPC",
+		"description": "Tutor Perini Corporation"
 	},
 	{
-		"Symbol": "TPH",
-		"Description": "TRI Pointe Group, Inc."
+		"symbol": "TPH",
+		"description": "TRI Pointe Group, Inc."
 	},
 	{
-		"Symbol": "TPHS",
-		"Description": "Trinity Place Holdings Inc."
+		"symbol": "TPHS",
+		"description": "Trinity Place Holdings Inc."
 	},
 	{
-		"Symbol": "TPIC",
-		"Description": "Tpi Composites Inc Cmn"
+		"symbol": "TPIC",
+		"description": "Tpi Composites Inc Cmn"
 	},
 	{
-		"Symbol": "TPIV",
-		"Description": "Tapimmune Inc"
+		"symbol": "TPIV",
+		"description": "Tapimmune Inc"
 	},
 	{
-		"Symbol": "TPL",
-		"Description": "Texas Pacific Land Trust"
+		"symbol": "TPL",
+		"description": "Texas Pacific Land Trust"
 	},
 	{
-		"Symbol": "TPLM",
-		"Description": "Triangle Petroleum Corporation"
+		"symbol": "TPLM",
+		"description": "Triangle Petroleum Corporation"
 	},
 	{
-		"Symbol": "TPRE",
-		"Description": "Third Point Reinsurance Ltd."
+		"symbol": "TPRE",
+		"description": "Third Point Reinsurance Ltd."
 	},
 	{
-		"Symbol": "TPVG",
-		"Description": "TriplePoint Venture Growth BDC Corp."
+		"symbol": "TPVG",
+		"description": "TriplePoint Venture Growth BDC Corp."
 	},
 	{
-		"Symbol": "TPVZ",
-		"Description": "TriplePoint Venture Growth BDC Corp."
+		"symbol": "TPVZ",
+		"description": "TriplePoint Venture Growth BDC Corp."
 	},
 	{
-		"Symbol": "TPX",
-		"Description": "Tempur Sealy International, Inc."
+		"symbol": "TPX",
+		"description": "Tempur Sealy International, Inc."
 	},
 	{
-		"Symbol": "TPZ",
-		"Description": "Tortoise Power and Energy Infrastructure Fund, Inc"
+		"symbol": "TPZ",
+		"description": "Tortoise Power and Energy Infrastructure Fund, Inc"
 	},
 	{
-		"Symbol": "TQQQ",
-		"Description": "Proshres Ultrpro QQQ"
+		"symbol": "TQQQ",
+		"description": "Proshres Ultrpro QQQ"
 	},
 	{
-		"Symbol": "TR",
-		"Description": "Tootsie Roll Industries, Inc."
+		"symbol": "TR",
+		"description": "Tootsie Roll Industries, Inc."
 	},
 	{
-		"Symbol": "TRC",
-		"Description": "Tejon Ranch Co"
+		"symbol": "TRC",
+		"description": "Tejon Ranch Co"
 	},
 	{
-		"Symbol": "TRCB",
-		"Description": "Two River Bncrp"
+		"symbol": "TRCB",
+		"description": "Two River Bncrp"
 	},
 	{
-		"Symbol": "TRCH",
-		"Description": "Torchlight Energy"
+		"symbol": "TRCH",
+		"description": "Torchlight Energy"
 	},
 	{
-		"Symbol": "TRCO",
-		"Description": "Tribune Media Company"
+		"symbol": "TRCO",
+		"description": "Tribune Media Company"
 	},
 	{
-		"Symbol": "TREC",
-		"Description": "Trecora Resources"
+		"symbol": "TREC",
+		"description": "Trecora Resources"
 	},
 	{
-		"Symbol": "TREE",
-		"Description": "Lendingtree Inc"
+		"symbol": "TREE",
+		"description": "Lendingtree Inc"
 	},
 	{
-		"Symbol": "TREX",
-		"Description": "Trex Company, Inc."
+		"symbol": "TREX",
+		"description": "Trex Company, Inc."
 	},
 	{
-		"Symbol": "TRGP",
-		"Description": "Targa Resources, Inc."
+		"symbol": "TRGP",
+		"description": "Targa Resources, Inc."
 	},
 	{
-		"Symbol": "TRHC",
-		"Description": "Tabula Rasa Healthcare Inc"
+		"symbol": "TRHC",
+		"description": "Tabula Rasa Healthcare Inc"
 	},
 	{
-		"Symbol": "TRI",
-		"Description": "Thomson Reuters Corp"
+		"symbol": "TRI",
+		"description": "Thomson Reuters Corp"
 	},
 	{
-		"Symbol": "TRIB",
-		"Description": "Trinity Bio ADR"
+		"symbol": "TRIB",
+		"description": "Trinity Bio ADR"
 	},
 	{
-		"Symbol": "TRIL",
-		"Description": "Trillium Therapeutic"
+		"symbol": "TRIL",
+		"description": "Trillium Therapeutic"
 	},
 	{
-		"Symbol": "TRIP",
-		"Description": "Tripadvisor Inc"
+		"symbol": "TRIP",
+		"description": "Tripadvisor Inc"
 	},
 	{
-		"Symbol": "TRK",
-		"Description": "Speedway Motorsports, Inc."
+		"symbol": "TRK",
+		"description": "Speedway Motorsports, Inc."
 	},
 	{
-		"Symbol": "TRMB",
-		"Description": "Trimble Navigation"
+		"symbol": "TRMB",
+		"description": "Trimble Navigation"
 	},
 	{
-		"Symbol": "TRMK",
-		"Description": "Trustmark Corp"
+		"symbol": "TRMK",
+		"description": "Trustmark Corp"
 	},
 	{
-		"Symbol": "TRMR",
-		"Description": "Tremor Video, Inc."
+		"symbol": "TRMR",
+		"description": "Tremor Video, Inc."
 	},
 	{
-		"Symbol": "TRN",
-		"Description": "Trinity Industries, Inc."
+		"symbol": "TRN",
+		"description": "Trinity Industries, Inc."
 	},
 	{
-		"Symbol": "TRNC",
-		"Description": "Tronc Inc"
+		"symbol": "TRNC",
+		"description": "Tronc Inc"
 	},
 	{
-		"Symbol": "TRNO",
-		"Description": "Terreno Realty Corporation"
+		"symbol": "TRNO",
+		"description": "Terreno Realty Corporation"
 	},
 	{
-		"Symbol": "TRNO^A",
-		"Description": "Terreno Realty Corporation"
+		"symbol": "TRNO^A",
+		"description": "Terreno Realty Corporation"
 	},
 	{
-		"Symbol": "TRNS",
-		"Description": "Transcat Inc"
+		"symbol": "TRNS",
+		"description": "Transcat Inc"
 	},
 	{
-		"Symbol": "TROV",
-		"Description": "Trovagene Inc"
+		"symbol": "TROV",
+		"description": "Trovagene Inc"
 	},
 	{
-		"Symbol": "TROVU",
-		"Description": "Trovagene Inc. Unit"
+		"symbol": "TROVU",
+		"description": "Trovagene Inc. Unit"
 	},
 	{
-		"Symbol": "TROVW",
-		"Description": "Trovagene In Warrant"
+		"symbol": "TROVW",
+		"description": "Trovagene In Warrant"
 	},
 	{
-		"Symbol": "TROW",
-		"Description": "T Rowe Price Group"
+		"symbol": "TROW",
+		"description": "T Rowe Price Group"
 	},
 	{
-		"Symbol": "TROX",
-		"Description": "Tronox Limited"
+		"symbol": "TROX",
+		"description": "Tronox Limited"
 	},
 	{
-		"Symbol": "TRP",
-		"Description": "TransCanada Corporation"
+		"symbol": "TRP",
+		"description": "TransCanada Corporation"
 	},
 	{
-		"Symbol": "TRQ",
-		"Description": "Turquoise Hill Resources Ltd."
+		"symbol": "TRQ",
+		"description": "Turquoise Hill Resources Ltd."
 	},
 	{
-		"Symbol": "TRR",
-		"Description": "TRC Companies, Inc."
+		"symbol": "TRR",
+		"description": "TRC Companies, Inc."
 	},
 	{
-		"Symbol": "TRS",
-		"Description": "Trimas Corporation"
+		"symbol": "TRS",
+		"description": "Trimas Corporation"
 	},
 	{
-		"Symbol": "TRST",
-		"Description": "Trustco Bank Corp NY"
+		"symbol": "TRST",
+		"description": "Trustco Bank Corp NY"
 	},
 	{
-		"Symbol": "TRT",
-		"Description": "Trio-Tech International"
+		"symbol": "TRT",
+		"description": "Trio-Tech International"
 	},
 	{
-		"Symbol": "TRTN",
-		"Description": "Triton International Limited"
+		"symbol": "TRTN",
+		"description": "Triton International Limited"
 	},
 	{
-		"Symbol": "TRU",
-		"Description": "TransUnion"
+		"symbol": "TRU",
+		"description": "TransUnion"
 	},
 	{
-		"Symbol": "TRUE",
-		"Description": "Truecar Inc Cmn"
+		"symbol": "TRUE",
+		"description": "Truecar Inc Cmn"
 	},
 	{
-		"Symbol": "TRUP",
-		"Description": "Trupanion Inc"
+		"symbol": "TRUP",
+		"description": "Trupanion Inc"
 	},
 	{
-		"Symbol": "TRV",
-		"Description": " Travelers Companies, Inc."
+		"symbol": "TRV",
+		"description": " Travelers Companies, Inc."
 	},
 	{
-		"Symbol": "TRVG",
-		"Description": "Trivago Nv"
+		"symbol": "TRVG",
+		"description": "Trivago Nv"
 	},
 	{
-		"Symbol": "TRVN",
-		"Description": "Trevena Inc"
+		"symbol": "TRVN",
+		"description": "Trevena Inc"
 	},
 	{
-		"Symbol": "TRX",
-		"Description": "Tanzanian Royalty Exploration Corporation"
+		"symbol": "TRX",
+		"description": "Tanzanian Royalty Exploration Corporation"
 	},
 	{
-		"Symbol": "TRXC",
-		"Description": "TransEnterix, Inc."
+		"symbol": "TRXC",
+		"description": "TransEnterix, Inc."
 	},
 	{
-		"Symbol": "TS",
-		"Description": "Tenaris S.A."
+		"symbol": "TS",
+		"description": "Tenaris S.A."
 	},
 	{
-		"Symbol": "TSBK",
-		"Description": "Timberland Bancorp"
+		"symbol": "TSBK",
+		"description": "Timberland Bancorp"
 	},
 	{
-		"Symbol": "TSC",
-		"Description": "Tristate Capital Hld"
+		"symbol": "TSC",
+		"description": "Tristate Capital Hld"
 	},
 	{
-		"Symbol": "TSCO",
-		"Description": "Tractor Supply Co"
+		"symbol": "TSCO",
+		"description": "Tractor Supply Co"
 	},
 	{
-		"Symbol": "TSE",
-		"Description": "Trinseo S.A."
+		"symbol": "TSE",
+		"description": "Trinseo S.A."
 	},
 	{
-		"Symbol": "TSEM",
-		"Description": "Tower Semiconductor"
+		"symbol": "TSEM",
+		"description": "Tower Semiconductor"
 	},
 	{
-		"Symbol": "TSI",
-		"Description": "TCW Strategic Income Fund, Inc."
+		"symbol": "TSI",
+		"description": "TCW Strategic Income Fund, Inc."
 	},
 	{
-		"Symbol": "TSL",
-		"Description": "Trina Solar Limited"
+		"symbol": "TSL",
+		"description": "Trina Solar Limited"
 	},
 	{
-		"Symbol": "TSLA",
-		"Description": "Tesla Inc."
+		"symbol": "TSLA",
+		"description": "Tesla Inc."
 	},
 	{
-		"Symbol": "TSLF",
-		"Description": "THL Credit Senior Loan Fund"
+		"symbol": "TSLF",
+		"description": "THL Credit Senior Loan Fund"
 	},
 	{
-		"Symbol": "TSLX",
-		"Description": "TPG Specialty Lending, Inc."
+		"symbol": "TSLX",
+		"description": "TPG Specialty Lending, Inc."
 	},
 	{
-		"Symbol": "TSM",
-		"Description": "Taiwan Semiconductor Manufacturing Company Ltd."
+		"symbol": "TSM",
+		"description": "Taiwan Semiconductor Manufacturing Company Ltd."
 	},
 	{
-		"Symbol": "TSN",
-		"Description": "Tyson Foods, Inc."
+		"symbol": "TSN",
+		"description": "Tyson Foods, Inc."
 	},
 	{
-		"Symbol": "TSNU",
-		"Description": "Tyson Foods, Inc."
+		"symbol": "TSNU",
+		"description": "Tyson Foods, Inc."
 	},
 	{
-		"Symbol": "TSO",
-		"Description": "Tesoro Corporation"
+		"symbol": "TSO",
+		"description": "Tesoro Corporation"
 	},
 	{
-		"Symbol": "TSQ",
-		"Description": "Townsquare Media, Inc."
+		"symbol": "TSQ",
+		"description": "Townsquare Media, Inc."
 	},
 	{
-		"Symbol": "TSRA",
-		"Description": "Tessera Technologies"
+		"symbol": "TSRA",
+		"description": "Tessera Technologies"
 	},
 	{
-		"Symbol": "TSRI",
-		"Description": "T S R Inc"
+		"symbol": "TSRI",
+		"description": "T S R Inc"
 	},
 	{
-		"Symbol": "TSRO",
-		"Description": "Tesaro Inc"
+		"symbol": "TSRO",
+		"description": "Tesaro Inc"
 	},
 	{
-		"Symbol": "TSS",
-		"Description": "Total System Services, Inc."
+		"symbol": "TSS",
+		"description": "Total System Services, Inc."
 	},
 	{
-		"Symbol": "TST",
-		"Description": "Thestreet Inc"
+		"symbol": "TST",
+		"description": "Thestreet Inc"
 	},
 	{
-		"Symbol": "TSU",
-		"Description": "TIM Participacoes S.A."
+		"symbol": "TSU",
+		"description": "TIM Participacoes S.A."
 	},
 	{
-		"Symbol": "TTC",
-		"Description": "Toro Company "
+		"symbol": "TTC",
+		"description": "Toro Company "
 	},
 	{
-		"Symbol": "TTD",
-		"Description": "Trade Desk Inc"
+		"symbol": "TTD",
+		"description": "Trade Desk Inc"
 	},
 	{
-		"Symbol": "TTEC",
-		"Description": "Teletech Hldgs"
+		"symbol": "TTEC",
+		"description": "Teletech Hldgs"
 	},
 	{
-		"Symbol": "TTEK",
-		"Description": "Tetra Tech Inc"
+		"symbol": "TTEK",
+		"description": "Tetra Tech Inc"
 	},
 	{
-		"Symbol": "TTF",
-		"Description": "Thai Fund, Inc. "
+		"symbol": "TTF",
+		"description": "Thai Fund, Inc. "
 	},
 	{
-		"Symbol": "TTGT",
-		"Description": "Techtarget Inc"
+		"symbol": "TTGT",
+		"description": "Techtarget Inc"
 	},
 	{
-		"Symbol": "TTI",
-		"Description": "Tetra Technologies, Inc."
+		"symbol": "TTI",
+		"description": "Tetra Technologies, Inc."
 	},
 	{
-		"Symbol": "TTM",
-		"Description": "Tata Motors Ltd"
+		"symbol": "TTM",
+		"description": "Tata Motors Ltd"
 	},
 	{
-		"Symbol": "TTMI",
-		"Description": "TTM Technologies I"
+		"symbol": "TTMI",
+		"description": "TTM Technologies I"
 	},
 	{
-		"Symbol": "TTNP",
-		"Description": "Titan Pharma Cmn"
+		"symbol": "TTNP",
+		"description": "Titan Pharma Cmn"
 	},
 	{
-		"Symbol": "TTOO",
-		"Description": "T2 Biosystems CS"
+		"symbol": "TTOO",
+		"description": "T2 Biosystems CS"
 	},
 	{
-		"Symbol": "TTP",
-		"Description": "Tortoise Pipeline & Energy Fund, Inc."
+		"symbol": "TTP",
+		"description": "Tortoise Pipeline & Energy Fund, Inc."
 	},
 	{
-		"Symbol": "TTPH",
-		"Description": "Tetraphase Pharmaceu"
+		"symbol": "TTPH",
+		"description": "Tetraphase Pharmaceu"
 	},
 	{
-		"Symbol": "TTS",
-		"Description": "Tile Shop Hldgs Cmn"
+		"symbol": "TTS",
+		"description": "Tile Shop Hldgs Cmn"
 	},
 	{
-		"Symbol": "TTWO",
-		"Description": "Take-Two Interacti"
+		"symbol": "TTWO",
+		"description": "Take-Two Interacti"
 	},
 	{
-		"Symbol": "TU",
-		"Description": "TELUS Corporation"
+		"symbol": "TU",
+		"description": "TELUS Corporation"
 	},
 	{
-		"Symbol": "TUES",
-		"Description": "Tuesday Morning Co"
+		"symbol": "TUES",
+		"description": "Tuesday Morning Co"
 	},
 	{
-		"Symbol": "TUP",
-		"Description": "Tupperware Brands Corporation"
+		"symbol": "TUP",
+		"description": "Tupperware Brands Corporation"
 	},
 	{
-		"Symbol": "TUSA",
-		"Description": "First TR Alpdex ETF"
+		"symbol": "TUSA",
+		"description": "First TR Alpdex ETF"
 	},
 	{
-		"Symbol": "TUSK",
-		"Description": "Mammoth Energy Services Inc"
+		"symbol": "TUSK",
+		"description": "Mammoth Energy Services Inc"
 	},
 	{
-		"Symbol": "TUTI",
-		"Description": "Tuttle Tct Mg Mlt"
+		"symbol": "TUTI",
+		"description": "Tuttle Tct Mg Mlt"
 	},
 	{
-		"Symbol": "TUTT",
-		"Description": "Tuttle Tct MGT US Cr"
+		"symbol": "TUTT",
+		"description": "Tuttle Tct MGT US Cr"
 	},
 	{
-		"Symbol": "TV",
-		"Description": "Grupo Televisa S.A."
+		"symbol": "TV",
+		"description": "Grupo Televisa S.A."
 	},
 	{
-		"Symbol": "TVC",
-		"Description": "Tennessee Valley Authority"
+		"symbol": "TVC",
+		"description": "Tennessee Valley Authority"
 	},
 	{
-		"Symbol": "TVE",
-		"Description": "Tennessee Valley Authority"
+		"symbol": "TVE",
+		"description": "Tennessee Valley Authority"
 	},
 	{
-		"Symbol": "TVIA",
-		"Description": "Terravia Hldgs Inc"
+		"symbol": "TVIA",
+		"description": "Terravia Hldgs Inc"
 	},
 	{
-		"Symbol": "TVIX",
-		"Description": "VS 2X VIX Short Term"
+		"symbol": "TVIX",
+		"description": "VS 2X VIX Short Term"
 	},
 	{
-		"Symbol": "TVIZ",
-		"Description": "VS 2X VIX Mid Term"
+		"symbol": "TVIZ",
+		"description": "VS 2X VIX Mid Term"
 	},
 	{
-		"Symbol": "TVPT",
-		"Description": "Travelport Worldwide Limited"
+		"symbol": "TVPT",
+		"description": "Travelport Worldwide Limited"
 	},
 	{
-		"Symbol": "TVTY",
-		"Description": "Tivity Health"
+		"symbol": "TVTY",
+		"description": "Tivity Health"
 	},
 	{
-		"Symbol": "TWI",
-		"Description": "Titan International, Inc."
+		"symbol": "TWI",
+		"description": "Titan International, Inc."
 	},
 	{
-		"Symbol": "TWIN",
-		"Description": "Twin Disc Inc"
+		"symbol": "TWIN",
+		"description": "Twin Disc Inc"
 	},
 	{
-		"Symbol": "TWLO",
-		"Description": "Twilio Inc."
+		"symbol": "TWLO",
+		"description": "Twilio Inc."
 	},
 	{
-		"Symbol": "TWMC",
-		"Description": "Trans World Entert"
+		"symbol": "TWMC",
+		"description": "Trans World Entert"
 	},
 	{
-		"Symbol": "TWN",
-		"Description": "Taiwan Fund, Inc. "
+		"symbol": "TWN",
+		"description": "Taiwan Fund, Inc. "
 	},
 	{
-		"Symbol": "TWNK",
-		"Description": "Hostess Brands Inc"
+		"symbol": "TWNK",
+		"description": "Hostess Brands Inc"
 	},
 	{
-		"Symbol": "TWNKW",
-		"Description": "Gores Holdings Warr"
+		"symbol": "TWNKW",
+		"description": "Gores Holdings Warr"
 	},
 	{
-		"Symbol": "TWO",
-		"Description": "Two Harbors Investments Corp"
+		"symbol": "TWO",
+		"description": "Two Harbors Investments Corp"
 	},
 	{
-		"Symbol": "TWOU",
-		"Description": "2U Inc Cmn Stk"
+		"symbol": "TWOU",
+		"description": "2U Inc Cmn Stk"
 	},
 	{
-		"Symbol": "TWTR",
-		"Description": "Twitter, Inc."
+		"symbol": "TWTR",
+		"description": "Twitter, Inc."
 	},
 	{
-		"Symbol": "TWX",
-		"Description": "Time Warner Inc."
+		"symbol": "TWX",
+		"description": "Time Warner Inc."
 	},
 	{
-		"Symbol": "TX",
-		"Description": "Ternium S.A."
+		"symbol": "TX",
+		"description": "Ternium S.A."
 	},
 	{
-		"Symbol": "TXMD",
-		"Description": "TherapeuticsMD, Inc."
+		"symbol": "TXMD",
+		"description": "TherapeuticsMD, Inc."
 	},
 	{
-		"Symbol": "TXN",
-		"Description": "Texas Instruments"
+		"symbol": "TXN",
+		"description": "Texas Instruments"
 	},
 	{
-		"Symbol": "TXRH",
-		"Description": "Texas Roadhouse Inc"
+		"symbol": "TXRH",
+		"description": "Texas Roadhouse Inc"
 	},
 	{
-		"Symbol": "TXT",
-		"Description": "Textron Inc."
+		"symbol": "TXT",
+		"description": "Textron Inc."
 	},
 	{
-		"Symbol": "TY",
-		"Description": "Tri Continental Corporation"
+		"symbol": "TY",
+		"description": "Tri Continental Corporation"
 	},
 	{
-		"Symbol": "TY^",
-		"Description": "Tri Continental Corporation"
+		"symbol": "TY^",
+		"description": "Tri Continental Corporation"
 	},
 	{
-		"Symbol": "TYG",
-		"Description": "Tortoise Energy Infrastructure Corporation"
+		"symbol": "TYG",
+		"description": "Tortoise Energy Infrastructure Corporation"
 	},
 	{
-		"Symbol": "TYHT",
-		"Description": "Shineco Inc"
+		"symbol": "TYHT",
+		"description": "Shineco Inc"
 	},
 	{
-		"Symbol": "TYL",
-		"Description": "Tyler Technologies, Inc."
+		"symbol": "TYL",
+		"description": "Tyler Technologies, Inc."
 	},
 	{
-		"Symbol": "TYPE",
-		"Description": "Monotype Imag. Hold."
+		"symbol": "TYPE",
+		"description": "Monotype Imag. Hold."
 	},
 	{
-		"Symbol": "TZOO",
-		"Description": "Travelzoo Inc"
+		"symbol": "TZOO",
+		"description": "Travelzoo Inc"
 	},
 	{
-		"Symbol": "UA",
-		"Description": "Under Armour, Inc."
+		"symbol": "UA",
+		"description": "Under Armour, Inc."
 	},
 	{
-		"Symbol": "UAA",
-		"Description": "Under Armour, Inc."
+		"symbol": "UAA",
+		"description": "Under Armour, Inc."
 	},
 	{
-		"Symbol": "UAE",
-		"Description": "Ishares MSCI UAE Cap"
+		"symbol": "UAE",
+		"description": "Ishares MSCI UAE Cap"
 	},
 	{
-		"Symbol": "UAL",
-		"Description": "United Continental Holdings, Inc."
+		"symbol": "UAL",
+		"description": "United Continental Holdings, Inc."
 	},
 	{
-		"Symbol": "UAM",
-		"Description": "Universal American Corp."
+		"symbol": "UAM",
+		"description": "Universal American Corp."
 	},
 	{
-		"Symbol": "UAMY",
-		"Description": "United States Antimony Corporation"
+		"symbol": "UAMY",
+		"description": "United States Antimony Corporation"
 	},
 	{
-		"Symbol": "UAN",
-		"Description": "CVR Partners, LP"
+		"symbol": "UAN",
+		"description": "CVR Partners, LP"
 	},
 	{
-		"Symbol": "UBA",
-		"Description": "Urstadt Biddle Properties Inc."
+		"symbol": "UBA",
+		"description": "Urstadt Biddle Properties Inc."
 	},
 	{
-		"Symbol": "UBCP",
-		"Description": "United Bncp Inc"
+		"symbol": "UBCP",
+		"description": "United Bncp Inc"
 	},
 	{
-		"Symbol": "UBFO",
-		"Description": "United Security Bcsh"
+		"symbol": "UBFO",
+		"description": "United Security Bcsh"
 	},
 	{
-		"Symbol": "UBIO",
-		"Description": "Proshr Ult Nq Bio"
+		"symbol": "UBIO",
+		"description": "Proshr Ult Nq Bio"
 	},
 	{
-		"Symbol": "UBND",
-		"Description": "Wisdmtree W Un Bnd"
+		"symbol": "UBND",
+		"description": "Wisdmtree W Un Bnd"
 	},
 	{
-		"Symbol": "UBNK",
-		"Description": "United Fin Bncp New"
+		"symbol": "UBNK",
+		"description": "United Fin Bncp New"
 	},
 	{
-		"Symbol": "UBNT",
-		"Description": "Ubiquiti Networks I"
+		"symbol": "UBNT",
+		"description": "Ubiquiti Networks I"
 	},
 	{
-		"Symbol": "UBOH",
-		"Description": "United Bancshares"
+		"symbol": "UBOH",
+		"description": "United Bancshares"
 	},
 	{
-		"Symbol": "UBP",
-		"Description": "Urstadt Biddle Properties Inc."
+		"symbol": "UBP",
+		"description": "Urstadt Biddle Properties Inc."
 	},
 	{
-		"Symbol": "UBP^F",
-		"Description": "Urstadt Biddle Properties Inc."
+		"symbol": "UBP^F",
+		"description": "Urstadt Biddle Properties Inc."
 	},
 	{
-		"Symbol": "UBP^G",
-		"Description": "Urstadt Biddle Properties Inc."
+		"symbol": "UBP^G",
+		"description": "Urstadt Biddle Properties Inc."
 	},
 	{
-		"Symbol": "UBS",
-		"Description": "UBS AG"
+		"symbol": "UBS",
+		"description": "UBS AG"
 	},
 	{
-		"Symbol": "UBSH",
-		"Description": "Union Bankshares Cp"
+		"symbol": "UBSH",
+		"description": "Union Bankshares Cp"
 	},
 	{
-		"Symbol": "UBSI",
-		"Description": "United Bkshs Inc"
+		"symbol": "UBSI",
+		"description": "United Bkshs Inc"
 	},
 	{
-		"Symbol": "UCBA",
-		"Description": "United Community Ban"
+		"symbol": "UCBA",
+		"description": "United Community Ban"
 	},
 	{
-		"Symbol": "UCBI",
-		"Description": "United Comm Banks"
+		"symbol": "UCBI",
+		"description": "United Comm Banks"
 	},
 	{
-		"Symbol": "UCFC",
-		"Description": "United Community Fnl"
+		"symbol": "UCFC",
+		"description": "United Community Fnl"
 	},
 	{
-		"Symbol": "UCP",
-		"Description": "UCP, Inc."
+		"symbol": "UCP",
+		"description": "UCP, Inc."
 	},
 	{
-		"Symbol": "UCTT",
-		"Description": "Ultra Clean Holdings"
+		"symbol": "UCTT",
+		"description": "Ultra Clean Holdings"
 	},
 	{
-		"Symbol": "UDBI",
-		"Description": "Legg Mason US Div Cr"
+		"symbol": "UDBI",
+		"description": "Legg Mason US Div Cr"
 	},
 	{
-		"Symbol": "UDR",
-		"Description": "United Dominion Realty Trust, Inc."
+		"symbol": "UDR",
+		"description": "United Dominion Realty Trust, Inc."
 	},
 	{
-		"Symbol": "UE",
-		"Description": "Urban Edge Properties"
+		"symbol": "UE",
+		"description": "Urban Edge Properties"
 	},
 	{
-		"Symbol": "UEC",
-		"Description": "Uranium Energy Corp."
+		"symbol": "UEC",
+		"description": "Uranium Energy Corp."
 	},
 	{
-		"Symbol": "UEIC",
-		"Description": "Universal Elect In"
+		"symbol": "UEIC",
+		"description": "Universal Elect In"
 	},
 	{
-		"Symbol": "UEPS",
-		"Description": "Net 1 Ueps Techs Inc"
+		"symbol": "UEPS",
+		"description": "Net 1 Ueps Techs Inc"
 	},
 	{
-		"Symbol": "UFAB",
-		"Description": "Unique Fabricating, Inc."
+		"symbol": "UFAB",
+		"description": "Unique Fabricating, Inc."
 	},
 	{
-		"Symbol": "UFCS",
-		"Description": "United Fire Group I"
+		"symbol": "UFCS",
+		"description": "United Fire Group I"
 	},
 	{
-		"Symbol": "UFI",
-		"Description": "Unifi, Inc."
+		"symbol": "UFI",
+		"description": "Unifi, Inc."
 	},
 	{
-		"Symbol": "UFPI",
-		"Description": "Universal Forest Prd"
+		"symbol": "UFPI",
+		"description": "Universal Forest Prd"
 	},
 	{
-		"Symbol": "UFPT",
-		"Description": "U F P Tech Inc"
+		"symbol": "UFPT",
+		"description": "U F P Tech Inc"
 	},
 	{
-		"Symbol": "UFS",
-		"Description": "Domtar Corporation"
+		"symbol": "UFS",
+		"description": "Domtar Corporation"
 	},
 	{
-		"Symbol": "UG",
-		"Description": "United Guardian Inc"
+		"symbol": "UG",
+		"description": "United Guardian Inc"
 	},
 	{
-		"Symbol": "UGI",
-		"Description": "UGI Corporation"
+		"symbol": "UGI",
+		"description": "UGI Corporation"
 	},
 	{
-		"Symbol": "UGLD",
-		"Description": "VS 3X Gold"
+		"symbol": "UGLD",
+		"description": "VS 3X Gold"
 	},
 	{
-		"Symbol": "UGP",
-		"Description": "Ultrapar Participacoes S.A."
+		"symbol": "UGP",
+		"description": "Ultrapar Participacoes S.A."
 	},
 	{
-		"Symbol": "UHAL",
-		"Description": "A M E R C  O"
+		"symbol": "UHAL",
+		"description": "A M E R C  O"
 	},
 	{
-		"Symbol": "UHS",
-		"Description": "Universal Health Services, Inc."
+		"symbol": "UHS",
+		"description": "Universal Health Services, Inc."
 	},
 	{
-		"Symbol": "UHT",
-		"Description": "Universal Health Realty Income Trust"
+		"symbol": "UHT",
+		"description": "Universal Health Realty Income Trust"
 	},
 	{
-		"Symbol": "UIHC",
-		"Description": "United Insurance Hld"
+		"symbol": "UIHC",
+		"description": "United Insurance Hld"
 	},
 	{
-		"Symbol": "UIS",
-		"Description": "Unisys Corporation"
+		"symbol": "UIS",
+		"description": "Unisys Corporation"
 	},
 	{
-		"Symbol": "UL",
-		"Description": "Unilever PLC"
+		"symbol": "UL",
+		"description": "Unilever PLC"
 	},
 	{
-		"Symbol": "ULBI",
-		"Description": "Ultralife Corp"
+		"symbol": "ULBI",
+		"description": "Ultralife Corp"
 	},
 	{
-		"Symbol": "ULH",
-		"Description": "Universal Logis Hldg"
+		"symbol": "ULH",
+		"description": "Universal Logis Hldg"
 	},
 	{
-		"Symbol": "ULTA",
-		"Description": "Ulta Salon Cosmetic"
+		"symbol": "ULTA",
+		"description": "Ulta Salon Cosmetic"
 	},
 	{
-		"Symbol": "ULTI",
-		"Description": "Ultimate Software"
+		"symbol": "ULTI",
+		"description": "Ultimate Software"
 	},
 	{
-		"Symbol": "UMBF",
-		"Description": "Ump Financial Corp"
+		"symbol": "UMBF",
+		"description": "Ump Financial Corp"
 	},
 	{
-		"Symbol": "UMC",
-		"Description": "United Microelectronics Corporation"
+		"symbol": "UMC",
+		"description": "United Microelectronics Corporation"
 	},
 	{
-		"Symbol": "UMH",
-		"Description": "UMH Properties, Inc."
+		"symbol": "UMH",
+		"description": "UMH Properties, Inc."
 	},
 	{
-		"Symbol": "UMH^A",
-		"Description": "UMH Properties, Inc."
+		"symbol": "UMH^A",
+		"description": "UMH Properties, Inc."
 	},
 	{
-		"Symbol": "UMH^B",
-		"Description": "UMH Properties, Inc."
+		"symbol": "UMH^B",
+		"description": "UMH Properties, Inc."
 	},
 	{
-		"Symbol": "UMPQ",
-		"Description": "Umpqua Holdings Corp"
+		"symbol": "UMPQ",
+		"description": "Umpqua Holdings Corp"
 	},
 	{
-		"Symbol": "UN",
-		"Description": "Unilever NV"
+		"symbol": "UN",
+		"description": "Unilever NV"
 	},
 	{
-		"Symbol": "UNAM",
-		"Description": "Unico American Cp"
+		"symbol": "UNAM",
+		"description": "Unico American Cp"
 	},
 	{
-		"Symbol": "UNB",
-		"Description": "Union Bankshares Inc"
+		"symbol": "UNB",
+		"description": "Union Bankshares Inc"
 	},
 	{
-		"Symbol": "UNF",
-		"Description": "Unifirst Corporation"
+		"symbol": "UNF",
+		"description": "Unifirst Corporation"
 	},
 	{
-		"Symbol": "UNFI",
-		"Description": "United Nat Foods I"
+		"symbol": "UNFI",
+		"description": "United Nat Foods I"
 	},
 	{
-		"Symbol": "UNH",
-		"Description": "UnitedHealth Group Incorporated"
+		"symbol": "UNH",
+		"description": "UnitedHealth Group Incorporated"
 	},
 	{
-		"Symbol": "UNIS",
-		"Description": "Unilife Corporation"
+		"symbol": "UNIS",
+		"description": "Unilife Corporation"
 	},
 	{
-		"Symbol": "UNM",
-		"Description": "Unum Group"
+		"symbol": "UNM",
+		"description": "Unum Group"
 	},
 	{
-		"Symbol": "UNP",
-		"Description": "Union Pacific Corporation"
+		"symbol": "UNP",
+		"description": "Union Pacific Corporation"
 	},
 	{
-		"Symbol": "UNT",
-		"Description": "Unit Corporation"
+		"symbol": "UNT",
+		"description": "Unit Corporation"
 	},
 	{
-		"Symbol": "UNTY",
-		"Description": "Unity Bancorp Inc"
+		"symbol": "UNTY",
+		"description": "Unity Bancorp Inc"
 	},
 	{
-		"Symbol": "UNVR",
-		"Description": "Univar Inc."
+		"symbol": "UNVR",
+		"description": "Univar Inc."
 	},
 	{
-		"Symbol": "UNXL",
-		"Description": "Uni-Pixel Inc"
+		"symbol": "UNXL",
+		"description": "Uni-Pixel Inc"
 	},
 	{
-		"Symbol": "UPLD",
-		"Description": "Upland Software Inc"
+		"symbol": "UPLD",
+		"description": "Upland Software Inc"
 	},
 	{
-		"Symbol": "UPS",
-		"Description": "United Parcel Service, Inc."
+		"symbol": "UPS",
+		"description": "United Parcel Service, Inc."
 	},
 	{
-		"Symbol": "UQM",
-		"Description": "UQM TECHNOLOGIES INC"
+		"symbol": "UQM",
+		"description": "UQM TECHNOLOGIES INC"
 	},
 	{
-		"Symbol": "URBN",
-		"Description": "Urban Outfitters Inc"
+		"symbol": "URBN",
+		"description": "Urban Outfitters Inc"
 	},
 	{
-		"Symbol": "URG",
-		"Description": "Ur Energy Inc"
+		"symbol": "URG",
+		"description": "Ur Energy Inc"
 	},
 	{
-		"Symbol": "URI",
-		"Description": "United Rentals, Inc."
+		"symbol": "URI",
+		"description": "United Rentals, Inc."
 	},
 	{
-		"Symbol": "URRE",
-		"Description": "Uranium Resources"
+		"symbol": "URRE",
+		"description": "Uranium Resources"
 	},
 	{
-		"Symbol": "USA",
-		"Description": "Liberty All-Star Equity Fund"
+		"symbol": "USA",
+		"description": "Liberty All-Star Equity Fund"
 	},
 	{
-		"Symbol": "USAC",
-		"Description": "USA Compression Partners, LP"
+		"symbol": "USAC",
+		"description": "USA Compression Partners, LP"
 	},
 	{
-		"Symbol": "USAK",
-		"Description": "U S A Truck Inc"
+		"symbol": "USAK",
+		"description": "U S A Truck Inc"
 	},
 	{
-		"Symbol": "USAP",
-		"Description": "Universal Stainles"
+		"symbol": "USAP",
+		"description": "Universal Stainles"
 	},
 	{
-		"Symbol": "USAS",
-		"Description": "Americas Silver Corporation"
+		"symbol": "USAS",
+		"description": "Americas Silver Corporation"
 	},
 	{
-		"Symbol": "USAT",
-		"Description": "USA Technologies Inc"
+		"symbol": "USAT",
+		"description": "USA Technologies Inc"
 	},
 	{
-		"Symbol": "USATP",
-		"Description": "USA Technologies Pfd"
+		"symbol": "USATP",
+		"description": "USA Technologies Pfd"
 	},
 	{
-		"Symbol": "USB",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USB^A",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB^A",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USB^H",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB^H",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USB^M",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB^M",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USB^N",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB^N",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USB^O",
-		"Description": "U.S. Bancorp"
+		"symbol": "USB^O",
+		"description": "U.S. Bancorp"
 	},
 	{
-		"Symbol": "USCR",
-		"Description": "U S Concrete Inc"
+		"symbol": "USCR",
+		"description": "U S Concrete Inc"
 	},
 	{
-		"Symbol": "USDP",
-		"Description": "USD Partners LP"
+		"symbol": "USDP",
+		"description": "USD Partners LP"
 	},
 	{
-		"Symbol": "USEG",
-		"Description": "U S Energy Corp"
+		"symbol": "USEG",
+		"description": "U S Energy Corp"
 	},
 	{
-		"Symbol": "USFD",
-		"Description": "US Foods Holding Corp."
+		"symbol": "USFD",
+		"description": "US Foods Holding Corp."
 	},
 	{
-		"Symbol": "USG",
-		"Description": "USG Corporation"
+		"symbol": "USG",
+		"description": "USG Corporation"
 	},
 	{
-		"Symbol": "USLB",
-		"Description": "PS Russell 1000 Low Beta Equal Weight"
+		"symbol": "USLB",
+		"description": "PS Russell 1000 Low Beta Equal Weight"
 	},
 	{
-		"Symbol": "USLM",
-		"Description": "U S Lime & Mineral"
+		"symbol": "USLM",
+		"description": "U S Lime & Mineral"
 	},
 	{
-		"Symbol": "USLV",
-		"Description": "VS 3X Silver"
+		"symbol": "USLV",
+		"description": "VS 3X Silver"
 	},
 	{
-		"Symbol": "USM",
-		"Description": "United States Cellular Corporation"
+		"symbol": "USM",
+		"description": "United States Cellular Corporation"
 	},
 	{
-		"Symbol": "USNA",
-		"Description": "USANA Health Sciences, Inc."
+		"symbol": "USNA",
+		"description": "USANA Health Sciences, Inc."
 	},
 	{
-		"Symbol": "USPH",
-		"Description": "U.S. Physical Therapy, Inc."
+		"symbol": "USPH",
+		"description": "U.S. Physical Therapy, Inc."
 	},
 	{
-		"Symbol": "UTEK",
-		"Description": "Ultratech Inc"
+		"symbol": "UTEK",
+		"description": "Ultratech Inc"
 	},
 	{
-		"Symbol": "UTF",
-		"Description": "Cohen & Steers Infrastructure Fund, Inc"
+		"symbol": "UTF",
+		"description": "Cohen & Steers Infrastructure Fund, Inc"
 	},
 	{
-		"Symbol": "UTG",
-		"Description": "Reaves Utility Income Fund"
+		"symbol": "UTG",
+		"description": "Reaves Utility Income Fund"
 	},
 	{
-		"Symbol": "UTHR",
-		"Description": "United Therapeutic"
+		"symbol": "UTHR",
+		"description": "United Therapeutic"
 	},
 	{
-		"Symbol": "UTI",
-		"Description": "Universal Technical Institute Inc"
+		"symbol": "UTI",
+		"description": "Universal Technical Institute Inc"
 	},
 	{
-		"Symbol": "UTL",
-		"Description": "UNITIL Corporation"
+		"symbol": "UTL",
+		"description": "UNITIL Corporation"
 	},
 	{
-		"Symbol": "UTMD",
-		"Description": "Utah Medical Prod"
+		"symbol": "UTMD",
+		"description": "Utah Medical Prod"
 	},
 	{
-		"Symbol": "UTSI",
-		"Description": "Utstarcom Holdings C"
+		"symbol": "UTSI",
+		"description": "Utstarcom Holdings C"
 	},
 	{
-		"Symbol": "UTX",
-		"Description": "United Technologies Corporation"
+		"symbol": "UTX",
+		"description": "United Technologies Corporation"
 	},
 	{
-		"Symbol": "UUU",
-		"Description": "Universal Security Instruments, Inc."
+		"symbol": "UUU",
+		"description": "Universal Security Instruments, Inc."
 	},
 	{
-		"Symbol": "UUUU",
-		"Description": "Energy Fuels Inc"
+		"symbol": "UUUU",
+		"description": "Energy Fuels Inc"
 	},
 	{
-		"Symbol": "UUUU.WS",
-		"Description": "Energy Fuels Inc"
+		"symbol": "UUUU.WS",
+		"description": "Energy Fuels Inc"
 	},
 	{
-		"Symbol": "UVE",
-		"Description": "UNIVERSAL INSURANCE HOLDINGS INC"
+		"symbol": "UVE",
+		"description": "UNIVERSAL INSURANCE HOLDINGS INC"
 	},
 	{
-		"Symbol": "UVSP",
-		"Description": "Univest Corp of Penn"
+		"symbol": "UVSP",
+		"description": "Univest Corp of Penn"
 	},
 	{
-		"Symbol": "UVV",
-		"Description": "Universal Corporation"
+		"symbol": "UVV",
+		"description": "Universal Corporation"
 	},
 	{
-		"Symbol": "UWN",
-		"Description": "Nevada Gold & Casinos, Inc."
+		"symbol": "UWN",
+		"description": "Nevada Gold & Casinos, Inc."
 	},
 	{
-		"Symbol": "UZA",
-		"Description": "United States Cellular Corporation"
+		"symbol": "UZA",
+		"description": "United States Cellular Corporation"
 	},
 	{
-		"Symbol": "UZB",
-		"Description": "United States Cellular Corporation"
+		"symbol": "UZB",
+		"description": "United States Cellular Corporation"
 	},
 	{
-		"Symbol": "UZC",
-		"Description": "United States Cellular Corporation"
+		"symbol": "UZC",
+		"description": "United States Cellular Corporation"
 	},
 	{
-		"Symbol": "V",
-		"Description": "Visa Inc."
+		"symbol": "V",
+		"description": "Visa Inc."
 	},
 	{
-		"Symbol": "VAC",
-		"Description": "Marriot Vacations Worldwide Corporation"
+		"symbol": "VAC",
+		"description": "Marriot Vacations Worldwide Corporation"
 	},
 	{
-		"Symbol": "VAL",
-		"Description": "Valspar Corporation "
+		"symbol": "VAL",
+		"description": "Valspar Corporation "
 	},
 	{
-		"Symbol": "VALE",
-		"Description": "VALE S.A."
+		"symbol": "VALE",
+		"description": "VALE S.A."
 	},
 	{
-		"Symbol": "VALE.P",
-		"Description": "VALE S.A."
+		"symbol": "VALE.P",
+		"description": "VALE S.A."
 	},
 	{
-		"Symbol": "VALU",
-		"Description": "Value Line Inc"
+		"symbol": "VALU",
+		"description": "Value Line Inc"
 	},
 	{
-		"Symbol": "VALX",
-		"Description": "Validea Market Legen"
+		"symbol": "VALX",
+		"description": "Validea Market Legen"
 	},
 	{
-		"Symbol": "VAR",
-		"Description": "Varian Medical Systems, Inc."
+		"symbol": "VAR",
+		"description": "Varian Medical Systems, Inc."
 	},
 	{
-		"Symbol": "VASC",
-		"Description": "Vascular Solutions"
+		"symbol": "VASC",
+		"description": "Vascular Solutions"
 	},
 	{
-		"Symbol": "VBF",
-		"Description": "Invesco Bond Fund"
+		"symbol": "VBF",
+		"description": "Invesco Bond Fund"
 	},
 	{
-		"Symbol": "VBFC",
-		"Description": "Village Bank & Trust"
+		"symbol": "VBFC",
+		"description": "Village Bank & Trust"
 	},
 	{
-		"Symbol": "VBIV",
-		"Description": "Vbi Vaccines Inc CS"
+		"symbol": "VBIV",
+		"description": "Vbi Vaccines Inc CS"
 	},
 	{
-		"Symbol": "VBLT",
-		"Description": "Vascular Biogen. Ord"
+		"symbol": "VBLT",
+		"description": "Vascular Biogen. Ord"
 	},
 	{
-		"Symbol": "VBND",
-		"Description": "ETF Sr Slt Vd Cr Bd"
+		"symbol": "VBND",
+		"description": "ETF Sr Slt Vd Cr Bd"
 	},
 	{
-		"Symbol": "VBTX",
-		"Description": "Veritex Holdings Cmn"
+		"symbol": "VBTX",
+		"description": "Veritex Holdings Cmn"
 	},
 	{
-		"Symbol": "VC",
-		"Description": "Visteon Corporation"
+		"symbol": "VC",
+		"description": "Visteon Corporation"
 	},
 	{
-		"Symbol": "VCEL",
-		"Description": "Vericel Corproation"
+		"symbol": "VCEL",
+		"description": "Vericel Corproation"
 	},
 	{
-		"Symbol": "VCF",
-		"Description": "Delaware Investments Colorado Municipal Income Fund, Inc"
+		"symbol": "VCF",
+		"description": "Delaware Investments Colorado Municipal Income Fund, Inc"
 	},
 	{
-		"Symbol": "VCIT",
-		"Description": "Vanguard Interm Corp"
+		"symbol": "VCIT",
+		"description": "Vanguard Interm Corp"
 	},
 	{
-		"Symbol": "VCLT",
-		"Description": "Vanguard Lng Tm Corp"
+		"symbol": "VCLT",
+		"description": "Vanguard Lng Tm Corp"
 	},
 	{
-		"Symbol": "VCO",
-		"Description": "Vina Concha Y Toro"
+		"symbol": "VCO",
+		"description": "Vina Concha Y Toro"
 	},
 	{
-		"Symbol": "VCRA",
-		"Description": "Vocera Communications, Inc."
+		"symbol": "VCRA",
+		"description": "Vocera Communications, Inc."
 	},
 	{
-		"Symbol": "VCSH",
-		"Description": "Vanguard Sht Tm Cor"
+		"symbol": "VCSH",
+		"description": "Vanguard Sht Tm Cor"
 	},
 	{
-		"Symbol": "VCV",
-		"Description": "Invesco California Value Municipal Income Trust"
+		"symbol": "VCV",
+		"description": "Invesco California Value Municipal Income Trust"
 	},
 	{
-		"Symbol": "VCYT",
-		"Description": "Veracyte Inc"
+		"symbol": "VCYT",
+		"description": "Veracyte Inc"
 	},
 	{
-		"Symbol": "VDSI",
-		"Description": "Vasco Data Security"
+		"symbol": "VDSI",
+		"description": "Vasco Data Security"
 	},
 	{
-		"Symbol": "VDTH",
-		"Description": "Videocon D2H Ltd Ads"
+		"symbol": "VDTH",
+		"description": "Videocon D2H Ltd Ads"
 	},
 	{
-		"Symbol": "VEC",
-		"Description": "Vectrus, Inc."
+		"symbol": "VEC",
+		"description": "Vectrus, Inc."
 	},
 	{
-		"Symbol": "VECO",
-		"Description": "Veeco Instrument"
+		"symbol": "VECO",
+		"description": "Veeco Instrument"
 	},
 	{
-		"Symbol": "VEDL",
-		"Description": "Vedanta  Limited"
+		"symbol": "VEDL",
+		"description": "Vedanta  Limited"
 	},
 	{
-		"Symbol": "VEEV",
-		"Description": "Veeva Systems Inc."
+		"symbol": "VEEV",
+		"description": "Veeva Systems Inc."
 	},
 	{
-		"Symbol": "VER",
-		"Description": "VEREIT Inc."
+		"symbol": "VER",
+		"description": "VEREIT Inc."
 	},
 	{
-		"Symbol": "VER^F",
-		"Description": "VEREIT Inc."
+		"symbol": "VER^F",
+		"description": "VEREIT Inc."
 	},
 	{
-		"Symbol": "VET",
-		"Description": "Vermilion Energy Inc."
+		"symbol": "VET",
+		"description": "Vermilion Energy Inc."
 	},
 	{
-		"Symbol": "VFC",
-		"Description": "V.F. Corporation"
+		"symbol": "VFC",
+		"description": "V.F. Corporation"
 	},
 	{
-		"Symbol": "VFL",
-		"Description": "Delaware Investments Florida Insured Municipal Income Fund"
+		"symbol": "VFL",
+		"description": "Delaware Investments Florida Insured Municipal Income Fund"
 	},
 	{
-		"Symbol": "VG",
-		"Description": "Vonage Holdings Corp."
+		"symbol": "VG",
+		"description": "Vonage Holdings Corp."
 	},
 	{
-		"Symbol": "VGI",
-		"Description": "Virtus Global Multi-Sector Income Fund"
+		"symbol": "VGI",
+		"description": "Virtus Global Multi-Sector Income Fund"
 	},
 	{
-		"Symbol": "VGIT",
-		"Description": "Vanguard Int Gov"
+		"symbol": "VGIT",
+		"description": "Vanguard Int Gov"
 	},
 	{
-		"Symbol": "VGLT",
-		"Description": "Vanguard Long Gov"
+		"symbol": "VGLT",
+		"description": "Vanguard Long Gov"
 	},
 	{
-		"Symbol": "VGM",
-		"Description": "Invesco Trust for Investment Grade Municipals"
+		"symbol": "VGM",
+		"description": "Invesco Trust for Investment Grade Municipals"
 	},
 	{
-		"Symbol": "VGR",
-		"Description": "Vector Group Ltd."
+		"symbol": "VGR",
+		"description": "Vector Group Ltd."
 	},
 	{
-		"Symbol": "VGSH",
-		"Description": "Vanguard Sh Term Gov"
+		"symbol": "VGSH",
+		"description": "Vanguard Sh Term Gov"
 	},
 	{
-		"Symbol": "VGZ",
-		"Description": "Vista Gold Corporation"
+		"symbol": "VGZ",
+		"description": "Vista Gold Corporation"
 	},
 	{
-		"Symbol": "VHC",
-		"Description": "VirnetX Holding Corp"
+		"symbol": "VHC",
+		"description": "VirnetX Holding Corp"
 	},
 	{
-		"Symbol": "VHI",
-		"Description": "Valhi, Inc."
+		"symbol": "VHI",
+		"description": "Valhi, Inc."
 	},
 	{
-		"Symbol": "VIA",
-		"Description": "Viacom Inc Cl A"
+		"symbol": "VIA",
+		"description": "Viacom Inc Cl A"
 	},
 	{
-		"Symbol": "VIAB",
-		"Description": "Viacom Inc Cl B"
+		"symbol": "VIAB",
+		"description": "Viacom Inc Cl B"
 	},
 	{
-		"Symbol": "VIAV",
-		"Description": "Viavi Solutions Cmn"
+		"symbol": "VIAV",
+		"description": "Viavi Solutions Cmn"
 	},
 	{
-		"Symbol": "VICL",
-		"Description": "Vical Incorporated"
+		"symbol": "VICL",
+		"description": "Vical Incorporated"
 	},
 	{
-		"Symbol": "VICR",
-		"Description": "Vicor Cp"
+		"symbol": "VICR",
+		"description": "Vicor Cp"
 	},
 	{
-		"Symbol": "VIDI",
-		"Description": "Vident Intl Eqty Fnd"
+		"symbol": "VIDI",
+		"description": "Vident Intl Eqty Fnd"
 	},
 	{
-		"Symbol": "VIGI",
-		"Description": "Van Int Div App ETF"
+		"symbol": "VIGI",
+		"description": "Van Int Div App ETF"
 	},
 	{
-		"Symbol": "VII",
-		"Description": "Vicon Industries, Inc."
+		"symbol": "VII",
+		"description": "Vicon Industries, Inc."
 	},
 	{
-		"Symbol": "VIIX",
-		"Description": "VS VIX Short Term"
+		"symbol": "VIIX",
+		"description": "VS VIX Short Term"
 	},
 	{
-		"Symbol": "VIIZ",
-		"Description": "VS VIX Mid Term"
+		"symbol": "VIIZ",
+		"description": "VS VIX Mid Term"
 	},
 	{
-		"Symbol": "VIP",
-		"Description": "Vimpelcom Ltd Ads"
+		"symbol": "VIP",
+		"description": "Vimpelcom Ltd Ads"
 	},
 	{
-		"Symbol": "VIPS",
-		"Description": "Vipshop Holdings Limited"
+		"symbol": "VIPS",
+		"description": "Vipshop Holdings Limited"
 	},
 	{
-		"Symbol": "VIRC",
-		"Description": "Virco MFG Cp"
+		"symbol": "VIRC",
+		"description": "Virco MFG Cp"
 	},
 	{
-		"Symbol": "VIRT",
-		"Description": "Virtu Financial Cm A"
+		"symbol": "VIRT",
+		"description": "Virtu Financial Cm A"
 	},
 	{
-		"Symbol": "VISI",
-		"Description": "Volt Information Sciences, Inc."
+		"symbol": "VISI",
+		"description": "Volt Information Sciences, Inc."
 	},
 	{
-		"Symbol": "VISN",
-		"Description": "Visionchina Media I"
+		"symbol": "VISN",
+		"description": "Visionchina Media I"
 	},
 	{
-		"Symbol": "VIV",
-		"Description": "Telefonica Brasil S.A."
+		"symbol": "VIV",
+		"description": "Telefonica Brasil S.A."
 	},
 	{
-		"Symbol": "VIVE",
-		"Description": "Viveve Medical"
+		"symbol": "VIVE",
+		"description": "Viveve Medical"
 	},
 	{
-		"Symbol": "VIVO",
-		"Description": "Meridian Bioscience"
+		"symbol": "VIVO",
+		"description": "Meridian Bioscience"
 	},
 	{
-		"Symbol": "VJET",
-		"Description": "voxeljet AG"
+		"symbol": "VJET",
+		"description": "voxeljet AG"
 	},
 	{
-		"Symbol": "VKI",
-		"Description": "Invesco Advantage Municipal Income Trust II"
+		"symbol": "VKI",
+		"description": "Invesco Advantage Municipal Income Trust II"
 	},
 	{
-		"Symbol": "VKQ",
-		"Description": "Invesco Municipal Trust"
+		"symbol": "VKQ",
+		"description": "Invesco Municipal Trust"
 	},
 	{
-		"Symbol": "VKTX",
-		"Description": "Viking Thera Cmn"
+		"symbol": "VKTX",
+		"description": "Viking Thera Cmn"
 	},
 	{
-		"Symbol": "VKTXW",
-		"Description": "Viking Theraptcs Wts"
+		"symbol": "VKTXW",
+		"description": "Viking Theraptcs Wts"
 	},
 	{
-		"Symbol": "VLGEA",
-		"Description": "Village Super Mkt"
+		"symbol": "VLGEA",
+		"description": "Village Super Mkt"
 	},
 	{
-		"Symbol": "VLO",
-		"Description": "Valero Energy Corporation"
+		"symbol": "VLO",
+		"description": "Valero Energy Corporation"
 	},
 	{
-		"Symbol": "VLP",
-		"Description": "Valero Energy Partners LP"
+		"symbol": "VLP",
+		"description": "Valero Energy Partners LP"
 	},
 	{
-		"Symbol": "VLRS",
-		"Description": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V."
+		"symbol": "VLRS",
+		"description": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V."
 	},
 	{
-		"Symbol": "VLT",
-		"Description": "Invesco High Income Trust II"
+		"symbol": "VLT",
+		"description": "Invesco High Income Trust II"
 	},
 	{
-		"Symbol": "VLY",
-		"Description": "Valley National Bancorp"
+		"symbol": "VLY",
+		"description": "Valley National Bancorp"
 	},
 	{
-		"Symbol": "VLY.WS",
-		"Description": "Valley National Bancorp"
+		"symbol": "VLY.WS",
+		"description": "Valley National Bancorp"
 	},
 	{
-		"Symbol": "VLY^A",
-		"Description": "Valley National Bancorp"
+		"symbol": "VLY^A",
+		"description": "Valley National Bancorp"
 	},
 	{
-		"Symbol": "VMBS",
-		"Description": "Vanguard Mortg Bckd"
+		"symbol": "VMBS",
+		"description": "Vanguard Mortg Bckd"
 	},
 	{
-		"Symbol": "VMC",
-		"Description": "Vulcan Materials Company"
+		"symbol": "VMC",
+		"description": "Vulcan Materials Company"
 	},
 	{
-		"Symbol": "VMI",
-		"Description": "Valmont Industries, Inc."
+		"symbol": "VMI",
+		"description": "Valmont Industries, Inc."
 	},
 	{
-		"Symbol": "VMM",
-		"Description": "Delaware Investments Minnesota Municipal Income Fund II, Inc."
+		"symbol": "VMM",
+		"description": "Delaware Investments Minnesota Municipal Income Fund II, Inc."
 	},
 	{
-		"Symbol": "VMO",
-		"Description": "Invesco Municipal Opportunity Trust"
+		"symbol": "VMO",
+		"description": "Invesco Municipal Opportunity Trust"
 	},
 	{
-		"Symbol": "VMW",
-		"Description": "Vmware, Inc."
+		"symbol": "VMW",
+		"description": "Vmware, Inc."
 	},
 	{
-		"Symbol": "VNCE",
-		"Description": "Vince Holding Corp."
+		"symbol": "VNCE",
+		"description": "Vince Holding Corp."
 	},
 	{
-		"Symbol": "VNDA",
-		"Description": "Vanda Pharmaceutical"
+		"symbol": "VNDA",
+		"description": "Vanda Pharmaceutical"
 	},
 	{
-		"Symbol": "VNET",
-		"Description": "21Vianet Group Inc"
+		"symbol": "VNET",
+		"description": "21Vianet Group Inc"
 	},
 	{
-		"Symbol": "VNO",
-		"Description": "Vornado Realty Trust"
+		"symbol": "VNO",
+		"description": "Vornado Realty Trust"
 	},
 	{
-		"Symbol": "VNO^G",
-		"Description": "Vornado Realty Trust"
+		"symbol": "VNO^G",
+		"description": "Vornado Realty Trust"
 	},
 	{
-		"Symbol": "VNO^I",
-		"Description": "Vornado Realty Trust"
+		"symbol": "VNO^I",
+		"description": "Vornado Realty Trust"
 	},
 	{
-		"Symbol": "VNO^K",
-		"Description": "Vornado Realty Trust"
+		"symbol": "VNO^K",
+		"description": "Vornado Realty Trust"
 	},
 	{
-		"Symbol": "VNO^L",
-		"Description": "Vornado Realty Trust"
+		"symbol": "VNO^L",
+		"description": "Vornado Realty Trust"
 	},
 	{
-		"Symbol": "VNOM",
-		"Description": "Viper Energy LP Cmn"
+		"symbol": "VNOM",
+		"description": "Viper Energy LP Cmn"
 	},
 	{
-		"Symbol": "VNQI",
-		"Description": "Vanguard Glb Exus Re"
+		"symbol": "VNQI",
+		"description": "Vanguard Glb Exus Re"
 	},
 	{
-		"Symbol": "VNR",
-		"Description": "Vanguard Natural Res"
+		"symbol": "VNR",
+		"description": "Vanguard Natural Res"
 	},
 	{
-		"Symbol": "VNRAP",
-		"Description": "Vanguard Nt Rs Pfd A"
+		"symbol": "VNRAP",
+		"description": "Vanguard Nt Rs Pfd A"
 	},
 	{
-		"Symbol": "VNRBP",
-		"Description": "Vanguard Nt Rs 7.625"
+		"symbol": "VNRBP",
+		"description": "Vanguard Nt Rs 7.625"
 	},
 	{
-		"Symbol": "VNRCP",
-		"Description": "Vanguard Nt Rs Pfd C"
+		"symbol": "VNRCP",
+		"description": "Vanguard Nt Rs Pfd C"
 	},
 	{
-		"Symbol": "VNRX",
-		"Description": "VolitionRX Limited"
+		"symbol": "VNRX",
+		"description": "VolitionRX Limited"
 	},
 	{
-		"Symbol": "VNTV",
-		"Description": "Vantiv, Inc."
+		"symbol": "VNTV",
+		"description": "Vantiv, Inc."
 	},
 	{
-		"Symbol": "VOC",
-		"Description": "VOC Energy Trust"
+		"symbol": "VOC",
+		"description": "VOC Energy Trust"
 	},
 	{
-		"Symbol": "VOD",
-		"Description": "Vodafone Grp Plc Ads"
+		"symbol": "VOD",
+		"description": "Vodafone Grp Plc Ads"
 	},
 	{
-		"Symbol": "VONE",
-		"Description": "Vanguard Russell1000"
+		"symbol": "VONE",
+		"description": "Vanguard Russell1000"
 	},
 	{
-		"Symbol": "VONG",
-		"Description": "Vangrd Russl 1000 Gr"
+		"symbol": "VONG",
+		"description": "Vangrd Russl 1000 Gr"
 	},
 	{
-		"Symbol": "VONV",
-		"Description": "Vangrd Russl 1000Val"
+		"symbol": "VONV",
+		"description": "Vangrd Russl 1000Val"
 	},
 	{
-		"Symbol": "VOXX",
-		"Description": "Voxx Intl Corp"
+		"symbol": "VOXX",
+		"description": "Voxx Intl Corp"
 	},
 	{
-		"Symbol": "VOYA",
-		"Description": "Voya Financial, Inc."
+		"symbol": "VOYA",
+		"description": "Voya Financial, Inc."
 	},
 	{
-		"Symbol": "VPG",
-		"Description": "Vishay Precision Group, Inc."
+		"symbol": "VPG",
+		"description": "Vishay Precision Group, Inc."
 	},
 	{
-		"Symbol": "VPV",
-		"Description": "Invesco Pennsylvania Value Municipal Income Trust"
+		"symbol": "VPV",
+		"description": "Invesco Pennsylvania Value Municipal Income Trust"
 	},
 	{
-		"Symbol": "VR",
-		"Description": "Validus Holdings, Ltd."
+		"symbol": "VR",
+		"description": "Validus Holdings, Ltd."
 	},
 	{
-		"Symbol": "VR^A",
-		"Description": "Validus Holdings, Ltd."
+		"symbol": "VR^A",
+		"description": "Validus Holdings, Ltd."
 	},
 	{
-		"Symbol": "VRA",
-		"Description": "Vera Bradley"
+		"symbol": "VRA",
+		"description": "Vera Bradley"
 	},
 	{
-		"Symbol": "VRAY",
-		"Description": "Viewray Inc Cm ST"
+		"symbol": "VRAY",
+		"description": "Viewray Inc Cm ST"
 	},
 	{
-		"Symbol": "VREX",
-		"Description": "Varex Imaging Corp"
+		"symbol": "VREX",
+		"description": "Varex Imaging Corp"
 	},
 	{
-		"Symbol": "VREXV",
-		"Description": "Varex Imaging Corporation"
+		"symbol": "VREXV",
+		"description": "Varex Imaging Corporation"
 	},
 	{
-		"Symbol": "VRIG",
-		"Description": "Powershares Variable Rate Investment Grade Port"
+		"symbol": "VRIG",
+		"description": "Powershares Variable Rate Investment Grade Port"
 	},
 	{
-		"Symbol": "VRML",
-		"Description": "Vermillion Inc"
+		"symbol": "VRML",
+		"description": "Vermillion Inc"
 	},
 	{
-		"Symbol": "VRNS",
-		"Description": "Varonis Systems Inc"
+		"symbol": "VRNS",
+		"description": "Varonis Systems Inc"
 	},
 	{
-		"Symbol": "VRNT",
-		"Description": "Verint Systems Inc"
+		"symbol": "VRNT",
+		"description": "Verint Systems Inc"
 	},
 	{
-		"Symbol": "VRS",
-		"Description": "Verso Corporation"
+		"symbol": "VRS",
+		"description": "Verso Corporation"
 	},
 	{
-		"Symbol": "VRSK",
-		"Description": "Verisk Analytics Inc"
+		"symbol": "VRSK",
+		"description": "Verisk Analytics Inc"
 	},
 	{
-		"Symbol": "VRSN",
-		"Description": "Verisign Inc"
+		"symbol": "VRSN",
+		"description": "Verisign Inc"
 	},
 	{
-		"Symbol": "VRTB",
-		"Description": "Vestin Realty Mtge"
+		"symbol": "VRTB",
+		"description": "Vestin Realty Mtge"
 	},
 	{
-		"Symbol": "VRTS",
-		"Description": "Virtus Inv Prts"
+		"symbol": "VRTS",
+		"description": "Virtus Inv Prts"
 	},
 	{
-		"Symbol": "VRTU",
-		"Description": "Virtusa Corporation"
+		"symbol": "VRTU",
+		"description": "Virtusa Corporation"
 	},
 	{
-		"Symbol": "VRTV",
-		"Description": "Veritiv Corporation"
+		"symbol": "VRTV",
+		"description": "Veritiv Corporation"
 	},
 	{
-		"Symbol": "VRTX",
-		"Description": "Vertex Pharmaceutic"
+		"symbol": "VRTX",
+		"description": "Vertex Pharmaceutic"
 	},
 	{
-		"Symbol": "VRX",
-		"Description": "Valeant Pharmaceuticals International, Inc."
+		"symbol": "VRX",
+		"description": "Valeant Pharmaceuticals International, Inc."
 	},
 	{
-		"Symbol": "VSAR",
-		"Description": "Versartis Inc Cmn"
+		"symbol": "VSAR",
+		"description": "Versartis Inc Cmn"
 	},
 	{
-		"Symbol": "VSAT",
-		"Description": "Viasat Inc"
+		"symbol": "VSAT",
+		"description": "Viasat Inc"
 	},
 	{
-		"Symbol": "VSEC",
-		"Description": "V S E Cp"
+		"symbol": "VSEC",
+		"description": "V S E Cp"
 	},
 	{
-		"Symbol": "VSH",
-		"Description": "Vishay Intertechnology, Inc."
+		"symbol": "VSH",
+		"description": "Vishay Intertechnology, Inc."
 	},
 	{
-		"Symbol": "VSI",
-		"Description": "Vitamin Shoppe, Inc"
+		"symbol": "VSI",
+		"description": "Vitamin Shoppe, Inc"
 	},
 	{
-		"Symbol": "VSLR",
-		"Description": "Vivint Solar, Inc."
+		"symbol": "VSLR",
+		"description": "Vivint Solar, Inc."
 	},
 	{
-		"Symbol": "VSM",
-		"Description": "Versum Materials, Inc."
+		"symbol": "VSM",
+		"description": "Versum Materials, Inc."
 	},
 	{
-		"Symbol": "VSR",
-		"Description": "Versar, Inc."
+		"symbol": "VSR",
+		"description": "Versar, Inc."
 	},
 	{
-		"Symbol": "VSTM",
-		"Description": "Verastem Inc"
+		"symbol": "VSTM",
+		"description": "Verastem Inc"
 	},
 	{
-		"Symbol": "VSTO",
-		"Description": "Vista Outdoor Inc."
+		"symbol": "VSTO",
+		"description": "Vista Outdoor Inc."
 	},
 	{
-		"Symbol": "VTA",
-		"Description": "Invesco Credit Opportunities Fund"
+		"symbol": "VTA",
+		"description": "Invesco Credit Opportunities Fund"
 	},
 	{
-		"Symbol": "VTGN",
-		"Description": "Vistagen Therap. Com"
+		"symbol": "VTGN",
+		"description": "Vistagen Therap. Com"
 	},
 	{
-		"Symbol": "VTHR",
-		"Description": "Vanguard Russell3000"
+		"symbol": "VTHR",
+		"description": "Vanguard Russell3000"
 	},
 	{
-		"Symbol": "VTIP",
-		"Description": "Vanguard Shtm Infpro"
+		"symbol": "VTIP",
+		"description": "Vanguard Shtm Infpro"
 	},
 	{
-		"Symbol": "VTL",
-		"Description": "Vital Therapies Inc"
+		"symbol": "VTL",
+		"description": "Vital Therapies Inc"
 	},
 	{
-		"Symbol": "VTN",
-		"Description": "Invesco Trust  for Investment Grade New York Municipal"
+		"symbol": "VTN",
+		"description": "Invesco Trust  for Investment Grade New York Municipal"
 	},
 	{
-		"Symbol": "VTNR",
-		"Description": "Vertex Energy Cmn"
+		"symbol": "VTNR",
+		"description": "Vertex Energy Cmn"
 	},
 	{
-		"Symbol": "VTR",
-		"Description": "Ventas, Inc."
+		"symbol": "VTR",
+		"description": "Ventas, Inc."
 	},
 	{
-		"Symbol": "VTRB",
-		"Description": "Ventas Realty, Limited Partnership // Ventas Capital Corporati"
+		"symbol": "VTRB",
+		"description": "Ventas Realty, Limited Partnership // Ventas Capital Corporati"
 	},
 	{
-		"Symbol": "VTTI",
-		"Description": "VTTI Energy Partners LP"
+		"symbol": "VTTI",
+		"description": "VTTI Energy Partners LP"
 	},
 	{
-		"Symbol": "VTVT",
-		"Description": "Vtv Theraptcs Cl A"
+		"symbol": "VTVT",
+		"description": "Vtv Theraptcs Cl A"
 	},
 	{
-		"Symbol": "VTWG",
-		"Description": "Vangrd Rusll 2000 Gr"
+		"symbol": "VTWG",
+		"description": "Vangrd Rusll 2000 Gr"
 	},
 	{
-		"Symbol": "VTWO",
-		"Description": "Vanguard Russell2000"
+		"symbol": "VTWO",
+		"description": "Vanguard Russell2000"
 	},
 	{
-		"Symbol": "VTWV",
-		"Description": "Vangrd Rusll 2000 Va"
+		"symbol": "VTWV",
+		"description": "Vangrd Rusll 2000 Va"
 	},
 	{
-		"Symbol": "VUSE",
-		"Description": "Vident Core US Eqty"
+		"symbol": "VUSE",
+		"description": "Vident Core US Eqty"
 	},
 	{
-		"Symbol": "VUZI",
-		"Description": "Vuzix Corp Cmn Stk"
+		"symbol": "VUZI",
+		"description": "Vuzix Corp Cmn Stk"
 	},
 	{
-		"Symbol": "VVC",
-		"Description": "Vectren Corporation"
+		"symbol": "VVC",
+		"description": "Vectren Corporation"
 	},
 	{
-		"Symbol": "VVI",
-		"Description": "Viad Corp"
+		"symbol": "VVI",
+		"description": "Viad Corp"
 	},
 	{
-		"Symbol": "VVPR",
-		"Description": "Vivopower International Plc Ordinary Shares"
+		"symbol": "VVPR",
+		"description": "Vivopower International Plc Ordinary Shares"
 	},
 	{
-		"Symbol": "VVR",
-		"Description": "Invesco Senior Income Trust"
+		"symbol": "VVR",
+		"description": "Invesco Senior Income Trust"
 	},
 	{
-		"Symbol": "VVUS",
-		"Description": "Vivus Inc"
+		"symbol": "VVUS",
+		"description": "Vivus Inc"
 	},
 	{
-		"Symbol": "VVV",
-		"Description": "Valvoline Inc."
+		"symbol": "VVV",
+		"description": "Valvoline Inc."
 	},
 	{
-		"Symbol": "VWOB",
-		"Description": "Vanguard EM Gov Bnd"
+		"symbol": "VWOB",
+		"description": "Vanguard EM Gov Bnd"
 	},
 	{
-		"Symbol": "VWR",
-		"Description": "Vwr Corporation Cmn"
+		"symbol": "VWR",
+		"description": "Vwr Corporation Cmn"
 	},
 	{
-		"Symbol": "VXUS",
-		"Description": "Vngrd Tl Intl ST ETF"
+		"symbol": "VXUS",
+		"description": "Vngrd Tl Intl ST ETF"
 	},
 	{
-		"Symbol": "VYGR",
-		"Description": "Voyager Therapeut Cmn"
+		"symbol": "VYGR",
+		"description": "Voyager Therapeut Cmn"
 	},
 	{
-		"Symbol": "VYMI",
-		"Description": "Van Int Hi Div Yld"
+		"symbol": "VYMI",
+		"description": "Van Int Hi Div Yld"
 	},
 	{
-		"Symbol": "VZ",
-		"Description": "Verizon Communications Inc."
+		"symbol": "VZ",
+		"description": "Verizon Communications Inc."
 	},
 	{
-		"Symbol": "VZA",
-		"Description": "Verizon Communications Inc."
+		"symbol": "VZA",
+		"description": "Verizon Communications Inc."
 	},
 	{
-		"Symbol": "W",
-		"Description": "Wayfair Inc."
+		"symbol": "W",
+		"description": "Wayfair Inc."
 	},
 	{
-		"Symbol": "WAAS",
-		"Description": "AquaVenture Holdings Limited"
+		"symbol": "WAAS",
+		"description": "AquaVenture Holdings Limited"
 	},
 	{
-		"Symbol": "WAB",
-		"Description": "Westinghouse Air Brake Technologies Corporation"
+		"symbol": "WAB",
+		"description": "Westinghouse Air Brake Technologies Corporation"
 	},
 	{
-		"Symbol": "WABC",
-		"Description": "Westamerica Bancorp"
+		"symbol": "WABC",
+		"description": "Westamerica Bancorp"
 	},
 	{
-		"Symbol": "WAC",
-		"Description": "Walter Investment Management Corp."
+		"symbol": "WAC",
+		"description": "Walter Investment Management Corp."
 	},
 	{
-		"Symbol": "WAFD",
-		"Description": "Washington Federal"
+		"symbol": "WAFD",
+		"description": "Washington Federal"
 	},
 	{
-		"Symbol": "WAFDW",
-		"Description": "Wash Federal Warrant"
+		"symbol": "WAFDW",
+		"description": "Wash Federal Warrant"
 	},
 	{
-		"Symbol": "WAGE",
-		"Description": "WageWorks, Inc."
+		"symbol": "WAGE",
+		"description": "WageWorks, Inc."
 	},
 	{
-		"Symbol": "WAIR",
-		"Description": "Wesco Aircraft Holdings, Inc."
+		"symbol": "WAIR",
+		"description": "Wesco Aircraft Holdings, Inc."
 	},
 	{
-		"Symbol": "WAL",
-		"Description": "Western Alliance Bancorporation"
+		"symbol": "WAL",
+		"description": "Western Alliance Bancorporation"
 	},
 	{
-		"Symbol": "WALA",
-		"Description": "Western Alliance Bancorporation"
+		"symbol": "WALA",
+		"description": "Western Alliance Bancorporation"
 	},
 	{
-		"Symbol": "WASH",
-		"Description": "Washington TR Bncorp"
+		"symbol": "WASH",
+		"description": "Washington TR Bncorp"
 	},
 	{
-		"Symbol": "WAT",
-		"Description": "Waters Corporation"
+		"symbol": "WAT",
+		"description": "Waters Corporation"
 	},
 	{
-		"Symbol": "WATT",
-		"Description": "Energous Corp Cmn"
+		"symbol": "WATT",
+		"description": "Energous Corp Cmn"
 	},
 	{
-		"Symbol": "WAYN",
-		"Description": "Wayne Savings Bcsh"
+		"symbol": "WAYN",
+		"description": "Wayne Savings Bcsh"
 	},
 	{
-		"Symbol": "WB",
-		"Description": "Weibo Corp. Ads"
+		"symbol": "WB",
+		"description": "Weibo Corp. Ads"
 	},
 	{
-		"Symbol": "WBA",
-		"Description": "Walgreens Boots Alliance"
+		"symbol": "WBA",
+		"description": "Walgreens Boots Alliance"
 	},
 	{
-		"Symbol": "WBAI",
-		"Description": "500.com Limited"
+		"symbol": "WBAI",
+		"description": "500.com Limited"
 	},
 	{
-		"Symbol": "WBB",
-		"Description": "Westbury Bancorp"
+		"symbol": "WBB",
+		"description": "Westbury Bancorp"
 	},
 	{
-		"Symbol": "WBC",
-		"Description": "Wabco Holdings Inc."
+		"symbol": "WBC",
+		"description": "Wabco Holdings Inc."
 	},
 	{
-		"Symbol": "WBK",
-		"Description": "Westpac Banking Corporation"
+		"symbol": "WBK",
+		"description": "Westpac Banking Corporation"
 	},
 	{
-		"Symbol": "WBKC",
-		"Description": "Wolverine Bancorp"
+		"symbol": "WBKC",
+		"description": "Wolverine Bancorp"
 	},
 	{
-		"Symbol": "WBMD",
-		"Description": "Webmd Health Corp"
+		"symbol": "WBMD",
+		"description": "Webmd Health Corp"
 	},
 	{
-		"Symbol": "WBS",
-		"Description": "Webster Financial Corporation"
+		"symbol": "WBS",
+		"description": "Webster Financial Corporation"
 	},
 	{
-		"Symbol": "WBS^E",
-		"Description": "Webster Financial Corporation"
+		"symbol": "WBS^E",
+		"description": "Webster Financial Corporation"
 	},
 	{
-		"Symbol": "WCC",
-		"Description": "WESCO International, Inc."
+		"symbol": "WCC",
+		"description": "WESCO International, Inc."
 	},
 	{
-		"Symbol": "WCFB",
-		"Description": "Webster City Fed Bcp"
+		"symbol": "WCFB",
+		"description": "Webster City Fed Bcp"
 	},
 	{
-		"Symbol": "WCG",
-		"Description": "WellCare Health Plans, Inc."
+		"symbol": "WCG",
+		"description": "WellCare Health Plans, Inc."
 	},
 	{
-		"Symbol": "WCIC",
-		"Description": "WCI Communities, Inc."
+		"symbol": "WCIC",
+		"description": "WCI Communities, Inc."
 	},
 	{
-		"Symbol": "WCN",
-		"Description": "Waste Connections, Inc."
+		"symbol": "WCN",
+		"description": "Waste Connections, Inc."
 	},
 	{
-		"Symbol": "WCST",
-		"Description": "Wecast Network Inc"
+		"symbol": "WCST",
+		"description": "Wecast Network Inc"
 	},
 	{
-		"Symbol": "WD",
-		"Description": "Walker & Dunlop, Inc."
+		"symbol": "WD",
+		"description": "Walker & Dunlop, Inc."
 	},
 	{
-		"Symbol": "WDAY",
-		"Description": "Workday, Inc."
+		"symbol": "WDAY",
+		"description": "Workday, Inc."
 	},
 	{
-		"Symbol": "WDC",
-		"Description": "Western Digital Cp"
+		"symbol": "WDC",
+		"description": "Western Digital Cp"
 	},
 	{
-		"Symbol": "WDFC",
-		"Description": "W D 40 Co"
+		"symbol": "WDFC",
+		"description": "W D 40 Co"
 	},
 	{
-		"Symbol": "WDR",
-		"Description": "Waddell & Reed Financial, Inc."
+		"symbol": "WDR",
+		"description": "Waddell & Reed Financial, Inc."
 	},
 	{
-		"Symbol": "WEA",
-		"Description": "Western Asset Bond Fund"
+		"symbol": "WEA",
+		"description": "Western Asset Bond Fund"
 	},
 	{
-		"Symbol": "WEB",
-		"Description": "Web.Com Group Inc"
+		"symbol": "WEB",
+		"description": "Web.Com Group Inc"
 	},
 	{
-		"Symbol": "WEBK",
-		"Description": "Wellesley Bncp Inc"
+		"symbol": "WEBK",
+		"description": "Wellesley Bncp Inc"
 	},
 	{
-		"Symbol": "WEC",
-		"Description": "WEC Energy Group, Inc."
+		"symbol": "WEC",
+		"description": "WEC Energy Group, Inc."
 	},
 	{
-		"Symbol": "WEN",
-		"Description": "Wendys Company"
+		"symbol": "WEN",
+		"description": "Wendys Company"
 	},
 	{
-		"Symbol": "WERN",
-		"Description": "Werner Enterprise"
+		"symbol": "WERN",
+		"description": "Werner Enterprise"
 	},
 	{
-		"Symbol": "WES",
-		"Description": "Western Gas Partners, LP"
+		"symbol": "WES",
+		"description": "Western Gas Partners, LP"
 	},
 	{
-		"Symbol": "WETF",
-		"Description": "Wisdomtree Invstmnts"
+		"symbol": "WETF",
+		"description": "Wisdomtree Invstmnts"
 	},
 	{
-		"Symbol": "WEX",
-		"Description": "WEX Inc."
+		"symbol": "WEX",
+		"description": "WEX Inc."
 	},
 	{
-		"Symbol": "WEYS",
-		"Description": "Weyco Gp Inc"
+		"symbol": "WEYS",
+		"description": "Weyco Gp Inc"
 	},
 	{
-		"Symbol": "WF",
-		"Description": "Woori Bank"
+		"symbol": "WF",
+		"description": "Woori Bank"
 	},
 	{
-		"Symbol": "WFBI",
-		"Description": "Washingtonfirst Bk"
+		"symbol": "WFBI",
+		"description": "Washingtonfirst Bk"
 	},
 	{
-		"Symbol": "WFC",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC.WS",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC.WS",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^J",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^J",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^L",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^L",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^N",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^N",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^O",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^O",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^P",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^P",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^Q",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^Q",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^R",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^R",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^T",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^T",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^V",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^V",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^W",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^W",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFC^X",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFC^X",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFE^A",
-		"Description": "Wells Fargo & Company"
+		"symbol": "WFE^A",
+		"description": "Wells Fargo & Company"
 	},
 	{
-		"Symbol": "WFM",
-		"Description": "Whole Foods Market"
+		"symbol": "WFM",
+		"description": "Whole Foods Market"
 	},
 	{
-		"Symbol": "WFT",
-		"Description": "Weatherford International plc"
+		"symbol": "WFT",
+		"description": "Weatherford International plc"
 	},
 	{
-		"Symbol": "WG",
-		"Description": "Willbros Group, Inc."
+		"symbol": "WG",
+		"description": "Willbros Group, Inc."
 	},
 	{
-		"Symbol": "WGBS",
-		"Description": "Wafergen Bio-Sys Cmn"
+		"symbol": "WGBS",
+		"description": "Wafergen Bio-Sys Cmn"
 	},
 	{
-		"Symbol": "WGL",
-		"Description": "WGL Holdings Inc"
+		"symbol": "WGL",
+		"description": "WGL Holdings Inc"
 	},
 	{
-		"Symbol": "WGO",
-		"Description": "Winnebago Industries, Inc."
+		"symbol": "WGO",
+		"description": "Winnebago Industries, Inc."
 	},
 	{
-		"Symbol": "WGP",
-		"Description": "Western Gas Equity Partners, LP"
+		"symbol": "WGP",
+		"description": "Western Gas Equity Partners, LP"
 	},
 	{
-		"Symbol": "WHF",
-		"Description": "Whitehorse Finance"
+		"symbol": "WHF",
+		"description": "Whitehorse Finance"
 	},
 	{
-		"Symbol": "WHFBL",
-		"Description": "Whitehorse Fin Sr Nt"
+		"symbol": "WHFBL",
+		"description": "Whitehorse Fin Sr Nt"
 	},
 	{
-		"Symbol": "WHG",
-		"Description": "Westwood Holdings Group Inc"
+		"symbol": "WHG",
+		"description": "Westwood Holdings Group Inc"
 	},
 	{
-		"Symbol": "WHLM",
-		"Description": "Wilhelmina Intl Cmn"
+		"symbol": "WHLM",
+		"description": "Wilhelmina Intl Cmn"
 	},
 	{
-		"Symbol": "WHLR",
-		"Description": "Wheeler Real Estate"
+		"symbol": "WHLR",
+		"description": "Wheeler Real Estate"
 	},
 	{
-		"Symbol": "WHLRD",
-		"Description": "Wheeler Real Estate Investment Trust Inc"
+		"symbol": "WHLRD",
+		"description": "Wheeler Real Estate Investment Trust Inc"
 	},
 	{
-		"Symbol": "WHLRP",
-		"Description": "Wheeler REIT B Pfd"
+		"symbol": "WHLRP",
+		"description": "Wheeler REIT B Pfd"
 	},
 	{
-		"Symbol": "WHLRW",
-		"Description": "Wheeler REIT Wts"
+		"symbol": "WHLRW",
+		"description": "Wheeler REIT Wts"
 	},
 	{
-		"Symbol": "WHR",
-		"Description": "Whirlpool Corporation"
+		"symbol": "WHR",
+		"description": "Whirlpool Corporation"
 	},
 	{
-		"Symbol": "WIA",
-		"Description": "Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd"
+		"symbol": "WIA",
+		"description": "Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd"
 	},
 	{
-		"Symbol": "WIFI",
-		"Description": "Boingo Wireless Inc"
+		"symbol": "WIFI",
+		"description": "Boingo Wireless Inc"
 	},
 	{
-		"Symbol": "WILC",
-		"Description": "G Willi-Food Intl"
+		"symbol": "WILC",
+		"description": "G Willi-Food Intl"
 	},
 	{
-		"Symbol": "WILN",
-		"Description": "Wi-Lan Inc Cmn Stk"
+		"symbol": "WILN",
+		"description": "Wi-Lan Inc Cmn Stk"
 	},
 	{
-		"Symbol": "WIN",
-		"Description": "Windstream Hldgs Inc"
+		"symbol": "WIN",
+		"description": "Windstream Hldgs Inc"
 	},
 	{
-		"Symbol": "WINA",
-		"Description": "Winmark Corp"
+		"symbol": "WINA",
+		"description": "Winmark Corp"
 	},
 	{
-		"Symbol": "WING",
-		"Description": "Wingstop Inc Cmn"
+		"symbol": "WING",
+		"description": "Wingstop Inc Cmn"
 	},
 	{
-		"Symbol": "WINS",
-		"Description": "Wins Fin Hldgs Ord"
+		"symbol": "WINS",
+		"description": "Wins Fin Hldgs Ord"
 	},
 	{
-		"Symbol": "WINT",
-		"Description": "Windtree Therapeutic"
+		"symbol": "WINT",
+		"description": "Windtree Therapeutic"
 	},
 	{
-		"Symbol": "WIRE",
-		"Description": "Encore Wire Cp"
+		"symbol": "WIRE",
+		"description": "Encore Wire Cp"
 	},
 	{
-		"Symbol": "WIT",
-		"Description": "Wipro Limited"
+		"symbol": "WIT",
+		"description": "Wipro Limited"
 	},
 	{
-		"Symbol": "WIW",
-		"Description": "Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2"
+		"symbol": "WIW",
+		"description": "Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2"
 	},
 	{
-		"Symbol": "WIX",
-		"Description": "Wix.Com Ltd"
+		"symbol": "WIX",
+		"description": "Wix.Com Ltd"
 	},
 	{
-		"Symbol": "WK",
-		"Description": "Workiva Inc."
+		"symbol": "WK",
+		"description": "Workiva Inc."
 	},
 	{
-		"Symbol": "WKHS",
-		"Description": "Workhorse Grp Cmn ST"
+		"symbol": "WKHS",
+		"description": "Workhorse Grp Cmn ST"
 	},
 	{
-		"Symbol": "WLB",
-		"Description": "Westmoreland Coal"
+		"symbol": "WLB",
+		"description": "Westmoreland Coal"
 	},
 	{
-		"Symbol": "WLDN",
-		"Description": "Willdan Group Inc"
+		"symbol": "WLDN",
+		"description": "Willdan Group Inc"
 	},
 	{
-		"Symbol": "WLFC",
-		"Description": "Willis Lease Fin C"
+		"symbol": "WLFC",
+		"description": "Willis Lease Fin C"
 	},
 	{
-		"Symbol": "WLH",
-		"Description": "Lyon William Homes"
+		"symbol": "WLH",
+		"description": "Lyon William Homes"
 	},
 	{
-		"Symbol": "WLK",
-		"Description": "Westlake Chemical Corporation"
+		"symbol": "WLK",
+		"description": "Westlake Chemical Corporation"
 	},
 	{
-		"Symbol": "WLKP",
-		"Description": "Westlake Chemical Partners LP"
+		"symbol": "WLKP",
+		"description": "Westlake Chemical Partners LP"
 	},
 	{
-		"Symbol": "WLL",
-		"Description": "Whiting Petroleum Corporation"
+		"symbol": "WLL",
+		"description": "Whiting Petroleum Corporation"
 	},
 	{
-		"Symbol": "WLTW",
-		"Description": "Willis Towers Wts Cmn"
+		"symbol": "WLTW",
+		"description": "Willis Towers Wts Cmn"
 	},
 	{
-		"Symbol": "WM",
-		"Description": "Waste Management, Inc."
+		"symbol": "WM",
+		"description": "Waste Management, Inc."
 	},
 	{
-		"Symbol": "WMAR",
-		"Description": "West Marine Inc"
+		"symbol": "WMAR",
+		"description": "West Marine Inc"
 	},
 	{
-		"Symbol": "WMB",
-		"Description": "Williams Companies, Inc. "
+		"symbol": "WMB",
+		"description": "Williams Companies, Inc. "
 	},
 	{
-		"Symbol": "WMC",
-		"Description": "Western Asset Mortgage Capital Corporation"
+		"symbol": "WMC",
+		"description": "Western Asset Mortgage Capital Corporation"
 	},
 	{
-		"Symbol": "WMGI",
-		"Description": "Wright Med Grp Nv"
+		"symbol": "WMGI",
+		"description": "Wright Med Grp Nv"
 	},
 	{
-		"Symbol": "WMGIZ",
-		"Description": "Wright Medic. N.V Cv"
+		"symbol": "WMGIZ",
+		"description": "Wright Medic. N.V Cv"
 	},
 	{
-		"Symbol": "WMIH",
-		"Description": "Wmih Corp. Cmn"
+		"symbol": "WMIH",
+		"description": "Wmih Corp. Cmn"
 	},
 	{
-		"Symbol": "WMK",
-		"Description": "Weis Markets, Inc."
+		"symbol": "WMK",
+		"description": "Weis Markets, Inc."
 	},
 	{
-		"Symbol": "WMLP",
-		"Description": "Westmoreland Resource Partners, LP"
+		"symbol": "WMLP",
+		"description": "Westmoreland Resource Partners, LP"
 	},
 	{
-		"Symbol": "WMS",
-		"Description": "Advanced Drainage Systems, Inc."
+		"symbol": "WMS",
+		"description": "Advanced Drainage Systems, Inc."
 	},
 	{
-		"Symbol": "WMT",
-		"Description": "Wal-Mart Stores, Inc."
+		"symbol": "WMT",
+		"description": "Wal-Mart Stores, Inc."
 	},
 	{
-		"Symbol": "WNC",
-		"Description": "Wabash National Corporation"
+		"symbol": "WNC",
+		"description": "Wabash National Corporation"
 	},
 	{
-		"Symbol": "WNEB",
-		"Description": "Western New England Bancorp Inc"
+		"symbol": "WNEB",
+		"description": "Western New England Bancorp Inc"
 	},
 	{
-		"Symbol": "WNR",
-		"Description": "Western Refining, Inc."
+		"symbol": "WNR",
+		"description": "Western Refining, Inc."
 	},
 	{
-		"Symbol": "WNRL",
-		"Description": "Western Refining Logistics, LP"
+		"symbol": "WNRL",
+		"description": "Western Refining Logistics, LP"
 	},
 	{
-		"Symbol": "WNS",
-		"Description": "WNS Holdings Limited"
+		"symbol": "WNS",
+		"description": "WNS Holdings Limited"
 	},
 	{
-		"Symbol": "WOOD",
-		"Description": "Ishres Gbl Tbr Forst"
+		"symbol": "WOOD",
+		"description": "Ishres Gbl Tbr Forst"
 	},
 	{
-		"Symbol": "WOOF",
-		"Description": "Vca Inc"
+		"symbol": "WOOF",
+		"description": "Vca Inc"
 	},
 	{
-		"Symbol": "WOR",
-		"Description": "Worthington Industries, Inc."
+		"symbol": "WOR",
+		"description": "Worthington Industries, Inc."
 	},
 	{
-		"Symbol": "WPC",
-		"Description": "W.P. Carey Inc."
+		"symbol": "WPC",
+		"description": "W.P. Carey Inc."
 	},
 	{
-		"Symbol": "WPCS",
-		"Description": "Wpcs Intl Inc"
+		"symbol": "WPCS",
+		"description": "Wpcs Intl Inc"
 	},
 	{
-		"Symbol": "WPG",
-		"Description": "Washington Prime Group Inc."
+		"symbol": "WPG",
+		"description": "Washington Prime Group Inc."
 	},
 	{
-		"Symbol": "WPG^H",
-		"Description": "Washington Prime Group Inc."
+		"symbol": "WPG^H",
+		"description": "Washington Prime Group Inc."
 	},
 	{
-		"Symbol": "WPG^I",
-		"Description": "Washington Prime Group Inc."
+		"symbol": "WPG^I",
+		"description": "Washington Prime Group Inc."
 	},
 	{
-		"Symbol": "WPPGY",
-		"Description": "Wpp Plc ADR"
+		"symbol": "WPPGY",
+		"description": "Wpp Plc ADR"
 	},
 	{
-		"Symbol": "WPRT",
-		"Description": "Westport Fuel Systems Inc"
+		"symbol": "WPRT",
+		"description": "Westport Fuel Systems Inc"
 	},
 	{
-		"Symbol": "WPT",
-		"Description": "World Point Terminals, LP"
+		"symbol": "WPT",
+		"description": "World Point Terminals, LP"
 	},
 	{
-		"Symbol": "WPX",
-		"Description": "WPX Energy, Inc."
+		"symbol": "WPX",
+		"description": "WPX Energy, Inc."
 	},
 	{
-		"Symbol": "WPXP",
-		"Description": "WPX Energy, Inc."
+		"symbol": "WPXP",
+		"description": "WPX Energy, Inc."
 	},
 	{
-		"Symbol": "WPZ",
-		"Description": "Williams Partners LP"
+		"symbol": "WPZ",
+		"description": "Williams Partners LP"
 	},
 	{
-		"Symbol": "WR",
-		"Description": "Westar Energy, Inc."
+		"symbol": "WR",
+		"description": "Westar Energy, Inc."
 	},
 	{
-		"Symbol": "WRB",
-		"Description": "W.R. Berkley Corporation"
+		"symbol": "WRB",
+		"description": "W.R. Berkley Corporation"
 	},
 	{
-		"Symbol": "WRB^B",
-		"Description": "W.R. Berkley Corporation"
+		"symbol": "WRB^B",
+		"description": "W.R. Berkley Corporation"
 	},
 	{
-		"Symbol": "WRB^C",
-		"Description": "W.R. Berkley Corporation"
+		"symbol": "WRB^C",
+		"description": "W.R. Berkley Corporation"
 	},
 	{
-		"Symbol": "WRB^D",
-		"Description": "W.R. Berkley Corporation"
+		"symbol": "WRB^D",
+		"description": "W.R. Berkley Corporation"
 	},
 	{
-		"Symbol": "WRD",
-		"Description": "WildHorse Resource Development Corporation"
+		"symbol": "WRD",
+		"description": "WildHorse Resource Development Corporation"
 	},
 	{
-		"Symbol": "WRE",
-		"Description": "Washington Real Estate Investment Trust"
+		"symbol": "WRE",
+		"description": "Washington Real Estate Investment Trust"
 	},
 	{
-		"Symbol": "WRI",
-		"Description": "Weingarten Realty Investors"
+		"symbol": "WRI",
+		"description": "Weingarten Realty Investors"
 	},
 	{
-		"Symbol": "WRK",
-		"Description": "Westrock Company"
+		"symbol": "WRK",
+		"description": "Westrock Company"
 	},
 	{
-		"Symbol": "WRLD",
-		"Description": "World Acceptance Cp"
+		"symbol": "WRLD",
+		"description": "World Acceptance Cp"
 	},
 	{
-		"Symbol": "WRN",
-		"Description": "Western Copper and Gold Corporation"
+		"symbol": "WRN",
+		"description": "Western Copper and Gold Corporation"
 	},
 	{
-		"Symbol": "WSBC",
-		"Description": "Wesbanco Inc"
+		"symbol": "WSBC",
+		"description": "Wesbanco Inc"
 	},
 	{
-		"Symbol": "WSBF",
-		"Description": "Waterstone Financial"
+		"symbol": "WSBF",
+		"description": "Waterstone Financial"
 	},
 	{
-		"Symbol": "WSCI",
-		"Description": "Wsi Industries Inc"
+		"symbol": "WSCI",
+		"description": "Wsi Industries Inc"
 	},
 	{
-		"Symbol": "WSFS",
-		"Description": "WSFS Financial Corp"
+		"symbol": "WSFS",
+		"description": "WSFS Financial Corp"
 	},
 	{
-		"Symbol": "WSFSL",
-		"Description": "WSFS Fnl 6.25 Sr Nt"
+		"symbol": "WSFSL",
+		"description": "WSFS Fnl 6.25 Sr Nt"
 	},
 	{
-		"Symbol": "WSM",
-		"Description": "Williams-Sonoma, Inc."
+		"symbol": "WSM",
+		"description": "Williams-Sonoma, Inc."
 	},
 	{
-		"Symbol": "WSO",
-		"Description": "Watsco, Inc."
+		"symbol": "WSO",
+		"description": "Watsco, Inc."
 	},
 	{
-		"Symbol": "WSO.B",
-		"Description": "Watsco, Inc."
+		"symbol": "WSO.B",
+		"description": "Watsco, Inc."
 	},
 	{
-		"Symbol": "WSR",
-		"Description": "Whitestone REIT"
+		"symbol": "WSR",
+		"description": "Whitestone REIT"
 	},
 	{
-		"Symbol": "WST",
-		"Description": "West Pharmaceutical Services, Inc."
+		"symbol": "WST",
+		"description": "West Pharmaceutical Services, Inc."
 	},
 	{
-		"Symbol": "WSTC",
-		"Description": "West Corporation"
+		"symbol": "WSTC",
+		"description": "West Corporation"
 	},
 	{
-		"Symbol": "WSTG",
-		"Description": "Wayside Technology"
+		"symbol": "WSTG",
+		"description": "Wayside Technology"
 	},
 	{
-		"Symbol": "WSTL",
-		"Description": "Westell Technologies"
+		"symbol": "WSTL",
+		"description": "Westell Technologies"
 	},
 	{
-		"Symbol": "WTBA",
-		"Description": "West Bancorporation"
+		"symbol": "WTBA",
+		"description": "West Bancorporation"
 	},
 	{
-		"Symbol": "WTFC",
-		"Description": "Wintrust Finl Corp"
+		"symbol": "WTFC",
+		"description": "Wintrust Finl Corp"
 	},
 	{
-		"Symbol": "WTFCM",
-		"Description": "Wintrust Fin Pref D"
+		"symbol": "WTFCM",
+		"description": "Wintrust Fin Pref D"
 	},
 	{
-		"Symbol": "WTFCW",
-		"Description": "Wintrust Tarp Wrnts"
+		"symbol": "WTFCW",
+		"description": "Wintrust Tarp Wrnts"
 	},
 	{
-		"Symbol": "WTI",
-		"Description": "W&T Offshore, Inc."
+		"symbol": "WTI",
+		"description": "W&T Offshore, Inc."
 	},
 	{
-		"Symbol": "WTM",
-		"Description": "White Mountains Insurance Group, Ltd."
+		"symbol": "WTM",
+		"description": "White Mountains Insurance Group, Ltd."
 	},
 	{
-		"Symbol": "WTR",
-		"Description": "Aqua America, Inc."
+		"symbol": "WTR",
+		"description": "Aqua America, Inc."
 	},
 	{
-		"Symbol": "WTS",
-		"Description": "Watts Water Technologies, Inc."
+		"symbol": "WTS",
+		"description": "Watts Water Technologies, Inc."
 	},
 	{
-		"Symbol": "WTT",
-		"Description": "Wireless Telecom Group,  Inc."
+		"symbol": "WTT",
+		"description": "Wireless Telecom Group,  Inc."
 	},
 	{
-		"Symbol": "WTW",
-		"Description": "Weight Watchers International Inc"
+		"symbol": "WTW",
+		"description": "Weight Watchers International Inc"
 	},
 	{
-		"Symbol": "WU",
-		"Description": "Western Union Company "
+		"symbol": "WU",
+		"description": "Western Union Company "
 	},
 	{
-		"Symbol": "WUBA",
-		"Description": "58.com Inc."
+		"symbol": "WUBA",
+		"description": "58.com Inc."
 	},
 	{
-		"Symbol": "WVE",
-		"Description": "Wave Life Sci Ord Sh"
+		"symbol": "WVE",
+		"description": "Wave Life Sci Ord Sh"
 	},
 	{
-		"Symbol": "WVFC",
-		"Description": "Wvs Financial Corp"
+		"symbol": "WVFC",
+		"description": "Wvs Financial Corp"
 	},
 	{
-		"Symbol": "WVVI",
-		"Description": "Willamette Valley"
+		"symbol": "WVVI",
+		"description": "Willamette Valley"
 	},
 	{
-		"Symbol": "WVVIP",
-		"Description": "Willamette Valley Vineyards In"
+		"symbol": "WVVIP",
+		"description": "Willamette Valley Vineyards In"
 	},
 	{
-		"Symbol": "WWAV",
-		"Description": "Whitewave Foods Company "
+		"symbol": "WWAV",
+		"description": "Whitewave Foods Company "
 	},
 	{
-		"Symbol": "WWD",
-		"Description": "Woodward Inc"
+		"symbol": "WWD",
+		"description": "Woodward Inc"
 	},
 	{
-		"Symbol": "WWE",
-		"Description": "World Wrestling Entertainment, Inc."
+		"symbol": "WWE",
+		"description": "World Wrestling Entertainment, Inc."
 	},
 	{
-		"Symbol": "WWW",
-		"Description": "Wolverine World Wide, Inc."
+		"symbol": "WWW",
+		"description": "Wolverine World Wide, Inc."
 	},
 	{
-		"Symbol": "WY",
-		"Description": "Weyerhaeuser Company"
+		"symbol": "WY",
+		"description": "Weyerhaeuser Company"
 	},
 	{
-		"Symbol": "WYIG",
-		"Description": "Jm Global Holding Cmn"
+		"symbol": "WYIG",
+		"description": "Jm Global Holding Cmn"
 	},
 	{
-		"Symbol": "WYIGU",
-		"Description": "Jm Global Hold Unit"
+		"symbol": "WYIGU",
+		"description": "Jm Global Hold Unit"
 	},
 	{
-		"Symbol": "WYIGW",
-		"Description": "Jm Global Holdin Wt"
+		"symbol": "WYIGW",
+		"description": "Jm Global Holdin Wt"
 	},
 	{
-		"Symbol": "WYN",
-		"Description": "Wyndham Worldwide Corp"
+		"symbol": "WYN",
+		"description": "Wyndham Worldwide Corp"
 	},
 	{
-		"Symbol": "WYNN",
-		"Description": "Wynn Resorts Limited"
+		"symbol": "WYNN",
+		"description": "Wynn Resorts Limited"
 	},
 	{
-		"Symbol": "WYY",
-		"Description": "WidePoint Corporation"
+		"symbol": "WYY",
+		"description": "WidePoint Corporation"
 	},
 	{
-		"Symbol": "X",
-		"Description": "United States Steel Corporation"
+		"symbol": "X",
+		"description": "United States Steel Corporation"
 	},
 	{
-		"Symbol": "XBIO",
-		"Description": "Xenetic Biosciences Inc"
+		"symbol": "XBIO",
+		"description": "Xenetic Biosciences Inc"
 	},
 	{
-		"Symbol": "XBIT",
-		"Description": "Xbiotech Inc Cmn"
+		"symbol": "XBIT",
+		"description": "Xbiotech Inc Cmn"
 	},
 	{
-		"Symbol": "XBKS",
-		"Description": "Xenith Bankshares Inc New"
+		"symbol": "XBKS",
+		"description": "Xenith Bankshares Inc New"
 	},
 	{
-		"Symbol": "XCO",
-		"Description": "EXCO Resources NL"
+		"symbol": "XCO",
+		"description": "EXCO Resources NL"
 	},
 	{
-		"Symbol": "XCRA",
-		"Description": "Xcerra Corp Cmn Stk"
+		"symbol": "XCRA",
+		"description": "Xcerra Corp Cmn Stk"
 	},
 	{
-		"Symbol": "XEC",
-		"Description": "Cimarex Energy Co"
+		"symbol": "XEC",
+		"description": "Cimarex Energy Co"
 	},
 	{
-		"Symbol": "XEL",
-		"Description": "Xcel Energy Inc."
+		"symbol": "XEL",
+		"description": "Xcel Energy Inc."
 	},
 	{
-		"Symbol": "XELB",
-		"Description": "XCEL Brands Cmn"
+		"symbol": "XELB",
+		"description": "XCEL Brands Cmn"
 	},
 	{
-		"Symbol": "XENE",
-		"Description": "Xenon Pharmace Cm Sh"
+		"symbol": "XENE",
+		"description": "Xenon Pharmace Cm Sh"
 	},
 	{
-		"Symbol": "XENT",
-		"Description": "Intersect Ent Cmn"
+		"symbol": "XENT",
+		"description": "Intersect Ent Cmn"
 	},
 	{
-		"Symbol": "XGTI",
-		"Description": "XG Technology Icmn"
+		"symbol": "XGTI",
+		"description": "XG Technology Icmn"
 	},
 	{
-		"Symbol": "XGTIW",
-		"Description": "XG Technology Inc"
+		"symbol": "XGTIW",
+		"description": "XG Technology Inc"
 	},
 	{
-		"Symbol": "XHR",
-		"Description": "Xenia Hotels & Resorts, Inc."
+		"symbol": "XHR",
+		"description": "Xenia Hotels & Resorts, Inc."
 	},
 	{
-		"Symbol": "XIN",
-		"Description": "Xinyuan Real Estate Co Ltd"
+		"symbol": "XIN",
+		"description": "Xinyuan Real Estate Co Ltd"
 	},
 	{
-		"Symbol": "XIV",
-		"Description": "VS Inverse VIX Short Term"
+		"symbol": "XIV",
+		"description": "VS Inverse VIX Short Term"
 	},
 	{
-		"Symbol": "XKE",
-		"Description": "Lehman ABS Corporation"
+		"symbol": "XKE",
+		"description": "Lehman ABS Corporation"
 	},
 	{
-		"Symbol": "XL",
-		"Description": "XL Group Ltd."
+		"symbol": "XL",
+		"description": "XL Group Ltd."
 	},
 	{
-		"Symbol": "XLNX",
-		"Description": "Xilinx Inc"
+		"symbol": "XLNX",
+		"description": "Xilinx Inc"
 	},
 	{
-		"Symbol": "XLRN",
-		"Description": "Acceleron Pharma Cmn"
+		"symbol": "XLRN",
+		"description": "Acceleron Pharma Cmn"
 	},
 	{
-		"Symbol": "XNCR",
-		"Description": "Xencor Inc"
+		"symbol": "XNCR",
+		"description": "Xencor Inc"
 	},
 	{
-		"Symbol": "XNET",
-		"Description": "Xunlei Limited ADR"
+		"symbol": "XNET",
+		"description": "Xunlei Limited ADR"
 	},
 	{
-		"Symbol": "XNY",
-		"Description": "China Xiniya Fashion Limited"
+		"symbol": "XNY",
+		"description": "China Xiniya Fashion Limited"
 	},
 	{
-		"Symbol": "XOG",
-		"Description": "Extraction Oil & Gas Inc"
+		"symbol": "XOG",
+		"description": "Extraction Oil & Gas Inc"
 	},
 	{
-		"Symbol": "XOM",
-		"Description": "Exxon Mobil Corporation"
+		"symbol": "XOM",
+		"description": "Exxon Mobil Corporation"
 	},
 	{
-		"Symbol": "XOMA",
-		"Description": "Xoma Corporation"
+		"symbol": "XOMA",
+		"description": "Xoma Corporation"
 	},
 	{
-		"Symbol": "XON",
-		"Description": "Intrexon Corporation"
+		"symbol": "XON",
+		"description": "Intrexon Corporation"
 	},
 	{
-		"Symbol": "XONE",
-		"Description": " Exone Company"
+		"symbol": "XONE",
+		"description": " Exone Company"
 	},
 	{
-		"Symbol": "XOXO",
-		"Description": "XO Group, Inc."
+		"symbol": "XOXO",
+		"description": "XO Group, Inc."
 	},
 	{
-		"Symbol": "XPL",
-		"Description": "Solitario Exploration & Royalty Corp"
+		"symbol": "XPL",
+		"description": "Solitario Exploration & Royalty Corp"
 	},
 	{
-		"Symbol": "XPLR",
-		"Description": "Xplore Tech Corp De"
+		"symbol": "XPLR",
+		"description": "Xplore Tech Corp De"
 	},
 	{
-		"Symbol": "XPO",
-		"Description": "XPO Logistics, Inc."
+		"symbol": "XPO",
+		"description": "XPO Logistics, Inc."
 	},
 	{
-		"Symbol": "XRA",
-		"Description": "Exeter Resource Corporation"
+		"symbol": "XRA",
+		"description": "Exeter Resource Corporation"
 	},
 	{
-		"Symbol": "XRAY",
-		"Description": "Dentsply Sirona Inc"
+		"symbol": "XRAY",
+		"description": "Dentsply Sirona Inc"
 	},
 	{
-		"Symbol": "XRDC",
-		"Description": "Crossroads Cap Inc"
+		"symbol": "XRDC",
+		"description": "Crossroads Cap Inc"
 	},
 	{
-		"Symbol": "XRM",
-		"Description": "Xerium Technologies, Inc."
+		"symbol": "XRM",
+		"description": "Xerium Technologies, Inc."
 	},
 	{
-		"Symbol": "XRX",
-		"Description": "Xerox Corporation"
+		"symbol": "XRX",
+		"description": "Xerox Corporation"
 	},
 	{
-		"Symbol": "XTLB",
-		"Description": "Xtl Biopharma Ads"
+		"symbol": "XTLB",
+		"description": "Xtl Biopharma Ads"
 	},
 	{
-		"Symbol": "XTLY",
-		"Description": "Xactly Corporation"
+		"symbol": "XTLY",
+		"description": "Xactly Corporation"
 	},
 	{
-		"Symbol": "XTNT",
-		"Description": "Xtant Medical Holdings, Inc."
+		"symbol": "XTNT",
+		"description": "Xtant Medical Holdings, Inc."
 	},
 	{
-		"Symbol": "XXIA",
-		"Description": "IXIA"
+		"symbol": "XXIA",
+		"description": "IXIA"
 	},
 	{
-		"Symbol": "XXII",
-		"Description": "22nd Century Group, Inc"
+		"symbol": "XXII",
+		"description": "22nd Century Group, Inc"
 	},
 	{
-		"Symbol": "XYL",
-		"Description": "Xylem Inc."
+		"symbol": "XYL",
+		"description": "Xylem Inc."
 	},
 	{
-		"Symbol": "Y",
-		"Description": "Alleghany Corporation"
+		"symbol": "Y",
+		"description": "Alleghany Corporation"
 	},
 	{
-		"Symbol": "YDIV",
-		"Description": "First Trust ETF Vi"
+		"symbol": "YDIV",
+		"description": "First Trust ETF Vi"
 	},
 	{
-		"Symbol": "YDKN",
-		"Description": "Yadkin Financial Corporation"
+		"symbol": "YDKN",
+		"description": "Yadkin Financial Corporation"
 	},
 	{
-		"Symbol": "YECO",
-		"Description": "Yulong Eco-Mtls Ord"
+		"symbol": "YECO",
+		"description": "Yulong Eco-Mtls Ord"
 	},
 	{
-		"Symbol": "YELP",
-		"Description": "Yelp Inc."
+		"symbol": "YELP",
+		"description": "Yelp Inc."
 	},
 	{
-		"Symbol": "YGE",
-		"Description": "Yingli Green Energy Holding Company Limited"
+		"symbol": "YGE",
+		"description": "Yingli Green Energy Holding Company Limited"
 	},
 	{
-		"Symbol": "YHOO",
-		"Description": "Yahoo! Inc"
+		"symbol": "YHOO",
+		"description": "Yahoo! Inc"
 	},
 	{
-		"Symbol": "YIN",
-		"Description": "Yintech Investm Ads"
+		"symbol": "YIN",
+		"description": "Yintech Investm Ads"
 	},
 	{
-		"Symbol": "YLCO",
-		"Description": "Global X Yieldco ETF"
+		"symbol": "YLCO",
+		"description": "Global X Yieldco ETF"
 	},
 	{
-		"Symbol": "YNDX",
-		"Description": "Yandex N.V."
+		"symbol": "YNDX",
+		"description": "Yandex N.V."
 	},
 	{
-		"Symbol": "YORW",
-		"Description": "York Water Co"
+		"symbol": "YORW",
+		"description": "York Water Co"
 	},
 	{
-		"Symbol": "YPF",
-		"Description": "YPF Sociedad Anonima"
+		"symbol": "YPF",
+		"description": "YPF Sociedad Anonima"
 	},
 	{
-		"Symbol": "YRCW",
-		"Description": "YRC Worldwide"
+		"symbol": "YRCW",
+		"description": "YRC Worldwide"
 	},
 	{
-		"Symbol": "YRD",
-		"Description": "Yirendai Ltd."
+		"symbol": "YRD",
+		"description": "Yirendai Ltd."
 	},
 	{
-		"Symbol": "YTEN",
-		"Description": "Yield10 Bioscience Inc."
+		"symbol": "YTEN",
+		"description": "Yield10 Bioscience Inc."
 	},
 	{
-		"Symbol": "YTRA",
-		"Description": "Yatra Online Inc. Ordinary Shares"
+		"symbol": "YTRA",
+		"description": "Yatra Online Inc. Ordinary Shares"
 	},
 	{
-		"Symbol": "YUM",
-		"Description": "Yum! Brands, Inc."
+		"symbol": "YUM",
+		"description": "Yum! Brands, Inc."
 	},
 	{
-		"Symbol": "YUMA",
-		"Description": "Yuma Energy, Inc."
+		"symbol": "YUMA",
+		"description": "Yuma Energy, Inc."
 	},
 	{
-		"Symbol": "YUMC",
-		"Description": "Yum China Holdings, Inc."
+		"symbol": "YUMC",
+		"description": "Yum China Holdings, Inc."
 	},
 	{
-		"Symbol": "YUME",
-		"Description": "YuMe, Inc."
+		"symbol": "YUME",
+		"description": "YuMe, Inc."
 	},
 	{
-		"Symbol": "YY",
-		"Description": "YY Inc"
+		"symbol": "YY",
+		"description": "YY Inc"
 	},
 	{
-		"Symbol": "YZC",
-		"Description": "Yanzhou Coal Mining Company Limited"
+		"symbol": "YZC",
+		"description": "Yanzhou Coal Mining Company Limited"
 	},
 	{
-		"Symbol": "Z",
-		"Description": "Zillow Group Cl C"
+		"symbol": "Z",
+		"description": "Zillow Group Cl C"
 	},
 	{
-		"Symbol": "ZAGG",
-		"Description": "Zagg Inc"
+		"symbol": "ZAGG",
+		"description": "Zagg Inc"
 	},
 	{
-		"Symbol": "ZAIS",
-		"Description": "Zais Group Hld A Cmn"
+		"symbol": "ZAIS",
+		"description": "Zais Group Hld A Cmn"
 	},
 	{
-		"Symbol": "ZAYO",
-		"Description": "Zayo Group Holdings, Inc."
+		"symbol": "ZAYO",
+		"description": "Zayo Group Holdings, Inc."
 	},
 	{
-		"Symbol": "ZB^A",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZB^A",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZB^F",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZB^F",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZB^G",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZB^G",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZB^H",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZB^H",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZBH",
-		"Description": "Zimmer Biomet Holdings, Inc."
+		"symbol": "ZBH",
+		"description": "Zimmer Biomet Holdings, Inc."
 	},
 	{
-		"Symbol": "ZBIO",
-		"Description": "Proshr Ul ST Nq Bio"
+		"symbol": "ZBIO",
+		"description": "Proshr Ul ST Nq Bio"
 	},
 	{
-		"Symbol": "ZBK",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZBK",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZBRA",
-		"Description": "Zebra Technologies"
+		"symbol": "ZBRA",
+		"description": "Zebra Technologies"
 	},
 	{
-		"Symbol": "ZDGE",
-		"Description": "Zedge, Inc."
+		"symbol": "ZDGE",
+		"description": "Zedge, Inc."
 	},
 	{
-		"Symbol": "ZEN",
-		"Description": "Zendesk, Inc."
+		"symbol": "ZEN",
+		"description": "Zendesk, Inc."
 	},
 	{
-		"Symbol": "ZEUS",
-		"Description": "Olympic Steel Inc"
+		"symbol": "ZEUS",
+		"description": "Olympic Steel Inc"
 	},
 	{
-		"Symbol": "ZF",
-		"Description": "Zweig Fund, Inc. "
+		"symbol": "ZF",
+		"description": "Zweig Fund, Inc. "
 	},
 	{
-		"Symbol": "ZFGN",
-		"Description": "Zafgen Inc Cmn"
+		"symbol": "ZFGN",
+		"description": "Zafgen Inc Cmn"
 	},
 	{
-		"Symbol": "ZG",
-		"Description": "Zillow Grp Inc Cl A"
+		"symbol": "ZG",
+		"description": "Zillow Grp Inc Cl A"
 	},
 	{
-		"Symbol": "ZGNX",
-		"Description": "Zogenix Inc"
+		"symbol": "ZGNX",
+		"description": "Zogenix Inc"
 	},
 	{
-		"Symbol": "ZION",
-		"Description": "Zions Bancorporation"
+		"symbol": "ZION",
+		"description": "Zions Bancorporation"
 	},
 	{
-		"Symbol": "ZIONW",
-		"Description": "Zions Bncrp Wts"
+		"symbol": "ZIONW",
+		"description": "Zions Bncrp Wts"
 	},
 	{
-		"Symbol": "ZIOP",
-		"Description": "Ziopharm Oncology In"
+		"symbol": "ZIOP",
+		"description": "Ziopharm Oncology In"
 	},
 	{
-		"Symbol": "ZIV",
-		"Description": "VS Inverse VIX Mterm"
+		"symbol": "ZIV",
+		"description": "VS Inverse VIX Mterm"
 	},
 	{
-		"Symbol": "ZIXI",
-		"Description": "Zix Corp"
+		"symbol": "ZIXI",
+		"description": "Zix Corp"
 	},
 	{
-		"Symbol": "ZLTQ",
-		"Description": "Zeltiq Aesthetics"
+		"symbol": "ZLTQ",
+		"description": "Zeltiq Aesthetics"
 	},
 	{
-		"Symbol": "ZN",
-		"Description": "Zion Oil & Gas Inc"
+		"symbol": "ZN",
+		"description": "Zion Oil & Gas Inc"
 	},
 	{
-		"Symbol": "ZNGA",
-		"Description": "Zynga Inc Cl A Cmn"
+		"symbol": "ZNGA",
+		"description": "Zynga Inc Cl A Cmn"
 	},
 	{
-		"Symbol": "ZNH",
-		"Description": "China Southern Airlines Company Limited"
+		"symbol": "ZNH",
+		"description": "China Southern Airlines Company Limited"
 	},
 	{
-		"Symbol": "ZOES",
-		"Description": "Zoes Kitchen, Inc."
+		"symbol": "ZOES",
+		"description": "Zoes Kitchen, Inc."
 	},
 	{
-		"Symbol": "ZPIN",
-		"Description": "Zhaopin Limited"
+		"symbol": "ZPIN",
+		"description": "Zhaopin Limited"
 	},
 	{
-		"Symbol": "ZSAN",
-		"Description": "Zosano Pharma Cmn"
+		"symbol": "ZSAN",
+		"description": "Zosano Pharma Cmn"
 	},
 	{
-		"Symbol": "ZTO",
-		"Description": "ZTO Express Cayman Inc."
+		"symbol": "ZTO",
+		"description": "ZTO Express Cayman Inc."
 	},
 	{
-		"Symbol": "ZTR",
-		"Description": "Virtus Global Dividend & Income Fund Inc."
+		"symbol": "ZTR",
+		"description": "Virtus Global Dividend & Income Fund Inc."
 	},
 	{
-		"Symbol": "ZTS",
-		"Description": "Zoetis Inc."
+		"symbol": "ZTS",
+		"description": "Zoetis Inc."
 	},
 	{
-		"Symbol": "ZUMZ",
-		"Description": "Zumiez Inc"
+		"symbol": "ZUMZ",
+		"description": "Zumiez Inc"
 	},
 	{
-		"Symbol": "ZX",
-		"Description": "China Zenix Auto International Limited"
+		"symbol": "ZX",
+		"description": "China Zenix Auto International Limited"
 	},
 	{
-		"Symbol": "ZYNE",
-		"Description": "Zynerba Pharma CS"
+		"symbol": "ZYNE",
+		"description": "Zynerba Pharma CS"
 	}
 ];
