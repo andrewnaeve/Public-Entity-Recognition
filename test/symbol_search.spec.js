@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const per = require('../src/functions').per;
+const per = require('../src/index').per;
 
 // Search function tests
 
