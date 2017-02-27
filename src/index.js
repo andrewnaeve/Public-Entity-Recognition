@@ -7,4 +7,3 @@ exports.per = function(string) {
 
 };
 
-console.log(exports.per('Apple'))

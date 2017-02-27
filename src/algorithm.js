@@ -1,12 +1,10 @@
 const stockList = require("./ticker_lists/stockList").stockList;
 const minRelevance = .3;
-// set relevance to return matching phrases that are a certain percentage of  company description
-// possible overal character length more relevant than word chunks
+
 module.exports.longestPhrase = function(string) {
   
-// this block finds  longest resultsutive phrase from a phrase that is contained by a company description 
-	let results = [{match: "", symbol: "", description: "", relevance: 0}];
 	let phrase = string.split(" ");
+	let results = [{match: "", symbol: "", description: "", relevance: 0}];
 
 	for(var k = 0; k < stockList.length; k++) {
 		let companyString = stockList[k].description;
@@ -14,7 +12,7 @@ module.exports.longestPhrase = function(string) {
 			let pat1 = new RegExp("\\b("+phrase[i]+")\\b");
 			if (pat1.test(companyString) && phrase[i][0] === phrase[i][0].toUpperCase()) {
 				var t = phrase[i];
-				for (var j=i+1; j < phrase.length-1; j++) {
+				for (var j=i+1; j < phrase.length; j++) {
 					let pat2 = new RegExp("\\b("+phrase[i] + " " + phrase[j]+")\\b");
 					if (pat2.test(companyString)) {
 						t += " " + phrase[j];
