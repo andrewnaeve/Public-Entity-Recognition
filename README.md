@@ -1,7 +1,7 @@
 [![travis build](https://img.shields.io/travis/andrewnaeve/Public-Entity-Recognition.svg)](https://travis-ci.org/andrewnaeve/Public-Entity-Recognition)
 # Public-Entity-Recognition
 
-This is an app that takes input, scans it for the longest consecutive string that matches the description of a publicly traded company, and returns the ticker symbol for the best match. 
+This package scans for the longest consecutive string that matches the description of a publicly traded company, and returns the ticker symbol for the most relevant match. 
 This might be useful for twitter mining, or fintech applications.
 
 ## Installation

@@ -1,6 +1,6 @@
 {
   "name": "public-entity-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search a string for mentions of a publicly traded entity and bring back ticker symbol and trade name.",
   "main": "dist/index.js",
   "dependencies": {
