@@ -1,6 +1,6 @@
 {
   "name": "public-entity-recognition",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Public-Entity-Recognition",
   "main": "dist/index.js",
   "dependencies": {
