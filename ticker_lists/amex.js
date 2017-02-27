@@ -133,11 +133,11 @@ module.exports.amex = [
   },
   {
     "Symbol": "AST",
-    "Description": "Asterias Biotherapeutics, Inc."
+    "Description": "Asterias Biorapeutics, Inc."
   },
   {
     "Symbol": "AST.WS",
-    "Description": "Asterias Biotherapeutics, Inc."
+    "Description": "Asterias Biorapeutics, Inc."
   },
   {
     "Symbol": "AUXO",
@@ -373,7 +373,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "CRF",
-    "Description": "Cornerstone Strategic Return Fund, Inc. (The)"
+    "Description": "Cornerstone Strategic Return Fund, Inc. ()"
   },
   {
     "Symbol": "CLM",
@@ -609,7 +609,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "BDL",
-    "Description": "Flanigan&#39;s Enterprises, Inc."
+    "Description": "Flanigans Enterprises, Inc."
   },
   {
     "Symbol": "FSI",
@@ -693,11 +693,11 @@ module.exports.amex = [
   },
   {
     "Symbol": "GV",
-    "Description": "Goldfield Corporation (The)"
+    "Description": "Goldfield Corporation ()"
   },
   {
     "Symbol": "GRC",
-    "Description": "Gorman-Rupp Company (The)"
+    "Description": "Gorman-Rupp Company ()"
   },
   {
     "Symbol": "GTE",
@@ -705,7 +705,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "GPL",
-    "Description": "Great Panther Silver Limited"
+    "Description": "Great Panr Silver Limited"
   },
   {
     "Symbol": "SIM",
@@ -753,11 +753,11 @@ module.exports.amex = [
   },
   {
     "Symbol": "IMUC",
-    "Description": "ImmunoCellular Therapeutics, Ltd."
+    "Description": "ImmunoCellular rapeutics, Ltd."
   },
   {
     "Symbol": "IMUC.WS",
-    "Description": "ImmunoCellular Therapeutics, Ltd."
+    "Description": "ImmunoCellular rapeutics, Ltd."
   },
   {
     "Symbol": "IMH",
@@ -853,11 +853,11 @@ module.exports.amex = [
   },
   {
     "Symbol": "LAQ",
-    "Description": "Latin America Equity Fund, Inc. (The)"
+    "Description": "Latin America Equity Fund, Inc. ()"
   },
   {
     "Symbol": "LGL",
-    "Description": "LGL Group, Inc. (The)"
+    "Description": "LGL Group, Inc. ()"
   },
   {
     "Symbol": "LBY",
@@ -881,7 +881,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "MSTX",
-    "Description": "Mast Therapeutics, Inc."
+    "Description": "Mast rapeutics, Inc."
   },
   {
     "Symbol": "MHH",
@@ -1001,11 +1001,11 @@ module.exports.amex = [
   },
   {
     "Symbol": "NAK",
-    "Description": "Northern Dynasty Minerals, Ltd."
+    "Description": "Norrn Dynasty Minerals, Ltd."
   },
   {
     "Symbol": "NOG",
-    "Description": "Northern Oil and Gas, Inc."
+    "Description": "Norrn Oil and Gas, Inc."
   },
   {
     "Symbol": "NBY",
@@ -1113,7 +1113,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "PIP",
-    "Description": "PharmAthene, Inc"
+    "Description": "PharmAne, Inc"
   },
   {
     "Symbol": "HNW",
@@ -1137,7 +1137,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "PLX",
-    "Description": "Protalix BioTherapeutics, Inc."
+    "Description": "Protalix Biorapeutics, Inc."
   },
   {
     "Symbol": "RLGT",
@@ -1225,19 +1225,19 @@ module.exports.amex = [
   },
   {
     "Symbol": "SCE^B",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^C",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^D",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^E",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SGB",
@@ -1269,7 +1269,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "SYN",
-    "Description": "Synthetic Biologics, Inc"
+    "Description": "Syntic Biologics, Inc"
   },
   {
     "Symbol": "TRX",
@@ -1289,23 +1289,23 @@ module.exports.amex = [
   },
   {
     "Symbol": "GLU",
-    "Description": "The Gabelli Global Utility and Income Trust"
+    "Description": " Gabelli Global Utility and Income Trust"
   },
   {
     "Symbol": "GLU^A",
-    "Description": "The Gabelli Global Utility and Income Trust"
+    "Description": " Gabelli Global Utility and Income Trust"
   },
   {
     "Symbol": "GGO",
-    "Description": "The Gabelli Go Anywhere Trust"
+    "Description": " Gabelli Go Anywhere Trust"
   },
   {
     "Symbol": "GGO^A",
-    "Description": "The Gabelli Go Anywhere Trust"
+    "Description": " Gabelli Go Anywhere Trust"
   },
   {
     "Symbol": "TXMD",
-    "Description": "TherapeuticsMD, Inc."
+    "Description": "rapeuticsMD, Inc."
   },
   {
     "Symbol": "TGD",
@@ -1341,7 +1341,7 @@ module.exports.amex = [
   },
   {
     "Symbol": "HTM",
-    "Description": "U.S. Geothermal Inc."
+    "Description": "U.S. Geormal Inc."
   },
   {
     "Symbol": "UFAB",

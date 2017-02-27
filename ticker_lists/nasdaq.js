@@ -61,11 +61,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ABEO",
-    "Description": "Abeona Therapeutics"
+    "Description": "Abeona rapeutics"
   },
   {
     "Symbol": "ABEOW",
-    "Description": "Abeona Thera Wts"
+    "Description": "Abeona ra Wts"
   },
   {
     "Symbol": "ABIL",
@@ -153,11 +153,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ACOR",
-    "Description": "Acorda Therapeutics"
+    "Description": "Acorda rapeutics"
   },
   {
     "Symbol": "ACRS",
-    "Description": "Aclaris Therapts Cmn"
+    "Description": "Aclaris rapts Cmn"
   },
   {
     "Symbol": "ACRX",
@@ -201,7 +201,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ADAP",
-    "Description": "Adaptimmune Ther Ads"
+    "Description": "Adaptimmune r Ads"
   },
   {
     "Symbol": "ADBE",
@@ -357,7 +357,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AGLE",
-    "Description": "Aeglea Biothera Cmn"
+    "Description": "Aeglea Biora Cmn"
   },
   {
     "Symbol": "AGNC",
@@ -377,7 +377,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AGRX",
-    "Description": "Agile Therap Cmn Stk"
+    "Description": "Agile rap Cmn Stk"
   },
   {
     "Symbol": "AGTC",
@@ -421,7 +421,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AIMT",
-    "Description": "Aimmune Therap Cmn"
+    "Description": "Aimmune rap Cmn"
   },
   {
     "Symbol": "AINV",
@@ -457,7 +457,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AKBA",
-    "Description": "Akebia Therapeutics"
+    "Description": "Akebia rapeutics"
   },
   {
     "Symbol": "AKER",
@@ -469,7 +469,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AKTX",
-    "Description": "Akari Therapeutics"
+    "Description": "Akari rapeutics"
   },
   {
     "Symbol": "ALBO",
@@ -485,7 +485,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ALDX",
-    "Description": "Aldeyra Therapeu Cmn"
+    "Description": "Aldeyra rapeu Cmn"
   },
   {
     "Symbol": "ALGN",
@@ -705,7 +705,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ANIK",
-    "Description": "Anika Therapeutics"
+    "Description": "Anika rapeutics"
   },
   {
     "Symbol": "ANIP",
@@ -717,7 +717,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ANTH",
-    "Description": "Anthera Pharmaceutic"
+    "Description": "Anra Pharmaceutic"
   },
   {
     "Symbol": "ANY",
@@ -789,7 +789,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "APVO",
-    "Description": "Aptevo Therapeutics Inc"
+    "Description": "Aptevo rapeutics Inc"
   },
   {
     "Symbol": "APWC",
@@ -845,7 +845,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ARGS",
-    "Description": "Argos Therapeutics"
+    "Description": "Argos rapeutics"
   },
   {
     "Symbol": "ARIA",
@@ -981,11 +981,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ATHN",
-    "Description": "Athenahealth Inc"
+    "Description": "Anahealth Inc"
   },
   {
     "Symbol": "ATHX",
-    "Description": "Athersys Inc"
+    "Description": "Arsys Inc"
   },
   {
     "Symbol": "ATLC",
@@ -1009,7 +1009,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ATRA",
-    "Description": "Atara Biotherap Cmn"
+    "Description": "Atara Biorap Cmn"
   },
   {
     "Symbol": "ATRC",
@@ -1081,7 +1081,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AVIR",
-    "Description": "Aviragen Therapeutic"
+    "Description": "Aviragen rapeutic"
   },
   {
     "Symbol": "AVNW",
@@ -1125,7 +1125,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "AXSM",
-    "Description": "Axsome Thera Cmn Stk"
+    "Description": "Axsome ra Cmn Stk"
   },
   {
     "Symbol": "AXTI",
@@ -1433,7 +1433,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "BLPH",
-    "Description": "Bellerophon Ther Com"
+    "Description": "Bellerophon r Com"
   },
   {
     "Symbol": "BLRX",
@@ -1541,11 +1541,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "BOLD",
-    "Description": "Audentes Therapeutics Inc Cmn"
+    "Description": "Audentes rapeutics Inc Cmn"
   },
   {
     "Symbol": "BONT",
-    "Description": "Bon Ton Stores The"
+    "Description": "Bon Ton Stores "
   },
   {
     "Symbol": "BOOM",
@@ -1557,7 +1557,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "BOTJ",
-    "Description": "Bank of The Jame Fnl"
+    "Description": "Bank of  Jame Fnl"
   },
   {
     "Symbol": "BOTZ",
@@ -1753,7 +1753,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CALA",
-    "Description": "Calithera Biosci Com"
+    "Description": "Calira Biosci Com"
   },
   {
     "Symbol": "CALD",
@@ -1789,7 +1789,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CAPR",
-    "Description": "Capricor Therap Cmn"
+    "Description": "Capricor rap Cmn"
   },
   {
     "Symbol": "CAPX",
@@ -1801,7 +1801,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CARA",
-    "Description": "Cara Therapeutics"
+    "Description": "Cara rapeutics"
   },
   {
     "Symbol": "CARB",
@@ -1825,7 +1825,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CASC",
-    "Description": "Cascadian Therapeutics Inc"
+    "Description": "Cascadian rapeutics Inc"
   },
   {
     "Symbol": "CASH",
@@ -1881,7 +1881,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CBAY",
-    "Description": "Cymabay Therapeutics"
+    "Description": "Cymabay rapeutics"
   },
   {
     "Symbol": "CBF",
@@ -2025,7 +2025,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CDTX",
-    "Description": "Cidara Thera Cmn"
+    "Description": "Cidara ra Cmn"
   },
   {
     "Symbol": "CDW",
@@ -2181,7 +2181,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CG",
-    "Description": "The Carlyle Group"
+    "Description": " Carlyle Group"
   },
   {
     "Symbol": "CGEN",
@@ -2217,7 +2217,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CHEF",
-    "Description": "The Chefs Warehouse"
+    "Description": " Chefs Warehouse"
   },
   {
     "Symbol": "CHEK",
@@ -2389,7 +2389,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CLDX",
-    "Description": "Celldex Therapeutics"
+    "Description": "Celldex rapeutics"
   },
   {
     "Symbol": "CLFD",
@@ -2617,7 +2617,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CORT",
-    "Description": "Corcept Therapeutics"
+    "Description": "Corcept rapeutics"
   },
   {
     "Symbol": "COST",
@@ -2761,7 +2761,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CRSP",
-    "Description": "Crispr Therapeutics Ag"
+    "Description": "Crispr rapeutics Ag"
   },
   {
     "Symbol": "CRTN",
@@ -2897,7 +2897,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CTMX",
-    "Description": "Cytomx Thera Cmn Stk"
+    "Description": "Cytomx ra Cmn Stk"
   },
   {
     "Symbol": "CTRE",
@@ -3085,11 +3085,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "CYTX",
-    "Description": "Cytori Therapeutics"
+    "Description": "Cytori rapeutics"
   },
   {
     "Symbol": "CYTXW",
-    "Description": "Cytori Therapeutics Inc"
+    "Description": "Cytori rapeutics Inc"
   },
   {
     "Symbol": "CZFC",
@@ -3289,7 +3289,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "DMTX",
-    "Description": "Dimension Thera Cmn"
+    "Description": "Dimension ra Cmn"
   },
   {
     "Symbol": "DNBF",
@@ -3473,7 +3473,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "DXYN",
-    "Description": "The Dixie Group"
+    "Description": " Dixie Group"
   },
   {
     "Symbol": "DYNT",
@@ -3581,7 +3581,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "EDGE",
-    "Description": "Edge Therapeut Cm S"
+    "Description": "Edge rapeut Cm S"
   },
   {
     "Symbol": "EDGW",
@@ -3765,7 +3765,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ENSG",
-    "Description": "The Ensign Group In"
+    "Description": " Ensign Group In"
   },
   {
     "Symbol": "ENT",
@@ -3889,7 +3889,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ESPR",
-    "Description": "Esperion Theraptc Cmn"
+    "Description": "Esperion raptc Cmn"
   },
   {
     "Symbol": "ESRX",
@@ -4061,7 +4061,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FARM",
-    "Description": "Farmer Brothers"
+    "Description": "Farmer Brors"
   },
   {
     "Symbol": "FARO",
@@ -4073,7 +4073,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FATE",
-    "Description": "Fate Therapeutics Cmn"
+    "Description": "Fate rapeutics Cmn"
   },
   {
     "Symbol": "FB",
@@ -4297,7 +4297,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FINX",
-    "Description": "Global X Fintech Thematic ETF"
+    "Description": "Global X Fintech matic ETF"
   },
   {
     "Symbol": "FISI",
@@ -4317,7 +4317,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FITS",
-    "Description": "The Health and Fitness ETF"
+    "Description": " Health and Fitness ETF"
   },
   {
     "Symbol": "FIVE",
@@ -4345,7 +4345,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FLAG",
-    "Description": "Weatherstorm Forensi"
+    "Description": "Wearstorm Forensi"
   },
   {
     "Symbol": "FLAT",
@@ -4389,7 +4389,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FLXN",
-    "Description": "Flexion Therapeutics"
+    "Description": "Flexion rapeutics"
   },
   {
     "Symbol": "FLXS",
@@ -4473,7 +4473,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FOLD",
-    "Description": "Amicus Therapeutics"
+    "Description": "Amicus rapeutics"
   },
   {
     "Symbol": "FOMX",
@@ -4533,7 +4533,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "FPRX",
-    "Description": "Five Prime Thera Cmn"
+    "Description": "Five Prime ra Cmn"
   },
   {
     "Symbol": "FPXI",
@@ -4829,15 +4829,15 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "GALT",
-    "Description": "Galectin Therapeutic"
+    "Description": "Galectin rapeutic"
   },
   {
     "Symbol": "GALTU",
-    "Description": "Galectin Therapeutics Inc"
+    "Description": "Galectin rapeutics Inc"
   },
   {
     "Symbol": "GALTW",
-    "Description": "Galectin Therap Wts"
+    "Description": "Galectin rap Wts"
   },
   {
     "Symbol": "GARS",
@@ -4869,7 +4869,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "GBT",
-    "Description": "Global Blood Ther Cmn"
+    "Description": "Global Blood r Cmn"
   },
   {
     "Symbol": "GCBC",
@@ -4897,7 +4897,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "GEMP",
-    "Description": "Gemphire Therapeutics Inc"
+    "Description": "Gemphire rapeutics Inc"
   },
   {
     "Symbol": "GENC",
@@ -5193,7 +5193,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "GSBC",
-    "Description": "Great Southern Bncp"
+    "Description": "Great Sourn Bncp"
   },
   {
     "Symbol": "GSHTU",
@@ -5301,7 +5301,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "HALO",
-    "Description": "Halozyme Therapeutic"
+    "Description": "Halozyme rapeutic"
   },
   {
     "Symbol": "HAS",
@@ -5577,7 +5577,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "HQY",
-    "Description": "Healthequity Cmn Stk"
+    "Description": "Healquity Cmn Stk"
   },
   {
     "Symbol": "HRMN",
@@ -5593,7 +5593,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "HRTX",
-    "Description": "Heron Therapeutics"
+    "Description": "Heron rapeutics"
   },
   {
     "Symbol": "HRZN",
@@ -6033,7 +6033,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "INSY",
-    "Description": "Insys Theraptcs Cmn"
+    "Description": "Insys raptcs Cmn"
   },
   {
     "Symbol": "INTC",
@@ -6041,7 +6041,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "INTG",
-    "Description": "Intergroup Cp The"
+    "Description": "Intergroup Cp "
   },
   {
     "Symbol": "INTL",
@@ -6217,7 +6217,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ITCI",
-    "Description": "Intra-Cellular Ther"
+    "Description": "Intra-Cellular r"
   },
   {
     "Symbol": "ITEK",
@@ -6281,7 +6281,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "JACK",
-    "Description": "Jack In The Box Inc"
+    "Description": "Jack In  Box Inc"
   },
   {
     "Symbol": "JAGX",
@@ -6361,7 +6361,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "JNCE",
-    "Description": "Jounce Therapeutics Inc."
+    "Description": "Jounce rapeutics Inc."
   },
   {
     "Symbol": "JNP",
@@ -6417,7 +6417,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "JUNO",
-    "Description": "Juno Therapeutics Cmn"
+    "Description": "Juno rapeutics Cmn"
   },
   {
     "Symbol": "JVA",
@@ -6429,7 +6429,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "JYNT",
-    "Description": "The Joint Corp Cmn"
+    "Description": " Joint Corp Cmn"
   },
   {
     "Symbol": "KALU",
@@ -6577,7 +6577,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "KOOL",
-    "Description": "Cesca Therapeutics I"
+    "Description": "Cesca rapeutics I"
   },
   {
     "Symbol": "KOPN",
@@ -6589,7 +6589,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "KPTI",
-    "Description": "Karyopharm Therapeut"
+    "Description": "Karyopharm rapeut"
   },
   {
     "Symbol": "KRMA",
@@ -6825,7 +6825,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "LION",
-    "Description": "Fidelity Southern Cp"
+    "Description": "Fidelity Sourn Cp"
   },
   {
     "Symbol": "LIOX",
@@ -6941,7 +6941,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "LNTH",
-    "Description": "Lantheus Holdings Cmn"
+    "Description": "Lanus Holdings Cmn"
   },
   {
     "Symbol": "LOAN",
@@ -7001,7 +7001,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "LPTX",
-    "Description": "Leap Therapeutics Inc."
+    "Description": "Leap rapeutics Inc."
   },
   {
     "Symbol": "LQDT",
@@ -7157,7 +7157,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MATW",
-    "Description": "Matthews Intl Corp"
+    "Description": "Matws Intl Corp"
   },
   {
     "Symbol": "MAUI",
@@ -7217,7 +7217,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MBVX",
-    "Description": "Mabvax Therapeutics Holdings Inc"
+    "Description": "Mabvax rapeutics Holdings Inc"
   },
   {
     "Symbol": "MBWM",
@@ -7253,7 +7253,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MCRB",
-    "Description": "Seres Theraptc Cmn"
+    "Description": "Seres raptc Cmn"
   },
   {
     "Symbol": "MCRI",
@@ -7445,7 +7445,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MIK",
-    "Description": "The Michaels Comp Cmn"
+    "Description": " Michaels Comp Cmn"
   },
   {
     "Symbol": "MILN",
@@ -7469,7 +7469,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MIRN",
-    "Description": "Mirna Therap Cmn Stk"
+    "Description": "Mirna rap Cmn Stk"
   },
   {
     "Symbol": "MITK",
@@ -7649,7 +7649,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "MRTX",
-    "Description": "Mirati Therapeutics"
+    "Description": "Mirati rapeutics"
   },
   {
     "Symbol": "MRUS",
@@ -7857,11 +7857,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NBN",
-    "Description": "Northeast Bncp"
+    "Description": "Norast Bncp"
   },
   {
     "Symbol": "NBRV",
-    "Description": "Nabriva Therape Ads"
+    "Description": "Nabriva rape Ads"
   },
   {
     "Symbol": "NBTB",
@@ -7889,7 +7889,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NCTY",
-    "Description": "The9 Limited"
+    "Description": "9 Limited"
   },
   {
     "Symbol": "NDAQ",
@@ -7921,11 +7921,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NEOS",
-    "Description": "Neos Therapeutics Cmn"
+    "Description": "Neos rapeutics Cmn"
   },
   {
     "Symbol": "NEOT",
-    "Description": "Neothetics Cmn"
+    "Description": "Neotics Cmn"
   },
   {
     "Symbol": "NEPT",
@@ -7989,7 +7989,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NH",
-    "Description": "Nanthealth Inc Cmn"
+    "Description": "Nanalth Inc Cmn"
   },
   {
     "Symbol": "NHLD",
@@ -8029,7 +8029,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NKTR",
-    "Description": "Nektar Therapeutics"
+    "Description": "Nektar rapeutics"
   },
   {
     "Symbol": "NLNK",
@@ -8117,11 +8117,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NTIC",
-    "Description": "Northern Tech Inc"
+    "Description": "Norrn Tech Inc"
   },
   {
     "Symbol": "NTLA",
-    "Description": "Intellia Thera CS"
+    "Description": "Intellia ra CS"
   },
   {
     "Symbol": "NTNX",
@@ -8137,11 +8137,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NTRS",
-    "Description": "Northern Trust Corp"
+    "Description": "Norrn Trust Corp"
   },
   {
     "Symbol": "NTRSP",
-    "Description": "Northern TR Dep Shs"
+    "Description": "Norrn TR Dep Shs"
   },
   {
     "Symbol": "NTWK",
@@ -8209,15 +8209,15 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "NVIV",
-    "Description": "Invivo Theraptc Cmn"
+    "Description": "Invivo raptc Cmn"
   },
   {
     "Symbol": "NVLN",
-    "Description": "Novelion Therapeutics Inc."
+    "Description": "Novelion rapeutics Inc."
   },
   {
     "Symbol": "NVLS",
-    "Description": "Nivalis Thera Cmn ST"
+    "Description": "Nivalis ra Cmn ST"
   },
   {
     "Symbol": "NVMI",
@@ -8325,7 +8325,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OBLN",
-    "Description": "Obalon Therapeutics Inc"
+    "Description": "Obalon rapeutics Inc"
   },
   {
     "Symbol": "OBSV",
@@ -8345,11 +8345,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OCRX",
-    "Description": "Ocera Therapeutics"
+    "Description": "Ocera rapeutics"
   },
   {
     "Symbol": "OCUL",
-    "Description": "Ocular Therapeut Cmn"
+    "Description": "Ocular rapeut Cmn"
   },
   {
     "Symbol": "ODFL",
@@ -8409,7 +8409,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OLD",
-    "Description": "The Long-Term Care ETF"
+    "Description": " Long-Term Care ETF"
   },
   {
     "Symbol": "OLED",
@@ -8449,7 +8449,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ONCE",
-    "Description": "Spark Therap Cmn"
+    "Description": "Spark rap Cmn"
   },
   {
     "Symbol": "ONCS",
@@ -8473,11 +8473,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ONTX",
-    "Description": "Onconova Therapeutic"
+    "Description": "Onconova rapeutic"
   },
   {
     "Symbol": "ONTXW",
-    "Description": "Onconova Therapeutics Inc"
+    "Description": "Onconova rapeutics Inc"
   },
   {
     "Symbol": "ONVI",
@@ -8521,11 +8521,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OPXA",
-    "Description": "Opexa Therapeutics"
+    "Description": "Opexa rapeutics"
   },
   {
     "Symbol": "OPXAW",
-    "Description": "Opexa Therap Warrant"
+    "Description": "Opexa rap Warrant"
   },
   {
     "Symbol": "ORBC",
@@ -8537,11 +8537,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OREX",
-    "Description": "Orexigen Therapeutic"
+    "Description": "Orexigen rapeutic"
   },
   {
     "Symbol": "ORG",
-    "Description": "The Organics ETF"
+    "Description": " Organics ETF"
   },
   {
     "Symbol": "ORIG",
@@ -8577,7 +8577,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OSIR",
-    "Description": "Osiris Therapeutics"
+    "Description": "Osiris rapeutics"
   },
   {
     "Symbol": "OSIS",
@@ -8661,7 +8661,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "OZRK",
-    "Description": "Bank of The Ozarks"
+    "Description": "Bank of  Ozarks"
   },
   {
     "Symbol": "PAAC",
@@ -8905,7 +8905,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PETX",
-    "Description": "Aratana Theraptcs Cmn"
+    "Description": "Aratana raptcs Cmn"
   },
   {
     "Symbol": "PEY",
@@ -9249,7 +9249,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PRQR",
-    "Description": "Proqr Therapeutics"
+    "Description": "Proqr rapeutics"
   },
   {
     "Symbol": "PRSC",
@@ -9261,7 +9261,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PRTA",
-    "Description": "Prothena Corp"
+    "Description": "Prona Corp"
   },
   {
     "Symbol": "PRTK",
@@ -9269,7 +9269,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PRTO",
-    "Description": "Proteon Thera Com ST"
+    "Description": "Proteon ra Com ST"
   },
   {
     "Symbol": "PRTS",
@@ -9357,7 +9357,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PSTI",
-    "Description": "Pluristem Therapeutc"
+    "Description": "Pluristem rapeutc"
   },
   {
     "Symbol": "PTC",
@@ -9365,7 +9365,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PTCT",
-    "Description": "Ptc Therapeutics Cmn"
+    "Description": "Ptc rapeutics Cmn"
   },
   {
     "Symbol": "PTEN",
@@ -9377,7 +9377,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PTGX",
-    "Description": "Protagonist Therapeutics Inc"
+    "Description": "Protagonist rapeutics Inc"
   },
   {
     "Symbol": "PTH",
@@ -9385,11 +9385,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PTI",
-    "Description": "Proteostasis Ther Cmn"
+    "Description": "Proteostasis r Cmn"
   },
   {
     "Symbol": "PTIE",
-    "Description": "Pain Therapeutics"
+    "Description": "Pain rapeutics"
   },
   {
     "Symbol": "PTLA",
@@ -9405,7 +9405,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "PTX",
-    "Description": "Pernix Theraptcs Cmn"
+    "Description": "Pernix raptcs Cmn"
   },
   {
     "Symbol": "PTXP",
@@ -9793,7 +9793,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "RGLS",
-    "Description": "Regulus Therapeutics"
+    "Description": "Regulus rapeutics"
   },
   {
     "Symbol": "RGNX",
@@ -9853,7 +9853,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "RMR",
-    "Description": "The Rmr Grp A Cmn"
+    "Description": " Rmr Grp A Cmn"
   },
   {
     "Symbol": "RMTI",
@@ -9929,7 +9929,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "RPRX",
-    "Description": "Repros Therapeutics"
+    "Description": "Repros rapeutics"
   },
   {
     "Symbol": "RPXC",
@@ -9993,7 +9993,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "RVNC",
-    "Description": "Revance Therapeutics"
+    "Description": "Revance rapeutics"
   },
   {
     "Symbol": "RVSB",
@@ -10037,7 +10037,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SAGE",
-    "Description": "Sage Therapeutic Com"
+    "Description": "Sage rapeutic Com"
   },
   {
     "Symbol": "SAIA",
@@ -10285,7 +10285,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SFST",
-    "Description": "Southern First Bancs"
+    "Description": "Sourn First Bancs"
   },
   {
     "Symbol": "SGBK",
@@ -10305,7 +10305,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SGMO",
-    "Description": "Sangamo Therapeutics"
+    "Description": "Sangamo rapeutics"
   },
   {
     "Symbol": "SGMS",
@@ -10485,7 +10485,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SLIM",
-    "Description": "The Obesity ETF"
+    "Description": " Obesity ETF"
   },
   {
     "Symbol": "SLM",
@@ -10517,7 +10517,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SMBC",
-    "Description": "Southern Mo Bancorp"
+    "Description": "Sourn Mo Bancorp"
   },
   {
     "Symbol": "SMBK",
@@ -10545,7 +10545,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SMMT",
-    "Description": "Summit Therapeu ADR"
+    "Description": "Summit rapeu ADR"
   },
   {
     "Symbol": "SMRT",
@@ -10649,7 +10649,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SNSR",
-    "Description": "Global X Internet of Things Thematic ETF"
+    "Description": "Global X Internet of Things matic ETF"
   },
   {
     "Symbol": "SNSS",
@@ -10669,15 +10669,15 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SOHO",
-    "Description": "Sotherly Hotels Cmn"
+    "Description": "Sorly Hotels Cmn"
   },
   {
     "Symbol": "SOHOB",
-    "Description": "Sotherly Hotels Inc. 8.0% Series B Cumulative Re"
+    "Description": "Sorly Hotels Inc. 8.0% Series B Cumulative Re"
   },
   {
     "Symbol": "SOHOM",
-    "Description": "Sotherly Htl 7 Sr Nt"
+    "Description": "Sorly Htl 7 Sr Nt"
   },
   {
     "Symbol": "SOHU",
@@ -10685,7 +10685,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SONA",
-    "Description": "Southern National Bk"
+    "Description": "Sourn National Bk"
   },
   {
     "Symbol": "SONC",
@@ -10829,11 +10829,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SRNE",
-    "Description": "Sorrento Therpt Cmn"
+    "Description": "Sorrento rpt Cmn"
   },
   {
     "Symbol": "SRPT",
-    "Description": "Sarepta Therapeutics"
+    "Description": "Sarepta rapeutics"
   },
   {
     "Symbol": "SRRA",
@@ -10917,7 +10917,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "STKS",
-    "Description": "The One Group Cmn"
+    "Description": " One Group Cmn"
   },
   {
     "Symbol": "STLD",
@@ -10941,7 +10941,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "STML",
-    "Description": "Stemline Therapeutic"
+    "Description": "Stemline rapeutic"
   },
   {
     "Symbol": "STMP",
@@ -11029,7 +11029,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "SYMX",
-    "Description": "Synthesis Energy Sys"
+    "Description": "Synsis Energy Sys"
   },
   {
     "Symbol": "SYNA",
@@ -11129,7 +11129,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TBBK",
-    "Description": "The Bancorp Inc"
+    "Description": " Bancorp Inc"
   },
   {
     "Symbol": "TBIO",
@@ -11145,7 +11145,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TBPH",
-    "Description": "Theravance Bio Ord"
+    "Description": "ravance Bio Ord"
   },
   {
     "Symbol": "TCBI",
@@ -11169,7 +11169,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TCFC",
-    "Description": "The Community Fin Cp"
+    "Description": " Community Fin Cp"
   },
   {
     "Symbol": "TCMD",
@@ -11217,7 +11217,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TENX",
-    "Description": "Tenax Therapeutics"
+    "Description": "Tenax rapeutics"
   },
   {
     "Symbol": "TERP",
@@ -11249,7 +11249,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TGTX",
-    "Description": "Tg Therapeuticscmn"
+    "Description": "Tg rapeuticscmn"
   },
   {
     "Symbol": "THFF",
@@ -11261,7 +11261,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "THRM",
-    "Description": "Gentherm Inc Cmn"
+    "Description": "Genrm Inc Cmn"
   },
   {
     "Symbol": "THST",
@@ -11309,7 +11309,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TLF",
-    "Description": "Tandy  Leather Fctry"
+    "Description": "Tandy  Lear Fctry"
   },
   {
     "Symbol": "TLGT",
@@ -11397,7 +11397,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TRIL",
-    "Description": "Trillium Therapeutic"
+    "Description": "Trillium rapeutic"
   },
   {
     "Symbol": "TRIP",
@@ -11493,7 +11493,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "TST",
-    "Description": "Thestreet Inc"
+    "Description": "street Inc"
   },
   {
     "Symbol": "TTD",
@@ -11809,7 +11809,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "UTHR",
-    "Description": "United Therapeutic"
+    "Description": "United rapeutic"
   },
   {
     "Symbol": "UTMD",
@@ -11961,11 +11961,11 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "VKTX",
-    "Description": "Viking Thera Cmn"
+    "Description": "Viking ra Cmn"
   },
   {
     "Symbol": "VKTXW",
-    "Description": "Viking Theraptcs Wts"
+    "Description": "Viking raptcs Wts"
   },
   {
     "Symbol": "VLGEA",
@@ -12101,7 +12101,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "VTGN",
-    "Description": "Vistagen Therap. Com"
+    "Description": "Vistagen rap. Com"
   },
   {
     "Symbol": "VTHR",
@@ -12113,7 +12113,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "VTL",
-    "Description": "Vital Therapies Inc"
+    "Description": "Vital rapies Inc"
   },
   {
     "Symbol": "VTNR",
@@ -12121,7 +12121,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "VTVT",
-    "Description": "Vtv Theraptcs Cl A"
+    "Description": "Vtv raptcs Cl A"
   },
   {
     "Symbol": "VTWG",
@@ -12165,7 +12165,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "VYGR",
-    "Description": "Voyager Therapeut Cmn"
+    "Description": "Voyager rapeut Cmn"
   },
   {
     "Symbol": "VYMI",
@@ -12325,7 +12325,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "WINT",
-    "Description": "Windtree Therapeutic"
+    "Description": "Windtree rapeutic"
   },
   {
     "Symbol": "WIRE",
@@ -12549,7 +12549,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "XONE",
-    "Description": "The Exone Company"
+    "Description": " Exone Company"
   },
   {
     "Symbol": "XPLR",
@@ -12673,7 +12673,7 @@ module.exports.nasdaq = [
   },
   {
     "Symbol": "ZLTQ",
-    "Description": "Zeltiq Aesthetics"
+    "Description": "Zeltiq Aestics"
   },
   {
     "Symbol": "ZN",

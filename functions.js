@@ -4,20 +4,12 @@ const findSymbol = require('./algorithms').findSymbol;
 
 
 
-exports.isTraded = function(tweet) {
+exports.isTraded = function(string) {
 
-  let tweets = tweet.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g,"").replace(/\s{2,}/g," ");
-  let Symbol = longestPhrase(tweets);
+  let Symbol = longestPhrase(string.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g,"").replace(/\s{2,}/g," "));
   
-  if (Symbol === 'blocked') {
-    return 'blocked'
-  };
-
-  try {
     return Symbol[0].Symbol;
-  } catch(error) {
-    return "Error 1";
-  }
+
 
 };
 

@@ -33,7 +33,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "AAN",
-    "Description": "Aaron&#39;s,  Inc."
+    "Description": "Aarons,  Inc."
   },
   {
     "Symbol": "ABB",
@@ -305,7 +305,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ALX",
-    "Description": "Alexander&#39;s, Inc."
+    "Description": "Alexanders, Inc."
   },
   {
     "Symbol": "ARE",
@@ -409,31 +409,31 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ALL",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^A",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^B",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^C",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^D",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^E",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALL^F",
-    "Description": "Allstate Corporation (The)"
+    "Description": "Allstate Corporation ()"
   },
   {
     "Symbol": "ALLY",
@@ -745,11 +745,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ANTM",
-    "Description": "Anthem, Inc."
+    "Description": "Anm, Inc."
   },
   {
     "Symbol": "ANTX",
-    "Description": "Anthem, Inc."
+    "Description": "Anm, Inc."
   },
   {
     "Symbol": "ANH",
@@ -1025,11 +1025,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "APB",
-    "Description": "Asia Pacific Fund, Inc. (The)"
+    "Description": "Asia Pacific Fund, Inc. ()"
   },
   {
     "Symbol": "GRR",
-    "Description": "Asia Tigers Fund, Inc. (The)"
+    "Description": "Asia Tigers Fund, Inc. ()"
   },
   {
     "Symbol": "ASPN",
@@ -1113,7 +1113,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ATH",
-    "Description": "Athene Holding Ltd."
+    "Description": "Ane Holding Ltd."
   },
   {
     "Symbol": "ATKR",
@@ -1397,19 +1397,19 @@ module.exports.nyse = [
   },
   {
     "Symbol": "NTB",
-    "Description": "Bank of N.T. Butterfield & Son Limited (The)"
+    "Description": "Bank of N.T. Butterfield & Son Limited ()"
   },
   {
     "Symbol": "BK",
-    "Description": "Bank Of New York Mellon Corporation (The)"
+    "Description": "Bank Of New York Mellon Corporation ()"
   },
   {
     "Symbol": "BK^C",
-    "Description": "Bank Of New York Mellon Corporation (The)"
+    "Description": "Bank Of New York Mellon Corporation ()"
   },
   {
     "Symbol": "BNS",
-    "Description": "Bank of Nova Scotia (The)"
+    "Description": "Bank of Nova Scotia ()"
   },
   {
     "Symbol": "RATE",
@@ -1677,7 +1677,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BKT",
-    "Description": "BlackRock Income Trust Inc. (The)"
+    "Description": "BlackRock Income Trust Inc. ()"
   },
   {
     "Symbol": "BGY",
@@ -1685,7 +1685,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BKN",
-    "Description": "BlackRock Investment Quality Municipal Trust Inc. (The)"
+    "Description": "BlackRock Investment Quality Municipal Trust Inc. ()"
   },
   {
     "Symbol": "BTA",
@@ -1733,7 +1733,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BTT",
-    "Description": "BlackRock Municipal Target Term Trust Inc. (The)"
+    "Description": "BlackRock Municipal Target Term Trust Inc. ()"
   },
   {
     "Symbol": "MEN",
@@ -1853,7 +1853,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BSD",
-    "Description": "BlackRock Strategic Municipal Trust Inc. (The)"
+    "Description": "BlackRock Strategic Municipal Trust Inc. ()"
   },
   {
     "Symbol": "BUI",
@@ -1889,7 +1889,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BA",
-    "Description": "Boeing Company (The)"
+    "Description": "Boeing Company ()"
   },
   {
     "Symbol": "BCC",
@@ -1913,7 +1913,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SAM",
-    "Description": "Boston Beer Company, Inc. (The)"
+    "Description": "Boston Beer Company, Inc. ()"
   },
   {
     "Symbol": "BXP",
@@ -1989,7 +1989,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BCO",
-    "Description": "Brink&#39;s Company (The)"
+    "Description": "Brinks Company ()"
   },
   {
     "Symbol": "BMY",
@@ -2077,7 +2077,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BKE",
-    "Description": "Buckle, Inc. (The)"
+    "Description": "Buckle, Inc. ()"
   },
   {
     "Symbol": "BVN",
@@ -2113,7 +2113,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CAB",
-    "Description": "Cabela&#39;s Inc"
+    "Description": "Cabelas Inc"
   },
   {
     "Symbol": "CABO",
@@ -2317,7 +2317,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CRI",
-    "Description": "Carter&#39;s, Inc."
+    "Description": "Carters, Inc."
   },
   {
     "Symbol": "CSLT",
@@ -2337,7 +2337,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CATO",
-    "Description": "Cato Corporation (The)"
+    "Description": "Cato Corporation ()"
   },
   {
     "Symbol": "CBZ",
@@ -2453,7 +2453,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CEE",
-    "Description": "Central Europe, Russia and Turkey Fund, Inc. (The)"
+    "Description": "Central Europe, Russia and Turkey Fund, Inc. ()"
   },
   {
     "Symbol": "CCS",
@@ -2505,7 +2505,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CC",
-    "Description": "Chemours Company (The)"
+    "Description": "Chemours Company ()"
   },
   {
     "Symbol": "CHMT",
@@ -2549,7 +2549,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CHS",
-    "Description": "Chico&#39;s FAS, Inc."
+    "Description": "Chicos FAS, Inc."
   },
   {
     "Symbol": "CIM",
@@ -2577,7 +2577,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CHN",
-    "Description": "China Fund, Inc. (The)"
+    "Description": "China Fund, Inc. ()"
   },
   {
     "Symbol": "CGA",
@@ -2605,7 +2605,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ZNH",
-    "Description": "China Southern Airlines Company Limited"
+    "Description": "China Sourn Airlines Company Limited"
   },
   {
     "Symbol": "CHA",
@@ -2793,7 +2793,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "CLX",
-    "Description": "Clorox Company (The)"
+    "Description": "Clorox Company ()"
   },
   {
     "Symbol": "CLD",
@@ -2845,7 +2845,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "KO",
-    "Description": "Coca-Cola Company (The)"
+    "Description": "Coca-Cola Company ()"
   },
   {
     "Symbol": "CCE",
@@ -3093,7 +3093,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TCS",
-    "Description": "Container Store (The)"
+    "Description": "Container Store ()"
   },
   {
     "Symbol": "CBPX",
@@ -3113,7 +3113,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "COO",
-    "Description": "Cooper Companies, Inc. (The)"
+    "Description": "Cooper Companies, Inc. ()"
   },
   {
     "Symbol": "CTB",
@@ -3321,11 +3321,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SRF",
-    "Description": "Cushing Energy Income Fund (The)"
+    "Description": "Cushing Energy Income Fund ()"
   },
   {
     "Symbol": "SZC",
-    "Description": "Cushing Renaissance Fund (The)"
+    "Description": "Cushing Renaissance Fund ()"
   },
   {
     "Symbol": "CUBI",
@@ -3549,7 +3549,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DKS",
-    "Description": "Dick&#39;s Sporting Goods Inc"
+    "Description": "Dicks Sporting Goods Inc"
   },
   {
     "Symbol": "DBD",
@@ -3581,11 +3581,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DDS",
-    "Description": "Dillard&#39;s, Inc."
+    "Description": "Dillards, Inc."
   },
   {
     "Symbol": "DDT",
-    "Description": "Dillard&#39;s, Inc."
+    "Description": "Dillards, Inc."
   },
   {
     "Symbol": "DIN",
@@ -3645,7 +3645,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DPZ",
-    "Description": "Domino&#39;s Pizza Inc"
+    "Description": "Dominos Pizza Inc"
   },
   {
     "Symbol": "UFS",
@@ -3693,7 +3693,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DOW",
-    "Description": "Dow Chemical Company (The)"
+    "Description": "Dow Chemical Company ()"
   },
   {
     "Symbol": "DPS",
@@ -3701,7 +3701,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "RDY",
-    "Description": "Dr. Reddy&#39;s Laboratories Ltd"
+    "Description": "Dr. Reddys Laboratories Ltd"
   },
   {
     "Symbol": "DRD",
@@ -3809,7 +3809,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DNB",
-    "Description": "Dun & Bradstreet Corporation (The)"
+    "Description": "Dun & Bradstreet Corporation ()"
   },
   {
     "Symbol": "DFT",
@@ -3881,7 +3881,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SSP",
-    "Description": "E.W. Scripps Company (The)"
+    "Description": "E.W. Scripps Company ()"
   },
   {
     "Symbol": "EGIF",
@@ -4405,7 +4405,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "EL",
-    "Description": "Estee Lauder Companies, Inc. (The)"
+    "Description": "Estee Lauder Companies, Inc. ()"
   },
   {
     "Symbol": "ESL",
@@ -4421,7 +4421,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "EEA",
-    "Description": "European Equity Fund, Inc. (The)"
+    "Description": "European Equity Fund, Inc. ()"
   },
   {
     "Symbol": "EVER",
@@ -4637,7 +4637,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "FAF",
-    "Description": "First American Corporation (The)"
+    "Description": "First American Corporation ()"
   },
   {
     "Symbol": "FBP",
@@ -4909,7 +4909,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "FI",
-    "Description": "Frank&#39;s International N.V."
+    "Description": "Franks International N.V."
   },
   {
     "Symbol": "FCX",
@@ -4941,11 +4941,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GCV",
-    "Description": "Gabelli Convertible and Income Securities Fund, Inc. (The)"
+    "Description": "Gabelli Convertible and Income Securities Fund, Inc. ()"
   },
   {
     "Symbol": "GCV^B",
-    "Description": "Gabelli Convertible and Income Securities Fund, Inc. (The)"
+    "Description": "Gabelli Convertible and Income Securities Fund, Inc. ()"
   },
   {
     "Symbol": "GDV",
@@ -4965,51 +4965,51 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GAB",
-    "Description": "Gabelli Equity Trust, Inc. (The)"
+    "Description": "Gabelli Equity Trust, Inc. ()"
   },
   {
     "Symbol": "GAB^D",
-    "Description": "Gabelli Equity Trust, Inc. (The)"
+    "Description": "Gabelli Equity Trust, Inc. ()"
   },
   {
     "Symbol": "GAB^G",
-    "Description": "Gabelli Equity Trust, Inc. (The)"
+    "Description": "Gabelli Equity Trust, Inc. ()"
   },
   {
     "Symbol": "GAB^H",
-    "Description": "Gabelli Equity Trust, Inc. (The)"
+    "Description": "Gabelli Equity Trust, Inc. ()"
   },
   {
     "Symbol": "GAB^J",
-    "Description": "Gabelli Equity Trust, Inc. (The)"
+    "Description": "Gabelli Equity Trust, Inc. ()"
   },
   {
     "Symbol": "GGZ",
-    "Description": "Gabelli Global Small and Mid Cap Value Trust (The)"
+    "Description": "Gabelli Global Small and Mid Cap Value Trust ()"
   },
   {
     "Symbol": "GGZ^A",
-    "Description": "Gabelli Global Small and Mid Cap Value Trust (The)"
+    "Description": "Gabelli Global Small and Mid Cap Value Trust ()"
   },
   {
     "Symbol": "GGT",
-    "Description": "Gabelli Multi-Media Trust Inc. (The)"
+    "Description": "Gabelli Multi-Media Trust Inc. ()"
   },
   {
     "Symbol": "GGT^B",
-    "Description": "Gabelli Multi-Media Trust Inc. (The)"
+    "Description": "Gabelli Multi-Media Trust Inc. ()"
   },
   {
     "Symbol": "GUT",
-    "Description": "Gabelli Utility Trust (The)"
+    "Description": "Gabelli Utility Trust ()"
   },
   {
     "Symbol": "GUT^A",
-    "Description": "Gabelli Utility Trust (The)"
+    "Description": "Gabelli Utility Trust ()"
   },
   {
     "Symbol": "GUT^C",
-    "Description": "Gabelli Utility Trust (The)"
+    "Description": "Gabelli Utility Trust ()"
   },
   {
     "Symbol": "GFA",
@@ -5033,7 +5033,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GPS",
-    "Description": "Gap, Inc. (The)"
+    "Description": "Gap, Inc. ()"
   },
   {
     "Symbol": "IT",
@@ -5161,7 +5161,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GEO",
-    "Description": "Geo Group Inc (The)"
+    "Description": "Geo Group Inc ()"
   },
   {
     "Symbol": "GPRK",
@@ -5273,39 +5273,39 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GS",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^A",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^B",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^C",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^D",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^I",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^J",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^K",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GS^N",
-    "Description": "Goldman Sachs Group, Inc. (The)"
+    "Description": "Goldman Sachs Group, Inc. ()"
   },
   {
     "Symbol": "GER",
@@ -5385,7 +5385,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GBX",
-    "Description": "Greenbrier Companies, Inc. (The)"
+    "Description": "Greenbrier Companies, Inc. ()"
   },
   {
     "Symbol": "GHL",
@@ -5541,15 +5541,15 @@ module.exports.nyse = [
   },
   {
     "Symbol": "HGH",
-    "Description": "Hartford Financial Services Group, Inc. (The)"
+    "Description": "Hartford Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "HIG",
-    "Description": "Hartford Financial Services Group, Inc. (The)"
+    "Description": "Hartford Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "HIG.WS",
-    "Description": "Hartford Financial Services Group, Inc. (The)"
+    "Description": "Hartford Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "HNR",
@@ -5677,7 +5677,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "HSY",
-    "Description": "Hershey Company (The)"
+    "Description": "Hershey Company ()"
   },
   {
     "Symbol": "HTZ",
@@ -5761,7 +5761,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "HD",
-    "Description": "Home Depot, Inc. (The)"
+    "Description": "Home Depot, Inc. ()"
   },
   {
     "Symbol": "HMC",
@@ -5805,7 +5805,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "HHC",
-    "Description": "Howard Hughes Corporation (The)"
+    "Description": "Howard Hughes Corporation ()"
   },
   {
     "Symbol": "HPQ",
@@ -5925,7 +5925,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "IFN",
-    "Description": "India Fund, Inc. (The)"
+    "Description": "India Fund, Inc. ()"
   },
   {
     "Symbol": "IBA",
@@ -6037,7 +6037,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "IPG",
-    "Description": "Interpublic Group of Companies, Inc. (The)"
+    "Description": "Interpublic Group of Companies, Inc. ()"
   },
   {
     "Symbol": "IPL^D",
@@ -6253,7 +6253,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "JAX",
-    "Description": "J. Alexander&#39;s Holdings, Inc."
+    "Description": "J. Alexanders Holdings, Inc."
   },
   {
     "Symbol": "JCP",
@@ -6261,7 +6261,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SJM",
-    "Description": "J.M. Smucker Company (The)"
+    "Description": "J.M. Smucker Company ()"
   },
   {
     "Symbol": "JBL",
@@ -6425,11 +6425,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "KSU",
-    "Description": "Kansas City Southern"
+    "Description": "Kansas City Sourn"
   },
   {
     "Symbol": "KSU^",
-    "Description": "Kansas City Southern"
+    "Description": "Kansas City Sourn"
   },
   {
     "Symbol": "KS",
@@ -6657,7 +6657,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "KSS",
-    "Description": "Kohl&#39;s Corporation"
+    "Description": "Kohls Corporation"
   },
   {
     "Symbol": "PHG",
@@ -6677,7 +6677,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "KF",
-    "Description": "Korea Fund, Inc. (The)"
+    "Description": "Korea Fund, Inc. ()"
   },
   {
     "Symbol": "KFY",
@@ -6693,7 +6693,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "KR",
-    "Description": "Kroger Company (The)"
+    "Description": "Kroger Company ()"
   },
   {
     "Symbol": "KRO",
@@ -6713,7 +6713,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SCX",
-    "Description": "L.S. Starrett Company (The)"
+    "Description": "L.S. Starrett Company ()"
   },
   {
     "Symbol": "LLL",
@@ -6773,7 +6773,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "LDF",
-    "Description": "Latin American Discovery Fund, Inc. (The)"
+    "Description": "Latin American Discovery Fund, Inc. ()"
   },
   {
     "Symbol": "LGI",
@@ -6913,7 +6913,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "LITB",
-    "Description": "LightInTheBox Holding Co., Ltd."
+    "Description": "LightInBox Holding Co., Ltd."
   },
   {
     "Symbol": "LNC",
@@ -6969,7 +6969,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "LOW",
-    "Description": "Lowe&#39;s Companies, Inc."
+    "Description": "Lowes Companies, Inc."
   },
   {
     "Symbol": "LXU",
@@ -6985,7 +6985,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "LUB",
-    "Description": "Luby&#39;s, Inc."
+    "Description": "Lubys, Inc."
   },
   {
     "Symbol": "LL",
@@ -7045,7 +7045,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MAC",
-    "Description": "Macerich Company (The)"
+    "Description": "Macerich Company ()"
   },
   {
     "Symbol": "CLI",
@@ -7069,7 +7069,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "M",
-    "Description": "Macy&#39;s Inc"
+    "Description": "Macys Inc"
   },
   {
     "Symbol": "MCN",
@@ -7137,7 +7137,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MTW",
-    "Description": "Manitowoc Company, Inc. (The)"
+    "Description": "Manitowoc Company, Inc. ()"
   },
   {
     "Symbol": "MFS",
@@ -7169,7 +7169,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MCS",
-    "Description": "Marcus Corporation (The)"
+    "Description": "Marcus Corporation ()"
   },
   {
     "Symbol": "MRIN",
@@ -7249,7 +7249,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MNI",
-    "Description": "McClatchy Company (The)"
+    "Description": "McClatchy Company ()"
   },
   {
     "Symbol": "MKC",
@@ -7265,7 +7265,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MCD",
-    "Description": "McDonald&#39;s Corporation"
+    "Description": "McDonalds Corporation"
   },
   {
     "Symbol": "MUX",
@@ -7401,11 +7401,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MXE",
-    "Description": "Mexico Equity and Income Fund, Inc. (The)"
+    "Description": "Mexico Equity and Income Fund, Inc. ()"
   },
   {
     "Symbol": "MXF",
-    "Description": "Mexico Fund, Inc. (The)"
+    "Description": "Mexico Fund, Inc. ()"
   },
   {
     "Symbol": "MFA",
@@ -7573,7 +7573,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MCO",
-    "Description": "Moody&#39;s Corporation"
+    "Description": "Moodys Corporation"
   },
   {
     "Symbol": "MOG.A",
@@ -7637,7 +7637,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "MOS",
-    "Description": "Mosaic Company (The)"
+    "Description": "Mosaic Company ()"
   },
   {
     "Symbol": "MSI",
@@ -7825,7 +7825,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "NLS",
-    "Description": "Nautilus Group, Inc. (The)"
+    "Description": "Nautilus Group, Inc. ()"
   },
   {
     "Symbol": "NCI",
@@ -7901,19 +7901,19 @@ module.exports.nyse = [
   },
   {
     "Symbol": "HYB",
-    "Description": "New America High Income Fund, Inc. (The)"
+    "Description": "New America High Income Fund, Inc. ()"
   },
   {
     "Symbol": "GF",
-    "Description": "New Germany Fund, Inc. (The)"
+    "Description": "New Germany Fund, Inc. ()"
   },
   {
     "Symbol": "NWHM",
-    "Description": "New Home Company Inc. (The)"
+    "Description": "New Home Company Inc. ()"
   },
   {
     "Symbol": "IRL",
-    "Description": "New Ireland Fund, Inc. (The)"
+    "Description": "New Ireland Fund, Inc. ()"
   },
   {
     "Symbol": "NEWM",
@@ -7957,7 +7957,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "NYT",
-    "Description": "New York Times Company (The)"
+    "Description": "New York Times Company ()"
   },
   {
     "Symbol": "NWL",
@@ -8113,7 +8113,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "NSC",
-    "Description": "Norfolk Souther Corporation"
+    "Description": "Norfolk Sour Corporation"
   },
   {
     "Symbol": "NTL",
@@ -8777,7 +8777,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "PTHN",
-    "Description": "Patheon N.V."
+    "Description": "Paon N.V."
   },
   {
     "Symbol": "PN",
@@ -9105,19 +9105,19 @@ module.exports.nyse = [
   },
   {
     "Symbol": "PNC",
-    "Description": "PNC Financial Services Group, Inc. (The)"
+    "Description": "PNC Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "PNC.WS",
-    "Description": "PNC Financial Services Group, Inc. (The)"
+    "Description": "PNC Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "PNC^P",
-    "Description": "PNC Financial Services Group, Inc. (The)"
+    "Description": "PNC Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "PNC^Q",
-    "Description": "PNC Financial Services Group, Inc. (The)"
+    "Description": "PNC Financial Services Group, Inc. ()"
   },
   {
     "Symbol": "PNM",
@@ -9213,11 +9213,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "PG",
-    "Description": "Procter & Gamble Company (The)"
+    "Description": "Procter & Gamble Company ()"
   },
   {
     "Symbol": "PGR",
-    "Description": "Progressive Corporation (The)"
+    "Description": "Progressive Corporation ()"
   },
   {
     "Symbol": "PLD",
@@ -9561,7 +9561,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "RTN",
-    "Description": "Raytheon Company"
+    "Description": "Rayon Company"
   },
   {
     "Symbol": "RMAX",
@@ -9853,23 +9853,23 @@ module.exports.nyse = [
   },
   {
     "Symbol": "RBS",
-    "Description": "Royal Bank Scotland plc (The)"
+    "Description": "Royal Bank Scotland plc ()"
   },
   {
     "Symbol": "RBS^F",
-    "Description": "Royal Bank Scotland plc (The)"
+    "Description": "Royal Bank Scotland plc ()"
   },
   {
     "Symbol": "RBS^H",
-    "Description": "Royal Bank Scotland plc (The)"
+    "Description": "Royal Bank Scotland plc ()"
   },
   {
     "Symbol": "RBS^L",
-    "Description": "Royal Bank Scotland plc (The)"
+    "Description": "Royal Bank Scotland plc ()"
   },
   {
     "Symbol": "RBS^S",
-    "Description": "Royal Bank Scotland plc (The)"
+    "Description": "Royal Bank Scotland plc ()"
   },
   {
     "Symbol": "RCL",
@@ -10065,7 +10065,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SMG",
-    "Description": "Scotts Miracle-Gro Company (The)"
+    "Description": "Scotts Miracle-Gro Company ()"
   },
   {
     "Symbol": "LBF",
@@ -10205,7 +10205,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SHW",
-    "Description": "Sherwin-Williams Company (The)"
+    "Description": "Sherwin-Williams Company ()"
   },
   {
     "Symbol": "SHG",
@@ -10329,7 +10329,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "BID",
-    "Description": "Sotheby&#39;s"
+    "Description": "Sobys"
   },
   {
     "Symbol": "SOR",
@@ -10345,39 +10345,39 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SCE^F",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^G",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^H",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^J",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SCE^K",
-    "Description": "Southern California Edison Company"
+    "Description": "Sourn California Edison Company"
   },
   {
     "Symbol": "SO",
-    "Description": "Southern Company (The)"
+    "Description": "Sourn Company ()"
   },
   {
     "Symbol": "SOJA",
-    "Description": "Southern Company (The)"
+    "Description": "Sourn Company ()"
   },
   {
     "Symbol": "SOJB",
-    "Description": "Southern Company (The)"
+    "Description": "Sourn Company ()"
   },
   {
     "Symbol": "SCCO",
-    "Description": "Southern Copper Corporation"
+    "Description": "Sourn Copper Corporation"
   },
   {
     "Symbol": "LUV",
@@ -10461,7 +10461,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "JOE",
-    "Description": "St. Joe Company (The)"
+    "Description": "St. Joe Company ()"
   },
   {
     "Symbol": "STAG",
@@ -10741,7 +10741,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SLD",
-    "Description": "Sutherland Asset Management Corporation"
+    "Description": "Surland Asset Management Corporation"
   },
   {
     "Symbol": "SWFT",
@@ -10749,7 +10749,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "SWZ",
-    "Description": "Swiss Helvetia Fund, Inc. (The)"
+    "Description": "Swiss Helvetia Fund, Inc. ()"
   },
   {
     "Symbol": "SYF",
@@ -10773,19 +10773,19 @@ module.exports.nyse = [
   },
   {
     "Symbol": "GJP",
-    "Description": "Synthetic Fixed-Income Securities, Inc."
+    "Description": "Syntic Fixed-Income Securities, Inc."
   },
   {
     "Symbol": "GJR",
-    "Description": "Synthetic Fixed-Income Securities, Inc."
+    "Description": "Syntic Fixed-Income Securities, Inc."
   },
   {
     "Symbol": "GJT",
-    "Description": "Synthetic Fixed-Income Securities, Inc."
+    "Description": "Syntic Fixed-Income Securities, Inc."
   },
   {
     "Symbol": "GJV",
-    "Description": "Synthetic Fixed-Income Securities, Inc."
+    "Description": "Syntic Fixed-Income Securities, Inc."
   },
   {
     "Symbol": "SYY",
@@ -10809,7 +10809,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TWN",
-    "Description": "Taiwan Fund, Inc. (The)"
+    "Description": "Taiwan Fund, Inc. ()"
   },
   {
     "Symbol": "TSM",
@@ -11121,83 +11121,83 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TTF",
-    "Description": "Thai Fund, Inc. (The)"
+    "Description": "Thai Fund, Inc. ()"
   },
   {
     "Symbol": "AES",
-    "Description": "The AES Corporation"
+    "Description": " AES Corporation"
   },
   {
     "Symbol": "AES^C",
-    "Description": "The AES Corporation"
+    "Description": " AES Corporation"
   },
   {
     "Symbol": "BX",
-    "Description": "The Blackstone Group L.P."
+    "Description": " Blackstone Group L.P."
   },
   {
     "Symbol": "SCHW",
-    "Description": "The Charles Schwab Corporation"
+    "Description": " Charles Schwab Corporation"
   },
   {
     "Symbol": "SCHW^B",
-    "Description": "The Charles Schwab Corporation"
+    "Description": " Charles Schwab Corporation"
   },
   {
     "Symbol": "SCHW^C",
-    "Description": "The Charles Schwab Corporation"
+    "Description": " Charles Schwab Corporation"
   },
   {
     "Symbol": "SCHW^D",
-    "Description": "The Charles Schwab Corporation"
+    "Description": " Charles Schwab Corporation"
   },
   {
     "Symbol": "SRV",
-    "Description": "The Cushing MLP Total Return Fund"
+    "Description": " Cushing MLP Total Return Fund"
   },
   {
     "Symbol": "GRX",
-    "Description": "The Gabelli Healthcare & Wellness Trust"
+    "Description": " Gabelli Healthcare & Wellness Trust"
   },
   {
     "Symbol": "GRX^A",
-    "Description": "The Gabelli Healthcare & Wellness Trust"
+    "Description": " Gabelli Healthcare & Wellness Trust"
   },
   {
     "Symbol": "GRX^B",
-    "Description": "The Gabelli Healthcare & Wellness Trust"
+    "Description": " Gabelli Healthcare & Wellness Trust"
   },
   {
     "Symbol": "GDL",
-    "Description": "The GDL Fund"
+    "Description": " GDL Fund"
   },
   {
     "Symbol": "GDL^B",
-    "Description": "The GDL Fund"
+    "Description": " GDL Fund"
   },
   {
     "Symbol": "THG",
-    "Description": "The Hanover Insurance Group, Inc."
+    "Description": " Hanover Insurance Group, Inc."
   },
   {
     "Symbol": "THGA",
-    "Description": "The Hanover Insurance Group, Inc."
+    "Description": " Hanover Insurance Group, Inc."
   },
   {
     "Symbol": "RUBI",
-    "Description": "The Rubicon Project, Inc."
+    "Description": " Rubicon Project, Inc."
   },
   {
     "Symbol": "TRV",
-    "Description": "The Travelers Companies, Inc."
+    "Description": " Travelers Companies, Inc."
   },
   {
     "Symbol": "TMO",
-    "Description": "Thermo Fisher Scientific Inc"
+    "Description": "rmo Fisher Scientific Inc"
   },
   {
     "Symbol": "THR",
-    "Description": "Thermon Group Holdings, Inc."
+    "Description": "rmon Group Holdings, Inc."
   },
   {
     "Symbol": "TPRE",
@@ -11237,7 +11237,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TLYS",
-    "Description": "Tilly&#39;s, Inc."
+    "Description": "Tillys, Inc."
   },
   {
     "Symbol": "TSU",
@@ -11253,7 +11253,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TKR",
-    "Description": "Timken Company (The)"
+    "Description": "Timken Company ()"
   },
   {
     "Symbol": "TMST",
@@ -11265,11 +11265,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TJX",
-    "Description": "TJX Companies, Inc. (The)"
+    "Description": "TJX Companies, Inc. ()"
   },
   {
     "Symbol": "TOL",
-    "Description": "Toll Brothers Inc."
+    "Description": "Toll Brors Inc."
   },
   {
     "Symbol": "TR",
@@ -11293,11 +11293,11 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TTC",
-    "Description": "Toro Company (The)"
+    "Description": "Toro Company ()"
   },
   {
     "Symbol": "TD",
-    "Description": "Toronto Dominion Bank (The)"
+    "Description": "Toronto Dominion Bank ()"
   },
   {
     "Symbol": "NDP",
@@ -11501,7 +11501,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "TKF",
-    "Description": "Turkish Investment Fund, Inc. (The)"
+    "Description": "Turkish Investment Fund, Inc. ()"
   },
   {
     "Symbol": "TPB",
@@ -11565,7 +11565,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "USPH",
-    "Description": "U.S. Physical Therapy, Inc."
+    "Description": "U.S. Physical rapy, Inc."
   },
   {
     "Symbol": "SLCA",
@@ -11825,7 +11825,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "VAL",
-    "Description": "Valspar Corporation (The)"
+    "Description": "Valspar Corporation ()"
   },
   {
     "Symbol": "VVV",
@@ -12101,7 +12101,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "DIS",
-    "Description": "Walt Disney Company (The)"
+    "Description": "Walt Disney Company ()"
   },
   {
     "Symbol": "WAC",
@@ -12157,7 +12157,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "WFT",
-    "Description": "Weatherford International plc"
+    "Description": "Wearford International plc"
   },
   {
     "Symbol": "WBS",
@@ -12373,7 +12373,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "WU",
-    "Description": "Western Union Company (The)"
+    "Description": "Western Union Company ()"
   },
   {
     "Symbol": "WAB",
@@ -12429,7 +12429,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "WWAV",
-    "Description": "Whitewave Foods Company (The)"
+    "Description": "Whitewave Foods Company ()"
   },
   {
     "Symbol": "WLL",
@@ -12445,7 +12445,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "WMB",
-    "Description": "Williams Companies, Inc. (The)"
+    "Description": "Williams Companies, Inc. ()"
   },
   {
     "Symbol": "WPZ",
@@ -12629,7 +12629,7 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ZOES",
-    "Description": "Zoe&#39;s Kitchen, Inc."
+    "Description": "Zoes Kitchen, Inc."
   },
   {
     "Symbol": "ZTS",
@@ -12641,6 +12641,6 @@ module.exports.nyse = [
   },
   {
     "Symbol": "ZF",
-    "Description": "Zweig Fund, Inc. (The)"
+    "Description": "Zweig Fund, Inc. ()"
   }
 ]

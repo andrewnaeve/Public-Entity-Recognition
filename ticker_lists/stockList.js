@@ -2429,7 +2429,7 @@ module.exports.stockList = [
   },
   {
     "Symbol": "BA",
-    "Description": "Boeing Company "
+    "Description": "Boeing Company" 
   },
   {
     "Symbol": "BAA",
