@@ -1,7 +1,8 @@
-const per = require("./functions").per;
+const longestPhrase = require("./algorithms").longestPhrase;
 
-const mainExport = {
-	per: per(string)
+exports.per = function(string) {
+
+	let Symbol = longestPhrase(string.trim().replace(/[.,\/#!@$%\^&\*;:{}=\-_`~()]/g,"").replace(/\s{2,}/g," "));
+	return Symbol[0].Symbol;
+
 };
-
-module.exports = mainExport;
