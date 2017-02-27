@@ -30,6 +30,10 @@
     "validate-commit-msg": "2.6.1",
     "webpack": "1.13.1"
   },
+    "engines": {
+    "node": "6.x",
+    "npm": "3.x"
+  },
   "nyc": {
     "all": true,
     "check-coverage": true,
