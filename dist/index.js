@@ -1,10 +1,12 @@
 "use strict";
 
-var longestPhrase = require("../algorithms").stocks;
 var stockList = require("./ticker_lists/stockList").stockList;
-var isTraded = require("./functions").isTraded;
+var per = require("./functions").per;
 
-module.exports = {
+var mainExport = {
 	all: stockList,
-	stocks: isTraded(string)
+	per: per(string),
+	longestPhrase: longestPhrase(string)
 };
+
+module.exports = mainExport;

@@ -1,8 +1,10 @@
-const longestPhrase = require("../algorithms").stocks;
 const stockList = require("./ticker_lists/stockList").stockList;
-const isTraded = require("./functions").isTraded;
+const per = require("./functions").per;
 
-module.exports = {
+const mainExport = {
 	all: stockList,
-	stocks: isTraded(string)
+	per: per(string),
+	longestPhrase: longestPhrase(string)
 };
+
+module.exports = mainExport;
