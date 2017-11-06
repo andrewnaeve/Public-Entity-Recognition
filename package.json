@@ -1,6 +1,6 @@
 {
 	"name": "public-entity-recognition",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description":
 		"Public-Entity-Recognition is an NPM package for publicly traded, named-entity-recognition. It extracts the most relevant mention of a publicly traded company and returns the ticker symbol, description, and relevance score.",
 	"main": "dist/index.js",
